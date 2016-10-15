@@ -21,6 +21,7 @@ print(soup.head())
 
 for li in soup.find_all('li'):
 	if(RepresentsInt(li.get_text()[0:4])):
-		for link in li.find_all('a'):
-			if(link.get_text()[0:1]!='['):
-				print(link.get('href'))
+		if(li.get_text()[0:4]>=2006):
+			for link in li.find_all('a'):
+				if(link.get_text()[0:1]!='['):
+					print(link.get('href'))
