@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-
+#test comment
 import requests
 # import pandas as pd 
 import numpy as np
@@ -46,4 +46,8 @@ print(np_arr)
 fileobj = open('test.csv', mode='wb')
 for obj in np_arr:
 	fileobj.write(obj + '\n')
-# np_arr.tofile(fileobj, sep="\n" , format="%s")
+
+
+
+# remove these
+# protest, unrest, riot, uprising
