@@ -1,0 +1,203 @@
+Karaganda - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Karaganda","wgTitle":"Karaganda","wgCurRevisionId":745493684,"wgRevisionId":745493684,"wgArticleId":267899,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Russian-language sources (ru)","Articles with Kazakh-language external links","Coordinates on Wikidata","Articles containing Kazakh-language text","Articles containing Russian-language text","All articles with failed verification","Articles with failed verification from September 2013","Commons category with local link same as on Wikidata","Karaganda","Populated places in Karaganda Region","Cities in Central Asia","Populated places established in 1931","1931 establishments in the Soviet Union"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Karaganda","wgRelevantArticleId":267899,"wgRequestId":"WAprcApAAEIAAbXawbUAAAAY","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":49.833333333333,"lon":73.166666666667},"wgWikibaseItemId":"Q484706","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Karaganda From Wikipedia, the free encyclopedia Jump to: navigation , search Karaganda 
+
+Қарағанды (Kazakh) City Karagandy Statue of Nurken Abdirov in Karaganda 
+
+Seal Karaganda Location in Kazakhstan Coordinates: 49°50′0″N 73°10′0″E ﻿ / ﻿ 49.83333°N 73.16667°E ﻿ / 49.83333; 73.16667 Coordinates : 49°50′0″N 73°10′0″E ﻿ / ﻿ 49.83333°N 73.16667°E ﻿ / 49.83333; 73.16667 Country Kazakhstan Region Karaganda Region Founded 1931 Government • Akim ( mayor ) Nurlan Aubakirov Area • Total 497.8 km 2 (192.2 sq mi) Elevation 546 m (1,791 ft) Population (1 January 2010) • Total 459,778 • Density 920/km 2 (2,400/sq mi) Time zone ALMT ( UTC+6 ) Postal code 100000 - 100030 Area code(s) +7 7212 Vehicle registration M and 09 (region) Website karaganda-akimat .gov .kz 
+
+Karaganda or Qaraghandy ( Kazakh : Қарағанды /Qarağandı/قاراعاندى [qɑɾɑˈʁɑndə] ( listen ) ), more commonly known by its Russian name Karaganda ( Russian : Караганда , until 1993), is the capital of Karaganda Region in Kazakhstan . It is the fourth most populous city in Kazakhstan, behind Almaty (Alma-Ata), Astana and Shymkent . Population: 459,778 (2009 Census results); [1] 436,864 (1999 Census results). [1] 
+
+In 1940, up to 70% of the city's inhabitants were ethnic Germans . Most of the ethnic Germans were Soviet Volga Germans who were collectively deported to Siberia and Kazakhstan on Stalin 's order when Hitler invaded Soviet-annexed eastern Poland and the Soviet Union proper in 1941. Until the 1950s, many of these deportees were interned in labor camps, often simply because they were of German descent. 
+
+The population of Karaganda fell by 14% from 1989-1999 following the dissolution of the Soviet Union; it was once Kazakhstan's second-largest city after Almaty. One hundred thousand people have since emigrated to Germany . There is also a concentration of ethnic Poles in the city. 
+
+This is the home city of Kazakh World War II hero Nurken Abdirov . A statue in Abdirov's honor is located in the center of the city. 
+
+Karaganda is located 200 km South-East from Kazakhstan's capital Astana. 
+
+Contents 1 History 1.1 EMP 2 Climate 3 Industry 4 Culture 4.1 Theater 4.2 Sports 4.3 Other 4.4 Religion 4.5 Other 5 Transport 6 Notable residents 7 Sister cities 8 See also 9 References 10 External links 
+
+History [ edit ] 
+
+The name "Karaganda" is derived from " caragana " bushes ( Caragana arborescens , Caragana frutex ), which are abundant in the area. 
+
+The original site of Karaganda is now labeled on city maps as the "Old Town", but almost nothing remains on that site. In exploiting the rich coal deposits of the area, the Soviets undermined the entire city. 
+
+This area was abandoned. The city was relocated to the south, where it was rebuilt. 
+
+In the early 1990s, Karaganda was briefly considered as a candidate for the capital of the (then) newly independent Republic of Kazakhstan, but its bid was turned down in favour of Astana . EMP [ edit ] Nurken Abdirov Street at the corner of Gogol Street. 
+
+Karagandy suffered the most severe electromagnetic pulse effects ever observed when its electrical power plant was set on fire by currents induced in a 1,000 km (620 mi) long shallow buried power cable by Soviet Test ‘184’ on 22 October 1962. The test was part of the Soviet Project K nuclear tests ( ABM System A proof tests), and consisted of a 300- kiloton high-altitude nuclear explosion at an altitude of 290 km (180 mi) over Zhezkazgan . 
+
+Prompt gamma ray -produced EMP induced a current of 2,500 amps measured by spark gaps in a 570 km (350 mi) stretch of overhead telephone line to Zharyq, blowing all the protective fuses . The late-time MHD -EMP was of low enough frequency to enable it to penetrate 90 cm (35 in) into the ground, overloading a shallow buried lead and steel tape-protected 1,000 km (620 mi) long power cable between Aqmola (now called Astana) and Almaty . It fired circuit breakers and set the Karaganda power plant on fire. [2] Climate [ edit ] 
+
+Karaganda has a humid continental climate ( Köppen climate classification Dfb ) with warm summers and very cold winters. Precipitation is moderately low throughout the year, although slightly heavier from May to July. Snow is frequent, though light, in winter. The lowest temperature on record is −42.9 °C (−45.2 °F), recorded in 1938, and the highest temperature is 40.2 °C (104.4 °F), recorded in 2002. [3] Climate data for Karaganda Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Record high °C (°F) 6.2 
+
+(43.2) 6.0 
+
+(42.8) 22.3 
+
+(72.1) 30.6 
+
+(87.1) 35.6 
+
+(96.1) 39.1 
+
+(102.4) 39.6 
+
+(103.3) 40.2 
+
+(104.4) 37.4 
+
+(99.3) 27.6 
+
+(81.7) 18.9 
+
+(66) 11.5 
+
+(52.7) 40.2 
+
+(104.4) Average high °C (°F) −8.7 
+
+(16.3) −7.7 
+
+(18.1) −1.4 
+
+(29.5) 12.0 
+
+(53.6) 20.1 
+
+(68.2) 25.6 
+
+(78.1) 26.8 
+
+(80.2) 25.4 
+
+(77.7) 19.2 
+
+(66.6) 10.5 
+
+(50.9) −0.2 
+
+(31.6) −6.8 
+
+(19.8) 9.6 
+
+(49.3) Daily mean °C (°F) −12.9 
+
+(8.8) −12.7 
+
+(9.1) −6.2 
+
+(20.8) 5.6 
+
+(42.1) 13.3 
+
+(55.9) 18.9 
+
+(66) 20.4 
+
+(68.7) 18.6 
+
+(65.5) 12.2 
+
+(54) 4.4 
+
+(39.9) −4.8 
+
+(23.4) −11.0 
+
+(12.2) 3.8 
+
+(38.8) Average low °C (°F) −17.1 
+
+(1.2) −17.2 
+
+(1) −10.4 
+
+(13.3) 0.1 
+
+(32.2) 6.9 
+
+(44.4) 12.3 
+
+(54.1) 14.3 
+
+(57.7) 12.3 
+
+(54.1) 6.1 
+
+(43) −0.3 
+
+(31.5) −8.6 
+
+(16.5) −15.1 
+
+(4.8) −1.4 
+
+(29.5) Record low °C (°F) −41.7 
+
+(−43.1) −41.0 
+
+(−41.8) −34.7 
+
+(−30.5) −24.0 
+
+(−11.2) −9.5 
+
+(14.9) −2.3 
+
+(27.9) 1.7 
+
+(35.1) −0.8 
+
+(30.6) −7.4 
+
+(18.7) −19.3 
+
+(−2.7) −38 
+
+(−36) −42.9 
+
+(−45.2) −42.9 
+
+(−45.2) Average precipitation mm (inches) 24 
+
+(0.94) 22 
+
+(0.87) 22 
+
+(0.87) 26 
+
+(1.02) 41 
+
+(1.61) 36 
+
+(1.42) 47 
+
+(1.85) 28 
+
+(1.1) 21 
+
+(0.83) 28 
+
+(1.1) 31 
+
+(1.22) 26 
+
+(1.02) 352 
+
+(13.85) Average rainy days 1 1 4 9 14 12 14 10 9 9 6 2 91 Average snowy days 20 19 15 6 1 0 0 0 1 7 15 19 103 Average relative humidity (%) 79 78 78 61 54 50 55 52 53 66 77 78 65.1 Mean monthly sunshine hours 106 142 189 231 297 335 330 303 247 141 108 99 2,528 Source #1: pogoda.ru.net [3] Source #2: NOAA (sun only, 1961-1990) [4] Industry [ edit ] 
+
+Karaganda is an industrial city, built to exploit nearby coal mines using the slave work of prisoners of labour camps . Flora Leipman, a British [ discuss ] citizen, spent several years unlawfully detained in a number of other nearby camps, and described her experiences in the book "The Long Journey Home" (published 1987). Commercial extraction of coal continues to be an important activity in the region even today. 
+
+Since local water resources are not sufficient for the needs of a major industrial city, the Irtysh–Karaganda Canal was constructed in the 1960s, to supply the Karaganda metropolitan area with water from the Irtysh River more than 400 km away. Culture [ edit ] Theater [ edit ] 
+
+The Miners Palace of Culture is a major landmark in Karagandy. Sports [ edit ] 
+
+FC Shakhter Karagandy is a football club based in Shakhtyor Stadium . They are the current champions of the Kazakhstan Premier League . The local football club has its own heroes and big accomplishments. The most popular player in the team is Andrey Finonchenko. The biggest accomplishment is a victory against Celtic from Scotland. The score was 2-0. The city sent a bandy team to the Spartakiade 2009. [5] [ not in citation given ] Saryarka Karagandy is an ice hockey team that plays in the Russian-based Supreme Hockey League (VHL) The popularity of winter sports is growing each year and multi-sports winter games are organised for the Karaganda Region . [6] Other [ edit ] Karagandy Zoo Karaganda State University Religion [ edit ] 
+
+The city is the seat of the Roman Catholic Diocese of Karaganda . Other [ edit ] 
+
+Karagandy was often used as the punchline in a popular joke in the former Soviet Union . Karagandy is fairly isolated in a vast area of uninhabited steppe , and is thought by many to be "the middle of nowhere". When used in the locative case (Караганде), the final syllable rhymes with the Russian word for "where" (где), as well as with a Russian obscenity used to answer to an unwanted question "Where?". Thus the exchange: "Где?" — "В Караганде!" ("Where is it?" — "In Karagandy!") Transport [ edit ] 
+
+Sary-Arka Airport is located 20 kilometers south-east of the city. Notable residents [ edit ] Nurken Abdirov , Soviet World War II pilot and Hero of the Soviet Union Anjelika Akbar , pianist Toktar Aubakirov , former cosmonaut ( Soyuz TM-13 ) and member of Kazakhstan parliament Boris Avrukh , chess grandmaster Sahan Dosova , super-centenarian , reputed to have lived to age 130 (though disputed) Konstantin Engel , professional football player Gennady Golovkin , boxer, current WBA , WBC , IBF and IBO Middleweight Champion, holds the greatest knockout ratio in middleweight championship history and silver medalist in the ( 2004 Summer Olympics ) Akhmad Kadyrov , former President of the Chechen Republic Dimitri Kotschnew , professional ice hockey player Andrei Krukov , Olympic figure skater ( 1998 Winter Olympics ) Juri Litvinov , Olympic figure skater (1998 Winter Olympics) and national champion Aslan Maskhadov , third President, Chechen Republic of Ichkeria Valery Oisteanu , writer, photographer, and performance artist Aleksandr Shustov , gold medal-winning high jumper Dmitriy Karpov , bronze medal-winning decathlon and heptathlon athlete ( 2004 Summer Olympics ) Aleksei Grigorievich Stakhanov , Director of Number 31 mine (1943-1957) and Hero of the Soviet Union as a folk hero mine worker with 14 times quota production Pavel Vorobiev , professional ice hockey player Joseph Werth , Bishop of Transfiguration, Novosibirsk, Russia Katia Ivanova, glamour model, reality TV star, UK Celebrity Big Brother contestant 2009 (born in Karaganda in 1988) Sister cities [ edit ] Songpa-gu , South Korea (since 1994) Kamianske , Ukraine Arak , Iran (since 2008) See also [ edit ] Karlag Karaganda Region References [ edit ] ^ a b "Население Республики Казахстан" (in Russian). Департамент социальной и демографической статистики . Retrieved 8 December 2013 . ^ http://glasstone.blogspot.com/2006/03/emp-radiation-from-nuclear-space.html ^ a b "Погода и Климат" . Retrieved January 10, 2012 . ^ "Karaganda Climate Normals 1961-1990" . National Oceanic and Atmospheric Administration . Retrieved January 10, 2012 . ^ http://akghaik.ucoz.ru/photo/9-1-0-0-2 ^ Winter Sports Tournaments begin in Karaganda External links [ edit ] Wikimedia Commons has media related to Karaganda . Kate Brown, Gridded Lives: Why Kazakhstan and Montana are nearly the same place www.karagandy.aero Karagandy International Airport www.world66.com Karagandy Travel Guide visitkazakhstan.kz Monuments of Karagandy www.worldplaces.net/kgz/00/karagandy/ usembassy.gov Media Advisory: Karagandy Eco-Museum and Nevada Test Site Historical Foundation Project Opening www.accuweather.com Karagandy Weather Forecast forecast.co.uk Karagandy Weather Forecast weather-forecast.com Karagandy Weather Forecast gismeteo.com Karagandy Weather Forecast v t e Karaganda Region Capital: Karaganda Districts Abay Aktogay Bukhar-Zhyrau Karkaraly Nura Osakarov Shet Ulytau Zhanaarka Major cities Abay Balqash Jezkazgan Karaganda Karazhal Karkaraly Priozersk Saran Satbayev Shakhtinsk Temirtau v t e Cities in Kazakhstan Capital Astana Other cities Aktau Aktobe Almaty Arkalyk Atyrau Baikonur Balkhash Ekibastuz Zhezkazgan Kapshagay Karagandy Kentau Kokshetau Kostanay Kyzylorda Oral Oskemen Pavlodar Petropavl Ridder Saran Satpayev Semey Shymkent Stepnogorsk Taldykorgan Taraz Temirtau Turkistan Zhanaozen (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Karaganda oldid=745493684 " Categories : Karaganda Populated places in Karaganda Region Cities in Central Asia Populated places established in 1931 1931 establishments in the Soviet Union Hidden categories: CS1 Russian-language sources (ru) Articles with Kazakh-language external links Coordinates on Wikidata Articles containing Kazakh-language text Articles containing Russian-language text All articles with failed verification Articles with failed verification from September 2013 Commons category with local link same as on Wikidata Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Wikivoyage Languages Адыгэбзэ Afrikaans العربية Azərbaycanca Беларуская Беларуская (тарашкевіца)‎ Български Català Čeština Deutsch Eesti Ελληνικά Español Esperanto Euskara فارسی Français Gagauz 한국어 Հայերեն Hrvatski Bahasa Indonesia Interlingue Italiano עברית ქართული Қазақша Кырык мары Лезги Latviešu Lietuvių Magyar मराठी Монгол Nederlands 日本語 Нохчийн Norsk bokmål Norsk nynorsk Олык марий Oʻzbekcha/ўзбекча ਪੰਜਾਬੀ پنجابی Перем Коми Polski Português Română Русский Саха тыла Sardu Scots Ślůnski Српски / srpski Suomi Svenska Татарча/tatarça Türkçe Türkmençe Українська اردو Vepsän kel’ Tiếng Việt Winaray 中文 Edit links This page was last modified on 21 October 2016, at 12:50. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.432", "walltime": "0.554", "ppvisitednodes": { "value": 5621, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 92113, "limit": 2097152 }, "templateargumentsize": { "value": 5305, "limit": 2097152 }, "expansiondepth": { "value": 25, "limit": 40 }, "expensivefunctioncount": { "value": 9, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 464.204 1 -total", " 48.32% 224.295 1 Template:Infobox_settlement", " 39.44% 183.095 2 Template:Infobox", " 15.65% 72.650 1 Template:Weather_box", " 9.78% 45.377 1 Template:Reflist", " 8.15% 37.815 7 Template:Convert", " 7.82% 36.282 3 Template:Cite_web", " 6.34% 29.445 4 Template:Category_handler", " 5.50% 25.546 1 Template:Kk_icon", " 5.38% 24.967 1 Template:Geobox_coor" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.141", "limit": "10.000" }, "limitreport-memusage": { "value": 5691547, "limit": 52428800 } }, "cachereport": { "origin": "mw1284", "timestamp": "20161021125012", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1271"});});

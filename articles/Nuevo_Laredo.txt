@@ -1,0 +1,265 @@
+Nuevo Laredo - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nuevo_Laredo","wgTitle":"Nuevo Laredo","wgCurRevisionId":745456775,"wgRevisionId":745456775,"wgArticleId":1436627,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Spanish-language sources (es)","Articles with Wayback Machine links","Articles with Spanish-language external links","Coordinates on Wikidata","Nuevo Laredo","Divided cities","Laredo–Nuevo Laredo","Mexico–United States border crossings","Mexico–United States border towns","Populated places established in 1755","Populated places in Tamaulipas"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nuevo_Laredo","wgRelevantArticleId":1436627,"wgRequestId":"WApNUwpAADgAAPnY3p4AAACM","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":27.486111111111,"lon":-99.506944444444},"wgWikibaseItemId":"Q328846","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Nuevo Laredo From Wikipedia, the free encyclopedia Jump to: navigation , search For other uses, see Municipality of Nuevo Laredo . Nuevo Laredo, Mexico Monumento Fundadores 
+
+Founders' Monument 
+
+Coat of arms Nickname(s): Chuparrosa (Hummingbird) 
+
+Puerta a México (Door to Mexico) Motto: Siempre con la Patria (Always with the Motherland) 
+
+
+
+Location Nuevo Laredo within Tamaulipas 
+
+Location of Tamaulipas within Mexico Country Mexico State Tamaulipas Municipality Nuevo Laredo Municipality Settled 1755 Established 1848 Government • Presidente Municipal Enrique Rivas Cuellar Area • City 1,334.02 km 2 (515.07 sq mi) Population (2010 census) • City 373,725 • Metro 636,516 metro area includes Laredo, Texas , Nuevo Laredo, Tamaulipas , Colombia, Nuevo León , Villa Hidalgo, Coahuila Time zone CST ( UTC-6 ) • Summer ( DST ) CST ( UTC-5 ) Codigo Postal 88000 Area code(s) 867 Website Municipio de Nuevo Laredo Airport: Quetzalcoatl International Airport MMNL 
+
+Nuevo Laredo ( Spanish pronunciation: [ˈnweβo laˈɾeðo] ) is a city located in the Municipality of Nuevo Laredo in the Mexican state of Tamaulipas . The city lies on the banks of the Rio Grande , across from the United States city of Laredo, Texas . The 2010 census population of the city was 373,725. [1] Nuevo Laredo is part of the Laredo-Nuevo Laredo Metropolitan Area with a total population of 636,516. The municipality has an area of 1,334.02 km² (515.07 sq mi). Both the city and the municipality rank as the third largest in the state. 
+
+The city is connected to Laredo, Texas, across the Rio Grande (Rio Bravo) river by three international bridges and a rail bridge . The city is both larger and younger than its U.S. counterpart. It is the largest inland port in Mexico, just as its counterpart across the border is the busiest inland port (bridge crossing) in the United States. As an indication of its economic importance, one of Mexico's banderas monumentales is located in the city (these flags have been established in state capitals and cities of significance). 
+
+Contents 1 History 1.1 Drug-related violence 2 Geography 3 Climate 4 Government 4.1 Public safety 5 Economy 6 Education 6.1 Higher education 7 Transportation 7.1 Air 7.2 Mass transit 7.3 International bridges 7.4 Major highways 7.5 Nearby cities 8 People and culture 8.1 Parks and zoos 8.2 Theaters 8.3 Sports 8.3.1 Baseball 8.3.2 Football 8.3.3 Basketball 9 Entertainment 10 Online newspapers and media 10.1 Newspapers 10.2 Television 10.3 AM radio 10.3.1 Long range AM stations 10.4 FM radio 10.5 Internet Radio 11 Notable people from Nuevo Laredo 12 Gallery 13 See also 14 References 15 External links 
+
+History [ edit ] 
+
+Nuevo Laredo was part of the territory of the original settlement of Laredo (now in Texas) which was founded in 1755 by the Spaniard Don Tomás Sánchez in the northern part of the Rio Grande . The settlement's territory was granted to José de Escandón by the King of Spain, and the settlement's territory and population remained unified for ninety years, until the war of 1846-48, the Mexican–American War . 
+
+Early in 1848, the Treaty of Guadalupe Hidalgo divided the territory attached to Laredo between the United States (specifically, Texas) and Mexico. Nuevo Laredo was founded on May 15, 1848, by seventeen Laredo families who wished to remain Mexican and therefore moved to the Mexican side of the Rio Grande. They identified with Mexico, its history, and its cultural customs, and decided to keep their Mexican citizenship. The founders of Nuevo Laredo even took with them the bones of their ancestors so they would continue to rest in Mexican ground. Drug-related violence [ edit ] Main article: 2012 Nuevo Laredo massacres 
+
+As a border town , Nuevo Laredo is known for its turf war in which drug cartels compete for control of the drug trade into the United States. Nuevo Laredo is a lucrative drug corridor because of the large volume of trucks that pass through the area, and the multiple exploitable ports of entry. [2] 
+
+Nuevo Laredo is the base of Los Zetas , originally the armed wing of the Gulf Cartel ; the two organizations separated in early 2010 and have been fighting for the control of the smuggling routes to the United States. [3] As of 2012, Los Zetas are thought to be Mexico's largest criminal organization. [4] Drug violence involving the Sinaloa and Gulf Cartels escalated in 2003, when the city was controlled by the Gulf Cartel. 2012 has seen an unprecedented series of mass murder attacks in the city between the Sinaloa Cartel and Gulf Cartel on one side and Los Zetas on the other. Geography [ edit ] 
+
+Nuevo Laredo is located in the northern tip of Tamaulipas on the west end of the Rio Grande Plains . Rio Grande is the only source that supplies its citizens with water. El Coyote Creek supplies Nuevo Laredo's only natural lake El Laguito (The Small Lake). The area consists of a few hills and flat land covered with grass , oak , and mesquite . Climate [ edit ] 
+
+Nuevo Laredo features a semi-arid climate . Nuevo Laredo's weather is influenced by its proximity to the Chihuahuan Desert to the west, by the Sierra Madre Oriental mountains to the south and west, and by the Gulf of Mexico to the east. Much of the moisture from the Pacific is blocked by the Sierra Madre Oriental . Therefore, most of the moisture derives from the Gulf of Mexico. Its geographic location causes Nuevo Laredo's weather to range from long periods of heat to sudden violent storms in a short period of time. Nuevo Laredo is cold for Tamaulipas standards during winter, the average daytime highs are around 66 °F (19 C) and overnight lows around 43 °F (6 C); although it is rare for snow to fall in Nuevo Laredo, there was actually snow on the ground for a few hours on the morning of Christmas Day 2004. 
+
+Nuevo Laredo experiences an average high temperature of about 99 °F (37 C), and an average low of about 75 °F (24 C) during summer, and 20 inches (510 mm) of rain per year. As Laredo sometimes undergoes drought , a water conservation ordinance was implemented in 2003. Climate data for Nuevo Laredo Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Record high °C (°F) 38.5 
+
+(101.3) 36.0 
+
+(96.8) 40.0 
+
+(104) 44.0 
+
+(111.2) 42.0 
+
+(107.6) 49.0 
+
+(120.2) 43.3 
+
+(109.9) 42.0 
+
+(107.6) 42.2 
+
+(108) 39.0 
+
+(102.2) 34.0 
+
+(93.2) 32.0 
+
+(89.6) 49.0 
+
+(120.2) Average high °C (°F) 17.9 
+
+(64.2) 21.1 
+
+(70) 26.4 
+
+(79.5) 30.5 
+
+(86.9) 32.8 
+
+(91) 35.6 
+
+(96.1) 36.8 
+
+(98.2) 36.7 
+
+(98.1) 33.3 
+
+(91.9) 28.8 
+
+(83.8) 23.5 
+
+(74.3) 19.0 
+
+(66.2) 28.5 
+
+(83.3) Daily mean °C (°F) 12.2 
+
+(54) 14.9 
+
+(58.8) 19.9 
+
+(67.8) 24.5 
+
+(76.1) 27.1 
+
+(80.8) 29.9 
+
+(85.8) 30.9 
+
+(87.6) 30.8 
+
+(87.4) 28.2 
+
+(82.8) 23.6 
+
+(74.5) 18.2 
+
+(64.8) 13.7 
+
+(56.7) 22.8 
+
+(73) Average low °C (°F) 6.4 
+
+(43.5) 8.8 
+
+(47.8) 13.5 
+
+(56.3) 18.4 
+
+(65.1) 21.5 
+
+(70.7) 24.2 
+
+(75.6) 25.1 
+
+(77.2) 25.0 
+
+(77) 23.1 
+
+(73.6) 18.3 
+
+(64.9) 12.9 
+
+(55.2) 8.3 
+
+(46.9) 17.1 
+
+(62.8) Record low °C (°F) −7.9 
+
+(17.8) −6.5 
+
+(20.3) −2.0 
+
+(28.4) 2.5 
+
+(36.5) 10.0 
+
+(50) 16.5 
+
+(61.7) 15.0 
+
+(59) 18.5 
+
+(65.3) 11.3 
+
+(52.3) 5.0 
+
+(41) −1.0 
+
+(30.2) −10.0 
+
+(14) −10.0 
+
+(14) Average precipitation mm (inches) 20.1 
+
+(0.791) 27.2 
+
+(1.071) 16.1 
+
+(0.634) 46.9 
+
+(1.846) 69.8 
+
+(2.748) 67.6 
+
+(2.661) 33.0 
+
+(1.299) 55.0 
+
+(2.165) 78.4 
+
+(3.087) 69.4 
+
+(2.732) 25.5 
+
+(1.004) 18.9 
+
+(0.744) 527.9 
+
+(20.783) Average precipitation days (≥ 0.1 mm) 4.7 4.2 2.5 3.3 4.5 3.7 3.0 3.6 5.5 3.6 3.1 3.7 45.4 Source: Servicio Meteorológico Nacional [5] Government [ edit ] 
+
+Nuevo Laredo is governed by an elected Cabildo , which is composed of the Presidente Municipal (Municipal President or Mayor), two Síndicos , and twenty Regidores . The PAN is currently in control of the city government. The Mayor is in charge of the municipal administration. The Síndicos supervise the municipal budget and expenditures, and the Regidores are elected by the party. Public safety [ edit ] 
+
+Public safety is provided by three municipal departments: (1) municipal police ( Dirección de Seguridad Ciudadana ), (2) traffic control ( Dirección de Seguridad Vial ), and (3) the emergency services department ( Dirección de Protección Civil, Bomberos y Desastres ). [6] Economy [ edit ] The Monument to mothers in front of the Best Western Plus Nuevo Laredo Hotel. 
+
+Nuevo Laredo (along with Laredo, Texas) is the most important trade border crossing of Latin America (approximately 8500 trucks cross the border each day). [7] [8] Its geographical position has enabled this city to grow and specialize in the international trade business. Nuevo Laredo has a very developed logistics and transportation industry, complemented with a variety of hotel chains, restaurants and a cultural center where events such as the Tamaulipas International Festival take place. 
+
+Nuevo Laredo is located on the primary trade route connecting Canada, the United States and Mexico. Both Nuevo Laredo and Laredo, Texas are now the gateway to Mexico's burgeoning industrial complex, offering diverse markets, business opportunities and profit potential, which both business and industry cannot find anywhere else. Nuevo Laredo is the only Mexico/U.S. border city strategically positioned at the convergence of all land transportation systems. The main highway and railroad leading from Central Mexico through Mexico City , San Luis Potosí , Saltillo and Monterrey join with two major U.S. rail lines at Nuevo Laredo and major American highway Interstate 35 , thus offering fast access to the most important metropolitan areas and seaports of Texas, as well as northern states and Canada. For more than a decade, Mexico's economic policies have greatly increased Mexico/U.S. trade and cross-border production in the Nuevo Laredo area. 
+
+Seventy percent of all Mexican exports to the United States are exported through Nuevo Laredo. Nuevo Laredo is considered to be the largest inland port in Latin America. There are three bridges in the Nuevo Laredo area: International Bridge #1 (the oldest); International Bridge #2 (also known as Juarez-Lincoln; no pedestrians); International Bridge #3 (also known as the Free Trade or Libre Comercio Bridge; inaugurated in 1999; cargo only). Also the Colombia-Solidarity (Solidaridad) Bridge (located about 20 miles (32 km) NW of the city in Colombia, Nuevo León). There are no urban areas on either side of this bridge. Education [ edit ] 
+
+The educational infrastructure amounted to 288 school sites which are 71 kindergartens, 148 elementary schools, 34 junior high schools, 14 high schools, 13 vocational schools and 12 universities. Higher education [ edit ] 
+
+There are twelve universities in Nuevo Laredo. Undergraduate studies normally last at least 3 years, divided into semesters or quarters, depending on the college or university. 
+
+Every graduate gets a bachelor's degree (Licenciatura or Ingenieria). Some of these universities also offer postgraduate studies. A "maestría" is a 2-year degree after a bachelor's degree, which awards the title of Master (Maestro). Universidad Autónoma de Tamaulipas (UAT) It has 2 faculties. The faculty of commerce, administration and social sciences offers bachelor's degrees in: International trade, Computing, Business administration, Law, and Accountancy. The faculty of nursing offers bachelor's degrees in: Nursing, and Health, safety and environment Instituto Tecnologico de Nuevo Laredo (ITNL) offers bachelor's degrees in: Architecture, Civil engineering, Electrical engineering, Computer systems engineering, Industrial engineering, Mechanical engineering, Business administration, Accountancy, Electronic engineering, Mechatronics engineering, Enterprise management engineering. Universidad Valle del Bravo-Valle de Mexico (UVB-UVM) offers bachelor's degrees in: Law, Psychology, Graphic design, International trade, International marketing, Business administration, Tourism, International relations, Communications, Accountancy, Political sciences, Industrial administration engineering, Computer systems engineering, Electronic systems engineering, Civil engineering, Environmental engineering, Mechanical electrician engineering, Security and industrial hygiene engineering, Dentistry. Universidad Tecnologica de Nuevo Laredo (UT) offers bachelor's degrees in: Enterprise development engineering, Global commercial logistics engineering, Industrial maintenance engineering, Mechatronics engineering, Renewable energy engineering. Also offers associate degrees in: Logistic and Autotransport administration, tariff classification and customs clearance, Electronics and automated, Industrial maintenance, Sales and Distribution. Centro de Estudios Superiores Royal (CES-R, Royal University) offers bachelor's degrees in: International trade, Marketing and publicity, Business administration, Computer systems engineering, Organizational psychology, Accountancy. Instituto de Ciencias y Estudios Superiores de Tamaulipas (ICEST) offers bachelor's degrees in: Communications, Nutrition, Criminology, Psychology, Languages, International trade, Dramatic literature and theater, Chemical pharmacist biologist, Nursing, Library science, Tourism, Computer systems engineering, Chemical engineering. Universidad TecMilenio (UTM) offers bachelor's degrees in: Business administration, Intelligence of markets, International trade, Graphic design and animation, Industrial engineering, Logistics systems engineering, Development of software engineering, International businesses engineering. Universidad Del Norte De Tamaulipas (UNT) offers bachelor's degrees in: Political sciences and administration, Administration and marketing, International trade and customs, Computer systems engineering, Accountancy. Universidad Panamericana (UP) offers bachelor's degrees in: Business administration, Accountancy, Law, Junior high education, Kindergarten education, Civic and ethical, Psychology, Surgeon (obstetrician), Surgeon (zootechnician), Industrial engineering, Computer systems engineering. 
+
+Nuevo Laredo has three teachers' schools: Normal Básica Cuauhtemoc offers bachelor's degrees in: Elementary education, and Kindergarten education Normal Superior De Tamaulipas opened its doors on August 2005 and offers bachelor's degrees in: Physical education, and Junior high education. Also offers specialities in Spanish, mathematics, and English instruction. Universidad Pedagógica Nacional (UPN) offers bachelor's degrees in: Education, Educational intervention. See also: Colegio Bilingue Real Transportation [ edit ] Air [ edit ] 
+
+Nuevo Laredo is served by the Quetzalcóatl International Airport with daily flights to Mexico City. The neighboring Laredo International Airport in Laredo, Texas has daily flights to Houston ( George Bush Intercontinental Airport ) and to Dallas-Fort Worth International Airport and Tri-weekly flights to Las Vegas, Nevada and bi-weekly seasonal (May–August) flights to Orlando, Florida . Mass transit [ edit ] 
+
+Transporte Urbano de Nuevo Laredo (TUNL) is the mass transit system that operates in Nuevo Laredo with fixed routes with millions of passengers per year. TUNL works with a fleet of fixed route buses. TUNL hub is located in downtown Nuevo Laredo. Ruta 1 Guerrero Ruta 2 20 De Noviembre – Campanario Ruta 2 20 De Noviembre – Valles De Anáhuac Ruta 3 5 Colonias Azul Ruta 3a 5 Colonias Verde Ruta 4 Colonia Las Torres – Panteón – Puente Ruta 5 Victoria – Viveros – Verde Ruta 5a Victoria – Viveros – Azul Ruta 6 Rivereña – Buenavista – Centro Ruta 7 Mina – Constitucional Ruta 7a Olivos X Arteaga - Cortes Villada – Mina – Constituciónal Ruta 8 Mirador – Panteón Ruta 8 Mirador – Reforma Ruta 10 Kilometro 15 – Colonia Primavera – Kilometro 18 Ruta 11 Carretera – Colonia Burócrata – Centro Ruta 12 Laredo Tx – Benito Juárez Ruta 12 Laredo Tx – Issste Ruta 13 Valles De Anáhuac – Conalep Ruta 13 Valles De San Miguel – Valles De Anáhuac Ruta 13a Campanario – Conalep Ruta 15 Cavazos Lerma Ruta 17 Granjas – Fracc. Itavu – Km 13 – Km 18 – Centro Ruta 17a Granjas – Fracc. Itavu – Km 13 – Km 18 – Centro Ruta 17b Km 13 – Santa Cecilia Ruta 19 Unión Del Recuerdo Ruta 19a Colonia Los Artistas – Naciones Unidas – Centro Ruta 20 Cortes Villada – La Sandia – Joya – Centro Ruta 21 Rivereña – Virreyes Ruta 22 Las Torres – Panteón – Bolívar – Centro Ruta 22a Las Torres – Panteón – Bolívar – Centro Ruta 23 Mina - Voluntad y Trabajo 2 y 3 Ruta 24 Voluntad - Nueva Era-Buenos Aires por Independencia Ruta 24a Voluntad – Nueva Era – Buenos Aires Por Independencia Ruta 28 Las Alazanas Ruta 29 Reservas Territoriales – Colonia Hipódromo – Centro Ruta 30 Reservas Territoriales – Colonia Buenos Aires – Centro Ruta 31 Reservas Territoriales – Conalep Ruta 32 Colonia Insurgentes – Conalep – 150 Aniversario Ruta 35 Kilometro 10 – Panteón – Colinas Del Sur Ruta 35a Kilometro 10 – Panteón – Colinas Del Sur Ruta 36 Fraccionamiento América – Nogal – La Concordia – Centro Ruta 36a Fraccionamiento América – Nogal por Coca Cola International bridges [ edit ] Gateway to the Americas International Bridge Juárez-Lincoln International Bridge World Trade International Bridge (commercial traffic only) Texas-Mexican Railway International Bridge Major highways [ edit ] 
+
+Major highways in Nuevo Laredo and their starting and ending points: Mexican Federal Highway 85 Nuevo Laredo-Mexico City Mexican Federal Highway 2 Matamoros -Nuevo Laredo-Colombia- Ciudad Acuña Tamaulipas State Highway 1 Nuevo Laredo- Monterrey Nuevo León State Highway Spur 1 Colombia- Anáhuac Nearby cities [ edit ] City Population Distance (km) Laredo, Texas 236,091 0 mi (0 km) Monclova , Coahuila 294,191 124 mi (199 km) Monterrey , Nuevo León 3,664,334 125 mi (201 km) Reynosa , Tamaulipas 526,888 130 mi (209 km) Corpus Christi, Texas 409,741 131 mi (211 km) San Antonio, Texas 1,942,217 154 mi (248 km) Heroica Matamoros , Tamaulipas 462,157 167 mi (268 km) Saltillo , Coahuila 648,929 181 mi (291 km) People and culture [ edit ] Parks and zoos [ edit ] 
+
+Parque Viveros (en:Viveros Park) is a 124-acre (0.50 km 2 ) forest park that overlooks the Rio Grande on the eastern side of Nuevo Laredo. The park features a zoo, 2 large swimming pools, walking trails, picnic areas with bar-b-que pits and playgrounds. [9] Theaters [ edit ] 
+
+Nuevo Laredo has three main theaters the "Centro Cultural", "Teatro de la Ciudad", and "Casa de Cultura". The Centro Cultural (en:Cultural Center), is Nuevo Laredo's main theater with a sitting capacity of 1,200 guests. The theater has presented high level shows high level, plays, concerts and dance recitals. The theater has a museum, library, and a cafeteria. [10] The Teatro de la Ciudad (en:City Theater) is a theater which presents plays, dance recitals, concerts and musical shows and special events. [10] The Casa de Cultura (en:House of Culture) houses music, painting, dance and literature workshops and also presents major artistic and cultural events such as art exhibitions, concerts, film samples, dance recitals and plays, among others. [10] Sports [ edit ] Baseball [ edit ] Ciudad Deportiva Baseball Park 
+
+The Tecolotes de Nuevo Laredo ( Owls of Nuevo Laredo ) formally known as the Tecolotes de los Dos Laredos ( Owls of the Two Laredos ) were a Mexican Baseball League team that played in the Zona Norte (Northern Division) of the Mexican League until 2010. The Ciudad Deportiva was their home Baseball park which had a capacity of 12,000 fans. The Tecolotes returned to Nuevo Laredo, Tamaulipas for the 2008 season after a 4 years absence in the city when the team was transferred to Tijuana and renamed Potros de Tijuana (Tijuana Colts). The Rieleros from Aguascalientes were transferred to Nuevo Laredo as the Tecolotes de Nuevo Laredo. [11] The Tecolotes were the Mexican League Champions in 1953, 1954, 1958, 1977, and 1989 and were subchampions in 1945, 1955, 1959, 1985, 1987, 1992, 1993. 
+
+Parque la Junta (La Junta Park) is baseball field built in 1947 in Nuevo Laredo. [12] The ball park has a capacity of 6,000 people. The stadium was the home to the five-time champion Mexican Baseball League team Tecolotes de los Dos Laredos (The Owls of the Two Laredos) from 1947 to 2003. Football [ edit ] 
+
+The Bravos de Nuevo Laredo is a football club in the Mexican Football League Second Division in Nuevo Laredo. The Unidad Deportiva Benito Juárez (Benito Juárez Sport Complex) is their home stadium. The Bravos are an institution formed in 2004 by a groups of business people in Nuevo Laredo, whose objective is to organize a football team in the city with aspirations it will become a professional football club. This has been the first team to have all of their games transmitted live via internet through www.arcanasa.com up to the end of the 2010 tournament. [13] 
+
+The Ciudad Deportiva ( Sports City ) is a sports complex built in 2007 which main feature is a baseball park in Nuevo Laredo, Mexico. It is home to the Tecolotes de Nuevo Laredo [14] Mexican Baseball League team. The Ciudad Deportiva can seat up to 12,000 fans at a baseball game. Phase one of this project has been completed which only included the Baseball Park. Phase II of this project will include a new soccer stadium within Mexican Primera Division standards for a possible expansion of one of its teams to Nuevo Laredo. Phase II also includes a gym that will seat 1,500 fans to enjoy basketball, volleyball, and gymnastics among other sports. [11] Basketball [ edit ] 
+
+The Toros de Nuevo Laredo is a basketball team in Nuevo Laredo, playing in the Mexican professional league Liga Nacional de Baloncesto Profesional (LNBP). The Toros de Nuevo Laredo play in the Ciudad Deportiva Indoor Stadium . They entered the league in 2009 to join the North Conference. Prior to the Toros de Nuevo Laredo, Nuevo Laredo had the Venados de Nuevo Laredo which played on the LNBP for the 2007–2008 season. Entertainment [ edit ] 
+
+The city has a variety of tourist attractions such as: Cultural Center. Opened in 2004, the cultural center has a main theater, experimental theater, natural history museum, Reyes Meza museum, gourmet restaurant, cafeteria, temporary exhibition area, library, book shop, media library, and Uxmal walk where there are pre-Columbian works of art with colossal sculptures of gods and idols of the Mesoamerican cultures. Natural history museum. It was opened in 2007, in its permanent museum exposes human skeletons, dinosaur bones and fossils in general that allows to make a chronological history travel of the region, fauna, flora and geography, from the jurassic to our era.. Jose Reyes Meza Museum. Opened in June 2008 It has the name of a remarkable painter, designer and muralist from Tamaulipas, the museum exposes various plastic works. Regional Zoo. It has a wide range of animal species from different ecosystems and from the region, it is located next to the Ecological Park "Viveros" and receives hundreds of visitors daily. Word Station Gabriel García Márquez. Dedicated to the writer Gabriel García Márquez, Nobel laureate in literature, this cultural space opened in September 2008 and has an auditorium, exhibition gallery, library, reading rooms, children's room, literary coffee and a book shop. The House of Culture. It has the theater "Lucio Blanco", in the house of culture occur cultural events, also there are classes of music, painting, dance and literature. Old Customs Building. The building was restored and adapted to serve as a cultural space, with the concert hall "Sergio Pena," the great forum and an exhibitions gallery . Longoria bank museum. It was built in 1929 by Don Octavio Longoria, currently its lobby is used to exhibit plastic arts and photography. Historical Archive. In it lies the documentary and graphic memory of the city, also has temporary exhibitions, consultation area, audiovisual area and the site museum which displays railroad artifacts, photographs and documents of time alluding to the history of the Railroad in Nuevo Laredo. Viveros Park. The park has playgrounds, a driver education park, Camécuaro pool, green areas, the regional zoo, an aquarium, a jurassic park. IMSS theater. It presents plays, musicals, movies and other events. Sports city (ciudad deportiva). It has a baseball stadium, the multidisciplinary gymnasium of basketball, tennis courts, squash courts and soccer court Market Maclovio Herrera. It is located in the historic city center, here you can find many kinds of Mexican crafts from all the country, e.g. costumes, jewelry, traditional Mexican candies and piñatas. Narciso Mendoza park. It has the Fidel Cuellar library, a walking trail around the park (circuit almost 800 mts.), a FutRap court and a playground . Adolfo Lopez Mateos city theater. Recreational park El Laguito. Polyforum Dr. Rodolfo Torre Cantu. Place to hold events and mass entertainment, was opened on September 4, 2013. It has the capacity to hold over 5,000 people and parking for over 1,000 vehicles. The project is still under construction and includes a civic center, stage performances, cultural walk, aquarium, soccer fields and basketball courts and more. 
+
+There is a fairly large array of night-time entertainment venues. Most establishments (clubs, bars, and restaurants) are located in the historical district. Other restaurants (including chains such as Carl's Jr. , Burger King , Kentucky Fried Chicken , and McDonald's ) are located along Avenida Vicente Guerrero and Avenida Reforma. Nuevo Laredo has a red light district called Boy's Town , (or "La Zona"). 
+
+The city has some malls like Paseo Reforma , it was opened in May 2008, this mall has many commercial establishment, like Wal-Mart Super Center , The Home Depot , and Cinépolis . Other shopping centers are, Plaza Real, Plaza 2 Laredos, Plaza commercial La fe. Online newspapers and media [ edit ] Newspapers [ edit ] Name Frequency Language City Website El Diario de Nuevo Laredo Daily Spanish Nuevo Laredo diario.net El Mañana (Nuevo Laredo) Daily Spanish Nuevo Laredo elmanana.com.mx LareDOS Monthly English Laredo laredosnews.com Laredo Morning Times Daily English Laredo lmtonline.com Laredo Sun Online Newspaper English Laredo laredosun.us Lider Daily Spanish Nuevo Laredo liderinformativo.com Primera Hora Daily Spanish Nuevo Laredo primerahora.com Última Hora Daily Spanish Nuevo Laredo ultimahora.com Television [ edit ] CH VC DT Callsign Network City of License Official Website 2 2.1 17.1 XEFE Televisa local Nuevo Laredo • • 8.1 8.1 KGNS NBC–HD Laredo pro8news.com • 8.2 8.2 KGNS-DT2 ABC–HD Laredo kgns.tv • 8.3 8.3 KGNS-DT3 Telemundo Laredo telemundo.com • 10.1 CP 10.1 CP K10QK-D CarismaTV Laredo feypoder.com 11 11.1 25.1 XHBR Canal de las Estrellas–HD Nuevo Laredo esmas.com • 13.1 13.1 KVTV CBS–HD Laredo cbs.com • 14.3 14.3 KYLX-LP Testing Laredo • • 15.1 15.1 KLMV BVB Laredo buenav.net • 15.2 15.2 KLMV-LD2 TeLe-Romantica Laredo buenav.net • 15.3 15.3 KLMV-LD3 Televida Laredo buenav.net • 15.4 15.4 KLMV-LD4 Vida Vision Laredo buenav.net 21 21.1 50.1 XHLNA Azteca Trece–HD Nuevo Laredo tvazteca.com • 21.2 50.2 XHLNA-TDT2 Proyecto 40–HD Nuevo Laredo proyecto40.com • 27.1 19.1 KLDO Univision–HD Laredo kldotv.com • 27.2 19.2 KLDO-DT2 LATV Laredo kldotv.com • 31.1 31.1 KETF UniMás Laredo ketftv.com 33 33.1 51.1 XHLAT Azteca 7–HD Nuevo Laredo tvazteca.com • 39.1 27.3 KXOF-CD Fox–HD – MyNet–HD Laredo myfoxlaredo.com • 39.2 27.4 KXOF-CD2 MundoFox Laredo myfoxlaredo.com 45 45.1 32.1 XHNAT Multimedios Plus Nuevo Laredo multimedios.tv • 45.2 32.2 XHNAT-TDT2 Milenio TV–HD Nuevo Laredo milenio.tv • 45.3 32.3 XHNAT-TDT3 TeleRitmo Nuevo Laredo multimedios.tv 57 57.1 38.1 XHLAR Televisa Nuevo Laredo-HD Nuevo Laredo televisa.com AM radio [ edit ] Frequency Callsign Brand City of License Website Webcast 530 WPMQ285 TxDOT HAR Laredo • • 790 XEFE La Mera Ley Nuevo Laredo • listen live 890 KVOZ Radio Cristiana Laredo lanuevaradiocristiana.com • 960 XEK La Grande Nuevo Laredo xek.com listen live 1000 XENLT Radio Formula Nuevo Laredo radioformula.com • 1090 XEWL W-Radio Nuevo Laredo wradio.com.mx listen live 1300 KLAR Radio Poder Laredo feypoder.com listen live 1340 XEBK exa FM Nuevo Laredo exafm.com.mx • 1370 XEGNK Radio Mexicana Nuevo Laredo • listen live 1410 XEAS Ke Buena Nuevo Laredo kebuena.com listen live 1490 KLNT ESPN Radio Laredo • • 1550 XENU La Rancherita Nuevo Laredo • listen live 1610 WPMQ285 TxDOT HAR Laredo • • Long range AM stations [ edit ] 
+
+The following Clear Channel AM stations can be heard in Laredo: Frequency Callsign Brand City of License Website Webcast 680 KKYX Country Legends 680 San Antonio kkyx.com listen live 720 KSAH Norteño 720 San Antonio • • 740 KTRH Newsradio 740 KTRH Houston ktrh.com listen live 760 KTKR Ticket 760 AM San Antonio ticket760.com listen live 990 XET La T Grande Monterrey • listen live 1030 KCTA KCTA 1030 AM Corpus Christi kctaradio.com listen live 1050 XEG Ranchera de Monterrey Monterrey rancherademonterrey.com listen live 1140 XEMR MR Deportes Monterrey • • 1200 WOAI News Radio 1200 San Antonio radio.woai.com listen live 1210 KUBR Radio Cristiana San Juan • listen live 1530 KGBT La Tremenda 1530 Harlingen latremenda1530.com • FM radio [ edit ] Frequency Callsign Brand Format City of License Website Webcast 88.1 KHOY Catholic Radio Religious Laredo khoy.org listen live 88.9 XHLDO Radio Tamaulipas Public Radio Nuevo Laredo tamaulipas.gob listen live 89.9 KBNL Radio Manantial Spanish Religious Laredo kbnl.com • 91.3 XHNOE Stereo 91.3 FM Spanish Contemporary Nuevo Laredo xhnoe.com listen live 92.7 KJBZ Z93 Tejano Laredo z933.com • 94.1 XHTLN Imagen / RMX Laredo Talk / Contemporary Nuevo Laredo rmx.com.mx listen live 94.9 KQUR The Works Mainstream Rock Laredo 949theworks.com listen live 95.7 XHBK Exa FM Spanish Contemporary Nuevo Laredo • • 96.5 XHTWO Radio TWO Norteño/Contemporary Nuevo Laredo • • 97.1 XHNLO Multimedios Radio Spanish Contemporary Nuevo Laredo mmradio.com listen live 98.1 KRRG Big Buck Country Country Laredo bigbuck98.com • 99.3 XHNK Digital Ecstasy Classic Hits Nuevo Laredo radiorama.com listen live 100.5 KBDR La Ley Tejano Laredo laley1005.com listen live 101.5 XHAS Ke Buena Norteño Nuevo Laredo kebuena.com listen live 102.3 XHMW Los 40 Principales Spanish Pop Nuevo Laredo radiorama.com listen live 103.3 XHAHU Radio Nuevo León Spanish Pop Anáhuac • listen live 104.5 NEW La Más Pesada Norteño Nuevo Laredo • • 104.9 XHNLR Radio UAT University Radio Nuevo Laredo uat.mx • 106.1 KNEX Hot 106.1 Urban / Rhythmic Top 40 Laredo hot1061.com listen live 106.5 NEW La Tremenda Norteño Nuevo Laredo tremenda.com.mx • 107.3 XHGTS Digital 107.3 Spanish Pop Nuevo Laredo digital1073.com listen live 162.55 WXK26 NOAA Weather Radio Weather Laredo noaa.gov • Internet Radio [ edit ] Name Format Website Webcast Origin Power Hits HD Classic Rock powerhitshd.net listen live Laredo Notable people from Nuevo Laredo [ edit ] Norma Elia Cantú - Postmodernist writer and professor of English Mauricio González de la Garza - Journalist, writer and music composer Laredo Kid - Masked Professional Wrestler Arturo Santos Reyes - Boxer Miguel Treviño Morales - former leader of Los Zetas Erica Andrews - Actress, and drag performer. Carmen Sarahí García Sáenz - Singer, La Voz... México contestant, musical theatre actress, voice actress, former expomex queen. Gallery [ edit ] 
+
+Map of Laredo in 1892 Nuevo Laredo is shown at the bottom of the map. 
+
+Map of the Laredo-Nuevo Laredo Metropolitan Area 
+
+Federal Palace in Nuevo Laredo 
+
+Municipal Palace garden 
+
+Vicente Guerrero Monument 
+
+Statue of Hidalgo 
+
+Hidalgo Plaza Public Clock 
+
+ITNL Nuevo Laredo Institute of Technology 
+
+H-E-B in Plaza Real 
+
+Soriana in Plaza 2 Laredos 
+
+Camino Real Hotel currently Real Inn Hotel 
+
+Hilton Garden Inn currently Fiesta Inn Hotel See also [ edit ] Mexico portal References [ edit ] ^ Link to tables of population data from Census of 2010. INEGI: Instituto Nacional de Estadística Geografía e Informática ^ Longmire, Sylvia (5 May 2012). "Nuevo Laredo heats up as Sinaloa-Zetas conflict leaves 23 dead." . Mexico's drug war . Retrieved 12 May 2012 . ^ "Dissecting a Mexican Cartel Bombing in Monterrey" . Stratfor . Retrieved 8 December 2011 . ^ "Zetas are Mexico's 'largest drug gang', study says" . BBC News . 25 January 2012 . Retrieved 14 May 2012 . ^ "Estado de Tamaulipas-Estacion: Nuevo Laredo" . Normales Climatologicas 1951–2010 (in Spanish). Servicio Meteorológico Nacional . Retrieved 2 July 2015 . ^ [1] Archived February 19, 2009, at the Wayback Machine . ^ teamnafta.com;Nuevo Laredo Industrial Profile ^ "Transportation" . Ldfonline.org . Retrieved 2012-10-10 . ^ history of Parque Viveros ^ a b c Nuevo Laredo Culture ^ a b El Mañana Article of the Tecolotes de Nuevo Laredo and the newly built Ciudad Deportiva ^ World Stadiums ^ Bravos de Nuevo Laredo Official Website "La Pagina Brava" (Spanish) ^ Tecolotes de Nuevo Laredo Official Website External links [ edit ] Nuevo Laredo travel guide from Wikivoyage Ayuntamiento de Nuevo Laredo Official website (español) v t e Municipality of Nuevo Laredo Municipality seat Nuevo Laredo Populated Places El Campanario y Oradel Álvarez Nuevo Progreso América América II Los Artistas Miguel Alemán La Cruz Morelos La Esperanza Rural Villages El Bayito San Francisco Santo Domingo El Llano El Veintidós Chore Los Ciruelos El Francés El Michoacano San Fernando Santa Emilia El Charro La Pendencia Los Toritos San Isidro Grúas Mora La Rosita Los Tres Potrillos Dos Herraduras La Cruz Las Malvinas Los Garza Los Ramos Palo Blanco Ampliación Miguel Alemán Candelaria Don Lupe Dos Pollos Solos El Ebanito Cuarentenaria Francisco Villa La Herradura La Maceta Los Papalotes Palo Blanco Rogelio Cárdenas Buenavista Casa Blanca Club Cinegético El Chaparral El Estero El Perro El Refugio La Copa Lazaderos Lopeño Los Ramírez San Agustín San Antonio San Vicente Santa Anita Union v t e City of Nuevo Laredo Attractions 
+
+and Sports Bravos de Nuevo Laredo Casa de Cultura Centro Cultural Ciudad Deportiva Estadio Nuevo Laredo Estudiantes Tecnológico de Nuevo Laredo Gimnasio Multidisciplinario Nuevo Laredo Parque la Junta Parque Viveros Paseo Reforma Teatro de la Ciudad Toros de Nuevo Laredo History Catedral del Espíritu Santo Tomás Sánchez San Agustin de Laredo Historic District Republic of the Rio Grande Flag of the Republic of the Rio Grande Media Newspapers El Diario de Nuevo Laredo El Mañana Primera Hora Última Hora Laredo Morning Times LareDOS Zapata Times Television XEFE Televisa Regional 2.1 KGNS NBC–HD 8.1 KGNS-DT2 ABC–HD 8.2 KGNS-DT3 Telemundo 8.3 XHBR Canal de las Estrellas–HD 11.1 KYLX CBS–HD 13.1 KYLX-LD2 CW 13.2 KLMV BVB 15.1 KLMV-LD2 Infomercials 15.2 KLMV-LD3 Vida Vision 15.3 KLMV-LD4 Televida Laredo 15.4 XHLNA Azteca 13–HD 21.1 XHLNA-TDT2 Proyecto 40–HD 21.2 KLDO Univision–HD 27.1 KLDO-DT2 LATV 27.2 KETF UniMás 31.1 XHLAT Azteca 7–HD 33.1 KXOF-CD Fox–HD 39.1 KXOF-CD2 MundoMax 39.2 XHNAT Multimedios Plus 45.1 XHNAT-TDT2 Milenio TV–HD 45.2 XHNAT-TDT3 TeleRitmo 45.3 XHLAR Televisa Regional 57.1 Radio AM 790 XEFE 890 KVOZ 960 XEK 1000 XENLT 1090 XEWL 1300 KLAR 1340 XEBK 1370 XEGNK 1410 XEAS 1490 KLNT 1550 XENU FM 88.1 KHOY 88.9 XHLDO 89.9 KBNL 91.3 XHNOE 92.7 KJBZ 94.1 XHTLN 94.9 KQUR 95.7 XHBK 97.1 XHNLO 98.1 KRRG 99.3 XHNK 101.5 XHAS 102.3 XHMW 103.3 XHAHU 104.9 XHNLR 106.1 KNEX 106.5 La Tremenda 107.3 XHGTS Transportation Gateway to the Americas International Bridge Juárez-Lincoln International Bridge Texas-Mexican Railway International Bridge World Trade International Bridge Colombia-Solidarity International Bridge Mexican Federal Highway 2 Mexican Federal Highway 85 Mexican Federal Highway 85D Tamaulipas State Highway 1 v t e State of Tamaulipas Ciudad Victoria (capital) Major cities Altamira Ciudad Madero Ciudad Mante Ciudad Victoria Matamoros Miramar Nuevo Laredo Reynosa Río Bravo Tampico Valle Hermoso Municipalities Abasolo Aldama Altamira Antiguo Morelos Burgos Bustamante Camargo Casas Ciudad Madero Cruillas Gómez Farías González Güemez Guerrero Gustavo Díaz Ordaz Hidalgo Juamave Jiménez Llera Mainero El Mante Matamoros Méndez Mier Miguel Alemán Miquihuana Nuevo Laredo Nuevo Morelos Ocampo Padilla Palmillas Reynosa Río Bravo San Carlos San Fernando San Nicolás Soto la Marina Tampico Tula Valle Hermoso Victoria Villagrán Xicoténcatl 
+
+Coordinates : 27°29′10″N 99°30′25″W ﻿ / ﻿ 27.48611°N 99.50694°W ﻿ / 27.48611; -99.50694 (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Nuevo_Laredo oldid=745456775 " Categories : Nuevo Laredo Divided cities Laredo–Nuevo Laredo Mexico–United States border crossings Mexico–United States border towns Populated places established in 1755 Populated places in Tamaulipas Hidden categories: CS1 Spanish-language sources (es) Articles with Wayback Machine links Articles with Spanish-language external links Coordinates on Wikidata Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Wikivoyage Languages Asturianu Български Català Cebuano Dansk Deutsch Español Esperanto Euskara فارسی Français 한국어 Italiano עברית ქართული Ladino Latina Lietuvių Magyar Nederlands 日本語 Norsk bokmål Polski Português Русский Scots Simple English Српски / srpski Srpskohrvatski / српскохрватски Svenska Tagalog اردو Tiếng Việt Winaray 中文 Edit links This page was last modified on 21 October 2016, at 07:24. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.504", "walltime": "0.623", "ppvisitednodes": { "value": 5809, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 120857, "limit": 2097152 }, "templateargumentsize": { "value": 8745, "limit": 2097152 }, "expansiondepth": { "value": 16, "limit": 40 }, "expensivefunctioncount": { "value": 2, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 481.975 1 -total", " 27.03% 130.281 1 Template:Infobox_settlement", " 20.04% 96.607 2 Template:Infobox", " 16.34% 78.773 1 Template:Reflist", " 16.33% 78.702 1 Template:Weather_box", " 8.62% 41.541 5 Template:Navbox", " 6.51% 31.374 3 Template:Convert", " 6.51% 31.357 2 Template:Cite_news", " 4.43% 21.357 1 Template:Other_uses", " 4.14% 19.943 1 Template:Coord" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.141", "limit": "10.000" }, "limitreport-memusage": { "value": 5853853, "limit": 52428800 } }, "cachereport": { "origin": "mw1223", "timestamp": "20161021072405", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":75,"wgHostname":"mw1261"});});

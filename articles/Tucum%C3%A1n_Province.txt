@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Tucumán Province - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tucumán_Province","wgTitle":"Tucumán Province","wgCurRevisionId":721895853,"wgRevisionId":721895853,"wgArticleId":520448,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Spanish-language external links","CS1 Spanish-language sources (es)","Wikipedia page with obscure country or subdivision","Coordinates on Wikidata","Settlement articles requiring maintenance","Interlanguage link template link number","All articles with unsourced statements","Articles with unsourced statements from July 2013","Commons category with local link different than on Wikidata","Wikipedia articles incorporating a citation from the New International Encyclopedia","Tucumán Province","Provinces of Argentina","States and territories established in 1814"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tucumán_Province","wgRelevantArticleId":520448,"wgRequestId":"WAkitQpAIDIAAAnfqA4AAACO","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":-26.94,"lon":-65.34},"wgWikibaseItemId":"Q44829","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tucum%C3%A1n_Province"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tucum%C3%A1n_Province&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Tucum%C3%A1n_Province&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Tucum%C3%A1n_Province"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tucumán_Province rootpage-Tucumán_Province skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Tucumán Province</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">"Tucumán" redirects here. For other uses, see <a href="/wiki/Tucum%C3%A1n_(disambiguation)" class="mw-disambig" title="Tucumán (disambiguation)">Tucumán (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org">Tucumán</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><span class="category"><a href="/wiki/Provinces_of_Argentina" title="Provinces of Argentina">Province</a></span></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg" class="image" title="Flag of Tucumán"><img alt="Flag of Tucumán" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg/100px-Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg.png" width="100" height="64" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg/150px-Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg/200px-Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg.png 2x" data-file-width="700" data-file-height="450" /></a><br />
+<small><b>Flag</b></small></td>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Escudo_de_la_Provincia_de_Tucum%C3%A1n.svg" class="image" title="Coat of arms of Tucumán"><img alt="Coat of arms of Tucumán" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Escudo_de_la_Provincia_de_Tucum%C3%A1n.svg/100px-Escudo_de_la_Provincia_de_Tucum%C3%A1n.svg.png" width="100" height="116" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Escudo_de_la_Provincia_de_Tucum%C3%A1n.svg/150px-Escudo_de_la_Provincia_de_Tucum%C3%A1n.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Escudo_de_la_Provincia_de_Tucum%C3%A1n.svg/200px-Escudo_de_la_Provincia_de_Tucum%C3%A1n.svg.png 2x" data-file-width="687" data-file-height="794" /></a><br />
+<small><b>Coat of arms</b></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">Nickname(s): <span class="nickname"><br />
+<i>The Garden of the Republic</i></span></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Provincia_de_Tucum%C3%A1n_-_localizaci%C3%B3n_en_Argentina.svg" class="image" title="Location of Tucumán within Argentina"><img alt="Location of Tucumán within Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Provincia_de_Tucum%C3%A1n_-_localizaci%C3%B3n_en_Argentina.svg/250px-Provincia_de_Tucum%C3%A1n_-_localizaci%C3%B3n_en_Argentina.svg.png" width="250" height="435" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Provincia_de_Tucum%C3%A1n_-_localizaci%C3%B3n_en_Argentina.svg/375px-Provincia_de_Tucum%C3%A1n_-_localizaci%C3%B3n_en_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Provincia_de_Tucum%C3%A1n_-_localizaci%C3%B3n_en_Argentina.svg/500px-Provincia_de_Tucum%C3%A1n_-_localizaci%C3%B3n_en_Argentina.svg.png 2x" data-file-width="908" data-file-height="1581" /></a><br />
+<small>Location of Tucumán within Argentina</small></td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span style="white-space:nowrap"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Tucum%C3%A1n_Province&amp;params=-26.94_N_-65.34_E_type:city(1448188)_region:AR"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">26°56′S</span> <span class="longitude">65°20′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">26.94°S 65.34°W</span><span style="display:none">﻿ / <span class="geo">-26.94; -65.34</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Tucum%C3%A1n_Province&amp;params=-26.94_N_-65.34_E_type:city(1448188)_region:AR"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">26°56′S</span> <span class="longitude">65°20′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">26.94°S 65.34°W</span><span style="display:none">﻿ / <span class="geo">-26.94; -65.34</span></span></span></a></span></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Country</a></th>
+<td><a href="/wiki/Argentina" title="Argentina">Argentina</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Capital_(political)" class="mw-redirect" title="Capital (political)">Capital</a></th>
+<td><a href="/wiki/San_Miguel_de_Tucum%C3%A1n" title="San Miguel de Tucumán">San Miguel de Tucumán</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Departments_of_Argentina" title="Departments of Argentina">Departments</a></th>
+<td><a href="#Political_division">17</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Municipalities_of_Argentina" title="Municipalities of Argentina">Municipalities and rural communes</a></th>
+<td>112</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/List_of_Governors_of_Tucum%C3%A1n_Province" title="List of Governors of Tucumán Province">Governor</a></th>
+<td><a href="/wiki/Juan_Luis_Manzur" title="Juan Luis Manzur">Juan Luis Manzur</a> (<a href="/wiki/Justicialist_Party" title="Justicialist Party">PJ</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Chamber_of_Deputies_of_Argentina" class="mw-redirect" title="Chamber of Deputies of Argentina">Deputies</a></th>
+<td><a href="/wiki/List_of_current_Argentine_deputies#Tucum.C3.A1n_Province" title="List of current Argentine deputies">9</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Senate_of_Argentina" class="mw-redirect" title="Senate of Argentina">Senators</a></th>
+<td><a href="/wiki/List_of_current_Argentine_senators" title="List of current Argentine senators">3</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area<span style="font-weight:normal"><br />
+<a href="/wiki/Provinces_of_Argentina#Demographics" title="Provinces of Argentina">Ranked 22nd</a></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>22,524&#160;km<sup>2</sup> (8,697&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2010<sup id="cite_ref-INDEC_1-0" class="reference"><a href="#cite_note-INDEC-1">[1]</a></sup>)</span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>1,448,188</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Rank</th>
+<td><a href="/wiki/List_of_Argentine_provinces_by_population" title="List of Argentine provinces by population">6th</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>64/km<sup>2</sup> (170/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+<td><i>tucumano</i></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Time_in_Argentina" title="Time in Argentina">ART</a> (<a href="/wiki/UTC%E2%88%923" class="mw-redirect" title="UTC−3">UTC−3</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+<td class="nickname"><a href="/wiki/ISO_3166-2:AR" title="ISO 3166-2:AR">AR-T</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><span class="url"><a rel="nofollow" class="external text" href="http://www.tucuman.gov.ar">www<wbr />.tucuman<wbr />.gov<wbr />.ar</a></span></td>
+</tr>
+</table>
+<p><b>Tucumán</b> (<small>Spanish pronunciation:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_Spanish" title="Help:IPA for Spanish">[tukuˈman]</a></span>) is the most densely populated, and the smallest by land area, of the <a href="/wiki/Provinces_of_Argentina" title="Provinces of Argentina">provinces</a> of <a href="/wiki/Argentina" title="Argentina">Argentina</a>. Located in the northwest of the country, the province has the capital of <a href="/wiki/San_Miguel_de_Tucum%C3%A1n" title="San Miguel de Tucumán">San Miguel de Tucumán</a>, often shortened to Tucumán. Neighboring provinces are, clockwise from the north: <a href="/wiki/Salta_Province" title="Salta Province">Salta</a>, <a href="/wiki/Santiago_del_Estero_Province" title="Santiago del Estero Province">Santiago del Estero</a> and <a href="/wiki/Catamarca_Province" title="Catamarca Province">Catamarca</a>. It is nicknamed <b>El Jardín de la República</b> (<i>The Garden of the Republic</i>), as it is a highly productive agricultural area.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Geography"><span class="tocnumber">3</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Climate"><span class="tocnumber">4</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Economy"><span class="tocnumber">5</span> <span class="toctext">Economy</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Political_division"><span class="tocnumber">6</span> <span class="toctext">Political division</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tucum%C3%A1n_Province&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The word <i>Tucumán</i> probably originated from the <a href="/wiki/Quechua_languages" class="mw-redirect" title="Quechua languages">Quechua languages</a>. It may represent a deformation of the term <i>Yucumán</i>, which denotes the "place of origin of several rivers". It can also be a deformation of the word <i>Tucma</i>, which means "the end of things". Before Spanish colonization, the region lay in the outer limits of the <a href="/wiki/Inca_empire" class="mw-redirect" title="Inca empire">Inca empire</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tucum%C3%A1n_Province&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ruinas_Quilmes.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ruinas_Quilmes.jpg/220px-Ruinas_Quilmes.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ruinas_Quilmes.jpg/330px-Ruinas_Quilmes.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ruinas_Quilmes.jpg/440px-Ruinas_Quilmes.jpg 2x" data-file-width="1280" data-file-height="960" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ruinas_Quilmes.jpg" class="internal" title="Enlarge"></a></div>
+Ruins of the Quilmes civilization, a <a href="/wiki/Diaguita" title="Diaguita">Diaguita</a> culture in the area.</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Tucuman-CasaIndependencia1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tucuman-CasaIndependencia1.jpg/220px-Tucuman-CasaIndependencia1.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tucuman-CasaIndependencia1.jpg/330px-Tucuman-CasaIndependencia1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tucuman-CasaIndependencia1.jpg/440px-Tucuman-CasaIndependencia1.jpg 2x" data-file-width="2304" data-file-height="1728" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Tucuman-CasaIndependencia1.jpg" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/Casa_de_Tucum%C3%A1n" title="Casa de Tucumán">Tucumán House</a>. Argentine Independence was signed here in 1816.</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Calle_san_martin_cuando_se_llamaba_las_heras.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Calle_san_martin_cuando_se_llamaba_las_heras.jpg/220px-Calle_san_martin_cuando_se_llamaba_las_heras.jpg" width="220" height="135" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Calle_san_martin_cuando_se_llamaba_las_heras.jpg/330px-Calle_san_martin_cuando_se_llamaba_las_heras.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Calle_san_martin_cuando_se_llamaba_las_heras.jpg/440px-Calle_san_martin_cuando_se_llamaba_las_heras.jpg 2x" data-file-width="600" data-file-height="369" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Calle_san_martin_cuando_se_llamaba_las_heras.jpg" class="internal" title="Enlarge"></a></div>
+Downtown Tucumán in the 1920s.</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Tucuman_sugar_mill.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tucuman_sugar_mill.JPG/220px-Tucuman_sugar_mill.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tucuman_sugar_mill.JPG/330px-Tucuman_sugar_mill.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tucuman_sugar_mill.JPG/440px-Tucuman_sugar_mill.JPG 2x" data-file-width="1280" data-file-height="960" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Tucuman_sugar_mill.JPG" class="internal" title="Enlarge"></a></div>
+Sugar mill in <a href="/w/index.php?title=Ingenio_San_Pablo&amp;action=edit&amp;redlink=1" class="new" title="Ingenio San Pablo (page does not exist)">Ingenio San Pablo</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;(<a href="https://es.wikipedia.org/wiki/Ingenio_San_Pablo" class="extiw" title="es:Ingenio San Pablo">es</a>)</span></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Mercedes_Sosa,_by_Annemarie_Heinrich.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mercedes_Sosa%2C_by_Annemarie_Heinrich.jpg/220px-Mercedes_Sosa%2C_by_Annemarie_Heinrich.jpg" width="220" height="241" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mercedes_Sosa%2C_by_Annemarie_Heinrich.jpg/330px-Mercedes_Sosa%2C_by_Annemarie_Heinrich.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mercedes_Sosa%2C_by_Annemarie_Heinrich.jpg/440px-Mercedes_Sosa%2C_by_Annemarie_Heinrich.jpg 2x" data-file-width="600" data-file-height="657" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Mercedes_Sosa,_by_Annemarie_Heinrich.jpg" class="internal" title="Enlarge"></a></div>
+The late <a href="/wiki/Mercedes_Sosa" title="Mercedes Sosa">Mercedes Sosa</a>, a renowned folk singer from Tucumán</div>
+</div>
+</div>
+<p>Before the <a href="/wiki/Spanish_colonization_of_the_Americas" title="Spanish colonization of the Americas">Spanish colonization</a>, this land was inhabited by the <a href="/wiki/Diaguita" title="Diaguita">Diaguitas</a>, who practiced agriculture.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Zonificaci%C3%B3n_militar_1975.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Zonificaci%C3%B3n_militar_1975.png/220px-Zonificaci%C3%B3n_militar_1975.png" width="220" height="425" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Zonificaci%C3%B3n_militar_1975.png/330px-Zonificaci%C3%B3n_militar_1975.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Zonificaci%C3%B3n_militar_1975.png/440px-Zonificaci%C3%B3n_militar_1975.png 2x" data-file-width="520" data-file-height="1004" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Zonificaci%C3%B3n_militar_1975.png" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Operativo_Independencia" title="Operativo Independencia">Operativo Independencia</a>. Military zones of Argentina, 1975-1983 (Tucumán Province is in zone 3, the smallest province in the middle).</div>
+</div>
+</div>
+<p>In 1533 <a href="/wiki/Diego_de_Almagro" title="Diego de Almagro">Diego de Almagro</a> explored the <a href="/wiki/Argentine_Northwest" title="Argentine Northwest">Argentine Northwest</a>, including Tucumán.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup> In 1549 the Peruvian governor <a href="/wiki/Pedro_de_la_Gasca" title="Pedro de la Gasca">Pedro de la Gasca</a> granted <a href="/wiki/Juan_N%C3%BA%C3%B1ez_de_Prado_(conquistador)" title="Juan Núñez de Prado (conquistador)">Juan Núñez de Prado</a> the territory of Tucumán. Prado established the first Spanish settlement at the town of Barco on the <a href="/wiki/Dulce_River_(Argentina)" title="Dulce River (Argentina)">Dulce River</a>.<sup id="cite_ref-Moses1966_3-0" class="reference"><a href="#cite_note-Moses1966-3">[3]</a></sup> Prado named his province "Tucumán" after Tucumamahao, one of the leaders of the local people who formed an alliance with him.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> In 1552 <a href="/wiki/Francisco_de_Aguirre_(conquistador)" title="Francisco de Aguirre (conquistador)">Francisco de Aguirre</a> was dispatched to take possession of the territory for Chile. Aguirre followed a repressive policy, triggering a rebellion by the native people. Outnumbered, the colonists were forced to move in 1553 to a new location, where they founded the town of <a href="/wiki/Santiago_del_Estero" title="Santiago del Estero">Santiago del Estero</a>.<sup id="cite_ref-Moses1966_3-1" class="reference"><a href="#cite_note-Moses1966-3">[3]</a></sup></p>
+<p>By 1565 Diego de Villaroel founded <i>San Miguel de Tucumán</i> and the <i>Provincia de Tucumán, Juríes y Diaguitas</i> was organized. Because of frequent attacks by the indigenous peoples, the <a href="/wiki/Mal%C3%B3n" title="Malón">Malones</a>, in 1685 San Miguel de Tucumán was moved by Miguel de Salas some 65 kilometres from its first location, where it was redeveloped. The regional aborigines of the region presented a strong resistance to the Spanish, who decided to move the defeated tribes toward <a href="/wiki/Buenos_Aires" title="Buenos Aires">Buenos Aires</a>. The most noted of these relocations was the case of the <a href="/wiki/Quilmes_(tribe)" class="mw-redirect" title="Quilmes (tribe)">Quilmes</a>, who were moved to the city of <a href="/wiki/Quilmes,_Buenos_Aires" class="mw-redirect" title="Quilmes, Buenos Aires">Quilmes</a>.</p>
+<p>Tucumán was a midpoint for shipments of gold and silver from the <a href="/wiki/Viceroyalty_of_Peru" title="Viceroyalty of Peru">Viceroyalty of Peru</a> to <a href="/wiki/Buenos_Aires" title="Buenos Aires">Buenos Aires</a>. It produced cattle, textiles, and wood products that provided supplies for the convoys on their way to Buenos Aires. Because of its important geographical position, and as head of the civil and Catholic governments it acquired special importance during the 18th century.</p>
+<p>The creation of the <a href="/wiki/Viceroyalty_of_the_R%C3%ADo_de_la_Plata" title="Viceroyalty of the Río de la Plata">Viceroyalty of the Río de la Plata</a> in 1776 meant the end of the convoys from Perú to Buenos Aires. Tucumán, with 20,000 inhabitants by that time, suffered also from the <a href="/wiki/United_Kingdom" title="United Kingdom">British</a> imports from the newly opened customs of Buenos Aires, no longer under the monopoly of the Spanish Crown.</p>
+<p>In 1783 the Intendency of Tucumán was divided; Tucumán was set under the control of the Intendency of Salta del Tucumán, with its centre in <a href="/wiki/Salta" title="Salta">Salta</a>. <a href="/wiki/Jos%C3%A9_de_San_Mart%C3%ADn" title="José de San Martín">José de San Martín</a> arrived in Tucumán in 1813 and installed the Military School. In 1814 the Intendency of Salta was divided into the present provinces.</p>
+<p>On July 9, 1816, at the <a href="/wiki/Congress_of_Tucum%C3%A1n" title="Congress of Tucumán">Congress of Tucumán</a>, the <i>Provincias Unidas del Río de la Plata</i> ("United Provinces of the Río de la Plata") declared their independence from <a href="/wiki/Spain" title="Spain">Spain</a>. Internal conflicts delayed the final fusion of the provinces into the <i>República Argentina</i>.</p>
+<p>Following the failure of Argentina's first independence-era government, the <a href="/wiki/Supreme_Director_of_the_United_Provinces_of_the_R%C3%ADo_de_la_Plata" title="Supreme Director of the United Provinces of the Río de la Plata">Directorio</a>, Governor <a href="/wiki/Bernab%C3%A9_Ar%C3%A1oz" title="Bernabé Aráoz">Bernabé Aráoz</a> on March 22, 1820, proclaimed the creation of the "<a href="/wiki/Federal_Republic_of_Tucum%C3%A1n" class="mw-redirect" title="Federal Republic of Tucumán">Federal Republic of Tucumán</a>." The experiment collapsed, however, when the neighboring provinces of <a href="/wiki/Catamarca_Province" title="Catamarca Province">Catamarca</a> and <a href="/wiki/Santiago_del_Estero_Province" title="Santiago del Estero Province">Santiago del Estero</a> withdrew the following year.</p>
+<p>The beginning of the 20th century, with the customs restrictions and the arrival of the <a href="/wiki/Rail_transport_in_Argentina" title="Rail transport in Argentina">railway</a>, brought prosperous economic times for the province and its <a href="/wiki/Sugarcane" title="Sugarcane">sugarcane</a> production. Numerous landmarks were built, such as <a href="/wiki/Ninth_of_July_Park" title="Ninth of July Park">Ninth of July Park</a> and the <a href="/wiki/Tucum%C3%A1n_Government_Palace" title="Tucumán Government Palace">Tucumán Government Palace</a>, and a daily newspaper founded in 1912, <i><a href="/wiki/La_Gaceta_(Tucum%C3%A1n)" title="La Gaceta (Tucumán)">La Gaceta</a></i>, became the most circulated Argentine daily outside <a href="/wiki/Buenos_Aires" title="Buenos Aires">Buenos Aires</a>; but, the sugar price crisis of the 1960s and President <a href="/wiki/Juan_Carlos_Ongan%C3%ADa" title="Juan Carlos Onganía">Juan Carlos Onganía</a>'s order to have eleven large state-owned sugar mills closed in 1966, hit Tucumán's economy hard, and ushered in an era of instability for the province.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>In 1975, President <a href="/wiki/Isabel_Per%C3%B3n" class="mw-redirect" title="Isabel Perón">Isabel Perón</a> declared a state of emergency in the province. The decree led to <a href="/wiki/Operativo_Independencia" title="Operativo Independencia">Operation Independence</a>, an official military campaign at least as brutal on local magistrates, lawmakers and faculty as it was on its stated target, the <a href="/wiki/People%27s_Revolutionary_Army_(Argentina)" title="People's Revolutionary Army (Argentina)">ERP</a>. Violence did not fully abate until the appointment of General <a href="/wiki/Antonio_Domingo_Bussi" title="Antonio Domingo Bussi">Antonio Domingo Bussi</a>, the operation's commander, as governor at the behest of the <a href="/wiki/National_Reorganization_Process" title="National Reorganization Process">dictatorship</a> that deposed Perón in 1976. Efficient as well as ruthless, Bussi oversaw the completion of several stalled public works; but, also presided over some of the worst human rights abuses during that painful 1976-77 period.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> Retaining a sizable following, Bussi was elected governor in his own right in 1995, but lost much of his earlier popularity during his four-year tenure.</p>
+<p>Life in Tucumán has since returned to a certain normality. Its economy has recovered strongly during the expansive period Argentina has had in the decade since 2002. <a href="/wiki/Jos%C3%A9_Alperovich" title="José Alperovich">José Alperovich</a>, elected governor in 2003, has presided over record investment in public works while reaping criticism for attempts to eliminate <a href="/wiki/Term_limit" title="Term limit">term limits</a> for his office.</p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tucum%C3%A1n_Province&amp;action=edit&amp;section=3" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Dique_angostura_tucuman.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dique_angostura_tucuman.JPG/220px-Dique_angostura_tucuman.JPG" width="220" height="144" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dique_angostura_tucuman.JPG/330px-Dique_angostura_tucuman.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dique_angostura_tucuman.JPG/440px-Dique_angostura_tucuman.JPG 2x" data-file-width="1165" data-file-height="763" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Dique_angostura_tucuman.JPG" class="internal" title="Enlarge"></a></div>
+Tucumán: La Angostura Lake</div>
+</div>
+</div>
+<p>Despite Tucumán's small size, it has two main different geographical systems. The east is associated with the <a href="/wiki/Gran_Chaco" title="Gran Chaco">Gran Chaco</a> flat lands, while the west presents a mixture of the Sierras of the <a href="/wiki/Pampa" class="mw-redirect" title="Pampa">Pampas</a> to the south and the canyons of the <a href="/wiki/Argentine_Northwest" title="Argentine Northwest">Argentine Northwest</a> to the north. The <i><a href="/wiki/Cerro_del_Bols%C3%B3n" title="Cerro del Bolsón">Cerro del Bolsón</a></i> is the highest peak at an elevation of 5,550 metres (18,209&#160;ft).</p>
+<p>The Salí is the province’s main river. Tucumán also has four dams that are used for hydroelectricity and irrigation: El Cadillal on Salí River, the province’s most important dam; Embalse Río Hondo on the Hondo River; La Angostura on de los Sosa River; and Escaba on the Marapa River. The Santa María River crosses the <a href="/wiki/Valles_Calchaqu%C3%ADes" class="mw-redirect" title="Valles Calchaquíes">Valles Calchaquíes</a>.</p>
+<h2><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tucum%C3%A1n_Province&amp;action=edit&amp;section=4" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/Climate_of_Argentina" title="Climate of Argentina">Climate of Argentina</a> and <a href="/wiki/Climatic_regions_of_Argentina" title="Climatic regions of Argentina">Climatic regions of Argentina</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:TafidelValle_Tucuman.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TafidelValle_Tucuman.JPG/220px-TafidelValle_Tucuman.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TafidelValle_Tucuman.JPG/330px-TafidelValle_Tucuman.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TafidelValle_Tucuman.JPG/440px-TafidelValle_Tucuman.JPG 2x" data-file-width="1280" data-file-height="960" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:TafidelValle_Tucuman.JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Taf%C3%AD_del_Valle" title="Tafí del Valle">Tafí del Valle</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Cristo_Bendicente-Tucuman.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Cristo_Bendicente-Tucuman.JPG/220px-Cristo_Bendicente-Tucuman.JPG" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Cristo_Bendicente-Tucuman.JPG/330px-Cristo_Bendicente-Tucuman.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Cristo_Bendicente-Tucuman.JPG/440px-Cristo_Bendicente-Tucuman.JPG 2x" data-file-width="600" data-file-height="800" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Cristo_Bendicente-Tucuman.JPG" class="internal" title="Enlarge"></a></div>
+Cristo Bendicente by the renowned tucumano artist Juan Carlos Iramain, on top of Cerro San Javier.</div>
+</div>
+</div>
+<p>Tucuman lies at the convergence of temperate climates and tropical climates further north, retaining characteristics of both in the lowlands. Furthermore, it is highly monsoonal, and depends also on elevation. As a rule of thumb, the far east is dryer and hotter, whereas the Piedmont sees many storms in the summer which moderate temperatures. The first foothills are very humid, provoking a dense jungle, and as altitude increases, a thick forest and then cool grasslands. The westernmost areas are once again a bit dryer because of a rain shadow.</p>
+<p>The eastern parts have an average annual temperature of 18 to 20&#160;°C (64.4 to 68.0&#160;°F).<sup id="cite_ref-Sesma1998_7-0" class="reference"><a href="#cite_note-Sesma1998-7">[7]</a></sup> Summers are hot with mean temperatures averaging between 24 to 26&#160;°C (75.2 to 78.8&#160;°F) while in winter, the mean temperatures are between 10 to 12&#160;°C (50.0 to 53.6&#160;°F).<sup id="cite_ref-Sesma1998_7-1" class="reference"><a href="#cite_note-Sesma1998-7">[7]</a></sup><sup id="cite_ref-Bravo_8-0" class="reference"><a href="#cite_note-Bravo-8">[8]</a></sup> Easternmost parts of the province, which borders the Chaco region are home to the highest and lowest temperatures in the province where absolute maximum temperatures can exceed 40&#160;°C (104.0&#160;°F) while absolute minimum temperatures can reach close to −7&#160;°C (19.4&#160;°F) owing to the accumulation of cold air that descends from the mountains.<sup id="cite_ref-Sesma1998_7-2" class="reference"><a href="#cite_note-Sesma1998-7">[7]</a></sup><sup id="cite_ref-IRNtucuman_9-0" class="reference"><a href="#cite_note-IRNtucuman-9">[9]</a></sup> At higher altitudes, the climate is cooler with summer temperatures averaging 20&#160;°C (68.0&#160;°F) and winter temperatures averaging 10&#160;°C (50.0&#160;°F).<sup id="cite_ref-Sesma1998_7-3" class="reference"><a href="#cite_note-Sesma1998-7">[7]</a></sup> The annual temperature in the higher altitudes is between 12 to 14&#160;°C (53.6 to 57.2&#160;°F) at an altitude of 2,500 metres (8,202.1&#160;ft) above sea level.<sup id="cite_ref-IRNtucuman_9-1" class="reference"><a href="#cite_note-IRNtucuman-9">[9]</a></sup> Within the valleys located between the mountains, temperatures are cooler with a mean annual temperature of 13.1&#160;°C (55.6&#160;°F) (summers average 17.1&#160;°C (62.8&#160;°F) while winters average 9.0&#160;°C (48.2&#160;°F)) in the Tafi valley.<sup id="cite_ref-Sesma1998_7-4" class="reference"><a href="#cite_note-Sesma1998-7">[7]</a></sup></p>
+<p>Precipitation in the lowlands ranges from 600&#160;mm (24&#160;in) in the east, to close to 1,200&#160;mm in the foothills (48&#160;in), in a very monsoonal pattern with 4-5 completely dry winter months, and a peak of about 200&#160;mm (7.9&#160;in) in the rainiest summer month.</p>
+<p>The eastward facing slopes concentrate not only the heaviest precipitation, with spots around 1,800&#160;mm (71&#160;in) falling mostly in the 5 months of the summer monsoon; they also have a unique characteristic, which is that during part of the year, they are constantly immersed in a thick fog, providing humidity for the development of a thick jungle. The climate quickly becomes decidedly temperate with altitude, supporting different kinds of forest which even receive some snow every winter, finally reaching high-altitude grasslands with cool, windy weather year-round.</p>
+<p>The abundant precipitation creates a wide area of abundant vegetation and justifies Tucumán’s title of "Jardín de la República" (Garden of the Republic).</p>
+<h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tucum%C3%A1n_Province&amp;action=edit&amp;section=5" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Tucuman_1853d.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tucuman_1853d.JPG/220px-Tucuman_1853d.JPG" width="220" height="153" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tucuman_1853d.JPG/330px-Tucuman_1853d.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tucuman_1853d.JPG/440px-Tucuman_1853d.JPG 2x" data-file-width="1111" data-file-height="773" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Tucuman_1853d.JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/San_Miguel_de_Tucum%C3%A1n" title="San Miguel de Tucumán">San Miguel de Tucumán</a>.</div>
+</div>
+</div>
+<p>Long among the most underdeveloped Argentine provinces, Tucumán Province has been growing strongly, and, in 2006, its economy reached US$7.2 billion (which shall be around US$11 billion in 2011, according to Argentina's economical growing), the nation's 7th largest. Its per capita output of US$5,400 (around US$7,900 in 2011) was nearly 40% below the national average but compares favourably with that of most of its neighbors.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> In 2012, the per capita income of the province is of 8,000 dollars</p>
+<p>Known internationally for its prodigious <a href="/wiki/Sugarcane" title="Sugarcane">sugarcane</a> (with 2,300&#160;km², and the sugar production, 60% of the country's), Tucumán's economy is quite diversified and agriculture accounts for about 7% of output. After the sugar crisis of the 1960s, Tucumán tried to diversify its crops and now cultivates, among others, <a href="/wiki/Lemons" class="mw-redirect" title="Lemons">lemons</a> (world 1st. producer), <a href="/wiki/Strawberries" class="mw-redirect" title="Strawberries">strawberries</a>, <a href="/wiki/Kiwifruit" title="Kiwifruit">kiwifruit</a>, <a href="/wiki/Beans" class="mw-redirect" title="Beans">beans</a>, <a href="/wiki/Maize" title="Maize">maize</a>, <a href="/wiki/Alfalfa" title="Alfalfa">alfalfa</a>, and <a href="/wiki/Soybean" title="Soybean">soybeans</a>.</p>
+<p>Cattle, sheep, and goats are raised mainly for local consumption.</p>
+<p><a href="/wiki/Manufacturing" title="Manufacturing">Manufacturing</a> in Tucumán initially centered on sugar production but has diversified significantly since 1960. Sugar mills add about 15% to the total economy. Besides the industrialisation of the sugarcane into sugar, paper, and alcohol, there are food, textile, <a href="/wiki/Automotive_industry" title="Automotive industry">automotive</a>, and metallurgical industries. Among the latter, the freight-<a href="/wiki/Truck" title="Truck">truck</a> assembly operated by the <a href="/wiki/Volkswagen_Group" title="Volkswagen Group">Volkswagen Group</a> controlled <a href="/wiki/Sweden" title="Sweden">Swedish</a> <a href="/wiki/Scania_(company)" class="mw-redirect" title="Scania (company)">Scania</a> company is probably the best known. Mining is a minor activity, centered on salt, clay, lime and other non-metallic extractions.</p>
+<p>Cultural and sport tourism is common in the province, and attracts a number of Argentine tourists every year. The <a href="/wiki/Panamerican_Highway" class="mw-redirect" title="Panamerican Highway">Panamerican Highway</a> (<a href="/wiki/National_Route_9_(Argentina)" title="National Route 9 (Argentina)">Route 9</a>) crosses <a href="/wiki/San_Miguel_de_Tucum%C3%A1n" title="San Miguel de Tucumán">San Miguel de Tucumán</a>, and connects it with <a href="/wiki/Santiago_del_Estero" title="Santiago del Estero">Santiago del Estero</a> and Buenos Aires. The city also serves as a mid-stop for tourists visiting other provinces of the Argentine Northwest. The <a href="/wiki/Teniente_General_Benjam%C3%ADn_Matienzo_International_Airport" title="Teniente General Benjamín Matienzo International Airport">Teniente General Benjamín Matienzo International Airport</a> have regular flights to <a href="/wiki/Buenos_Aires" title="Buenos Aires">Buenos Aires</a> and <a href="/wiki/Santa_Cruz_de_la_Sierra" title="Santa Cruz de la Sierra">Santa Cruz de la Sierra</a>, and receives almost 300,000&#160;passengers every year.</p>
+<p>The most visited destinations of the Province are the <a href="/wiki/Campo_de_los_Alisos_National_Park" title="Campo de los Alisos National Park">Campo de los Alisos National Park</a>, <a href="/wiki/Valles_Calchaqu%C3%ADes" class="mw-redirect" title="Valles Calchaquíes">Valles Calchaquíes</a>, <a href="/wiki/Taf%C3%AD_del_Valle" title="Tafí del Valle">Tafí del Valle</a>, <a href="/wiki/Ruins_of_Quilmes" title="Ruins of Quilmes">Ruins of Quilmes</a>, the <a href="/wiki/Diaguita" title="Diaguita">Diaguita</a> community of <a href="/wiki/Amaicha_del_Valle" title="Amaicha del Valle">Amaicha del Valle</a>, and the city of <a href="/wiki/San_Miguel_de_Tucum%C3%A1n" title="San Miguel de Tucumán">San Miguel de Tucumán</a>.</p>
+<p>There are four important universities in the province: the <a href="/wiki/Universidad_Nacional_de_Tucum%C3%A1n" class="mw-redirect" title="Universidad Nacional de Tucumán">Universidad Nacional de Tucumán</a> (with 60,000 students), the <a href="/wiki/Universidad_Tecnol%C3%B3gica_Nacional" class="mw-redirect" title="Universidad Tecnológica Nacional">Universidad Tecnológica Nacional</a>, <a href="/wiki/Universidad_del_Norte_Santo_Tom%C3%A1s_de_Aquino" class="mw-redirect" title="Universidad del Norte Santo Tomás de Aquino">Universidad del Norte Santo Tomás de Aquino</a> and the <a href="/wiki/Universidad_de_San_Pablo-T" class="mw-redirect" title="Universidad de San Pablo-T">Universidad de San Pablo-T</a>.</p>
+<h2><span class="mw-headline" id="Political_division">Political division</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tucum%C3%A1n_Province&amp;action=edit&amp;section=6" title="Edit section: Political division">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The province is divided into 17 <a href="/wiki/Departments_of_Argentina" title="Departments of Argentina">departments</a> (Spanish departamentos).</p>
+<table>
+<tr>
+<td>
+<table cellpadding="2" cellspacing="0" border="1">
+<tr>
+<th>Department</th>
+<th>Population</th>
+<th>Area</th>
+<th>Seat</th>
+</tr>
+<tr>
+<td><a href="/wiki/Burruyac%C3%BA_Department" title="Burruyacú Department">Burruyacú</a></td>
+<td>32,936</td>
+<td>3,605&#160;km²</td>
+<td><a href="/wiki/Burruyac%C3%BA" title="Burruyacú">Burruyacú</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Capital_Department,_Tucum%C3%A1n" title="Capital Department, Tucumán">Capital</a></td>
+<td>527,607</td>
+<td>90&#160;km²</td>
+<td><a href="/wiki/San_Miguel_de_Tucum%C3%A1n" title="San Miguel de Tucumán">San Miguel de Tucumán</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Chicligasta_Department" title="Chicligasta Department">Chicligasta</a></td>
+<td>75,133</td>
+<td>1,267&#160;km²</td>
+<td><a href="/wiki/Concepci%C3%B3n,_Tucum%C3%A1n" title="Concepción, Tucumán">Concepción</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Cruz_Alta_Department" title="Cruz Alta Department">Cruz Alta</a></td>
+<td>162,240</td>
+<td>1,255&#160;km²</td>
+<td><a href="/wiki/Banda_del_R%C3%ADo_Sal%C3%AD" title="Banda del Río Salí">Banda del Río Salí</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Famaill%C3%A1_Department,_Tucum%C3%A1n" title="Famaillá Department, Tucumán">Famaillá</a></td>
+<td>30,951</td>
+<td>427&#160;km²</td>
+<td><a href="/wiki/Famaill%C3%A1" title="Famaillá">Famaillá</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Graneros_Department" title="Graneros Department">Graneros</a></td>
+<td>13,063</td>
+<td>1,678&#160;km²</td>
+<td><a href="/wiki/Graneros" title="Graneros">Graneros</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Juan_Bautista_Alberdi_Department" title="Juan Bautista Alberdi Department">Juan Bautista Alberdi</a></td>
+<td>28,206</td>
+<td>730&#160;km²</td>
+<td><a href="/wiki/Juan_Bautista_Alberdi,_Tucum%C3%A1n" title="Juan Bautista Alberdi, Tucumán">Juan Bautista Alberdi</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/La_Cocha_Department" title="La Cocha Department">La Cocha</a></td>
+<td>17,683</td>
+<td>917&#160;km²</td>
+<td><a href="/wiki/La_Cocha" title="La Cocha">La Cocha</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Leales_Department" title="Leales Department">Leales</a></td>
+<td>51,090</td>
+<td>2,027&#160;km²</td>
+<td><a href="/wiki/Bella_Vista,_Tucum%C3%A1n" title="Bella Vista, Tucumán">Bella Vista</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Lules_Department" title="Lules Department">Lules</a></td>
+<td>57,235</td>
+<td>540&#160;km²</td>
+<td><a href="/wiki/Lules" title="Lules">Lules</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Monteros_Department" title="Monteros Department">Monteros</a></td>
+<td>58,442</td>
+<td>1,169&#160;km²</td>
+<td><a href="/wiki/Monteros" title="Monteros">Monteros</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Rio_Chico_Department,_Tucum%C3%A1n" class="mw-redirect" title="Rio Chico Department, Tucumán">Rio Chico</a></td>
+<td>52,925</td>
+<td>585&#160;km²</td>
+<td><a href="/wiki/Aguilares,_Tucum%C3%A1n" class="mw-redirect" title="Aguilares, Tucumán">Aguilares</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Simoca_Department" title="Simoca Department">Simoca</a></td>
+<td>29,932</td>
+<td>1,261&#160;km²</td>
+<td><a href="/wiki/Simoca" title="Simoca">Simoca</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Taf%C3%AD_del_Valle_Department" title="Tafí del Valle Department">Tafí del Valle</a></td>
+<td>13,883</td>
+<td>2,741&#160;km²</td>
+<td><a href="/wiki/Taf%C3%AD_del_Valle" title="Tafí del Valle">Tafí del Valle</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Taf%C3%AD_Viejo_Department" title="Tafí Viejo Department">Tafí Viejo</a></td>
+<td>108,017</td>
+<td>1,210&#160;km²</td>
+<td><a href="/wiki/Taf%C3%AD_Viejo,_Tucum%C3%A1n" title="Tafí Viejo, Tucumán">Tafí Viejo</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Trancas_Department" title="Trancas Department">Trancas</a></td>
+<td>15,473</td>
+<td>2,862&#160;km²</td>
+<td><a href="/wiki/Trancas,_Argentina" title="Trancas, Argentina">Trancas</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Yerba_Buena_Department" title="Yerba Buena Department">Yerba Buena</a></td>
+<td>63,707</td>
+<td>160&#160;km²</td>
+<td><a href="/wiki/Yerba_Buena,_Tucum%C3%A1n" title="Yerba Buena, Tucumán">Yerba Buena</a></td>
+</tr>
+</table>
+</td>
+<td style="vertical-align:top;">
+<div class="thumb tright">
+<div class="thumbinner" style="width:327px;"><a href="/wiki/File:Tucum%C3%A1n_province,_departments_and_its_capital.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Tucum%C3%A1n_province%2C_departments_and_its_capital.png/325px-Tucum%C3%A1n_province%2C_departments_and_its_capital.png" width="325" height="255" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Tucum%C3%A1n_province%2C_departments_and_its_capital.png/488px-Tucum%C3%A1n_province%2C_departments_and_its_capital.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Tucum%C3%A1n_province%2C_departments_and_its_capital.png/650px-Tucum%C3%A1n_province%2C_departments_and_its_capital.png 2x" data-file-width="704" data-file-height="553" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Tucum%C3%A1n_province,_departments_and_its_capital.png" class="internal" title="Enlarge"></a></div>
+Departments of Tucumán Province.</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tucum%C3%A1n_Province&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/List_of_Governors_of_Tucum%C3%A1n_Province" title="List of Governors of Tucumán Province">List of Governors of Tucumán Province</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tucum%C3%A1n_Province&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-INDEC-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-INDEC_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://200.51.91.231/censo2010/">"Censo 2010 Argentina resultados definitivos: mapas"</a>. 200.51.91.231<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-08-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATucum%C3%A1n+Province&amp;rft.btitle=Censo+2010+Argentina+resultados+definitivos%3A+mapas&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2F200.51.91.231%2Fcenso2010%2F&amp;rft.pub=200.51.91.231&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.tucuman.gov.ar/turismo/turismo.php">El nombre "Tucumán"</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Spanish)</span></span></li>
+<li id="cite_note-Moses1966-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Moses1966_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Moses1966_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFMoses1966" class="citation book">Moses, Bernard (November 1966). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=qVPyLszkrrwC&amp;pg=PA184"><i>The Spanish Dependencies In South America</i></a>. Routledge. pp.&#160;184–186. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7146-2034-3" title="Special:BookSources/978-0-7146-2034-3">978-0-7146-2034-3</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATucum%C3%A1n+Province&amp;rft.aufirst=Bernard&amp;rft.aulast=Moses&amp;rft.btitle=The+Spanish+Dependencies+In+South+America&amp;rft.date=1966-11&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DqVPyLszkrrwC%26pg%3DPA184&amp;rft.isbn=978-0-7146-2034-3&amp;rft.pages=184-186&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFPage1859" class="citation book">Page, Thomas Jefferson (1859). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=PVhDAAAAIAAJ&amp;pg=PA404"><i>La Plata, the argentine Confederation, and Paraguay: Being a narrative of the exploration of the tributaries of the river La Plata and adjacent countries during the years 1853, '54, '55, and '56, under the orders of the United States government</i></a>. Trubner &amp; Co. p.&#160;404<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATucum%C3%A1n+Province&amp;rft.aufirst=Thomas+Jefferson&amp;rft.aulast=Page&amp;rft.btitle=La+Plata%2C+the+argentine+Confederation%2C+and+Paraguay%3A+Being+a+narrative+of+the+exploration+of+the+tributaries+of+the+river+La+Plata+and+adjacent+countries+during+the+years+1853%2C+%2754%2C+%2755%2C+and+%2756%2C+under+the+orders+of+the+United+States+government&amp;rft.date=1859&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DPVhDAAAAIAAJ%26pg%3DPA404&amp;rft.pages=404&amp;rft.pub=Trubner+%26+Co.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.arztucuman.org.ar/pap/capitulo3_pap_1_2.htm">Archdiocese of Tucumán</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Andersen, Martin. <i>Dossier Secreto.</i> Westview Press, 1993.</span></li>
+<li id="cite_note-Sesma1998-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sesma1998_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sesma1998_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Sesma1998_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Sesma1998_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Sesma1998_7-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Sesma, Pablo; Guido, Elvira; Puchulu, Maria (1998). <a rel="nofollow" class="external text" href="http://www.csnat.unt.edu.ar/ed/public/investigacion/geologia/Clima%20en%20Libro%20Geol.%20Tuc.%201998.pdf">"Clima de la Provincia de Tucuman"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">1 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATucum%C3%A1n+Province&amp;rft.aufirst=Pablo&amp;rft.au=Guido%2C+Elvira&amp;rft.aulast=Sesma&amp;rft.au=Puchulu%2C+Maria&amp;rft.btitle=Clima+de+la+Provincia+de+Tucuman&amp;rft.date=1998&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.csnat.unt.edu.ar%2Fed%2Fpublic%2Finvestigacion%2Fgeologia%2FClima%2520en%2520Libro%2520Geol.%2520Tuc.%25201998.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bravo-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Bravo_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Bravo, Gonzalo; Bianchi, Alberto; Volante, José; Salas, Susana; Sempronii, Guillermo; Vicini, Luis; Fernandez, Miguel. <a rel="nofollow" class="external text" href="http://www.produccion-animal.com.ar/regiones_ganaderas/22-Informe_regiones_agroec.pdf">"Regiones Agroeconómicas del Noroeste Argentino"</a> <span style="font-size:85%;">(PDF)</span> (in Spanish). Instituto Nacional de Tecnología Agropecuaria<span class="reference-accessdate">. Retrieved <span class="nowrap">1 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATucum%C3%A1n+Province&amp;rft.au=Bianchi%2C+Alberto&amp;rft.au=Fernandez%2C+Miguel&amp;rft.aufirst=Gonzalo&amp;rft.aulast=Bravo&amp;rft.au=Salas%2C+Susana&amp;rft.au=Sempronii%2C+Guillermo&amp;rft.au=Vicini%2C+Luis&amp;rft.au=Volante%2C+Jos%C3%A9&amp;rft.btitle=Regiones+Agroecon%C3%B3micas+del+Noroeste+Argentino&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.produccion-animal.com.ar%2Fregiones_ganaderas%2F22-Informe_regiones_agroec.pdf&amp;rft.pub=Instituto+Nacional+de+Tecnolog%C3a+Agropecuaria&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-IRNtucuman-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-IRNtucuman_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IRNtucuman_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150830200033/http://www.mineria.gob.ar/estudios/irn/tucuman/t-2.asp">"Provincia de Tucuman–Clima Y Metéorologia"</a> (in Spanish). Secretaria de Mineria de la Nacion (Argentina). Archived from <a rel="nofollow" class="external text" href="http://www.mineria.gob.ar/estudios/irn/tucuman/t-2.asp#m1">the original</a> on August 30, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">August 2,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATucum%C3%A1n+Province&amp;rft.btitle=Provincia+de+Tucuman%93Clima+Y+Met%C3%A9orologia&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mineria.gob.ar%2Festudios%2Firn%2Ftucuman%2Ft-2.asp%23m1&amp;rft.pub=Secretaria+de+Mineria+de+la+Nacion+%28Argentina%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.iader.org.ar/">"I.A.D.E.R"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATucum%C3%A1n+Province&amp;rft.btitle=I.A.D.E.R&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.iader.org.ar%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tucum%C3%A1n_Province&amp;action=edit&amp;section=9" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Juarez-Dappe, Patricia (2010). <i>When Sugar Ruled: Economy and Society in Northwestern Argentina, Tucuman, 1876-1916</i>. Ohio University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATucum%C3%A1n+Province&amp;rft.aufirst=Patricia&amp;rft.aulast=Juarez-Dappe&amp;rft.btitle=When+Sugar+Ruled%3A+Economy+and+Society+in+Northwestern+Argentina%2C+Tucuman%2C+1876-1916&amp;rft.date=2010&amp;rft.genre=book&amp;rft.pub=Ohio+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tucum%C3%A1n_Province&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Tucum%C3%A1n" class="extiw" title="commons:Category:Tucumán">Tucumán</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.tucuman.gov.ar">Tucuman.gov.ar</a> Tucuman Province Official Website</li>
+<li><a rel="nofollow" class="external text" href="http://www.tucumanturismo.gob.ar">www.TucumanTurismo.gob.ar</a> Tucuman Tourism Official Website</li>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">"<a href="https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Tucum%C3%A1n_(province)" class="extiw" title="s:The New International Encyclopædia/Tucumán (province)">Tucumán. The smallest and most densely populated province of Argentina</a>". <i><a href="/wiki/New_International_Encyclopedia" title="New International Encyclopedia">New International Encyclopedia</a></i>. 1905.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATucum%C3%A1n+Province&amp;rft.atitle=Tucum%C3%A1n.+The+smallest+and+most+densely+populated+province+of+Argentina&amp;rft.btitle=New+International+Encyclopedia&amp;rft.date=1905&amp;rft.genre=bookitem&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Departments_of_Tucum.C3.A1n_Province" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Departments_Tucum%C3%A1n" title="Template:Departments Tucumán"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Departments_Tucum%C3%A1n" title="Template talk:Departments Tucumán"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Departments_Tucum%C3%A1n&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Departments_of_Tucum.C3.A1n_Province" style="font-size:114%"><a href="/wiki/Departments_of_Argentina" title="Departments of Argentina">Departments</a> of <strong class="selflink">Tucumán Province</strong></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-image" rowspan="1" style="width:0%;padding:0px 2px 0px 0px">
+<div><a href="/wiki/File:Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg" class="image" title="Flag of Tucumán Province"><img alt="Flag of Tucumán Province" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg/40px-Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg.png" width="40" height="26" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg/60px-Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg/80px-Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg.png 2x" data-file-width="700" data-file-height="450" /></a></div>
+</td>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Burruyac%C3%BA_Department" title="Burruyacú Department">Burruyacú</a></li>
+<li><a href="/wiki/Capital_Department,_Tucum%C3%A1n" title="Capital Department, Tucumán">Capital</a></li>
+<li><a href="/wiki/Chicligasta_Department" title="Chicligasta Department">Chicligasta</a></li>
+<li><a href="/wiki/Cruz_Alta_Department" title="Cruz Alta Department">Cruz Alta</a></li>
+<li><a href="/wiki/Famaill%C3%A1_Department,_Tucum%C3%A1n" title="Famaillá Department, Tucumán">Famaillá</a></li>
+<li><a href="/wiki/Graneros_Department" title="Graneros Department">Graneros</a></li>
+<li><a href="/wiki/Juan_Bautista_Alberdi_Department" title="Juan Bautista Alberdi Department">Juan Bautista Alberdi</a></li>
+<li><a href="/wiki/La_Cocha_Department" title="La Cocha Department">La Cocha</a></li>
+<li><a href="/wiki/Leales_Department" title="Leales Department">Leales</a></li>
+<li><a href="/wiki/Lules_Department" title="Lules Department">Lules</a></li>
+<li><a href="/wiki/Monteros_Department" title="Monteros Department">Monteros</a></li>
+<li><a href="/wiki/R%C3%ADo_Chico_Department,_Tucum%C3%A1n" title="Río Chico Department, Tucumán">Río Chico</a></li>
+<li><a href="/wiki/Simoca_Department" title="Simoca Department">Simoca</a></li>
+<li><a href="/wiki/Taf%C3%AD_del_Valle_Department" title="Tafí del Valle Department">Tafí del Valle</a></li>
+<li><a href="/wiki/Taf%C3%AD_Viejo_Department" title="Tafí Viejo Department">Tafí Viejo</a></li>
+<li><a href="/wiki/Trancas_Department" title="Trancas Department">Trancas</a></li>
+<li><a href="/wiki/Yerba_Buena_Department" title="Yerba Buena Department">Yerba Buena</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Provinces_of_Argentina" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Provinces_of_Argentina" title="Template:Provinces of Argentina"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Provinces_of_Argentina" title="Template talk:Provinces of Argentina"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Provinces_of_Argentina&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Provinces_of_Argentina" style="font-size:114%"><a href="/wiki/Provinces_of_Argentina" title="Provinces of Argentina">Provinces of Argentina</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Provinces" class="mw-redirect" title="Provinces">Provinces</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Buenos_Aires_Province" title="Buenos Aires Province">Buenos Aires</a></li>
+<li><a href="/wiki/Catamarca_Province" title="Catamarca Province">Catamarca</a></li>
+<li><a href="/wiki/Chaco_Province" title="Chaco Province">Chaco</a></li>
+<li><a href="/wiki/Chubut_Province" title="Chubut Province">Chubut</a></li>
+<li><a href="/wiki/C%C3%B3rdoba_Province,_Argentina" title="Córdoba Province, Argentina">Córdoba</a></li>
+<li><a href="/wiki/Corrientes_Province" title="Corrientes Province">Corrientes</a></li>
+<li><a href="/wiki/Entre_R%C3%ADos_Province" title="Entre Ríos Province">Entre Ríos</a></li>
+<li><a href="/wiki/Formosa_Province" title="Formosa Province">Formosa</a></li>
+<li><a href="/wiki/Jujuy_Province" title="Jujuy Province">Jujuy</a></li>
+<li><a href="/wiki/La_Pampa_Province" title="La Pampa Province">La Pampa</a></li>
+<li><a href="/wiki/La_Rioja_Province,_Argentina" title="La Rioja Province, Argentina">La Rioja</a></li>
+<li><a href="/wiki/Mendoza_Province" title="Mendoza Province">Mendoza</a></li>
+<li><a href="/wiki/Misiones_Province" title="Misiones Province">Misiones</a></li>
+<li><a href="/wiki/Neuqu%C3%A9n_Province" title="Neuquén Province">Neuquén</a></li>
+<li><a href="/wiki/R%C3%ADo_Negro_Province" title="Río Negro Province">Río Negro</a></li>
+<li><a href="/wiki/Salta_Province" title="Salta Province">Salta</a></li>
+<li><a href="/wiki/San_Juan_Province,_Argentina" title="San Juan Province, Argentina">San Juan</a></li>
+<li><a href="/wiki/San_Luis_Province" title="San Luis Province">San Luis</a></li>
+<li><a href="/wiki/Santa_Cruz_Province,_Argentina" title="Santa Cruz Province, Argentina">Santa Cruz</a></li>
+<li><a href="/wiki/Santa_Fe_Province" title="Santa Fe Province">Santa Fe</a></li>
+<li><a href="/wiki/Santiago_del_Estero_Province" title="Santiago del Estero Province">Santiago del Estero</a></li>
+<li><a href="/wiki/Tierra_del_Fuego_Province,_Argentina" title="Tierra del Fuego Province, Argentina">Tierra del Fuego</a></li>
+<li><strong class="selflink">Tucumán</strong></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="3" style="width:0%;padding:0px 0px 0px 2px">
+<div><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/64px-Flag_of_Argentina.svg.png" width="64" height="40" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/96px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/128px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Autonomous_city" title="Autonomous city">Autonomous city</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Buenos_Aires" title="Buenos Aires">Buenos Aires City</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:520448-0!*!0!!en!4!* and timestamp 20161016211315 and revision id 721895853
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tucumán_Province&amp;oldid=721895853">https://en.wikipedia.org/w/index.php?title=Tucumán_Province&amp;oldid=721895853</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Tucum%C3%A1n_Province" title="Category:Tucumán Province">Tucumán Province</a></li><li><a href="/wiki/Category:Provinces_of_Argentina" title="Category:Provinces of Argentina">Provinces of Argentina</a></li><li><a href="/wiki/Category:States_and_territories_established_in_1814" title="Category:States and territories established in 1814">States and territories established in 1814</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_Spanish-language_external_links" title="Category:Articles with Spanish-language external links">Articles with Spanish-language external links</a></li><li><a href="/wiki/Category:CS1_Spanish-language_sources_(es)" title="Category:CS1 Spanish-language sources (es)">CS1 Spanish-language sources (es)</a></li><li><a href="/wiki/Category:Wikipedia_page_with_obscure_country_or_subdivision" title="Category:Wikipedia page with obscure country or subdivision">Wikipedia page with obscure country or subdivision</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Settlement_articles_requiring_maintenance" title="Category:Settlement articles requiring maintenance">Settlement articles requiring maintenance</a></li><li><a href="/wiki/Category:Interlanguage_link_template_link_number" title="Category:Interlanguage link template link number">Interlanguage link template link number</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2013" title="Category:Articles with unsourced statements from July 2013">Articles with unsourced statements from July 2013</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_different_than_on_Wikidata" title="Category:Commons category with local link different than on Wikidata">Commons category with local link different than on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_New_International_Encyclopedia" title="Category:Wikipedia articles incorporating a citation from the New International Encyclopedia">Wikipedia articles incorporating a citation from the New International Encyclopedia</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tucum%C3%A1n+Province" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tucum%C3%A1n+Province" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Tucum%C3%A1n_Province"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Tucum%C3%A1n_Province"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Tucum%C3%A1n_Province" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Tucum%C3%A1n_Province&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Tucum%C3%A1n_Province&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tucum%C3%A1n_Province" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tucum%C3%A1n_Province" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tucum%C3%A1n_Province&amp;oldid=721895853" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tucum%C3%A1n_Province&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q44829" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tucum%C3%A1n_Province&amp;id=721895853" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tucum%C3%A1n+Province">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Tucum%C3%A1n+Province&amp;returnto=Tucum%C3%A1n+Province&amp;oldid=721895853&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Tucum%C3%A1n_Province&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Tucum%C3%A1n_Province" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Tucuman" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D9%83%D9%88%D9%85%D8%A7%D9%86_(%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9)" title="توكومان (محافظة) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Tukuman_jisk%27a_suyu" title="Tukuman jisk'a suyu – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Tucum%C3%A1n_S%C3%A9ng" title="Tucumán Séng – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D1%96%D0%BD%D1%86%D1%8B%D1%8F_%D0%A2%D1%83%D0%BA%D1%83%D0%BC%D0%B0%D0%BD" title="Правінцыя Тукуман – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A2%D1%83%D0%BA%D1%83%D0%BC%D0%B0%D0%BD_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Тукуман (провинция) – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Tucum%C3%A1n_(provi%C3%B1s)" title="Tucumán (proviñs) – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Tucum%C3%A1n" title="Tucumán – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Provincia_de_Tucum%C3%A1n" title="Provincia de Tucumán – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Tucum%C3%A1n" title="Tucumán – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Provincia_de_Tucum%C3%A1n" title="Provincia de Tucumán – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Provinz_Tucum%C3%A1n" title="Provinz Tucumán – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Provincia_de_Tucum%C3%A1n" title="Provincia de Tucumán – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Tukumano" title="Tukumano – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Tucum%C3%A1ngo_probintzia" title="Tucumángo probintzia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%A7%D9%84%D8%AA_%D8%AA%D9%88%DA%A9%D9%88%D9%85%D8%A7%D9%86" title="ایالت توکومان – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Province_de_Tucum%C3%A1n" title="Province de Tucumán – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Tucum%C3%A1n" title="Tucumán – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%88%AC%EC%BF%A0%EB%A7%8C_%EC%A3%BC" title="투쿠만 주 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A5%81%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A5%87%E0%A4%A8" title="टुकुमेन – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Provinsi_Tucum%C3%A1n" title="Provinsi Tucumán – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Provincia_di_Tucum%C3%A1n" title="Provincia di Tucumán – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%98%D7%95%D7%A7%D7%95%D7%9E%D7%90%D7%9F_(%D7%A4%D7%A8%D7%95%D7%91%D7%99%D7%A0%D7%A6%D7%99%D7%94)" title="טוקומאן (פרובינציה) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A2%E1%83%A3%E1%83%99%E1%83%A3%E1%83%9B%E1%83%90%E1%83%9C%E1%83%98%E1%83%A1_%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%95%E1%83%98%E1%83%9C%E1%83%AA%E1%83%98%E1%83%90" title="ტუკუმანის პროვინცია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Mkoa_wa_Tucum%C3%A1n" title="Mkoa wa Tucumán – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Tukumanas_province" title="Tukumanas province – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Tukumano_provincija" title="Tukumano provincija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Tucuman" title="Tucuman – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A2%D1%83%D0%BA%D1%83%D0%BC%D0%B0%D0%BD_(%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0)" title="Тукуман (покраина) – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%A4%E0%A5%81%E0%A4%95%E0%A5%81%E0%A4%AE%E0%A4%BE%E0%A4%A8" title="तुकुमान – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Wilayah_Tucum%C3%A1n" title="Wilayah Tucumán – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Tucuman" title="Tucuman – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Tucum%C3%A1n_(provincie)" title="Tucumán (provincie) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A5%E3%82%AF%E3%83%9E%E3%83%B3%E5%B7%9E" title="トゥクマン州 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Tucum%C3%A1n" title="Tucumán – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Prov%C3%ADncia_de_Tucum%C3%A1n" title="Província de Tucumán – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%B5%D9%88%D8%A8%DB%81_%D8%AA%D9%88%DA%A9%D9%88%D9%85%D8%A7%D9%86" title="صوبہ توکومان – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Tucuman" title="Tucuman – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Tucum%C3%A1n_(prowincja)" title="Tucumán (prowincja) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Tucum%C3%A1n" title="Tucumán – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Provincia_Tucum%C3%A1n" title="Provincia Tucumán – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Tukuman_wamani" title="Tukuman wamani – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BA%D1%83%D0%BC%D0%B0%D0%BD_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Тукуман (провинция) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Tucum%C3%A1n" title="Tucumán – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Tucum%C3%A1n_Province" title="Tucumán Province – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Tucum%C3%A1n_(argent%C3%ADnska_provincia)" title="Tucumán (argentínska provincia) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A2%D1%83%D0%BA%D1%83%D0%BC%D0%B0%D0%BD_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%98%D0%B0)" title="Тукуман (провинција) – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Tucum%C3%A1n_(argentinska_provincija)" title="Tucumán (argentinska provincija) – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Tucum%C3%A1nin_maakunta" title="Tucumánin maakunta – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Tucum%C3%A1n_(provins)" title="Tucumán (provins) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Lalawigan_ng_Tucum%C3%A1n" title="Lalawigan ng Tucumán – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%95%E0%B8%B9%E0%B8%81%E0%B8%B9%E0%B8%A1%E0%B8%B1%E0%B8%99" title="รัฐตูกูมัน – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A2%D1%83%D0%BA%D1%83%D0%BC%D0%B0%D0%BD" title="Тукуман – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Tucum%C3%A1n_eyaleti" title="Tucumán eyaleti – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D1%83%D0%BA%D1%83%D0%BC%D0%B0%D0%BD_(%D0%BF%D1%80%D0%BE%D0%B2%D1%96%D0%BD%D1%86%D1%96%D1%8F)" title="Тукуман (провінція) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B5%D9%88%D8%A8%DB%81_%D8%AA%D9%88%DA%A9%D9%88%D9%85%D8%A7%D9%86" title="صوبہ توکومان – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Tucum%C3%A1n_(t%E1%BB%89nh)" title="Tucumán (tỉnh) – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Tucum%C3%A1n" title="Tucumán – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Tucum%C3%A1n_(probinsya)" title="Tucumán (probinsya) – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Tukumana_provinc%C4%97j%C4%97" title="Tukumana provincėjė – Samogitian" lang="bat-smg" hreflang="bat-smg" class="interlanguage-link-target">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%9B%BE%E5%BA%93%E6%9B%BC%E7%9C%81" title="图库曼省 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q44829#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 24 May 2016, at 18:27.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Tucum%C3%A1n_Province&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.432",
+            "walltime": "0.551",
+            "ppvisitednodes": {
+                "value": 4156,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 68298,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 5366,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 25,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 8,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  462.091      1 -total",
+                " 46.51%  214.911      1 Template:Infobox_settlement",
+                " 37.90%  175.145      2 Template:Infobox",
+                " 16.10%   74.416      1 Template:Reflist",
+                " 11.11%   51.341      1 Template:Geobox_coor",
+                "  9.86%   45.565      5 Template:Cite_web",
+                "  8.08%   37.355      1 Template:Citation_needed",
+                "  8.06%   37.222     13 Template:Convert",
+                "  6.95%   32.102      1 Template:Fix",
+                "  5.64%   26.052      1 Template:Infobox_settlement/areadisp"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.175",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 7313168,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1241",
+            "timestamp": "20161016211316",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw1180"});});</script>
+	</body>
+</html>

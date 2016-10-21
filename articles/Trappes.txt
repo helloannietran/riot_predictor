@@ -1,0 +1,157 @@
+Trappes - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Trappes","wgTitle":"Trappes","wgCurRevisionId":737499132,"wgRevisionId":737499132,"wgArticleId":3116098,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","Coordinates on Wikidata","Commons category with local link same as on Wikidata","Articles with French-language external links","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Communes of Yvelines","Saint-Quentin-en-Yvelines"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Trappes","wgRelevantArticleId":3116098,"wgRequestId":"WAkicwpAIC0AACKiw8QAAAAI","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":48.7775,"lon":2.0025},"wgWikibaseItemId":"Q363266","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Trappes From Wikipedia, the free encyclopedia Jump to: navigation , search Trappes Town hall 
+
+Coat of arms 
+
+Location (in red) within Paris inner and outer suburbs Coordinates: 48°46′39″N 2°00′09″E ﻿ / ﻿ 48.7775°N 2.0025°E ﻿ / 48.7775; 2.0025 Coordinates : 48°46′39″N 2°00′09″E ﻿ / ﻿ 48.7775°N 2.0025°E ﻿ / 48.7775; 2.0025 Country France Region Île-de-France Department Yvelines Arrondissement Versailles Canton Trappes Intercommunality Saint-Quentin-en-Yvelines Government • Mayor Guy Malandain Area 1 13.47 km 2 (5.20 sq mi) Population (2006) 2 29,817 • Density 2,200/km 2 (5,700/sq mi) Time zone CET ( UTC+1 ) • Summer ( DST ) CEST ( UTC+2 ) INSEE /Postal code 78621 / 78190 Elevation 143–174 m (469–571 ft) 
+
+1 French Land Register data, which excludes lakes, ponds, glaciers 1 km² (0.386 sq mi or 247 acres) and river estuaries. 2 Population without double counting : residents of multiple communes (e.g., students and military personnel) only counted once. 
+
+Trappes French pronunciation: ​ [tʁap] is a commune in the Yvelines department in the Île-de-France in north-central France . It is located in the western suburbs of Paris , 26.7 km (16.6 mi) from the center of Paris , in the new town of Saint-Quentin-en-Yvelines . 
+
+Contents 1 Transport 2 Climate 3 Demography 4 Education 5 People 6 See also 7 References 8 External links 
+
+Transport [ edit ] 
+
+Trappes is served by Trappes station on the Transilien La Défense and Transilien Paris – Montparnasse suburban rail lines. Climate [ edit ] Climate data for Trappes Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Record high °C (°F) 16.0 
+
+(60.8) 19.5 
+
+(67.1) 23.5 
+
+(74.3) 28.0 
+
+(82.4) 30.9 
+
+(87.6) 35.4 
+
+(95.7) 37.6 
+
+(99.7) 39.1 
+
+(102.4) 34.6 
+
+(94.3) 29.0 
+
+(84.2) 21.0 
+
+(69.8) 16.8 
+
+(62.2) 39.1 
+
+(102.4) Average high °C (°F) 6.4 
+
+(43.5) 7.6 
+
+(45.7) 11.5 
+
+(52.7) 14.7 
+
+(58.5) 18.5 
+
+(65.3) 21.7 
+
+(71.1) 24.3 
+
+(75.7) 24.2 
+
+(75.6) 20.5 
+
+(68.9) 15.7 
+
+(60.3) 10.1 
+
+(50.2) 6.7 
+
+(44.1) 15.2 
+
+(59.4) Average low °C (°F) 1.3 
+
+(34.3) 1.3 
+
+(34.3) 3.6 
+
+(38.5) 5.5 
+
+(41.9) 9.1 
+
+(48.4) 12.1 
+
+(53.8) 14.0 
+
+(57.2) 13.8 
+
+(56.8) 11.0 
+
+(51.8) 8.2 
+
+(46.8) 4.3 
+
+(39.7) 2.0 
+
+(35.6) 7.2 
+
+(45) Record low °C (°F) −15.8 
+
+(3.6) −15.6 
+
+(3.9) −10.5 
+
+(13.1) −4.1 
+
+(24.6) −1.2 
+
+(29.8) 0.1 
+
+(32.2) 2.0 
+
+(35.6) 4.0 
+
+(39.2) −0.5 
+
+(31.1) −5.2 
+
+(22.6) −8.9 
+
+(16) −14.3 
+
+(6.3) −15.8 
+
+(3.6) Average precipitation mm (inches) 59.4 
+
+(2.339) 50.0 
+
+(1.969) 53.7 
+
+(2.114) 54.9 
+
+(2.161) 63.9 
+
+(2.516) 53.7 
+
+(2.114) 61.7 
+
+(2.429) 53.7 
+
+(2.114) 51.4 
+
+(2.024) 68.8 
+
+(2.709) 57.1 
+
+(2.248) 65.9 
+
+(2.594) 694.2 
+
+(27.331) Average precipitation days 11.1 10.1 10.9 9.6 10.6 8.6 8.3 7.8 8.3 10.4 10.9 11.7 118.5 Average relative humidity (%) 89 84 79 75 76 76 75 76 81 86 89 89 81.3 Source #1: Météo France [1] [2] Source #2: Infoclimat.fr (humidity, 1961–1990) [3] Demography [ edit ] 
+
+Trappes is a suburb (" banlieue "). 
+
+In July 2013, Trappes police station was attacked by a mob of French Muslims in response to the arrest of a man who had assaulted a police officer during an identity check on his entirely veiled wife (face covering is illegal in France). [4] [5] [6] Historical population Year Pop. ±% 1793 561 — 1800 616 +9.8% 1806 584 −5.2% 1821 638 +9.2% 1831 718 +12.5% 1836 739 +2.9% 1841 799 +8.1% 1846 809 +1.3% 1851 910 +12.5% 1856 830 −8.8% 1861 774 −6.7% 1866 812 +4.9% 1872 918 +13.1% 1876 976 +6.3% 1881 986 +1.0% 1886 1,069 +8.4% 1891 965 −9.7% 1896 1,086 +12.5% 1901 1,114 +2.6% 1906 1,096 −1.6% 1911 1,270 +15.9% 1921 1,352 +6.5% 1926 1,641 +21.4% 1931 2,604 +58.7% 1936 3,419 +31.3% 1946 3,216 −5.9% 1954 4,885 +51.9% 1962 9,643 +97.4% 1968 16,799 +74.2% 1975 22,895 +36.3% 1982 29,763 +30.0% 1990 30,878 +3.7% 1999 28,812 −6.7% 2006 29,529 +2.5% 2007 29,327 −0.7% From the year 1962 on: population without double counting 
+
+Source: Cassini [7] and INSEE 01.01.2007 [8] Education [ edit ] 
+
+There are 36 municipal preschools and primary schools in Trappes. [9] 
+
+The community has three junior high schools: [10] Collège Le Village Collège Gustave Courbet Collège Youri-Gagarine 
+
+Senior high schools/sixth form colleges: [10] Lycée des métiers Louis Blériot Lycée des métiers Henri Matisse Lycée de la Plaine de Neauphle People [ edit ] Nicolas Anelka , French footballer Eddy Ben Arous , French Rugby Player Jamel Debbouze , French humorist and actor Barbara Cabrita , French actress Sophie Broustal , French actress La Fouine , French rapper Massadio Haidara , footballer Kevin Harley , basketball player Linda Pradel , handball player Shy'm , French singer Omar Sy , French humorist and actor Cyril Paglino , Entrepreneur See also [ edit ] Communes of the Yvelines department References [ edit ] INSEE ^ "Données climatiques de la station de Trappes" (in French). Meteo France . Retrieved January 5, 2016 . ^ "Climat Île-de-France" (in French). Meteo France . Retrieved January 5, 2016 . ^ "Normes et records 1961-1990: Trappes (78) - altitude 167m" (in French). Infoclimat . Retrieved January 5, 2016 . ^ "6 held over violence in France after police check veiled woman" . Reuters . Toronto Sun. 20 July 2013. ^ "France veil row sparks Trappes unrest" . BBC News . 21 July 2013. ^ http://www.economist.com/news/europe/21582314-violence-erupts-over-controversial-burqa-ban-trouble-trappes Riots in France: Trouble in Trappes ^ "Des villages de Cassini aux communes d'aujourd'hui" . Cassini . Retrieved 16 November 2009 . ^ "Recensement de la population au 1er janvier 2007" . INSEE . Retrieved 2 January 2010 . ^ " Les écoles maternelles et élémentaires ." Trappes. Retrieved on September 3, 2016. ^ a b " Collèges, lycées et études supérieures professionnelles ." Trappes. Retrieved on September 3, 2016. External links [ edit ] Wikimedia Commons has media related to Trappes . Official website (French) Official website (French) (Archive) v t e Saint-Quentin-en-Yvelines Geography Municipalities Coignières Élancourt Guyancourt La Verrière Les Clayes-sous-Bois Magny-les-Hameaux Maurepas Montigny-le-Bretonneux Plaisir Trappes Villepreux Voisins-le-Bretonneux Education Primary and secondary schools Lycée les Sept Mares (Maurepas) Lycée Sonia Delaunay (Villepreux) Lycée Dumont d'Urville (Maurepas) Lycée Polyvalent Descartes (Guyancourt) Lycée Émilie-de Breteuil (Guyancourt) Lycée des métiers Louis Blériot (Trappes) Lycée d'hôtellerie et de tourisme de Guyancourt Lycée Descartes de Montigny le Bretonneux Collège Lycées Saint François d'Assise (Montigny le Bretonneux) Lycée des métiers Henri Matisse (Trappes) Lycée de la Plaine de Neauphle (Trappes) Lycée Jean-Vilar (Plaisir) Lycée de Villaroy (Guyancourt) École Japonaise de Paris (Montigny-le-Bretonneux) Institut de formation de Saint-Quentin-en-Yvelines (Montigny-le-Bretonneux) Colleges and universities Versailles Saint-Quentin-en-Yvelines University Other Transport Gare de Saint-Quentin-en-Yvelines Gare de Trappes Gare de La Verrière Landmarks France Miniature Vélodrome de Saint-Quentin-en-Yvelines This list is incomplete. v t e Communes in the Metropolitan Area of Paris Population over 2 million City of Paris Population over 100,000 Argenteuil Boulogne-Billancourt Montreuil Saint-Denis Population over 75,000 Asnières-sur-Seine Aubervilliers Aulnay-sous-Bois Champigny-sur-Marne Colombes Courbevoie Créteil Nanterre Rueil-Malmaison Versailles Vitry-sur-Seine Population over 50,000 Antony Le Blanc-Mesnil Bondy Cergy Chelles Clamart Clichy Drancy Épinay-sur-Seine Évry Fontenay-sous-Bois Issy-les-Moulineaux Ivry-sur-Seine Levallois-Perret Maisons-Alfort Meaux Neuilly-sur-Seine Noisy-le-Grand Pantin Saint-Maur-des-Fossés Sarcelles Sartrouville Sevran Villejuif Population over 25,000 Alfortville Athis-Mons Bagneux Bagnolet Bezons Bobigny Bois-Colombes Brunoy Bussy-Saint-Georges Cachan Charenton-le-Pont Châtenay-Malabry Châtillon Chatou Le Chesnay Choisy-le-Roi Clichy-sous-Bois Conflans-Sainte-Honorine Corbeil-Essonnes La Courneuve Draveil Élancourt Ermont Franconville Fresnes Gagny La Garenne-Colombes Garges-lès-Gonesse Gennevilliers Gonesse Goussainville Grigny Guyancourt L'Haÿ-les-Roses Herblay Houilles Le Kremlin-Bicêtre Livry-Gargan Malakoff Mantes-la-Jolie Massy Melun Meudon Montfermeil Montigny-le-Bretonneux Montrouge Les Mureaux Neuilly-sur-Marne Nogent-sur-Marne Noisy-le-Sec Palaiseau Le Perreux-sur-Marne Pierrefitte-sur-Seine Plaisir Le Plessis-Robinson Poissy Pontault-Combault Pontoise Puteaux Rambouillet Ris-Orangis Romainville Rosny-sous-Bois Saint-Cloud Saint-Germain-en-Laye Saint-Ouen Sainte-Geneviève-des-Bois Sannois Savigny-sur-Orge Savigny-le-Temple Stains Sucy-en-Brie Suresnes Taverny Thiais Trappes Tremblay-en-France Vanves Vigneux-sur-Seine Villemomble Villeneuve-la-Garenne Villeneuve-Saint-Georges Villeparisis Villepinte Villiers-le-Bel Villiers-sur-Marne Vincennes Viry-Châtillon Yerres Population under 25,000 1,669 other communes v t e Communes of the Yvelines department Ablis Achères Adainville Aigremont Allainville Les Alluets-le-Roi Andelu Andrésy Arnouville-lès-Mantes Aubergenville Auffargis Auffreville-Brasseuil Aulnay-sur-Mauldre Auteuil Autouillet Bailly Bazainville Bazemont Bazoches-sur-Guyonne Béhoust Bennecourt Beynes Blaru Boinville-en-Mantois Boinville-le-Gaillard Boinvilliers Bois-d'Arcy Boissets La Boissière-École Boissy-Mauvoisin Boissy-sans-Avoir Bonnelles Bonnières-sur-Seine Bouafle Bougival Bourdonné Breuil-Bois-Robert Bréval Les Bréviaires Brueil-en-Vexin Buc Buchelay Bullion Carrières-sous-Poissy Carrières-sur-Seine La Celle-les-Bordes La Celle-Saint-Cloud Cernay-la-Ville Chambourcy Chanteloup-les-Vignes Chapet Châteaufort Chatou Chaufour-lès-Bonnières Chavenay Le Chesnay Chevreuse Choisel Civry-la-Forêt Clairefontaine-en-Yvelines Les Clayes-sous-Bois Coignières Condé-sur-Vesgre Conflans-Sainte-Honorine Courgent Cravent Crespières Croissy-sur-Seine Dammartin-en-Serve Dampierre-en-Yvelines Dannemarie Davron Drocourt Ecquevilly Élancourt Émancé Épône Les Essarts-le-Roi L'Étang-la-Ville Évecquemont La Falaise Favrieux Feucherolles Flacourt Flexanville Flins-Neuve-Église Flins-sur-Seine Follainville-Dennemont Fontenay-le-Fleury Fontenay-Mauvoisin Fontenay-Saint-Père Fourqueux Freneuse Gaillon-sur-Montcient Galluis Gambais Gambaiseuil Garancières Gargenville Gazeran Gommecourt Goupillières Goussonville Grandchamp Gressey Grosrouvre Guernes Guerville Guitrancourt Guyancourt Hardricourt Hargeville La Hauteville Herbeville Hermeray Houdan Houilles Issou Jambville Jeufosse Jouars-Pontchartrain Jouy-en-Josas Jouy-Mauvoisin Jumeauville Juziers Lainville-en-Vexin Lévis-Saint-Nom Limay Limetz-Villez Les Loges-en-Josas Lommoye Longnes Longvilliers Louveciennes Magnanville Magny-les-Hameaux Maisons-Laffitte Mantes-la-Jolie Mantes-la-Ville Marcq Mareil-le-Guyon Mareil-Marly Mareil-sur-Mauldre Marly-le-Roi Maule Maulette Maurecourt Maurepas Médan Ménerville Méré Méricourt Le Mesnil-le-Roi Le Mesnil-Saint-Denis Les Mesnuls Meulan-en-Yvelines Mézières-sur-Seine Mézy-sur-Seine Millemont Milon-la-Chapelle Mittainville Moisson Mondreville Montainville Montalet-le-Bois Montchauvet Montesson Montfort-l'Amaury Montigny-le-Bretonneux Morainvilliers Mousseaux-sur-Seine Mulcent Les Mureaux Neauphle-le-Château Neauphle-le-Vieux Neauphlette Nézel Noisy-le-Roi Oinville-sur-Montcient Orcemont Orgerus Orgeval Orphin Orsonville Orvilliers Osmoy Paray-Douaville Le Pecq Perdreauville Le Perray-en-Yvelines Plaisir Poigny-la-Forêt Poissy Ponthévrard Porcheville Le Port-Marly Port-Villez Prunay-en-Yvelines Prunay-le-Temple La Queue-les-Yvelines Raizeux Rambouillet Rennemoulin Richebourg Rochefort-en-Yvelines Rocquencourt Rolleboise Rosay Rosny-sur-Seine Sailly Saint-Arnoult-en-Yvelines Saint-Cyr-l'École Sainte-Mesme Saint-Forget Saint-Germain-de-la-Grange Saint-Germain-en-Laye Saint-Hilarion Saint-Illiers-la-Ville Saint-Illiers-le-Bois Saint-Lambert Saint-Léger-en-Yvelines Saint-Martin-de-Bréthencourt Saint-Martin-des-Champs Saint-Martin-la-Garenne Saint-Nom-la-Bretèche Saint-Rémy-lès-Chevreuse Saint-Rémy-l'Honoré Sartrouville Saulx-Marchais Senlisse Septeuil Soindres Sonchamp Tacoignières Le Tartre-Gaudran Le Tertre-Saint-Denis Tessancourt-sur-Aubette Thiverval-Grignon Thoiry Tilly Toussus-le-Noble Trappes Le Tremblay-sur-Mauldre Triel-sur-Seine Vaux-sur-Seine Vélizy-Villacoublay Verneuil-sur-Seine Vernouillet La Verrière Versailles Vert Le Vésinet Vicq Vieille-Église-en-Yvelines La Villeneuve-en-Chevrie Villennes-sur-Seine Villepreux Villette Villiers-le-Mahieu Villiers-Saint-Fréderic Viroflay Voisins-le-Bretonneux Authority control WorldCat Identities VIAF : 235583218 GND : 4251432-0 BNF : cb15276116r (data) (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Trappes oldid=737499132 " Categories : Communes of Yvelines Saint-Quentin-en-Yvelines Hidden categories: CS1 French-language sources (fr) Coordinates on Wikidata Commons category with local link same as on Wikidata Articles with French-language external links Wikipedia articles with VIAF identifiers Wikipedia articles with GND identifiers Wikipedia articles with BNF identifiers Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Languages Bân-lâm-gú Català Cebuano Dansk Deutsch Español Esperanto Euskara فارسی Français 한국어 Bahasa Indonesia Italiano Қазақша Kiswahili Latina Magyar مازِرونی Bahasa Melayu Nederlands 日本語 Norsk bokmål Occitan Piemontèis Polski Português Română Slovenčina Slovenščina Српски / srpski Srpskohrvatski / српскохрватски Svenska ᨅᨔ ᨕᨘᨁᨗ Українська Tiếng Việt Volapük Winaray 中文 Edit links This page was last modified on 3 September 2016, at 06:06. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.496", "walltime": "0.601", "ppvisitednodes": { "value": 6176, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 145996, "limit": 2097152 }, "templateargumentsize": { "value": 5812, "limit": 2097152 }, "expansiondepth": { "value": 27, "limit": 40 }, "expensivefunctioncount": { "value": 8, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 455.060 1 -total", " 57.65% 262.329 1 Template:Infobox_French_commune", " 53.67% 244.233 1 Template:Infobox_settlement", " 40.22% 183.020 2 Template:Infobox", " 13.32% 60.597 1 Template:Weather_box", " 13.12% 59.710 1 Template:Reflist", " 9.57% 43.535 1 Template:Geobox_coor", " 9.11% 41.448 5 Template:Cite_web", " 5.46% 24.862 2 Template:Convert", " 4.70% 21.410 1 Template:Infobox_settlement/areadisp" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.148", "limit": "10.000" }, "limitreport-memusage": { "value": 6613920, "limit": 52428800 } }, "cachereport": { "origin": "mw1257", "timestamp": "20161013031840", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1175"});});

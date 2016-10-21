@@ -1,0 +1,141 @@
+2002 NCAA Men's Division I Basketball Tournament - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2002_NCAA_Men's_Division_I_Basketball_Tournament","wgTitle":"2002 NCAA Men's Division I Basketball Tournament","wgCurRevisionId":736028002,"wgRevisionId":736028002,"wgArticleId":4381275,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["NCAA Men's Division I Basketball Championship","2001–02 NCAA Division I men's basketball season","Sports in Madison, Wisconsin","Basketball in the Dallas–Fort Worth metroplex"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"2002_NCAA_Men's_Division_I_Basketball_Tournament","wgRelevantArticleId":4381275,"wgRequestId":"WAn9iwpAMEkAAHQ3A1IAAABD","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikibaseItemId":"Q3994978","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); 2002 NCAA Men's Division I Basketball Tournament From Wikipedia, the free encyclopedia Jump to: navigation , search 2002 NCAA Men's Division I 
+
+Basketball Tournament 2002 Final Four Logo Season 2001–02 Teams 65 Finals site Georgia Dome 
+
+Atlanta Champions Maryland (1st title, 1st title game, 
+
+2nd Final Four) Runner-up Indiana (6th title game, 
+
+8th Final Four) Semifinalists Kansas (11th Final Four) Oklahoma (4th Final Four) Winning coach Gary Williams (1st title) MOP Juan Dixon Maryland Attendance 720,433 Top scorers Juan Dixon Maryland 
+
+Jared Jeffries Indiana 
+
+(155 points) NCAA Men's Division I Tournaments « 2001 2003 » 
+
+The 2002 NCAA Men's Division I Basketball Tournament involved 65 schools playing in single-elimination play to determine the national champion of men's NCAA Division I college basketball . It began on March 12, 2002, and ended with the championship game on April 1 in Atlanta at the Georgia Dome . A total of 64 games were played. 
+
+This was the first year that the tournament used the so-called "pod" system, in which the eight first- and second-round sites are distributed around the four regionals. Teams were assigned to first round spots in order to minimize travel for as many teams as possible. The top seeds at each site were: Sacramento : Oregon (M2), USC (S4) Albuquerque : Arizona (W3), Ohio State (W4) Dallas : Oklahoma (W2), Mississippi State (M3) St. Louis : Kansas (M1), Kentucky (E4) Chicago : Georgia (E3), Illinois (M4) Pittsburgh : Cincinnati (W1), Pittsburgh (S3) Washington, D.C.: Maryland (E1), Connecticut (E2) Greenville : Duke (S1), Alabama (S2) 
+
+The Final Four consisted of Maryland , making their second consecutive appearance, Kansas , making their first appearance since 1993, Indiana , making their first appearance since 1992, and Oklahoma , making their first appearance since their national runner-up finish in 1988. 
+
+Maryland defeated Indiana 64-52 in the championship game to win their first ever national championship. 
+
+Juan Dixon of Maryland was named the tournament's Most Outstanding Player . 
+
+For the second straight tournament, the Elite Eight featured at least one double-digit seed. South Region tenth-seed Kent State and West Region twelfth-seed Missouri played in their respective regional finals, with Kent State losing to Indiana and Missouri losing to Oklahoma. 
+
+Contents 1 Locations 1.1 Opening Round 1.2 First and second rounds 1.3 Regionals 1.4 Final Four 2 Teams 3 Bids by conference 4 Final four 4.1 National Semifinals 4.2 Championship Game 5 Bracket 5.1 East Regional — Syracuse, New York 5.1.1 Regional Final Summary 5.2 Midwest Regional — Madison, Wisconsin 5.2.1 Regional Final Summary 5.3 South Regional — Lexington, Kentucky 5.3.1 First Round summary 5.3.2 Second Round summary 5.3.3 Regional Semifinal summary 5.3.4 Regional Final Summary 5.4 West Regional — San Jose, California 5.4.1 Regional Final Summary 5.5 Final Four — Atlanta, Georgia 6 Broadcast information 6.1 CBS Sports announcers 6.2 Westwood One announcers 6.3 Local announcers 7 See also 8 References 
+
+Locations [ edit ] Washington, D.C. Pittsburgh Greenville Chicago St. Louis Dallas Albuquerque Sacramento 2002 first and second rounds (note: the play-in game was held in Dayton, Ohio) San Jose Madison Lexington Syracuse Atlanta 2002 Regionals (blue) and Final Four (red) 
+
+The following are the sites selected to host each round of the 2002 tournament: Opening Round [ edit ] March 12 University of Dayton Arena , Dayton, Ohio (Host: University of Dayton ) First and second rounds [ edit ] March 14 and 16 Arco Arena , Sacramento, California (Host: University of the Pacific ) BI-LO Center , Greenville, South Carolina (Hosts: Southern Conference and Furman University ) Edward Jones Dome , St. Louis, Missouri (Host: Missouri Valley Conference ) University Arena , Albuquerque, New Mexico (Host: University of New Mexico ) March 15 and 17 American Airlines Center , Dallas (Host: Big 12 Conference ) MCI Center , Washington, D.C. (Host: Georgetown University ) Mellon Arena , Pittsburgh (Host: Duquesne University ) United Center , Chicago (Host: Big Ten Conference ) Regionals [ edit ] March 21 and 23 South Regional , Rupp Arena , Lexington, Kentucky (Host: University of Kentucky ) West Regional , Compaq Center at San Jose , San Jose, California (Host: Santa Clara University ) March 22 and 24 East Regional , Carrier Dome , Syracuse, New York (Host: Syracuse University ) Midwest Regional , Kohl Center , Madison, Wisconsin (Host: University of Wisconsin–Madison ) Final Four [ edit ] March 30 and April 1 Georgia Dome , Atlanta (Host: Georgia Institute of Technology ) Teams [ edit ] East Regional – Syracuse Seed School Coach Conference Record Bid Type #1 Maryland Gary Williams ACC 26-4 At-Large #2 Connecticut Jim Calhoun Big East 24-6 Automatic #3 Georgia Jim Harrick SEC 21-9 At-Large #4 Kentucky Tubby Smith SEC 20-9 At-Large #5 Marquette Tom Crean Conference USA 26-6 At-Large #6 Texas Tech Bob Knight Big 12 23-8 At-Large #7 North Carolina State Herb Sendek ACC 22-10 At-Large #8 Wisconsin Bo Ryan Big Ten 18-12 At-Large #9 St. John's Mike Jarvis Big East 20-11 At-Large #10 Michigan State Tom Izzo Big Ten 19-11 At-Large #11 Southern Illinois Bruce Weber Missouri Valley 26-7 At-Large #12 Tulsa John Phillips WAC 26-6 At-Large #13 Valparaiso Homer Drew Mid-Continent 25-7 Automatic #14 Murray State Tevester Anderson OVC 19-12 Automatic #15 Hampton Steve Merfeld MEAC 26-6 Automatic #16 Siena Rob Lanier MAAC 16-18 Automatic Alcorn State Davey Whitney SWAC 21-9 Automatic Midwest Regional – Madison Seed School Coach Conference Record Bid Type #1 Kansas Roy Williams Big 12 29-3 At-Large #2 Oregon Ernie Kent Pac-10 23-8 At-Large #3 Mississippi State Rick Stansbury SEC 26-7 Automatic #4 Illinois Bill Self Big Ten 24-8 At-Large #5 Florida Billy Donovan SEC 22-8 At-Large #6 Texas Rick Barnes Big 12 20-11 At-Large #7 Wake Forest Skip Prosser ACC 20-12 At-Large #8 Stanford Mike Montgomery Pac-10 19-9 At-Large #9 Western Kentucky Dennis Felton Sun Belt 28-3 Automatic #10 Pepperdine Paul Westphal WCC 22-8 At-Large #11 Boston College Al Skinner Big East 20-11 At-Large #12 Creighton Dana Altman Missouri Valley 22-8 Automatic #13 San Diego State Steve Fisher Mountain West 21-11 Automatic #14 McNeese State Tic Price Southland 21-8 Automatic #15 Montana Don Holst Big Sky 16-14 Automatic #16 Holy Cross Ralph Willard Patriot 18-14 Automatic South Regional – Lexington Seed School Coach Conference Record Bid Type #1 Duke Mike Krzyzewski ACC 29-3 Automatic #2 Alabama Mark Gottfried SEC 26-7 At-Large #3 Pittsburgh Ben Howland Big East 27-5 At-Large #4 USC Henry Bibby Pac-10 22-9 At-Large #5 Indiana Mike Davis Big Ten 20-11 At-Large #6 California Ben Braun Pac-10 22-8 At-Large #7 Oklahoma State Eddie Sutton Big 12 23-8 At-Large #8 Notre Dame Mike Brey Big East 21-10 At-Large #9 Charlotte Bobby Lutz Conference USA 18-11 At-Large #10 Kent State Stan Heath MAC 27-5 Automatic #11 Pennsylvania Fran Dunphy Ivy League 25-6 Automatic #12 Utah Rick Majerus Mountain West 21-8 At-Large #13 UNC Wilmington Jerry Wainwright CAA 22-9 Automatic #14 Central Connecticut State Howie Dickenman NEC 27-4 Automatic #15 Florida Atlantic Sidney Green Atlantic Sun 19-11 Automatic #16 Winthrop Gregg Marshall Big South 19-11 Automatic West Regional – San Jose Seed School Coach Conference Record Bid Type #1 Cincinnati Bob Huggins Conference USA 30-3 Automatic #2 Oklahoma Kelvin Sampson Big 12 27-4 Automatic #3 Arizona Lute Olson Pac-10 22-9 Automatic #4 Ohio State Jim O'Brien Big Ten 23-7 Automatic #5 Miami (FL) Perry Clark Big East 24-7 At-Large #6 Gonzaga Mark Few WCC 29-3 Automatic #7 Xavier Thad Matta Atlantic 10 25-5 Automatic #8 UCLA Steve Lavin Pac-10 19-11 At-Large #9 Ole Miss Rod Barnes SEC 20-10 At-Large #10 Hawaii Riley Wallace WAC 27-5 Automatic #11 Wyoming Steve McClain Mountain West 21-8 At-Large #12 Missouri Quin Snyder Big 12 21-11 At-Large #13 Davidson Bob McKillop Southern 21-9 Automatic #14 UC Santa Barbara Bob Williams Big West 20-10 Automatic #15 Illinois-Chicago Jimmy Collins Horizon 20-13 Automatic #16 Boston University Dennis Wolff America East 22-9 Automatic Bids by conference [ edit ] Bids by Conference Bids Conference(s) 6 Big 12 , Big East , Pac-10 , SEC 5 Big Ten 4 ACC 3 C-USA , Mountain West 2 Missouri Valley , WAC , WCC 1 20 others Final four [ edit ] 
+
+At Georgia Dome , Atlanta National Semifinals [ edit ] March 30, 2002 Maryland (E1) 97, Kansas (M1) 88 For the second straight year the Maryland Terrapins earned a bid to the Final Four. This time they would take advantage of their trip. After falling behind 13-2 to the Kansas Jayhawks to begin the game, Maryland stormed to a 44-37 lead at halftime. They expanded their lead to 20, 83-63, with 6:11 left in the game. Roy Williams ' Kansas squad did not quit and closed the gap to 4 with under a minute remaining, but the Terps survived to advance to the championship, 97-88. Maryland senior Juan Dixon led the contest in scoring with 33. [1] Indiana (S5) 73, Oklahoma (W2) 64 Mike Davis 's Indiana Hoosiers continued their Cinderella ride in the NCAA Tournament by defeating another higher ranked team, the Oklahoma Sooners . Oklahoma led most of the first half, and took a 34-30 lead into halftime. However, with the score 60-60 late in the 2nd half Indiana broke ahead for good with an easy bucket from Jeff Newton , who led the Hoosiers with 19 points. The Hoosiers outscored the Sooners by 13 in the 2nd half and advanced to the championship game with a 73-64 victory. Oklahoma was coached by Kelvin Sampson , who later in his career would succeed Davis as IU head coach. [2] Championship Game [ edit ] Main article: 2002 NCAA Men's Division I Basketball Championship Game April 1, 2002 Maryland (E1) 64, Indiana (S5) 52 The Maryland Terrapins completed the task they set out to do one year earlier by defeating the Indiana Hoosiers 64-52. Maryland led virtually the entire game except for a brief point with 9:52 left in the basketball game when Indiana took a 44-42 lead. Maryland answered the Hoosier run and ended the game with a 22-8 run to bring home the school's first and coach Gary Williams ' only men's basketball National Championship. Senior Juan Dixon was named the tournament's Most Outstanding Player (MOP). [3] Bracket [ edit ] East Regional — Syracuse, New York [ edit ] First round Second round Regional Semifinals Regional Finals 1 Maryland 85 16 Siena 70 1 Maryland 87 Washington, D.C. 8 Wisconsin 57 8 Wisconsin 80 9 St. John's 70 1 Maryland 78 4 Kentucky 68 5 Marquette 69 12 Tulsa 71 12 Tulsa 82 St. Louis 4 Kentucky 87 4 Kentucky 83 13 Valparaiso 68 1 Maryland 90 2 Connecticut 82 6 Texas Tech 68 11 Southern Illinois 76 11 Southern Illinois 77 Chicago 3 Georgia 75 3 Georgia 85 14 Murray State 68 11 Southern Illinois 59 2 Connecticut 71 7 North Carolina State 69 10 Michigan State 58 7 North Carolina State 74 Washington, D.C. 2 Connecticut 77 2 Connecticut 78 15 Hampton 67 Regional Final Summary [ edit ] CBS Sunday, March 24 box score #1 Maryland Terrapins 90 , #2 Connecticut Huskies 82 Pts: L. Baxter – 29 
+
+Rebs: L. Baxter – 9 
+
+Asts: S. Blake – 6 Pts: C. Butler – 33 
+
+Rebs: C. Butler – 7 
+
+Asts: C. Butler – 4 
+
+Halftime Score: Maryland, 44-37 Carrier Dome – Syracuse, New York 
+
+Attendance: 29,252 Midwest Regional — Madison, Wisconsin [ edit ] First round Second round Regional Semifinals Regional Finals 1 Kansas 70 16 Holy Cross 59 1 Kansas 86 St. Louis 8 Stanford 63 8 Stanford 84 9 Western Kentucky 68 1 Kansas 73 4 Illinois 69 5 Florida 82 12 Creighton 83** 12 Creighton 60 Chicago 4 Illinois 72 4 Illinois 93 13 San Diego State 64 1 Kansas 104 2 Oregon 86 6 Texas 70 11 Boston College 57 6 Texas 68 Dallas 3 Mississippi State 64 3 Mississippi State 70 14 McNeese State 58 6 Texas 70 2 Oregon 72 7 Wake Forest 83 10 Pepperdine 74 7 Wake Forest 87 Sacramento 2 Oregon 92 2 Oregon 81 15 Montana 62 Regional Final Summary [ edit ] CBS Sunday, March 24 box score #1 Kansas Jayhawks 104 , #2 Oregon Ducks 86 Pts: N. Collison – 25 
+
+Rebs: D. Gooden – 20 
+
+Asts: A. Miles – 8 Pts: F. Jones – 32 
+
+Rebs: R. Johnson – 10 
+
+Asts: L. Ridnour – 7 
+
+Halftime Score: Kansas, 48-42 Kohl Center – Madison, Wisconsin 
+
+Attendance: 16,310 
+
+Referees: Jim Burr, Leslie Jones, Tom Lopes South Regional — Lexington, Kentucky [ edit ] First round Second round Regional Semifinals Regional Finals 1 Duke 84 16 Winthrop 37 1 Duke 84 Greenville 8 Notre Dame 77 8 Notre Dame 82 9 Charlotte 63 1 Duke 73 5 Indiana 74 5 Indiana 75 12 Utah 56 5 Indiana 76 Sacramento 13 UNC-Wilmington 67 4 Southern California 89 13 UNC-Wilmington 93* 5 Indiana 81 10 Kent State 69 6 California 82 11 Pennsylvania 75 6 California 50 Pittsburgh 3 Pittsburgh 63 3 Pittsburgh 71 14 Central Connecticut State 54 3 Pittsburgh 73 10 Kent State 78 7 Oklahoma State 61 10 Kent State 69 10 Kent State 71 Greenville 2 Alabama 58 2 Alabama 86 15 Florida Atlantic 78 First Round summary [ edit ] CBS Thursday, March 14 
+
+12:20 p.m. EST box score #10 Kent State Golden Flashes 69 , #7 Oklahoma State Cowboys 61 Pts: D. Shaw – 21 
+
+Rebs: A. Mitchell – 8 
+
+Asts: A. Mitchell – 5 Pts: F. Jonzen – 19 
+
+Rebs: I. McFarlin – 11 
+
+Asts: C. Gadsen – 5 
+
+Halftime Score: Kent State, 36-27 BI-LO Center – Greenville, South Carolina 
+
+Attendance: 13,194 
+
+Referees: Tim Higgins, Chris Rastatter, Bob Staffen Second Round summary [ edit ] CBS Saturday, March 16 
+
+3:36 p.m. EST box score #10 Kent State Golden Flashes 71 , #2 Alabama Crimson Tide 58 Pts: T. Huffman – 20 
+
+Rebs: A. Gates – 9 
+
+Asts: T. Huffman – 5 Pts: R. Grizzard – 17 
+
+Rebs: E. Dudley – 10 
+
+Asts: M. Williams – 4 
+
+Halftime Score: Kent State, 36-24 BI-LO Center – Greenville, South Carolina 
+
+Attendance: 13,962 
+
+Referees: Mark Whitehead, Reggie Greenwood, Rick Hartzell Regional Semifinal summary [ edit ] CBS Thursday, March 21 
+
+10:15 p.m. EST box score #10 Kent State Golden Flashes 78 , #3 Pittsburgh Panthers 73 (OT) Pts: A. Gates – 22 
+
+Rebs: A. Gates – 8 
+
+Asts: A. Gates – 4 Pts: B. Knight , J. Page – 18 
+
+Rebs: J. Brown , C. Troutman – 8 
+
+Asts: B. Knight – 6 
+
+Halftime Score: Kent State, 29-23 
+
+End of Regulation: 66-66 Rupp Arena – Lexington, Kentucky 
+
+Attendance: 22,338 
+
+Referees: Stanley Reynolds, Duke Edsall, John Higgins Regional Final Summary [ edit ] CBS Saturday, March 23 
+
+7:00 p.m. EST box score #5 Indiana Hoosiers 81 , #10 Kent State Golden Flashes 69 Pts: D. Fife – 17 
+
+Rebs: J. Jeffries – 7 
+
+Asts: T. Coverdale, K. Hornsby – 7 Pts: A. Gates – 22 
+
+Rebs: A. Gates , D. Shaw – 8 
+
+Asts: T. Huffman – 4 
+
+Halftime Score: Indiana, 40-28 Rupp Arena – Lexington, Kentucky 
+
+Attendance: 22,435 
+
+Referees: Mark Whitehead, Scott Thornley, Tom Nunez West Regional — San Jose, California [ edit ] First round Second round Regional Semifinals Regional Finals 1 Cincinnati 90 16 Boston University 52 1 Cincinnati 101 Pittsburgh 8 UCLA 105 8 UCLA 80 9 Ole Miss 58 8 UCLA 73 12 Missouri 82 5 Miami (FL) 80 12 Missouri 93 12 Missouri 83 Albuquerque 4 Ohio State 67 4 Ohio State 69 13 Davidson 64 12 Missouri 75 2 Oklahoma 81 6 Gonzaga 66 11 Wyoming 73 11 Wyoming 60 Albuquerque 3 Arizona 68 3 Arizona 86 14 UC-Santa Barbara 81 3 Arizona 67 2 Oklahoma 88 7 Xavier 70 10 Hawaii 58 7 Xavier 65 Dallas 2 Oklahoma 78 2 Oklahoma 71 15 Illinois-Chicago 63 Regional Final Summary [ edit ] CBS Saturday, March 23 box score #2 Oklahoma Sooners 81 , #12 Missouri Tigers 75 Pts: H. Price – 18 
+
+Rebs: Q. White, D, Selvy – 7 
+
+Asts: Q. White – 7 Pts: R. Paulding – 22 
+
+Rebs: T. Bryant – 9 
+
+Asts: W. Stokes, R. Paulding – 4 
+
+Halftime Score: Oklahoma, 41-32 Compaq Center – San Jose, California 
+
+Attendance: 18,040 Final Four — Atlanta, Georgia [ edit ] National Semifinals National Championship Game E1 Maryland 97 M1 Kansas 88 E1 Maryland 64 S5 Indiana 52 S5 Indiana 73 W2 Oklahoma 64 Broadcast information [ edit ] 
+
+The New TNN (now called Spike ) broadcast the opening-round game, then turned coverage over to CBS Sports for the remaining 63 games. They were carried on a regional basis until the "Elite Eight", at which point all games were shown nationally. 
+
+Westwood One had exclusive radio coverage. CBS Sports announcers [ edit ] Jim Nantz and Billy Packer – First Second Round at Washington, D.C.; East Regional at Syracuse, New York; Final Four at Atlanta Dick Enberg and Matt Guokas – First Second Round at St. Louis, Missouri; South Regional at Lexington, Kentucky Verne Lundquist and Bill Raftery – First Second Round at Pittsburgh, Pennsylvania; Midwest Regional at Madison, Wisconsin Gus Johnson and Dan Bonner – First Second Round at Albuquerque, New Mexico; West Regional at San Jose, California Kevin Harlan and Jon Sundvold – First Second Round at Greenville, South Carolina Ian Eagle and Jim Spanarkel – First Second Round at Sacramento, California Craig Bolerjack and Bob Wenzel – First Second Round at Dallas Tim Brando and Eddie Fogler – First Second Round at Chicago Westwood One announcers [ edit ] Marty Brennaman and Larry Conley , 1st and 2nd Rounds at Greenville, South Carolina and South Regionals at Lexington, Kentucky Local announcers [ edit ] Region Seed Teams Flagship station Play-by-play announcer Color analyst(s) S 1 S 2 S 3 S 4 S 5 S 6 S 7 S 8 S 9 S 10 Kent State WNIR –FM 100.1 Bill Needle S 11 S 12 S 13 S 14 S 15 S 16 See also [ edit ] 2002 NAIA Men's Division I Basketball Tournament References [ edit ] ^ CNN Sports Illustrated . "2002 NCAA National Semifinals: (E1) Maryland 97, (MW1) Kansas 88" . CNNSI.com . Retrieved 2008-03-06 . ^ CNN Sports Illustrated . "2002 NCAA National Semifinals: (S5) Indiana 73, (W2) Oklahoma 64" . CNNSI.com . Retrieved 2008-03-06 . ^ CNN Sports Illustrated . "2002 NCAA National Championship: (E1) Maryland 64, (S5) Indiana 52" . CNNSI.com . Retrieved 2008-03-06 . v t e NCAA Men's Division I Basketball Championship Tournaments 1939 1940 1941 1942 1943 1944 1945 1946 1947 1948 1949 1950 1951 1952 1953 1954 1955 1956 1957 1958 1959 1960 1961 1962 1963 1964 1965 1966 1967 1968 1969 1970 1971 1972 1973 1974 1975 1976 1977 1978 1979 1980 1981 1982 1983 1984 1985 1986 1987 1988 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 Structure Selection process Opening Round Elite Eight Final Four National Championship Game Venues Venues Champions awards Champions Most Outstanding Player Media culture Bracketology Broadcasting Tournament Final Four March Madness pools " One Shining Moment " Records statistics All-time team records Bids by school Bids by school and conference Consecutive appearances Final Four appearances by school Final Four participants Final Four appearances by coach Upsets v t e Maryland Terrapins Men's Basketball 2001–02 NCAA Champions 1 Byron Mouton 3 Juan Dixon ( MOP ) 12 Drew Nicholas 25 Steve Blake 35 Lonny Baxter 54 Chris Wilcox Head Coach Gary Williams Assistant Coaches Jimmy Patsos Dave Dickerson (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=2002_NCAA_Men%27s_Division_I_Basketball_Tournament oldid=736028002 " Categories : NCAA Men's Division I Basketball Championship 2001–02 NCAA Division I men's basketball season Sports in Madison, Wisconsin Basketball in the Dallas–Fort Worth metroplex Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version Languages Español Français Italiano Edit links This page was last modified on 24 August 2016, at 17:42. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.464", "walltime": "0.573", "ppvisitednodes": { "value": 7727, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 347249, "limit": 2097152 }, "templateargumentsize": { "value": 13011, "limit": 2097152 }, "expansiondepth": { "value": 12, "limit": 40 }, "expensivefunctioncount": { "value": 94, "limit": 500 }, "entityaccesscount": { "value": 0, "limit": 400 }, "timingprofile": [ "100.00% 333.204 1 -total", " 25.99% 86.588 46 Template:Cbb_link", " 18.50% 61.649 4 Template:16TeamBracket", " 15.40% 51.317 1 Template:Infobox_NCAA_Basketball_Tournament", " 13.24% 44.127 1 Template:Infobox", " 11.26% 37.531 1 Template:Reflist", " 9.55% 31.833 3 Template:Cite_web", " 8.90% 29.658 2 Template:Location_map+", " 8.69% 28.940 2 Template:Navbox", " 6.21% 20.700 1 Template:2002_Maryland_Terrapins_men's_basketball_navbox" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.128", "limit": "10.000" }, "limitreport-memusage": { "value": 3432813, "limit": 52428800 } }, "cachereport": { "origin": "mw1251", "timestamp": "20161020115145", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":55,"wgHostname":"mw1238"});});

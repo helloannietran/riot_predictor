@@ -1,0 +1,253 @@
+Rock Springs, Wyoming - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Rock_Springs,_Wyoming","wgTitle":"Rock Springs, Wyoming","wgCurRevisionId":743559677,"wgRevisionId":743559677,"wgArticleId":140217,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from December 2008","All articles needing additional references","Coordinates on Wikidata","Pages using weather box with unknown parameters","Pages using Weather box with unsupported parameters","Commons category with local link same as on Wikidata","Rock Springs, Wyoming","Cities in Sweetwater County, Wyoming","Coal towns in Wyoming","Micropolitan areas of Wyoming","1888 establishments in Wyoming Territory"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Rock_Springs,_Wyoming","wgRelevantArticleId":140217,"wgRequestId":"WApLzwpAAD4AAMS9rCgAAACJ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":41.590833333333,"lon":-109.2225},"wgWikibaseItemId":"Q378071","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Rock Springs, Wyoming From Wikipedia, the free encyclopedia Jump to: navigation , search This article needs additional citations for verification . Please help improve this article by adding citations to reliable sources . Unsourced material may be challenged and removed. (December 2008) ( Learn how and when to remove this template message ) Rock Springs, Wyoming 82901 City Old Village Hall, Downtown Rock Springs 
+
+Location of Rock Springs, Wyoming Rock Springs, Wyoming 82901 Location in the United States Coordinates: 41°35′27″N 109°13′21″W ﻿ / ﻿ 41.59083°N 109.22250°W ﻿ / 41.59083; -109.22250 Coordinates : 41°35′27″N 109°13′21″W ﻿ / ﻿ 41.59083°N 109.22250°W ﻿ / 41.59083; -109.22250 Country United States State Wyoming County Sweetwater Rock Springs 1888 Government • Mayor Carl Demshar • State House JoAnn Dayton ( D ), Mark Baker ( R ), Stan Blake ( D ) • State Senate Bernadine Craft ( D ) Area [1] • Total 19.34 sq mi (50.09 km 2 ) • Land 19.34 sq mi (50.09 km 2 ) • Water 0 sq mi (0 km 2 ) Elevation 6,388 ft (1,947 m) Population ( 2010 ) [2] • Total 23,036 • Estimate (2012 [3] ) 24,047 • Density 1,191.1/sq mi (459.9/km 2 ) Time zone Mountain (MST) ( UTC-7 ) • Summer ( DST ) MDT ( UTC-6 ) ZIP codes 82901, 82902, 82942 Area code(s) 307 FIPS code 56-67235 [4] GNIS feature ID 1593588 [5] Website rswy.net 
+
+Rock Springs is a city in Sweetwater County, Wyoming , United States . The population was 23,036 at the 2010 census . Rock Springs is the principal city of the Rock Springs micropolitan statistical area , which has a population of 37,975. Rock Springs is known as the Home of 56 Nationalities because of the influx of immigrants from all over the world who came to work in the coal mines that supplied the fuel to power the steam engines of the Union Pacific Railroad. The city's rich cultural heritage is celebrated each summer on International Day, a festival where the foods, costumes, and traditions of residents' ancestors are recreated and enjoyed at Bunning Park in downtown Rock Springs. 
+
+Rock Springs is the site of Western Wyoming Community College and Wyoming's Big Show , a yearly event with a carnival and concerts which is held at the Sweetwater County Events Complex . [6] 
+
+Rock Springs is located in an energy-rich region with many oil and natural gas wells. 
+
+Contents 1 History 2 Geography 3 Climate 4 Demographics 4.1 2010 census 4.2 2000 census 5 Education 6 Transportation 6.1 Highways 6.2 Airports 6.3 Railroads 7 Sister cities 8 Media 8.1 Hyperlocal websites 8.2 Print 8.3 Radio 8.4 Television 9 Entertainment 10 In popular culture 11 Notable people 12 References 13 External links 
+
+History [ edit ] 
+
+One of the worst incidents of anti-immigrant violence in American history, known as the Rock Springs Massacre , occurred among miners working near Rock Springs on September 2, 1885. [7] There are still remains of the old coal mining towns outside of Rock Springs. 
+
+Rock Springs was featured on 60 Minutes in 1977 due to corruption within the Police Department and City Government. [8] The Grand Jury was called into session. The Sheriff, James Stark of Sweetwater County testified and no wrongdoing was ever found. A follow up was filmed 20 years later for the show City Confidential . The episode was named "Rock Springs: Deadly Draw in the Wild West". [9] Geography [ edit ] 
+
+Rock Springs is located at 41°35′6.38″N 109°13′17.01″W ﻿ / ﻿ 41.5851056°N 109.2213917°W ﻿ / 41.5851056; -109.2213917 (41.585106, -109.221392). [10] According to the United States Census Bureau , the city has a total area of 19.34 square miles (50.09 km 2 ), all of it land. [1] 
+
+The city is approximately 6759 feet (2060 m) above sea level. Climate [ edit ] 
+
+Rock Springs has a semi-arid climate ( Köppen BSk ) with cold, snowy winters and warm summers. Precipitation is almost evenly spread throughout the year, with most months having between .50 inches (13 mm) and .60 inches (15 mm), but May is normally the wettest month with 1.20 inches (30.5 mm). 
+
+The average January temperatures are a maximum of 29.1 °F (−1.6 °C) and a minimum of 11.2 °F (−11.6 °C). The average July temperatures are a maximum of 83.4 °F (28.6 °C) and a minimum of 53.4 °F (11.9 °C). There an average of 6.4 days annually with highs of 90 °F (32.2 °C) or higher. There are an average of 195.5 nights with lows of 32 °F (0 °C) or lower and 14.3 nights with lows of 0 °F (−17.8 °C) or lower. The record high temperature was 112 °F (44.4 °C) on May 17, 1902, and the record low temperature was −37 °F (−38.3 °C) on January 12, 1963. 
+
+The average annual precipitation is 8.73 inches (221.7 mm). There is an average of 75 days with measurable precipitation. The wettest calendar year was 1973 with 13.29 in (337.6 mm) and the driest 1953 with 3.79 in (96.3 mm). The most rainfall in one month was 6.50 in (165.1 mm) in June 1899. The most rainfall in 24 hours was 3.50 in (88.9 mm) on June 12, 1899. The average snowfall is 43.6 inches (1.11 m). The most snowfall in one year was 94.0 in (2.39 m) in 1975. The most snowfall in one month was 22.5 in (0.57 m) in October 1971. [11] Climate data for Rock Springs Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Record high °F (°C) 55 
+
+(13) 60 
+
+(16) 71 
+
+(22) 79 
+
+(26) 90 
+
+(32) 96 
+
+(36) 98 
+
+(37) 96 
+
+(36) 89 
+
+(32) 85 
+
+(29) 66 
+
+(19) 57 
+
+(14) 98 
+
+(37) Average high °F (°C) 27.3 
+
+(−2.6) 31.6 
+
+(−0.2) 40.9 
+
+(4.9) 51.0 
+
+(10.6) 61.7 
+
+(16.5) 73.6 
+
+(23.1) 81.5 
+
+(27.5) 79.9 
+
+(26.6) 68.6 
+
+(20.3) 55.6 
+
+(13.1) 38.3 
+
+(3.5) 29.0 
+
+(−1.7) 53.25 
+
+(11.8) Daily mean °F (°C) 19.0 
+
+(−7.2) 22.7 
+
+(−5.2) 31.6 
+
+(−0.2) 39.7 
+
+(4.3) 49.3 
+
+(9.6) 59.6 
+
+(15.3) 66.8 
+
+(19.3) 65.2 
+
+(18.4) 54.9 
+
+(12.7) 43.5 
+
+(6.4) 28.8 
+
+(−1.8) 20.2 
+
+(−6.6) 41.78 
+
+(5.42) Average low °F (°C) 10.7 
+
+(−11.8) 13.8 
+
+(−10.1) 22.2 
+
+(−5.4) 28.4 
+
+(−2) 36.8 
+
+(2.7) 45.6 
+
+(7.6) 52.1 
+
+(11.2) 50.5 
+
+(10.3) 41.2 
+
+(5.1) 31.4 
+
+(−0.3) 19.3 
+
+(−7.1) 11.4 
+
+(−11.4) 30.28 
+
+(−0.93) Record low °F (°C) −37 
+
+(−38) −29 
+
+(−34) −12 
+
+(−24) 2 
+
+(−17) 14 
+
+(−10) 26 
+
+(−3) 35 
+
+(2) 33 
+
+(1) 5 
+
+(−15) 3 
+
+(−16) −13 
+
+(−25) −29 
+
+(−34) −37 
+
+(−38) Average precipitation inches (mm) 0.61 
+
+(15.5) 0.52 
+
+(13.2) 0.78 
+
+(19.8) 1.02 
+
+(25.9) 1.36 
+
+(34.5) 0.68 
+
+(17.3) 0.93 
+
+(23.6) 0.58 
+
+(14.7) 0.87 
+
+(22.1) 0.87 
+
+(22.1) 0.63 
+
+(16) 0.61 
+
+(15.5) 9.46 
+
+(240.2) Source #1: NOAA (normals, 1971–2000) [12] Source #2: The Weather Channel (Records) [13] The parameter "imperial first" is not recognized by Template:Weather box Demographics [ edit ] Historical population Census Pop. %± 1870 40 — 1880 763 1,807.5% 1890 3,406 346.4% 1900 4,363 28.1% 1910 5,778 32.4% 1920 6,456 11.7% 1930 8,440 30.7% 1940 9,827 16.4% 1950 10,857 10.5% 1960 10,371 −4.5% 1970 11,657 12.4% 1980 19,458 66.9% 1990 19,050 −2.1% 2000 18,708 −1.8% 2010 23,036 23.1% Est. 2015 23,962 [14] 4.0% [15] 2010 census [ edit ] 
+
+At the 2010 census , [2] there were 23,036 people, 8,762 households and 5,849 families residing in the city. The population density was 1,191.1 inhabitants per square mile (459.9/km 2 ). There were 10,070 housing units at an average density of 520.7 per square mile (201.0/km 2 ). The racial makeup of the city was 86.4% White , 1.4% African American , 0.8% Native American , 1.1% Asian , 0.1% Pacific Islander , 7.5% from other races , and 2.6% from two or more races. Hispanic or Latino of any race were 16.4% of the population. 
+
+There were 8,762 households of which 35.8% had children under the age of 18 living with them, 49.9% were married couples living together, 9.8% had a female householder with no husband present, 7.1% had a male householder with no wife present, and 33.2% were non-families. 25.3% of all households were made up of individuals and 6.6% had someone living alone who was 65 years of age or older. The average household size was 2.57 and the average family size was 3.07. 
+
+The median age in the city was 31.5 years. 26.4% of residents were under the age of 18; 11.4% were between the ages of 18 and 24; 29.4% were from 25 to 44; 24.6% were from 45 to 64; and 8.1% were 65 years of age or older. The gender makeup of the city was 52.1% male and 47.9% female. 2000 census [ edit ] 
+
+At the 2000 census, [4] there were 18,708 people, 7,348 households and 4,930 families residing in the city. The population density was 1,014.4 per square mile (391.7/km 2 ). There were 8,359 housing units at an average density of 453.3 per square mile (175.0/km 2 ). The racial makeup of the city was 91.75% White, 1.07% African American, 0.86% Native American, 1.02% Asian, 0.03% Pacific Islander , 3.05% from other races , and 2.22% from two or more races. Hispanic or Latino of any race were 8.96% of the population. 
+
+There were 7,348 households of which 35.4% had children under the age of 18 living with them, 52.5% were married couples living together, 10.2% had a female householder with no husband present, and 32.9% were non-families. 27.4% of all households were made up of individuals and 8.5% had someone living alone who was 65 years of age or older. The average household size was 2.48 and the average family size was 3.02. 
+
+27.1% of the population were under the age of 18, 11.2% from 18 to 24, 29.2% from 25 to 44, 22.5% from 45 to 64, and 9.9% who were 65 years of age or older. The median age was 34 years. For every 100 females there were 99.2 males. For every 100 females age 18 and over, there were 98.2 males. 
+
+The median household income was $42,584 and the median family income was $51,541. Males had a median income of $44,809 compared with $22,609 for females. The per capita income for the city was $19,396. About 6.4% of families and 9.4% of the population were below the poverty line , including 11.0% of those under age 18 and 8.7% of those age 65 or over. Education [ edit ] Rock Springs Coal sign Western Wyoming Community College, December 2007 Rock Springs Coal sign looking into downtown 
+
+Public education in the city of Rock Springs is provided by Sweetwater County School District #1 . Schools serving the city include: Desert View Elementary, Lincoln Elementary, Northpark Elementary, Overland Elementary, Pilot Butte Elementary, Sage Elementary, Stagecoach Elementary, Walnut Elementary, Westridge Elementary, Eastside Elementary, Rock Springs Junior High School, and Rock Springs High School . There are also two alternative campuses – Black Butte High School, and Roosevelt Learning Center. Transportation [ edit ] Highways [ edit ] 
+
+Interstate Highways : 
+
+I-80 East-West Interstate running from California to New York . Intersects US 191 northeast of Rock Springs. 
+
+US Routes : 
+
+US 30 (Dewar Drive) East-West route through Rock Springs and business route 
+
+US 191 North-South through Rock Springs that intersects I-80 
+
+Wyoming State Highways : 
+
+WYO 370 (Baxter Road/Airport Road) From Interstate 80 and U.S. 30 Exit 111 southeast to the Rock Springs Regional Airport. Signed only as "Airport Road" from the Interstate, with one sign indicating "Baxter Road". 
+
+WYO 376 (Circumferential Highway/Rock Springs Beltway) Belt route around Rock Springs, splitting from and then meeting again with Business I-80 through Rock Springs 
+
+WYO 430 (Hampshire Street Parkway) Stretch of road running south to the Colorado-Wyoming State Line near Hiawatha Camp, Colorado. The route continues south as an unimproved highway all the way to Colorado 318 near Dinosaur National Monument. Airports [ edit ] 
+
+Rock Springs is served by Rock Springs-Sweetwater County Airport . Railroads [ edit ] 
+
+Union Pacific serves Rock Springs. Sister cities [ edit ] 
+
+Rock Springs' sister cities are: United States : Green River, Wyoming Media [ edit ] Hyperlocal websites [ edit ] 
+
+Rock Springs is served by two hyperlocal news websites, SweetwaterNOW.com [16] and Wyo4News.com. [17] SweetwaterNOW.com was founded in February 2013 and Wyo4News.com was founded in September 2013. Both sites provide original reporting, community updates and advertising. Print [ edit ] 
+
+Rock Springs is served by four print publications: Rock Springs Daily Rocket-Miner , The Mustang Express (formerly The Oracle - Western Wyoming Community College newspaper), The Marquee (a media and entertainment supplement published in the Rocket-Miner), The Green River Star (a weekly newspaper published in Green River ) and The Sweetwater County Guide (a weekly shopper's guide published by The Green River Star ). Radio [ edit ] 
+
+Rock Springs is served by a number of radio stations including KRKK , KSIT , KQSW , KMRZ , KYCS , KZWB , KFRZ and KUGR . Television [ edit ] 
+
+All television stations in Rock Springs are translators or satellites of stations located elsewhere: Channel Callsign Network Notes 13 KGWR-TV CBS Satellite of KGWC-TV , Casper, Wyoming 26 K26DK Independent relay of KJZZ-TV , Salt Lake City 28 K28JU-D PBS relay of Wyoming PBS 45 K45IA The CW relay of KUCW , Salt Lake City 
+
+The Sweetwater Cable TV Company is the local cable television franchise serving Rock Springs; the system offers KGWC, Wyoming PBS and ABC affiliate KTWO-TV from Casper, plus most major stations from Salt Lake City. There are a couple of local Public-access television cable TV stations as well. Entertainment [ edit ] 
+
+Every year during July, August, and September the city holds a county fair called Wyoming's Big Show . The event includes theme park rides, booths, restaurants and live entertainment. Rodeos have been a staple of the fair and famous performers are sometimes a part of the entertainment. 
+
+Rock Springs also hosts several festivals throughout the year, including the International Festival (to honor the city's nickname), the Blues and Brews Festival, the Wyoming Chocolate Festival and the Rod and Rails Festival. [18] 
+
+Rock Springs is also known as the "City Where Dreams are Made". In popular culture [ edit ] 
+
+Rock Springs is mentioned in the song "Coalminer" by O.A.R. . The song appears on the band's album, In Between Now and Then . 
+
+Rock Springs is also in the opening line of the song "Sad Songs And Waltzes Revisited" by Mary Cutrufello . The song appears on the album Who To Love And When To Leave . 
+
+Parts of the television show Ringer are set in Rock Springs. 
+
+Rock Springs is featured in, and the source of the title for, Richard Ford 's 1987 collection of short stories . 
+
+A hotel in Rock Springs, along with the date 10/10/97, is the setting given in the opening lines of "I Keep A Diary" by Braid on their album Frame Canvas . 
+
+Rock Springs is the backdrop of the nonfiction book "Heavy: A Memoir of Wyoming, BMX, Drugs, and Heavy Fucking Music" by J.J. Anselmi. Notable people [ edit ] Adam Archuleta , safety for St. Louis Rams and Chicago Bears Paul Brothers , football player Ed Cantrell , accused of shooting undercover officer from Rock Springs Police Department Edward Crippa , United States Senator from Wyoming Mickey Daniels , actor who appeared in many movies in the 1930s Boyd Dowler , wide receiver for Green Bay Packers (1959–69) and Washington Redskins (1971) John Frullo , member of Texas House of Representatives from Lubbock , was reared in Rock Springs prior to 1980. His father is the architect John L. Frullo. Paul Gosar , member of United States House of Representatives representing Arizona's 4th congressional district Robert Holding , launched first of Little America Hotels west of Rock Springs in 1952 Richard Honaker , a Rock Springs attorney and Democratic member of Wyoming House of Representatives ; unsuccessful nominee for the U.S. District Court in Cheyenne Robert H. Johnson , state senator from Rock Springs, 1967 to 1978; attorney, 1963 to 1996; managing editor Rock Springs Daily Rocket-Miner , 1948 to 1961 Andrew Manatos , administrative assistant for US Senate Liaison to Presidents John F. Kennedy and Lyndon B. Johnson ; responsible for passing historic Civil Rights Bills and other major legislation through Senate Florabel Muir , syndicated newspaper columnist and reporter Abby Norman , Miss Wyoming USA 2004, represented state in 2005 Miss USA pageant Charles E. Richardson , former publisher of Daily Rocket-Miner Teno Roncalio , Democratic politician, U.S. Representative 1965 to 1967 and again 1971 until 1978 Jack Snow , wide receiver for Los Angeles Rams (1965–1975) J. J. Syvrud , American football player John Wendling , football player for Buffalo Bills and Detroit Lions Dan Copenbarger , former JC Penny model References [ edit ] ^ a b "US Gazetteer files 2010" . United States Census Bureau . Retrieved 2012-12-14 . ^ a b "American FactFinder" . United States Census Bureau . Retrieved 2012-12-14 . ^ "Population Estimates" . United States Census Bureau . Retrieved 2013-06-01 . ^ a b "American FactFinder" . United States Census Bureau . Retrieved 2008-01-31 . ^ "US Board on Geographic Names" . United States Geological Survey . 2007-10-25 . Retrieved 2008-01-31 . ^ Sweetwater Events Complex Website ^ http://www.history.com/this-day-in-history/whites-massacre-chinese-in-wyoming-territory ^ http://www.wyomingtalesandtrails.com/rocksprings2.html ^ http://www.aetv.com/city_confidential/city_episode_guide.jsp?episode=137954 ^ "US Gazetteer files: 2010, 2000, and 1990" . United States Census Bureau . 2011-02-12 . Retrieved 2011-04-23 . ^ http://www.wrcc.dri.edu/cgi-bin/cliMAIN.pl?wy7840 ; http://www.wrcc.dri.edu/cgi-bin/cliMAIN.pl?wy7845 ^ "Climatography of the United States NO.81" (PDF) . National Oceanic and Atmospheric Administration . Retrieved January 11, 2011 . ^ "Monthly Averages for Rock Springs, WY" . The Weather Channel . Retrieved January 13, 2011 . ^ "Annual Estimates of the Resident Population for Incorporated Places: April 1, 2010 to July 1, 2015" . Retrieved July 2, 2016 . ^ "Historical Decennial Census Population for Wyoming Counties, Cities, and Towns" . Wyoming Department of State / U.S. Census Bureau . Retrieved 2008-06-30 . ^ http://sweetwaternow.com ^ http://wyo4news.com ^ http://www.downtownrs.com External links [ edit ] Wikimedia Commons has media related to Rock Springs, Wyoming . City of Rock Springs Rock Springs Photos (from Wyoming Tales and Trails) Rock Springs Daily Rocket-Miner Rock Springs Chamber of Commerce Community Fine Arts Center v t e Municipalities and communities of Sweetwater County, Wyoming , United States County seat : Green River Cities Green River Rock Springs Towns Bairoil Granger Superior Wamsutter CDPs Arrowhead Springs Clearview Acres Eden Farson James Town Little America McKinnon North Rock Springs Purple Sage Reliance Washam Unincorporated 
+
+communities Blairtown Point of Rocks Sweeney Ranch Ghost towns Bryan Table Rock Winton v t e State of Wyoming Cheyenne (capital) Topics Bibliography Fauna Governors Delegations Geography Government History People Visitor attractions State symbols Radio stations Society Culture Crime Demographics Economy Education Politics Regions Black Hills Grand Teton Great Basin Powder River Country Red Desert Yellowstone Cities Buffalo Casper Cheyenne Cody Douglas Evanston Gillette Green River Jackson Lander Laramie Powell Rawlins Riverton Rock Springs Sheridan Torrington Worland Counties Albany Big Horn Campbell Carbon Converse Crook Fremont Goshen Hot Springs Johnson Laramie Lincoln Natrona Niobrara Park Platte Sheridan Sublette Sweetwater Teton Uinta Washakie Weston (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Rock_Springs,_Wyoming oldid=743559677 " Categories : Rock Springs, Wyoming Cities in Sweetwater County, Wyoming Coal towns in Wyoming Micropolitan areas of Wyoming 1888 establishments in Wyoming Territory Hidden categories: Articles needing additional references from December 2008 All articles needing additional references Coordinates on Wikidata Pages using weather box with unknown parameters Pages using Weather box with unsupported parameters Commons category with local link same as on Wikidata Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Wikivoyage Languages Bân-lâm-gú Български Brezhoneg Català Cymraeg Deutsch Español فارسی Français Gaeilge Gaelg Gàidhlig Italiano Kernowek Kreyòl ayisyen Malagasy Nederlands 日本語 Oʻzbekcha/ўзбекча Polski Português Русский Simple English Српски / srpski Srpskohrvatski / српскохрватски Svenska Türkçe Українська اردو Tiếng Việt Volapük Winaray 中文 Edit links This page was last modified on 10 October 2016, at 05:40. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.628", "walltime": "0.754", "ppvisitednodes": { "value": 6453, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 128016, "limit": 2097152 }, "templateargumentsize": { "value": 9263, "limit": 2097152 }, "expansiondepth": { "value": 14, "limit": 40 }, "expensivefunctioncount": { "value": 2, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 609.047 1 -total", " 35.51% 216.267 1 Template:Infobox_settlement", " 23.63% 143.926 2 Template:Infobox", " 14.58% 88.790 1 Template:Weather_box", " 13.72% 83.536 1 Template:Reflist", " 10.15% 61.812 23 Template:Convert", " 10.13% 61.717 10 Template:Cite_web", " 7.44% 45.304 1 Template:Refimprove", " 6.26% 38.153 1 Template:US_Census_population", " 4.78% 29.127 1 Template:Ambox" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.201", "limit": "10.000" }, "limitreport-memusage": { "value": 6704357, "limit": 52428800 } }, "cachereport": { "origin": "mw1231", "timestamp": "20161012085419", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1267"});});

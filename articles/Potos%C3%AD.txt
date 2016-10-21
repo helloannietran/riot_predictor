@@ -1,0 +1,1002 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Potosí - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Potosí","wgTitle":"Potosí","wgCurRevisionId":743774168,"wgRevisionId":743774168,"wgArticleId":651620,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Articles which use infobox templates with no data rows","All articles with unsourced statements","Articles with unsourced statements from September 2010","Articles lacking in-text citations from September 2010","All articles lacking in-text citations","Articles with unsourced statements from July 2009","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from September 2013","Articles needing more detailed references","Potosí","1546 establishments in the Spanish Empire","Populated places established in 1546","Populated places in Potosí Department","World Heritage Sites in Bolivia"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Potosí","wgRelevantArticleId":651620,"wgRequestId":"WAkLlgpAAEQAAcUVxXQAAABA","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":-19.583333333333,"lon":-65.75},"wgWikibaseItemId":"Q35045","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Potos%C3%AD"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Potos%C3%AD&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Potos%C3%AD&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Potos%C3%AD"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Potosí rootpage-Potosí skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Potosí</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">For other uses, see <a href="/wiki/Potosi_(disambiguation)" class="mw-redirect mw-disambig" title="Potosi (disambiguation)">Potosi (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org">Potosí</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding:0.7em 0.8em"><a href="/wiki/File:Cerro_ricco.jpg" class="image" title="View of Rich Hill (Cerro Rico) and National Mint"><img alt="View of Rich Hill (Cerro Rico) and National Mint" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cerro_ricco.jpg/250px-Cerro_ricco.jpg" width="250" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cerro_ricco.jpg/375px-Cerro_ricco.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cerro_ricco.jpg/500px-Cerro_ricco.jpg 2x" data-file-width="1800" data-file-height="1200" /></a>
+<div>View of Rich Hill (Cerro Rico) and National Mint</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Flag_of_potosi.svg" class="image" title="Flag of Potosí"><img alt="Flag of Potosí" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_potosi.svg/100px-Flag_of_potosi.svg.png" width="100" height="68" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_potosi.svg/150px-Flag_of_potosi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_potosi.svg/200px-Flag_of_potosi.svg.png 2x" data-file-width="440" data-file-height="300" /></a><br />
+<small><b>Flag</b></small></td>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Coat_of_Arms_of_Potosi_(Bolivia).svg" class="image" title="Coat of arms of Potosí"><img alt="Coat of arms of Potosí" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Coat_of_Arms_of_Potosi_%28Bolivia%29.svg/100px-Coat_of_Arms_of_Potosi_%28Bolivia%29.svg.png" width="100" height="102" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Coat_of_Arms_of_Potosi_%28Bolivia%29.svg/150px-Coat_of_Arms_of_Potosi_%28Bolivia%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Coat_of_Arms_of_Potosi_%28Bolivia%29.svg/200px-Coat_of_Arms_of_Potosi_%28Bolivia%29.svg.png 2x" data-file-width="910" data-file-height="930" /></a><br />
+<small><b>Coat of arms</b></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">Nickname(s): <span class="nickname">Empire Ville (<i>Villa Imperial</i> in Spanish)</span></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:250px;padding:0">
+<div style="position:relative;width:250px"><a href="/wiki/File:Bolivia_adm_location_map.svg" class="image" title="Potosí is located in Bolivia"><img alt="Potosí is located in Bolivia" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bolivia_adm_location_map.svg/250px-Bolivia_adm_location_map.svg.png" width="250" height="277" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bolivia_adm_location_map.svg/375px-Bolivia_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Bolivia_adm_location_map.svg/500px-Bolivia_adm_location_map.svg.png 2x" data-file-width="1342" data-file-height="1488" /></a>
+<div style="position:absolute;top:70.556%;left:36.972%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Potosí" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Potosí" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:4px;left:-3em;text-align:center"><span style="padding:1px">Potosí</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<small>Location in Bolivia</small></td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span style="white-space:nowrap"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Potos%C3%AD&amp;params=19_35_S_65_45_W_type:city(240966)_region:BO"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">19°35′S</span> <span class="longitude">65°45′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">19.583°S 65.750°W</span><span style="display:none">﻿ / <span class="geo">-19.583; -65.750</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Potos%C3%AD&amp;params=19_35_S_65_45_W_type:city(240966)_region:BO"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">19°35′S</span> <span class="longitude">65°45′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">19.583°S 65.750°W</span><span style="display:none">﻿ / <span class="geo">-19.583; -65.750</span></span></span></a></span></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Bolivia" title="Bolivia">Bolivia</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Departments_of_Bolivia" title="Departments of Bolivia">Department</a></th>
+<td><a href="/wiki/Potos%C3%AD_Department" title="Potosí Department">Potosí</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Provinces_of_Bolivia" title="Provinces of Bolivia">Province</a></th>
+<td><a href="/wiki/Tom%C3%A1s_Fr%C3%ADas_Province" title="Tomás Frías Province">Tomás Frías</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Municipalities_of_Bolivia" title="Municipalities of Bolivia">Municipality</a></th>
+<td><a href="/wiki/Potos%C3%AD_Municipality" title="Potosí Municipality">Potosí Municipality</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Founded</th>
+<td>April 1, 1545</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Mayor</th>
+<td><a href="/wiki/Ren%C3%A9_Joaquino_Cabrera" class="mw-redirect" title="René Joaquino Cabrera">René Joaquino Cabrera</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>118.218&#160;km<sup>2</sup> (45.6&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>4,067&#160;m (13,343&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2012)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>240,966</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>2,000/km<sup>2</sup> (5,300/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/UTC" class="mw-redirect" title="UTC">UTC</a>-4</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.potosy.com.bo/">Official website</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;text-align:left; font-size:smaller"></td>
+</tr>
+<tr class="mergedrow">
+<th colspan="2" style="text-align:center">
+<div style="border:4px solid #FFE153; line-height: 1.5; text-align: center;"><a href="/wiki/World_Heritage_Site" title="World Heritage Site">UNESCO World Heritage Site</a></div>
+</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Official name</th>
+<td>City of Potosí</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Type</th>
+<td>Cultural</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Criteria</th>
+<td>ii, iv, vi</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Designated</th>
+<td>1987 <small>(11th <a href="/wiki/World_Heritage_Committee" title="World Heritage Committee">session</a>)</small></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Reference&#160;no.</th>
+<td><a rel="nofollow" class="external text" href="http://whc.unesco.org/en/list/420">420</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">State Party</th>
+<td><a href="/wiki/Bolivia" title="Bolivia">Bolivia</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Region</th>
+<td><a href="/wiki/List_of_World_Heritage_Sites_in_the_Americas" title="List of World Heritage Sites in the Americas">Latin America and the Caribbean</a></td>
+</tr>
+</table>
+<p><b>Potosí</b> is a city and the capital of the <a href="/wiki/Potos%C3%AD_Department" title="Potosí Department">department of Potosí</a> in <a href="/wiki/Bolivia" title="Bolivia">Bolivia</a>. It is one of the <a href="/wiki/List_of_highest_cities_in_the_world" title="List of highest cities in the world">highest cities</a> in the world by elevation at a nominal 4,090 metres (13,420&#160;ft)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> For centuries, it was the location of <a href="/wiki/National_Mint_of_Bolivia" title="National Mint of Bolivia">the Spanish colonial mint</a>.</p>
+<p>Potosí lies at the foot of the <i><a href="/wiki/Cerro_Rico" title="Cerro Rico">Cerro de Potosí</a></i><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>—sometimes referred to as the <i><a href="/wiki/Cerro_Rico" title="Cerro Rico">Cerro Rico</a></i> ("rich mountain", a <a href="/wiki/Mountain" title="Mountain">mountain</a> popularly conceived of as being "made of" <a href="/wiki/Silver" title="Silver">silver</a> ore that dominates the city. The Cerro Rico is the reason for Potosí's historical importance, since it was the major supply of silver for Spain during the period of the <a href="/wiki/New_World" title="New World">New World</a> <a href="/wiki/Spanish_Empire" title="Spanish Empire">Spanish Empire</a>.</p>
+<p>The silver was taken by <a href="/wiki/Llama" title="Llama">llama</a> and <a href="/wiki/Mule_train_(transport)" class="mw-redirect" title="Mule train (transport)">mule train</a> to the Pacific coast, shipped north to <a href="/wiki/Panama_City" title="Panama City">Panama City</a>, carried by mule train across the isthmus of Panama to <a href="/wiki/Nombre_de_Dios,_Col%C3%B3n" title="Nombre de Dios, Colón">Nombre de Dios</a> or <a href="/wiki/Portobelo,_Col%C3%B3n" title="Portobelo, Colón">Portobelo</a> whence it was taken to Spain on the <a href="/wiki/Spanish_treasure_fleets" class="mw-redirect" title="Spanish treasure fleets">Spanish treasure fleets</a>.</p>
+<p>Cerro de Potosí's peak is 4,824 metres (15,827&#160;ft) <a href="/wiki/Above_mean_sea_level" class="mw-redirect" title="Above mean sea level">above sea level</a>.<sup id="cite_ref-Cunningham_4-0" class="reference"><a href="#cite_note-Cunningham-4">[4]</a></sup><sup class="reference" style="white-space:nowrap;">:376</sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geology"><span class="tocnumber">1</span> <span class="toctext">Geology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History_and_silver_extraction"><span class="tocnumber">2</span> <span class="toctext">History and silver extraction</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#16th_century_silver_boom"><span class="tocnumber">2.1</span> <span class="toctext">16th century silver boom</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Forced_labor"><span class="tocnumber">2.2</span> <span class="toctext">Forced labor</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Independence_era"><span class="tocnumber">2.3</span> <span class="toctext">Independence era</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Origin_of_the_name"><span class="tocnumber">3</span> <span class="toctext">Origin of the name</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Climate"><span class="tocnumber">4</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Neighborhoods"><span class="tocnumber">5</span> <span class="toctext">Neighborhoods</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Sports"><span class="tocnumber">6</span> <span class="toctext">Sports</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Transportation"><span class="tocnumber">7</span> <span class="toctext">Transportation</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Legacy"><span class="tocnumber">8</span> <span class="toctext">Legacy</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Sister_cities"><span class="tocnumber">9</span> <span class="toctext">Sister cities</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Gallery"><span class="tocnumber">10</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#See_also"><span class="tocnumber">11</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">12</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">13</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Geology">Geology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potos%C3%AD&amp;action=edit&amp;section=1" title="Edit section: Geology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Located in the Bolivian Tin Belt, Cerro Rico de Potosi is the world's largest silver deposit and has been mined since the sixteenth century, producing up to 60,000 <a href="/wiki/Tonnes" class="mw-redirect" title="Tonnes">tonnes</a> by 1996. Estimates are that much silver still remains in the mines. Potosi became the second largest city, and the site of the first mint, in the Americas. By 1891, low silver prices prompted the change to mining tin, which continued until 1985. At peak production in the sixteenth and seventeenth centuries, the <a href="/wiki/Ore" title="Ore">ore</a> contained up to 40% silver.<sup id="cite_ref-Cunningham_4-1" class="reference"><a href="#cite_note-Cunningham-4">[4]</a></sup><sup class="reference" style="white-space:nowrap;">:374</sup></p>
+<p>The ore deposits reside in <a href="/wiki/Vein_(geology)" title="Vein (geology)">veins</a> present in the <a href="/wiki/Dacite" title="Dacite">dacite</a> <a href="/wiki/Volcanic_dome" class="mw-redirect" title="Volcanic dome">volcanic dome</a>. The hill is "honeycombed" with underground workings, reaching from the summit to depths of 1,150 metres (3,770&#160;ft). The conical hill has a reddish-brown <a href="/wiki/Gossan" title="Gossan">gossan</a> cap of iron-oxides and quartz, with grayish-blue altered dacite and many <a href="/wiki/Mine_dump" class="mw-redirect" title="Mine dump">mine dumps</a> below.<sup id="cite_ref-Cunningham_4-2" class="reference"><a href="#cite_note-Cunningham-4">[4]</a></sup><sup class="reference" style="white-space:nowrap;">:374–376</sup></p>
+<p><a href="/wiki/Basement_rock" class="mw-redirect" title="Basement rock">Basement rocks</a> consist of <a href="/wiki/Ordovician" title="Ordovician">Ordovician</a> <a href="/wiki/Clastic_sediment" class="mw-redirect" title="Clastic sediment">clastic sediments</a> consisting of <a href="/wiki/Phyllite" title="Phyllite">phyllite</a> with some <a href="/wiki/Sandstone" title="Sandstone">sandstone</a> <a href="/wiki/Interbedding" title="Interbedding">interbedding</a>. At about 13.8 <a href="/wiki/Myr" title="Myr">Ma</a>, the dome was <a href="/wiki/Extrusive_(geology)" class="mw-redirect" title="Extrusive (geology)">extruded</a>. During the explosive process, the Venus <a href="/wiki/Breccia" title="Breccia">breccia</a> formed when the ascending dacite <a href="/wiki/Magma" title="Magma">magma</a> reacted with <a href="/wiki/Groundwater" title="Groundwater">groundwater</a> to produce a <a href="/wiki/Phreatic_eruption" title="Phreatic eruption">phreatic eruption</a>. The released pressure allowed the formation of the Caracoles <a href="/wiki/Tuff_ring" class="mw-redirect" title="Tuff ring">tuff ring</a> on top of the breccia. The magma then extruded outward from a <a href="/wiki/Dike_(geology)" title="Dike (geology)">dike</a> to form a <a href="/wiki/Volcanic_dome" class="mw-redirect" title="Volcanic dome">volcanic dome</a> over the <a href="/wiki/Tuff" title="Tuff">tuff</a>. The dacite dome is 1,700 metres (5,600&#160;ft) by 1,200 metres (3,900&#160;ft) at the surface and narrows down to the 100 metres (330&#160;ft) wide dike at depth. <a href="/wiki/Hydrothermal_circulation" title="Hydrothermal circulation">Hydrothermal circulation</a> and <a href="/wiki/Fracture_(geology)" title="Fracture (geology)">fracturing</a> soon followed, altering the dacite and depositing ore minerals and <a href="/wiki/Gangue" title="Gangue">gangue</a> in the veins.<sup id="cite_ref-Cunningham_4-3" class="reference"><a href="#cite_note-Cunningham-4">[4]</a></sup><sup class="reference" style="white-space:nowrap;">:375,381,384</sup></p>
+<h2><span class="mw-headline" id="History_and_silver_extraction">History and silver extraction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potos%C3%AD&amp;action=edit&amp;section=2" title="Edit section: History and silver extraction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/National_Mint_of_Bolivia" title="National Mint of Bolivia">National Mint of Bolivia</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Bolivia_Altiplano_2004.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bolivia_Altiplano_2004.jpg/200px-Bolivia_Altiplano_2004.jpg" width="200" height="300" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/f/f2/Bolivia_Altiplano_2004.jpg 1.5x" data-file-width="240" data-file-height="360" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Bolivia_Altiplano_2004.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Manuel_Rivera-Ortiz" title="Manuel Rivera-Ortiz">Manuel Rivera-Ortiz</a>: widow of the Mines, Potosí, Bolivia 2004</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Miners_at_Work_Potosi_(pixinn.net).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Miners_at_Work_Potosi_%28pixinn.net%29.jpg/220px-Miners_at_Work_Potosi_%28pixinn.net%29.jpg" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Miners_at_Work_Potosi_%28pixinn.net%29.jpg/330px-Miners_at_Work_Potosi_%28pixinn.net%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Miners_at_Work_Potosi_%28pixinn.net%29.jpg/440px-Miners_at_Work_Potosi_%28pixinn.net%29.jpg 2x" data-file-width="1024" data-file-height="681" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Miners_at_Work_Potosi_(pixinn.net).jpg" class="internal" title="Enlarge"></a></div>
+Miners at work</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Potosi_air.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Potosi_air.jpg/220px-Potosi_air.jpg" width="220" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Potosi_air.jpg/330px-Potosi_air.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Potosi_air.jpg/440px-Potosi_air.jpg 2x" data-file-width="2000" data-file-height="1490" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Potosi_air.jpg" class="internal" title="Enlarge"></a></div>
+Potosí, aerial photo</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="16th_century_silver_boom">16th century silver boom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potos%C3%AD&amp;action=edit&amp;section=3" title="Edit section: 16th century silver boom">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">See also: <a href="/wiki/Real_Situado" title="Real Situado">Real Situado</a> and <a href="/wiki/Global_silver_trade_from_the_16th_to_18th_centuries" title="Global silver trade from the 16th to 18th centuries">Global silver trade from the 16th to 18th centuries</a></div>
+<p>Founded in 1545 as a mining town, it soon produced fabulous wealth, and the population eventually exceeded 200,000 people. The city gave rise to a <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a> expression, still in use: <i>vale un Potosí,</i> ("to be worth a Potosí") meaning "to be of great value". The rich mountain, <a href="/wiki/Cerro_Rico" title="Cerro Rico">Cerro Rico</a>, produced an estimated 60% of all silver mined in the world during the second half of the 16th century.<sup id="cite_ref-:0_5-0" class="reference"><a href="#cite_note-:0-5">[5]</a></sup></p>
+<p>Potosí's naturally rich deposits, along with technological advancements in production like the <a href="/wiki/Patio_process" title="Patio process">Patio process</a>, allowed silver production costs to remain extremely low. In fact, Spanish American mines were the world's cheapest sources of silver during this time period. Spanish America's ability to supply a great amount of silver and China's strong demand for this commodity resulted in a spectacular mining boom. The true champion of this boom in the silver industry was indeed the Spanish crown. By allowing private-sector entrepreneurs to operate mines and placing high taxes on mining profits, the Spanish empire was able to extract the greatest benefits. An example of a tax that was levied includes the <i>quinto</i>, a 20% severance tax on gross value.<sup id="cite_ref-:0_5-1" class="reference"><a href="#cite_note-:0-5">[5]</a></sup> From the raw materials extracted from the mines, the Potosí mint called <a href="/wiki/Spanish_dollar" title="Spanish dollar">pieces of eight</a> were fashioned.</p>
+<p>For Europeans, Peru–<a href="/wiki/Bolivia" title="Bolivia">Bolivia</a> was part of the <a href="/wiki/Viceroyalty_of_Peru" title="Viceroyalty of Peru">Viceroyalty of Peru</a> and was known as <i><a href="/wiki/Upper_Peru" title="Upper Peru">Alto Perú</a></i> before becoming independent as part of <a href="/wiki/Bolivia" title="Bolivia">Bolivia</a>. Potosi was a mythical land of riches, it is mentioned in <a href="/wiki/Miguel_de_Cervantes" title="Miguel de Cervantes">Miguel de Cervantes</a>' famous novel, <i><a href="/wiki/Don_Quixote" title="Don Quixote">Don Quixote</a></i> (second part, chap. LXXI) as a land of "extraordinary richness". One theory holds that the <a href="/wiki/Mint_mark" title="Mint mark">mint mark</a> of Potosí (the letters "PTSI" superimposed on one another) is the origin of the <a href="/wiki/Dollar_sign#Potosi_mint_mark" title="Dollar sign">dollar sign</a>, although the likelier origin of the symbol is the $-shaped scroll-wrapped columns on the reverse of the <a href="/wiki/Spanish_dollar" title="Spanish dollar">Spanish dollar</a>.</p>
+<h3><span class="mw-headline" id="Forced_labor">Forced labor</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potos%C3%AD&amp;action=edit&amp;section=4" title="Edit section: Forced labor">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Native-American laborers were conscripted and forced to work in Potosí's silver mines through the traditional Incan <i><a href="/wiki/Mita_(Inca)" class="mw-redirect" title="Mita (Inca)">mita</a></i> system of contributed labor. Many of them died due to the harsh conditions of the mine life and natural gases. At such a high altitude, pneumonia was always a concern and mercury poisoning took the lives of many involved in the refining process.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> According to Noble David Cook, "A key factor in understanding the impact of the Potosi mita on the Indians is that mita labor was only one form of work at the mines. A 1603 report stated that of 58,800 Indians working at Potosi, 5100 were mitayos, or less than one in ten. In addition to the mitayos there were 10,500 <i>mingas</i> (contractual workers) and 43,200 free wage earners. Yet mitayos were required to do the work others refused: predominantly the transport of the ore up the shafts to the mouth of the mine."<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>From around 1600, the death rate skyrocketed among the local Indian communities. To compensate for the diminishing indigenous labor force, the colonists made a request in 1608 to the Crown in Madrid to begin allowing the importation of 1,500 to 2,000 African slaves per year.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2010)">citation needed</span></a></i>]</sup> An estimated total of 30,000 African slaves were taken to Potosí during the colonial era. Like the native laborers, they too died in large numbers. African slaves were also forced to work in the <a href="/wiki/National_Mint_of_Bolivia" title="National Mint of Bolivia">Casa de la Moneda</a> (mint) as <i>acémilas humanas</i> (human mules). Since mules would die after a couple of months pushing the mills, the colonists replaced the four mules with twenty African slaves.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h3><span class="mw-headline" id="Independence_era">Independence era</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potos%C3%AD&amp;action=edit&amp;section=5" title="Edit section: Independence era">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the <a href="/wiki/Bolivian_War_of_Independence" title="Bolivian War of Independence">Bolivian War of Independence</a> (1809–1825), Potosí frequently passed between the control of Royalist and Patriot forces. Major leadership mistakes came when the First Auxiliary Army arrived from <a href="/wiki/Buenos_Aires" title="Buenos Aires">Buenos Aires</a> (under the command of <a href="/wiki/Juan_Jos%C3%A9_Castelli" title="Juan José Castelli">Juan José Castelli</a>), this led to an increased sense that Potosi required its own independent government.</p>
+<p>When the second auxiliary army arrived, it was received well and the commander, <a href="/wiki/Manuel_Belgrano" title="Manuel Belgrano">Manuel Belgrano</a>, did much to heal the past wounds inflicted by the tyrannical Castelli. When that army was forced to retreat, Belgrano took the calculated decision to blow up the <a href="/wiki/Casa_de_la_Moneda_de_Bolivia" class="mw-redirect" title="Casa de la Moneda de Bolivia">Casa de la Moneda</a>. Since the locals refused to evacuate, the explosion would have resulted in many casualties. The fuse was lit, but disaster was averted by locals who put the fuse out. Two more expeditions from Buenos Aires would seize Potosí.</p>
+<h2><span class="mw-headline" id="Origin_of_the_name">Origin of the name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potos%C3%AD&amp;action=edit&amp;section=6" title="Edit section: Origin of the name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this section by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(September 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:1776_Potosi_2_reales_obv.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/1776_Potosi_2_reales_obv.jpg/170px-1776_Potosi_2_reales_obv.jpg" width="170" height="173" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/1776_Potosi_2_reales_obv.jpg/255px-1776_Potosi_2_reales_obv.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/1776_Potosi_2_reales_obv.jpg/340px-1776_Potosi_2_reales_obv.jpg 2x" data-file-width="1330" data-file-height="1355" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:1776_Potosi_2_reales_obv.jpg" class="internal" title="Enlarge"></a></div>
+A Spanish colonial two-reales piece ("two bits") from the Potosí Mint</div>
+</div>
+</div>
+<p>There is no authoritative etymology for the word "Potosí". According to legend, in about 1462, <a href="/wiki/Huayna_Capac" title="Huayna Capac">Huayna Capac</a>, the eleventh <a href="/wiki/Sapa_Inca" title="Sapa Inca">Sapa Inca</a> of what by then was known as the <a href="/wiki/Inca_Empire" title="Inca Empire">Inca Empire</a> "set out for Ccolque Porco and Andaccaua, the location of his mines from which were taken innumerable <a href="/wiki/Arroba" title="Arroba">arrobas</a> of silver" (an arroba is a Spanish unit of weight equivalent to approximately 25 pounds (11&#160;kg)). Before leaving there, he saw Potosí, and admiring its beauty and grandeur, he said (speaking to those of his Court):</p>
+<blockquote class="templatequote">
+<p>"This doubtless must have much silver in its heart"; whereby he subsequently ordered his vassals to go to Ccolque Porco ... and work the mines and remove from them all the rich metal. They did so, and having brought their tools of flint and reinforced wood, they climbed the hill; and after having probed for its veins, they were about to open those veins when they heard a frightening thunderous noise which shook the whole hill, and after this, they heard a voice which said: "Do not take the silver from this hill, because it is destined for other masters." Amazed at hearing this reasoning, the Incan vassals desisted in their purpose and returned to Porco and told the king what had happened; relating the occurrence in their own language, on coming to the word noise, they said "Potocsí" which means there was a great thunderous noise, and from that later was derived (corrupting a letter) the name of potosí.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2009)">citation needed</span></a></i>]</sup></p>
+</blockquote>
+<p>It is believed<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag possibly uses too-vague attribution or weasel words. (September 2013)">who?</span></a></i>]</sup> that "Potosí" is a <a href="/wiki/Quechua_languages" class="mw-redirect" title="Quechua languages">Quechua</a> word.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2010)">citation needed</span></a></i>]</sup> However, in Quechua the phoneme <i>p'otoj</i> does not refer to a thunderous noise, whereas it does in <a href="/wiki/Aymara_language" title="Aymara language">Aymara</a>. Thus, if Potosí encompasses the idea of a thunderous noise, the locution would have an Aymaran root rather than a Quechuan.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2010)">citation needed</span></a></i>]</sup></p>
+<p>The actual sharp structure of the term is contrary to the nature of both Aymara and Quechua. Another explanation, given by several Quechua speakers,<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="Statement needs to be more specific about the content to which it refers. (September 2010)">specify</span></a></i>]</sup> is that potoq is an <a href="/wiki/Onomatopoeic" class="mw-redirect" title="Onomatopoeic">onomatopoeic</a> word that reproduces the sound of the hammer against the ore, and oral tradition has it that the town derived its name from this word.</p>
+<div class="thumb tnone" style="margin-left: auto; margin-right:auto; width:99%; max-width:1808px;">
+<div class="thumbinner" style="">
+<div class="overflowbugx" style="overflow:auto;"><a href="/wiki/File:Potosi_D%C3%A9cembre_2007_-_Panorama_4.jpg" class="image" title="Potosí with Cerro Rico in the background."><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Potosi_D%C3%A9cembre_2007_-_Panorama_4.jpg/1800px-Potosi_D%C3%A9cembre_2007_-_Panorama_4.jpg" width="1800" height="228" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Potosi_D%C3%A9cembre_2007_-_Panorama_4.jpg/2700px-Potosi_D%C3%A9cembre_2007_-_Panorama_4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Potosi_D%C3%A9cembre_2007_-_Panorama_4.jpg/3600px-Potosi_D%C3%A9cembre_2007_-_Panorama_4.jpg 2x" data-file-width="6690" data-file-height="848" /></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Potosi_D%C3%A9cembre_2007_-_Panorama_4.jpg" title="File:Potosi Décembre 2007 - Panorama 4.jpg"></a></div>
+Potosí with Cerro Rico in the background.</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potos%C3%AD&amp;action=edit&amp;section=7" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Potosí features a rare climate for a city of its size, due to its extreme elevation at over 4000m. <a href="/wiki/Semiarid" class="mw-redirect" title="Semiarid">Semiarid</a> and with average temperatures in its warmest month sitting right on the 10&#160;°C threshold, the cities climate straddles that of the <a href="/wiki/Subtropical_highland_climate" class="mw-redirect" title="Subtropical highland climate">subtropical highland climate</a> (<i>Cwc</i>, according to the <a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Köppen climate classification</a>), with <a href="/wiki/Oceanic_climate#Subpolar_variety_.28Cfc.29" title="Oceanic climate">subpolar oceanic</a> characteristics and an <a href="/wiki/Alpine_climate" title="Alpine climate">alpine</a> climate (E). Summers are cool and wet with daily highs rarely rising above 20&#160;°C, while winters feature cooler days with much colder nights averaging −4&#160;°C. These low temperatures are a result of the extreme precipitation deficit during the winter months with the resulting aridity leading to an increased diurnal temperature variation.</p>
+<center>
+<table class="wikitable collapsible" style="width:90%; text-align:center; font-size:90%; line-height: 1.2em; margin:auto;">
+<tr>
+<th colspan="14">Climate data for Potosi, Bolivia (2000−2012)</th>
+</tr>
+<tr>
+<th>Month</th>
+<th>Jan</th>
+<th>Feb</th>
+<th>Mar</th>
+<th>Apr</th>
+<th>May</th>
+<th>Jun</th>
+<th>Jul</th>
+<th>Aug</th>
+<th>Sep</th>
+<th>Oct</th>
+<th>Nov</th>
+<th>Dec</th>
+<th style="border-left-width:medium">Year</th>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average high °C (°F)</th>
+<td style="background: #FFB66E; color:#000000;">15<br />
+(59)</td>
+<td style="background: #FFB66E; color:#000000;">15<br />
+(59)</td>
+<td style="background: #FFAF60; color:#000000;">16<br />
+(61)</td>
+<td style="background: #FFA852; color:#000000;">17<br />
+(63)</td>
+<td style="background: #FFB66E; color:#000000;">15<br />
+(59)</td>
+<td style="background: #FFBD7C; color:#000000;">14<br />
+(57)</td>
+<td style="background: #FFBD7C; color:#000000;">14<br />
+(57)</td>
+<td style="background: #FFB66E; color:#000000;">15<br />
+(59)</td>
+<td style="background: #FFAF60; color:#000000;">16<br />
+(61)</td>
+<td style="background: #FFA144; color:#000000;">18<br />
+(64)</td>
+<td style="background: #FFA144; color:#000000;">18<br />
+(64)</td>
+<td style="background: #FFA852; color:#000000;">17<br />
+(63)</td>
+<td style="background: #FFB163; color:#000000; border-left-width:medium">15.8<br />
+(60.4)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Daily mean °C (°F)</th>
+<td style="background: #FFDFC0; color:#000000;">9<br />
+(48)</td>
+<td style="background: #FFDFC0; color:#000000;">9<br />
+(48)</td>
+<td style="background: #FFDFC0; color:#000000;">9<br />
+(48)</td>
+<td style="background: #FFE3C7; color:#000000;">8.5<br />
+(47.3)</td>
+<td style="background: #FFF1E3; color:#000000;">6.5<br />
+(43.7)</td>
+<td style="background: #FFF8F1; color:#000000;">5.5<br />
+(41.9)</td>
+<td style="background: #FFFBF8; color:#000000;">5<br />
+(41)</td>
+<td style="background: #FFF4EA; color:#000000;">6<br />
+(43)</td>
+<td style="background: #FFF1E3; color:#000000;">6.5<br />
+(43.7)</td>
+<td style="background: #FFDCBA; color:#000000;">9.5<br />
+(49.1)</td>
+<td style="background: #FFD9B3; color:#000000;">10<br />
+(50)</td>
+<td style="background: #FFD9B3; color:#000000;">10<br />
+(50)</td>
+<td style="background: #FFE7D0; color:#000000; border-left-width:medium">7.9<br />
+(46.2)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average low °C (°F)</th>
+<td style="background: #F6F6FF; color:#000000;">3<br />
+(37)</td>
+<td style="background: #F6F6FF; color:#000000;">3<br />
+(37)</td>
+<td style="background: #F1F1FF; color:#000000;">2<br />
+(36)</td>
+<td style="background: #E6E6FF; color:#000000;">0<br />
+(32)</td>
+<td style="background: #DBDBFF; color:#000000;">−2<br />
+(28)</td>
+<td style="background: #D6D6FF; color:#000000;">−3<br />
+(27)</td>
+<td style="background: #D1D1FF; color:#000000;">−4<br />
+(25)</td>
+<td style="background: #D6D6FF; color:#000000;">−3<br />
+(27)</td>
+<td style="background: #E1E1FF; color:#000000;">−1<br />
+(30)</td>
+<td style="background: #ECECFF; color:#000000;">1<br />
+(34)</td>
+<td style="background: #F1F1FF; color:#000000;">2<br />
+(36)</td>
+<td style="background: #F6F6FF; color:#000000;">3<br />
+(37)</td>
+<td style="background: #E7E7FF; color:#000000; border-left-width:medium">0.1<br />
+(32.2)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> mm (inches)</th>
+<td style="background: #75FF75; color:#000000;">92<br />
+(3.62)</td>
+<td style="background: #71FF71; color:#000000;">86<br />
+(3.39)</td>
+<td style="background: #ADFFAD; color:#000000;">55<br />
+(2.17)</td>
+<td style="background: #EAFFEA; color:#000000;">13<br />
+(0.51)</td>
+<td style="background: #FAFFFA; color:#000000;">3<br />
+(0.12)</td>
+<td style="background: #FDFFFD; color:#000000;">1<br />
+(0.04)</td>
+<td style="background: #FDFFFD; color:#000000;">1<br />
+(0.04)</td>
+<td style="background: #FAFFFA; color:#000000;">3<br />
+(0.12)</td>
+<td style="background: #EFFFEF; color:#000000;">10<br />
+(0.39)</td>
+<td style="background: #E1FFE1; color:#000000;">20<br />
+(0.79)</td>
+<td style="background: #C4FFC4; color:#000000;">38<br />
+(1.5)</td>
+<td style="background: #8FFF8F; color:#000000;">75<br />
+(2.95)</td>
+<td style="background: #CCFFCC; color:#000000; border-left-width:medium">397<br />
+(15.63)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average precipitation days <span style="font-size:90%;" class="nowrap">(≥ 1.0 mm)</span></th>
+<td style="background: #2D2DFF; color:#FFFFFF;">17</td>
+<td style="background: #2424FF; color:#FFFFFF;">16</td>
+<td style="background: #6A6AFF; color:#000000;">12</td>
+<td style="background: #BFBFFF; color:#000000;">5</td>
+<td style="background: #F2F2FF; color:#000000;">1</td>
+<td style="background: #FFFFFF; color:#000000;">0</td>
+<td style="background: #FFFFFF; color:#000000;">0</td>
+<td style="background: #F2F2FF; color:#000000;">1</td>
+<td style="background: #E5E5FF; color:#000000;">2</td>
+<td style="background: #C1C1FF; color:#000000;">5</td>
+<td style="background: #A5A5FF; color:#000000;">7</td>
+<td style="background: #5252FF; color:#FFFFFF;">14</td>
+<td style="background: #ABABFF; color:#000000; border-left-width:medium">80</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Mean daily <a href="/wiki/Sunshine_duration" title="Sunshine duration">sunshine hours</a></th>
+<td style="background: #D5D500; color:#000000;">6</td>
+<td style="background: #D5D500; color:#000000;">6</td>
+<td style="background: #DCDC00; color:#000000;">7</td>
+<td style="background: #E3E300; color:#000000;">8</td>
+<td style="background: #EAEA02; color:#000000;">9</td>
+<td style="background: #EAEA02; color:#000000;">9</td>
+<td style="background: #EAEA02; color:#000000;">9</td>
+<td style="background: #EAEA02; color:#000000;">9</td>
+<td style="background: #E3E300; color:#000000;">8</td>
+<td style="background: #E3E300; color:#000000;">8</td>
+<td style="background: #DCDC00; color:#000000;">7</td>
+<td style="background: #DCDC00; color:#000000;">7</td>
+<td style="background: #E1E100; color:#000000; border-left-width:medium">7.75</td>
+</tr>
+<tr>
+<td colspan="14" style="text-align:center;font-size:95%;">Source: WeatherWorld<sup id="cite_ref-climate_9-0" class="reference"><a href="#cite_note-climate-9">[9]</a></sup></td>
+</tr>
+</table>
+</center>
+<h2><span class="mw-headline" id="Neighborhoods">Neighborhoods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potos%C3%AD&amp;action=edit&amp;section=8" title="Edit section: Neighborhoods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;">
+<tr>
+<td style="text-align: left; vertical-align: top;">
+<ul>
+<li>Old Town</li>
+<li>San Gerardo</li>
+<li>La Chacra</li>
+<li>Cervecería</li>
+<li>Alto Potosí</li>
+<li>Nuevo Potosí</li>
+<li>San Martín</li>
+<li>Pampa Ingenio</li>
+<li>Nacional Potosí</li>
+<li>San Juan</li>
+<li>Concepción</li>
+</ul>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul>
+<li>San Cristóbal</li>
+<li>Pailaviri</li>
+<li>Cachi Rancho</li>
+<li>El Calvario</li>
+<li>San Pedro</li>
+<li>San Roque</li>
+<li>Mercado Uyuni</li>
+<li>San Benito</li>
+<li>Villa España</li>
+<li>Huachacalla</li>
+<li>Cantumarca</li>
+</ul>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul>
+<li>San Clemente</li>
+<li>Ciudad Satélite</li>
+<li>Plan 40</li>
+<li>Las Delicias</li>
+<li>Los Pinos-Cordepo</li>
+<li>Las Lecherías</li>
+<li>Villa Mecànicos</li>
+<li>Villa Copacabana</li>
+<li>Villa Venezuela</li>
+<li>Villa Nazaret</li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+<h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potos%C3%AD&amp;action=edit&amp;section=9" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Potosí is home to football team <a href="/wiki/Club_Bamin_Real_Potos%C3%AD" class="mw-redirect" title="Club Bamin Real Potosí">Club Bamin Real Potosí</a>, who play their matches at the 32,000-capacity multi-purpose stadium <a href="/wiki/Estadio_V%C3%ADctor_Agust%C3%ADn_Ugarte" title="Estadio Víctor Agustín Ugarte">Estadio Víctor Agustín Ugarte</a>, one of the highest stadia in the world.</p>
+<h2><span class="mw-headline" id="Transportation">Transportation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potos%C3%AD&amp;action=edit&amp;section=10" title="Edit section: Transportation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The city is served by <a href="/wiki/Captain_Nicolas_Rojas_Airport" title="Captain Nicolas Rojas Airport">Aeropuerto Capitán Nicolas Rojas</a>, with commercial airline flights by <a href="/wiki/Boliviana_de_Aviaci%C3%B3n" title="Boliviana de Aviación">Boliviana de Aviación</a>, Bolivia's flag air carrier.</p>
+<h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potos%C3%AD&amp;action=edit&amp;section=11" title="Edit section: Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The city of <a href="/wiki/San_Luis_Potos%C3%AD,_San_Luis_Potos%C3%AD" class="mw-redirect" title="San Luis Potosí, San Luis Potosí">San Luis Potosí</a> in Mexico was named after Potosí in Bolivia. In the United States, the name Potosi was optimistically given to lead-mining towns of <a href="/wiki/Potosi,_Wisconsin" title="Potosi, Wisconsin">Potosi, Wisconsin</a>,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> and <a href="/wiki/Potosi,_Missouri" title="Potosi, Missouri">Potosi, Missouri</a>, and also to the silver-mining town of <a href="/wiki/Potosi,_Nevada" title="Potosi, Nevada">Potosi, Nevada</a>.</p>
+<h2><span class="mw-headline" id="Sister_cities">Sister cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potos%C3%AD&amp;action=edit&amp;section=12" title="Edit section: Sister cities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Mexico" title="Mexico"><img alt="Mexico" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="840" data-file-height="480" /></a></span> <a href="/wiki/San_Luis_Potos%C3%AD,_San_Luis_Potos%C3%AD" class="mw-redirect" title="San Luis Potosí, San Luis Potosí">San Luis Potosí</a>, <a href="/wiki/Mexico" title="Mexico">Mexico</a></li>
+<li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/York" title="York">York</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></li>
+<li><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Lhasa" title="Lhasa">Lhasa</a>, <a href="/wiki/Tibet" title="Tibet">Tibet</a></li>
+</ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potos%C3%AD&amp;action=edit&amp;section=13" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a href="/wiki/File:Capitulo-CIX.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Capitulo-CIX.jpg/120px-Capitulo-CIX.jpg" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Capitulo-CIX.jpg/180px-Capitulo-CIX.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Capitulo-CIX.jpg/240px-Capitulo-CIX.jpg 2x" data-file-width="862" data-file-height="650" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Potosi, the first image in Europe. <a href="/wiki/Pedro_Cieza_de_Le%C3%B3n" title="Pedro Cieza de León">Pedro Cieza de León</a>, 1553.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Potosi_Street_Scene.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Potosi_Street_Scene.jpg/120px-Potosi_Street_Scene.jpg" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Potosi_Street_Scene.jpg/180px-Potosi_Street_Scene.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Potosi_Street_Scene.jpg/240px-Potosi_Street_Scene.jpg 2x" data-file-width="900" data-file-height="599" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Central Potosi street</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:Ciudad_de_Potos%C3%AD_Bolivia.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ciudad_de_Potos%C3%AD_Bolivia.jpg/90px-Ciudad_de_Potos%C3%AD_Bolivia.jpg" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ciudad_de_Potos%C3%AD_Bolivia.jpg/135px-Ciudad_de_Potos%C3%AD_Bolivia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Ciudad_de_Potos%C3%AD_Bolivia.jpg/180px-Ciudad_de_Potos%C3%AD_Bolivia.jpg 2x" data-file-width="768" data-file-height="1024" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Potosí Cathedral under restoration works.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Potosi_Mining_Photo_by_Sascha_Grabow.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Potosi_Mining_Photo_by_Sascha_Grabow.jpg/120px-Potosi_Mining_Photo_by_Sascha_Grabow.jpg" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Potosi_Mining_Photo_by_Sascha_Grabow.jpg/180px-Potosi_Mining_Photo_by_Sascha_Grabow.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Potosi_Mining_Photo_by_Sascha_Grabow.jpg/240px-Potosi_Mining_Photo_by_Sascha_Grabow.jpg 2x" data-file-width="900" data-file-height="602" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Potosi surface mining</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Cerro_Rico_Potosi_(pixinn.net).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Cerro_Rico_Potosi_%28pixinn.net%29.jpg/120px-Cerro_Rico_Potosi_%28pixinn.net%29.jpg" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Cerro_Rico_Potosi_%28pixinn.net%29.jpg/180px-Cerro_Rico_Potosi_%28pixinn.net%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Cerro_Rico_Potosi_%28pixinn.net%29.jpg/240px-Cerro_Rico_Potosi_%28pixinn.net%29.jpg 2x" data-file-width="1024" data-file-height="681" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A street in Potosí with Cerro Rico in the background.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a href="/wiki/File:Casa_de_la_Moneda_de_Potos%C3%AD_(Bolivia).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Casa_de_la_Moneda_de_Potos%C3%AD_%28Bolivia%29.jpg/120px-Casa_de_la_Moneda_de_Potos%C3%AD_%28Bolivia%29.jpg" width="120" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Casa_de_la_Moneda_de_Potos%C3%AD_%28Bolivia%29.jpg/180px-Casa_de_la_Moneda_de_Potos%C3%AD_%28Bolivia%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Casa_de_la_Moneda_de_Potos%C3%AD_%28Bolivia%29.jpg/240px-Casa_de_la_Moneda_de_Potos%C3%AD_%28Bolivia%29.jpg 2x" data-file-width="2816" data-file-height="1880" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Potosí Mint (Casa de la Moneda)</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a href="/wiki/File:El_Tio_Potosi_Bolivia.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/El_Tio_Potosi_Bolivia.jpg/94px-El_Tio_Potosi_Bolivia.jpg" width="94" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/El_Tio_Potosi_Bolivia.jpg/141px-El_Tio_Potosi_Bolivia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/El_Tio_Potosi_Bolivia.jpg/188px-El_Tio_Potosi_Bolivia.jpg 2x" data-file-width="600" data-file-height="765" /></a></div>
+</div>
+<div class="gallerytext">
+<p>A figure of <a href="/wiki/El_Tio" class="mw-redirect" title="El Tio">El Tio</a> in Potosi mines, 1993</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potos%C3%AD&amp;action=edit&amp;section=14" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Geology_of_Bolivia" title="Geology of Bolivia">Geology of Bolivia</a></li>
+<li><a href="/wiki/San_Crist%C3%B3bal_mine_(Bolivia)" title="San Cristóbal mine (Bolivia)">San Cristóbal mine (Bolivia)</a></li>
+<li><a href="/wiki/Pari_Urqu" title="Pari Urqu">Pari Urqu</a></li>
+<li><a href="/wiki/Potos%C3%AD_mountain_range" title="Potosí mountain range">Potosí mountain range</a></li>
+<li><a href="/wiki/Tinku" title="Tinku">Tinku</a> – A local combat ritual and agricultural fertility rite</li>
+<li><a href="/wiki/El_Tio" class="mw-redirect" title="El Tio">El Tio</a></li>
+<li><a href="/wiki/Mapuche_silver_finery" class="mw-redirect" title="Mapuche silver finery">Mapuche silver finery</a></li>
+<li><a href="/wiki/Cervecer%C3%ADa_Potosina" title="Cervecería Potosina">Cervecería Potosina</a> - One of few Bolivian breweries</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potos%C3%AD&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl>
+<dt>Specific</dt>
+</dl>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://archive.is/vxUkl">"World Gazetteer"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.world-gazetteer.com/wg.php?x=1&amp;men=gcis&amp;lng=en&amp;des=gamelan&amp;geo=-38&amp;col=abcdefghinoq&amp;msz=1500&amp;pt=c&amp;va=&amp;srt=pnao">the original</a> on 2013-01-11.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APotos%C3&amp;rft.btitle=World+Gazetteer&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.world-gazetteer.com%2Fwg.php%3Fx%3D1%26men%3Dgcis%26lng%3Den%26des%3Dgamelan%26geo%3D-38%26col%3Dabcdefghinoq%26msz%3D1500%26pt%3Dc%26va%3D%26srt%3Dpnao&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.boliviaweb.com/cities/potosi.htm">Bolivia &amp; Main Cities / Potosí</a> from boliviaweb.com. Retrieved 2010-09-27.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Not to be mistaken with <a href="/wiki/Cerro_Potos%C3%AD" title="Cerro Potosí">Cerro Potosí</a>, Mexico</span></li>
+<li id="cite_note-Cunningham-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cunningham_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cunningham_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Cunningham_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Cunningham_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Cunningham, C.G., Zartman, R.E., McKee, E.H., Rye, R.O., Naeser, C.W., Sanjines V., O., Ericksen, G.E., Tavera V., F., 1996, The age and thermal history of Cerro rico de Potosi, Bolivia, Mineralium Deposita, 31, 374-385</span></li>
+<li id="cite_note-:0-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Flynn, Dennis; Giráldez, Arturo (1995). "Born with a 'Silver Spoon': The Origin of World Trade in 1571". <i>Journal of World History</i>. University of Hawai'i Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APotos%C3&amp;rft.atitle=Born+with+a+%27Silver+Spoon%27%3A+The+Origin+of+World+Trade+in+1571&amp;rft.aufirst=Dennis&amp;rft.au=Gir%C3%A1ldez%2C+Arturo&amp;rft.aulast=Flynn&amp;rft.date=1995&amp;rft.genre=article&amp;rft.jtitle=Journal+of+World+History&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode80/">"BBC - A History of the World - About: Transcripts - Episode 80 - Pieces of eight"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APotos%C3&amp;rft.btitle=BBC+-+A+History+of+the+World+-+About%3A+Transcripts+-+Episode+80+-+Pieces+of+eight&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fahistoryoftheworld%2Fabout%2Ftranscripts%2Fepisode80%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Cook, Noble David (1981). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=V_0YqnzZeKYC&amp;pg=&amp;dq#v=onepage&amp;q=&amp;f=false"><i>Demographic collapse, Indian Perú, 1520-1620</i></a>. Cambridge University Press. p.&#160;237. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-521-23995-8" title="Special:BookSources/0-521-23995-8">0-521-23995-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APotos%C3&amp;rft.aufirst=Noble+David&amp;rft.aulast=Cook&amp;rft.btitle=Demographic+collapse%2C+Indian+Per%C3%BA%2C+1520-1620&amp;rft.date=1981&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DV_0YqnzZeKYC%26pg%3D%26dq%23v%3Donepage%26q%3D%26f%3Dfalse&amp;rft.isbn=0-521-23995-8&amp;rft.pages=237&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Angola Maconde, 1999</span></li>
+<li id="cite_note-climate-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-climate_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.weather2travel.com/climate-guides/bolivia/potosi.php">"Climate Data and Activities"</a>. WeatherWorldOnline<span class="reference-accessdate">. Retrieved <span class="nowrap">15 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APotos%C3&amp;rft.btitle=Climate+Data+and+Activities&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.weather2travel.com%2Fclimate-guides%2Fbolivia%2Fpotosi.php&amp;rft.pub=WeatherWorldOnline&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wisconsinhistory.org/dictionary/index.asp?action=view&amp;term_id=3777&amp;keyword=potosi">"Potosi [origin of place name]"</a>. Wisconsinhistory.org. 1941-10-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-04-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APotos%C3&amp;rft.btitle=Potosi+%5Borigin+of+place+name%26%2393%3B&amp;rft.date=1941-10-10&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.wisconsinhistory.org%2Fdictionary%2Findex.asp%3Faction%3Dview%26term_id%3D3777%26keyword%3Dpotosi&amp;rft.pub=Wisconsinhistory.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<dl>
+<dt>General</dt>
+</dl>
+<div class="refbegin" style="">
+<ul>
+<li>Angola Maconde, Juan. "Raíces de un pueblo: cultura afroboliviana." La Paz: Producciones CIMA, 1999.</li>
+<li>Arzáns de Orsúa y Vela, Bartolomé. <i>Historia de la Villa Imperial de Potosí.</i> Edición de Lewis Hanke y Gunnar Mendoza. Providence, R.I.: Brown University Press, 1965.</li>
+<li>Bakewell, Peter. "Miners of the Red Mountain: Indian Labor in Potosi, 1545-1650". University of New Mexico Press 2010.</li>
+<li>Bakewell, Peter. "Silver and Entrepreneurship in Seventeenth-Century Potosí: The Life and Times of Antonio López de Quiroga". Southern Methodist University Press 1995.</li>
+<li>Cobb, Gwendolin Ballantine. "Potosí, a South American Mining Frontier." <i>Greater America: Essays in Honor of Herbert Eugene Bolton.</i> Freeport, N.Y.: Books for Libraries Press, 1968, © 1945, pp.&#160;39–58.</li>
+<li>Gil Montero, Raquel. "Ciudades efimeras. El ciclo minero de la plata en Lipez (Bolivia), siglos XVI - XIX". Instituto Frances de Estudios Andinos - IFEA- Plural Editores, 2014.</li>
+<li>Hanke, Lewis (writer) and <a href="/wiki/Jean-Claude_Wicky" title="Jean-Claude Wicky">Jean-Claude Wicky</a> (photographer). <i>The Imperial City of Potosí.</i> The Hague: Nijhoff, 1956.</li>
+<li>Ross, John F. <i>Mountains of Pain</i> Smithsonian Magazine, November 2000.</li>
+<li>Tandeter, Enrique. "Coaccion y mercado. La mineria de plata en el Potosi colonial, 1692-1826". Siglo XXI Editores 2001.</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Potos%C3%AD&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Potos%C3%AD" class="extiw" title="commons:Potosí">Potosí</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/Potos%C3%AD" class="extiw" title="wikivoyage:Potosí">Potosí</a></b></i>.</td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-labelledby="23px_Potos.C3.AD_Department" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Potos%C3%AD_Department" title="Template:Potosí Department"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Potos%C3%AD_Department" title="Template talk:Potosí Department"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Potos%C3%AD_Department&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="23px_Potos.C3.AD_Department" style="font-size:114%"><a href="/wiki/File:Flag_of_potosi.svg" class="image"><img alt="Flag of potosi.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_potosi.svg/23px-Flag_of_potosi.svg.png" width="23" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_potosi.svg/35px-Flag_of_potosi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_potosi.svg/46px-Flag_of_potosi.svg.png 2x" data-file-width="440" data-file-height="300" /></a> <a href="/wiki/Potos%C3%AD_Department" title="Potosí Department">Potosí Department</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>Capital: <b><strong class="selflink">Potosí</strong></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Provinces</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alonso_de_Ib%C3%A1%C3%B1ez_Province" title="Alonso de Ibáñez Province">Alonso de Ibáñez</a></li>
+<li><a href="/wiki/Antonio_Quijarro_Province" title="Antonio Quijarro Province">Antonio Quijarro</a></li>
+<li><a href="/wiki/Bernardino_Bilbao_Province" title="Bernardino Bilbao Province">Bernardino Bilbao</a></li>
+<li><a href="/wiki/Charcas_Province" title="Charcas Province">Charcas</a></li>
+<li><a href="/wiki/Chayanta_Province" title="Chayanta Province">Chayanta</a></li>
+<li><a href="/wiki/Cornelio_Saavedra_Province" title="Cornelio Saavedra Province">Cornelio Saavedra</a></li>
+<li><a href="/wiki/Daniel_Campos_Province" title="Daniel Campos Province">Daniel Campos</a></li>
+<li><a href="/wiki/Enrique_Baldivieso_Province" title="Enrique Baldivieso Province">Enrique Baldivieso</a></li>
+<li><a href="/wiki/Jos%C3%A9_Mar%C3%ADa_Linares_Province" title="José María Linares Province">José María Linares</a></li>
+<li><a href="/wiki/Modesto_Omiste_Province" title="Modesto Omiste Province">Modesto Omiste</a></li>
+<li><a href="/wiki/Nor_Chichas_Province" title="Nor Chichas Province">Nor Chichas</a></li>
+<li><a href="/wiki/Nor_L%C3%ADpez_Province" title="Nor Lípez Province">Nor Lípez</a></li>
+<li><a href="/wiki/Rafael_Bustillo_Province" title="Rafael Bustillo Province">Rafael Bustillo</a></li>
+<li><a href="/wiki/Sud_Chichas_Province" title="Sud Chichas Province">Sud Chichas</a></li>
+<li><a href="/wiki/Sur_L%C3%ADpez_Province" title="Sur Lípez Province">Sur Lípez</a></li>
+<li><a href="/wiki/Tom%C3%A1s_Fr%C3%ADas_Province" title="Tomás Frías Province">Tomás Frías</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="3" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Bolivia_Potosi.png" class="image"><img alt="Bolivia Potosi.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bolivia_Potosi.png/100px-Bolivia_Potosi.png" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bolivia_Potosi.png/150px-Bolivia_Potosi.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bolivia_Potosi.png/200px-Bolivia_Potosi.png 2x" data-file-width="1181" data-file-height="1181" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Municipalities (and seats)</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Acasio_Municipality&amp;action=edit&amp;redlink=1" class="new" title="Acasio Municipality (page does not exist)">Acasio</a> (<a href="/w/index.php?title=Acasio&amp;action=edit&amp;redlink=1" class="new" title="Acasio (page does not exist)">Acasio</a>)</li>
+<li><a href="/w/index.php?title=Arampampa_Municipality&amp;action=edit&amp;redlink=1" class="new" title="Arampampa Municipality (page does not exist)">Arampampa</a> (<a href="/wiki/Arampampa" title="Arampampa">Arampampa</a>)</li>
+<li><a href="/wiki/Atocha_Municipality" title="Atocha Municipality">Atocha</a> (<a href="/wiki/Atocha,_Bolivia" title="Atocha, Bolivia">Atocha</a>)</li>
+<li><a href="/w/index.php?title=Betanzos_Municipality&amp;action=edit&amp;redlink=1" class="new" title="Betanzos Municipality (page does not exist)">Betanzos</a> (<a href="/w/index.php?title=Betanzos,_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="Betanzos, Bolivia (page does not exist)">Betanzos</a>)</li>
+<li><a href="/w/index.php?title=Caiza_%22D%22_Municipality&amp;action=edit&amp;redlink=1" class="new" title="Caiza &quot;D&quot; Municipality (page does not exist)">Caiza "D"</a> (<a href="/w/index.php?title=Caiza_%22D%22&amp;action=edit&amp;redlink=1" class="new" title="Caiza &quot;D&quot; (page does not exist)">Caiza "D"</a>)</li>
+<li><a href="/w/index.php?title=Ckochas_Municipality&amp;action=edit&amp;redlink=1" class="new" title="Ckochas Municipality (page does not exist)">Ckochas</a> (<a href="/w/index.php?title=Ckochas&amp;action=edit&amp;redlink=1" class="new" title="Ckochas (page does not exist)">Ckochas</a>)</li>
+<li><a href="/w/index.php?title=Caripuyo_Municipality&amp;action=edit&amp;redlink=1" class="new" title="Caripuyo Municipality (page does not exist)">Caripuyo</a> (<a href="/w/index.php?title=Caripuyo&amp;action=edit&amp;redlink=1" class="new" title="Caripuyo (page does not exist)">Caripuyo</a>)</li>
+<li><a href="/w/index.php?title=Chaqu%C3%AD_Municipality&amp;action=edit&amp;redlink=1" class="new" title="Chaquí Municipality (page does not exist)">Chaquí</a> (<a href="/w/index.php?title=Chaqu%C3%AD&amp;action=edit&amp;redlink=1" class="new" title="Chaquí (page does not exist)">Chaquí</a>)</li>
+<li><a href="/wiki/Chayanta_Municipality" title="Chayanta Municipality">Chayanta</a> (<a href="/w/index.php?title=Chayanta,_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="Chayanta, Bolivia (page does not exist)">Chayanta</a>)</li>
+<li><a href="/wiki/Chuquihuta_Municipality" title="Chuquihuta Municipality">Chuquihuta</a> (<a href="/w/index.php?title=Chuquihuta&amp;action=edit&amp;redlink=1" class="new" title="Chuquihuta (page does not exist)">Chuquihuta</a>)</li>
+<li><a href="/wiki/Colcha_%22K%22_Municipality" title="Colcha &quot;K&quot; Municipality">Colcha "K"</a> (<a href="/w/index.php?title=Colcha_%22K%22&amp;action=edit&amp;redlink=1" class="new" title="Colcha &quot;K&quot; (page does not exist)">Colcha "K"</a>)</li>
+<li><a href="/wiki/Colquechaca_Municipality" title="Colquechaca Municipality">Colquechaca</a> (<a href="/wiki/Colquechaca" title="Colquechaca">Colquechaca</a>)</li>
+<li><a href="/w/index.php?title=Cotagaita_Municipality&amp;action=edit&amp;redlink=1" class="new" title="Cotagaita Municipality (page does not exist)">Cotagaita</a> (<a href="/wiki/Cotagaita" class="mw-redirect" title="Cotagaita">Cotagaita</a>)</li>
+<li><a href="/wiki/Llallagua_Municipality" title="Llallagua Municipality">Llallagua</a> (<a href="/wiki/Llallagua" title="Llallagua">Llallagua</a>)</li>
+<li><a href="/wiki/Llica_Municipality" title="Llica Municipality">Llica</a> (<a href="/wiki/Llica" title="Llica">Llica</a>)</li>
+<li><a href="/wiki/Mojinete_Municipality" title="Mojinete Municipality">Mojinete Municipality</a> (<a href="/wiki/Mojinete" title="Mojinete">Mojinete</a>)</li>
+<li><a href="/wiki/Ocur%C3%AD_Municipality" title="Ocurí Municipality">Ocurí</a> (<a href="/wiki/Ocur%C3%AD" class="mw-redirect" title="Ocurí">Ocurí</a>)</li>
+<li><a href="/w/index.php?title=Pocoata_Municipality&amp;action=edit&amp;redlink=1" class="new" title="Pocoata Municipality (page does not exist)">Pocoata</a> (<a href="/w/index.php?title=Pocoata,_Potos%C3%AD&amp;action=edit&amp;redlink=1" class="new" title="Pocoata, Potosí (page does not exist)">Pocoata</a>)</li>
+<li><a href="/wiki/Porco_Municipality" title="Porco Municipality">Porco</a> (<a href="/w/index.php?title=Porco,_Bolivia&amp;action=edit&amp;redlink=1" class="new" title="Porco, Bolivia (page does not exist)">Porco</a>)</li>
+<li><a href="/wiki/Potos%C3%AD_Municipality" title="Potosí Municipality">Potosí</a> (<strong class="selflink">Potosí</strong>)</li>
+<li><a href="/w/index.php?title=Puna_Municipality&amp;action=edit&amp;redlink=1" class="new" title="Puna Municipality (page does not exist)">Puna</a> (<a href="/w/index.php?title=Puna,_Potos%C3%AD&amp;action=edit&amp;redlink=1" class="new" title="Puna, Potosí (page does not exist)">Puna</a>)</li>
+<li><a href="/wiki/Ravelo_Municipality" title="Ravelo Municipality">Ravelo</a> (<a href="/w/index.php?title=Ravelo&amp;action=edit&amp;redlink=1" class="new" title="Ravelo (page does not exist)">Ravelo</a>)</li>
+<li><a href="/w/index.php?title=Sacaca_Municipality&amp;action=edit&amp;redlink=1" class="new" title="Sacaca Municipality (page does not exist)">Sacaca</a> (<a href="/w/index.php?title=Sacaca&amp;action=edit&amp;redlink=1" class="new" title="Sacaca (page does not exist)">Sacaca</a>)</li>
+<li><a href="/wiki/San_Agust%C3%ADn_Municipality" class="mw-redirect" title="San Agustín Municipality">San Agustín</a> (<a href="/wiki/San_Agust%C3%ADn_Canton" title="San Agustín Canton">San Agustín</a>)</li>
+<li><a href="/wiki/San_Antonio_de_Esmoruco_Municipality" title="San Antonio de Esmoruco Municipality">San Antonio de Esmoruco</a> (<a href="/wiki/San_Antonio_de_Esmoruco" title="San Antonio de Esmoruco">San Antonio de Esmoruco</a>)</li>
+<li><a href="/wiki/San_Pablo_de_L%C3%ADpez_Municipality" title="San Pablo de Lípez Municipality">San Pablo de Lípez</a> (<a href="/wiki/San_Pablo_de_L%C3%ADpez" title="San Pablo de Lípez">San Pablo de Lípez</a>)</li>
+<li><a href="/w/index.php?title=San_Pedro_de_Buena_Vista_Municipality&amp;action=edit&amp;redlink=1" class="new" title="San Pedro de Buena Vista Municipality (page does not exist)">San Pedro de Buena Vista</a> (<a href="/wiki/San_Pedro_de_Buena_Vista" title="San Pedro de Buena Vista">San Pedro de Buena Vista</a>)</li>
+<li><a href="/wiki/San_Pedro_de_Quemes_Municipality" title="San Pedro de Quemes Municipality">San Pedro de Quemes</a> (<a href="/wiki/San_Pedro_de_Quemes" class="mw-redirect" title="San Pedro de Quemes">San Pedro de Quemes</a>)</li>
+<li><a href="/w/index.php?title=Tacobamba_Municipality&amp;action=edit&amp;redlink=1" class="new" title="Tacobamba Municipality (page does not exist)">Tacobamba</a> (<a href="/wiki/Tacobamba" title="Tacobamba">Tacobamba</a>)</li>
+<li><a href="/wiki/Tahua_Municipality" title="Tahua Municipality">Tahua</a> (<a href="/w/index.php?title=Tahua&amp;action=edit&amp;redlink=1" class="new" title="Tahua (page does not exist)">Tahua</a>)</li>
+<li><a href="/wiki/Tinguipaya_Municipality" title="Tinguipaya Municipality">Tinguipaya</a> (<a href="/wiki/Tinguipaya" title="Tinguipaya">Tinguipaya</a>)</li>
+<li><a href="/wiki/Tomave_Municipality" title="Tomave Municipality">Tomave</a> (<a href="/w/index.php?title=Tomave&amp;action=edit&amp;redlink=1" class="new" title="Tomave (page does not exist)">Tomave</a>)</li>
+<li><a href="/w/index.php?title=Toro_Toro_Municipality&amp;action=edit&amp;redlink=1" class="new" title="Toro Toro Municipality (page does not exist)">Toro Toro</a> (<a href="/wiki/Torotoro,_Bolivia" title="Torotoro, Bolivia">Toro Toro</a>)</li>
+<li><a href="/wiki/Tupiza_Municipality" title="Tupiza Municipality">Tupiza</a> (<a href="/wiki/Tupiza" title="Tupiza">Tupiza</a>)</li>
+<li><a href="/wiki/Unc%C3%ADa_Municipality" title="Uncía Municipality">Uncía</a> (<a href="/w/index.php?title=Unc%C3%ADa&amp;action=edit&amp;redlink=1" class="new" title="Uncía (page does not exist)">Uncía</a>)</li>
+<li><a href="/wiki/Urmiri_Municipality" title="Urmiri Municipality">Urmiri</a> (<a href="/w/index.php?title=Urmiri,_Potos%C3%AD&amp;action=edit&amp;redlink=1" class="new" title="Urmiri, Potosí (page does not exist)">Urmiri</a>)</li>
+<li><a href="/wiki/Uyuni_Municipality" title="Uyuni Municipality">Uyuni</a> (<a href="/wiki/Uyuni" title="Uyuni">Uyuni</a>)</li>
+<li><a href="/wiki/Villaz%C3%B3n_Municipality" class="mw-redirect" title="Villazón Municipality">Villazón</a> (<a href="/wiki/Villaz%C3%B3n" title="Villazón">Villazón</a>)</li>
+<li><a href="/wiki/Vitichi_Municipality" title="Vitichi Municipality">Vitichi</a> (<a href="/wiki/Vitichi" title="Vitichi">Vitichi</a>)</li>
+<li><a href="/wiki/Yocalla_Municipality" title="Yocalla Municipality">Yocalla</a> (<a href="/w/index.php?title=Yocalla&amp;action=edit&amp;redlink=1" class="new" title="Yocalla (page does not exist)">Yocalla</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="World_Heritage_Sites_in_Bolivia" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:World_Heritage_Sites_in_Bolivia" title="Template:World Heritage Sites in Bolivia"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:World_Heritage_Sites_in_Bolivia" title="Template talk:World Heritage Sites in Bolivia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:World_Heritage_Sites_in_Bolivia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="World_Heritage_Sites_in_Bolivia" style="font-size:114%"><a href="/wiki/World_Heritage_Site" title="World Heritage Site">World Heritage Sites</a> in Bolivia</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jesuit_Missions_of_Chiquitos" title="Jesuit Missions of Chiquitos">Jesuit Missions of Chiquitos</a></li>
+<li><a href="/wiki/El_Fuerte_de_Samaipata" title="El Fuerte de Samaipata">Fuerte de Samaipata</a></li>
+<li><a href="/wiki/Noel_Kempff_Mercado_National_Park" title="Noel Kempff Mercado National Park">Noel Kempff Mercado National Park</a></li>
+<li><small>City of</small> <strong class="selflink">Potosí</strong></li>
+<li><small>Historic City of</small> <a href="/wiki/Sucre" title="Sucre">Sucre</a></li>
+<li><a href="/wiki/Tiwanaku" title="Tiwanaku">Tiwanaku</a>: <small>Spiritual and Political Centre of the Tiwanaku Culture</small></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:0%;padding:0px 0px 0px 2px">
+<div><span class="flagicon"><a href="/wiki/Bolivia" title="Bolivia"><img alt="Bolivia" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/50px-Flag_of_Bolivia.svg.png" width="50" height="34" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/75px-Flag_of_Bolivia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/100px-Flag_of_Bolivia.svg.png 2x" data-file-width="1100" data-file-height="750" /></a></span></div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:651620-0!*!0!!en!4!* and timestamp 20161012130958 and revision id 743774168
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Potosí&amp;oldid=743774168">https://en.wikipedia.org/w/index.php?title=Potosí&amp;oldid=743774168</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Potos%C3%AD" title="Category:Potosí">Potosí</a></li><li><a href="/wiki/Category:1546_establishments_in_the_Spanish_Empire" title="Category:1546 establishments in the Spanish Empire">1546 establishments in the Spanish Empire</a></li><li><a href="/wiki/Category:Populated_places_established_in_1546" title="Category:Populated places established in 1546">Populated places established in 1546</a></li><li><a href="/wiki/Category:Populated_places_in_Potos%C3%AD_Department" title="Category:Populated places in Potosí Department">Populated places in Potosí Department</a></li><li><a href="/wiki/Category:World_Heritage_Sites_in_Bolivia" title="Category:World Heritage Sites in Bolivia">World Heritage Sites in Bolivia</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_which_use_infobox_templates_with_no_data_rows" title="Category:Articles which use infobox templates with no data rows">Articles which use infobox templates with no data rows</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2010" title="Category:Articles with unsourced statements from September 2010">Articles with unsourced statements from September 2010</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_September_2010" title="Category:Articles lacking in-text citations from September 2010">Articles lacking in-text citations from September 2010</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2009" title="Category:Articles with unsourced statements from July 2009">Articles with unsourced statements from July 2009</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_September_2013" title="Category:Articles with specifically marked weasel-worded phrases from September 2013">Articles with specifically marked weasel-worded phrases from September 2013</a></li><li><a href="/wiki/Category:Articles_needing_more_detailed_references" title="Category:Articles needing more detailed references">Articles needing more detailed references</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Potos%C3%AD" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Potos%C3%AD" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Potos%C3%AD"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Potos%C3%AD"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Potos%C3%AD" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Potos%C3%AD&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Potos%C3%AD&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Potos%C3%AD" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Potos%C3%AD" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Potos%C3%AD&amp;oldid=743774168" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Potos%C3%AD&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q35045" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Potos%C3%AD&amp;id=743774168" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Potos%C3%AD">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Potos%C3%AD&amp;returnto=Potos%C3%AD&amp;oldid=743774168&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Potos%C3%AD&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Potos%C3%AD" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Potos%C3%AD" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D8%AA%D9%88%D8%B3%D9%8A" title="بوتوسي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Putusi" title="Putusi – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D1%81%D0%B8" title="Потоси – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Potos%C3%AD_(kapital_sa_departamento)" title="Potosí (kapital sa departamento) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A0%CE%BF%CF%84%CE%BF%CF%83%CE%AF" title="Ποτοσί – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Potos%C3%AD_(urbo)" title="Potosí (urbo) – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%BE%D9%88%D8%AA%D9%88%D8%B3%DB%8C" title="پوتوسی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8F%AC%ED%86%A0%EC%8B%9C" title="포토시 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8A%D5%B8%D5%BF%D5%B8%D5%BD%D5%AB" title="Պոտոսի – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8B%E0%A4%A4%E0%A5%8B%E0%A4%B8%E0%A5%80" title="पोतोसी – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%95%D7%98%D7%95%D7%A1%D7%99" title="פוטוסי – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9E%E1%83%9D%E1%83%A2%E1%83%9D%E1%83%A1%E1%83%98" title="პოტოსი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D1%81%D0%B8" title="Потоси – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Potosium" title="Potosium – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Potosi" title="Potosi – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D1%81%D0%B8" title="Потоси – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Potos%C3%AD_(stad)" title="Potosí (stad) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%88%E3%82%B7" title="ポトシ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Putusi" title="Putusi – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D1%81%D0%B8" title="Потоси – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Potosi" title="Potosi – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%9B%E0%B9%82%E0%B8%95%E0%B8%8B%E0%B8%B5" title="โปโตซี – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D1%81%D1%96" title="Потосі – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%BE%D9%88%D8%AA%D9%88%D8%B3%DB%8C" title="پوتوسی – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Potos%C3%AD" title="Potosí – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%89%98%E8%A5%BF" title="波托西 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q35045#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 11 October 2016, at 05:21.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Potos%C3%AD&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.696",
+            "walltime": "0.829",
+            "ppvisitednodes": {
+                "value": 6595,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 114328,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 10044,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 23,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 8,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  691.996      1 -total",
+                " 37.16%  257.145      4 Template:Infobox",
+                " 36.37%  251.651      1 Template:Infobox_settlement",
+                " 18.17%  125.758      6 Template:Fix",
+                " 13.56%   93.833      4 Template:Citation_needed",
+                " 12.70%   87.871      7 Template:Delink",
+                " 10.05%   69.543      1 Template:Weather_box",
+                "  9.19%   63.628      1 Template:Reflist",
+                "  6.08%   42.064      1 Template:Designation_list",
+                "  5.59%   38.714      4 Template:Cite_web"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.271",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 7357250,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1175",
+            "timestamp": "20161012130959",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1273"});});</script>
+	</body>
+</html>

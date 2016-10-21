@@ -1,0 +1,355 @@
+Winston-Salem, North Carolina - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Winston-Salem,_North_Carolina","wgTitle":"Winston-Salem, North Carolina","wgCurRevisionId":744205306,"wgRevisionId":744205306,"wgArticleId":127894,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Wayback Machine links","CS1 errors: dates","CS1 errors: external links","Pages using web citations with no URL","Pages using citations with accessdate and no URL","Coordinates on Wikidata","Articles needing additional references from February 2012","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from May 2012","Pages using weather box with unknown parameters","Pages using Weather box with unsupported parameters","Wikipedia articles in need of updating from February 2012","All Wikipedia articles in need of updating","Articles with DMOZ links","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Populated places established in 1766","Winston-Salem, North Carolina","County seats in North Carolina","History of the America (South) Province of the Moravian Church","Cities in Forsyth County, North Carolina"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Winston-Salem,_North_Carolina","wgRelevantArticleId":127894,"wgRequestId":"WAoHYQpAMF0AAGwrUcAAAABJ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":36.102763888889,"lon":-80.260491666667},"wgWikibaseItemId":"Q49227","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Winston-Salem, North Carolina From Wikipedia, the free encyclopedia Jump to: navigation , search Winston-Salem, North Carolina City City of Winston-Salem Winston-Salem skyline 
+
+Flag 
+
+Seal 
+
+Logo Nickname(s): City of Arts Innovation, Twin City, Camel City, Winston, The Dash Motto: Urbs Condita Adiuvando (A city founded on cooperation) 
+
+Location in Forsyth County and the state of North Carolina . Winston-Salem, North Carolina Location in the contiguous United States Coordinates: 36°6′9.95″N 80°15′37.77″W ﻿ / ﻿ 36.1027639°N 80.2604917°W ﻿ / 36.1027639; -80.2604917 Coordinates : 36°6′9.95″N 80°15′37.77″W ﻿ / ﻿ 36.1027639°N 80.2604917°W ﻿ / 36.1027639; -80.2604917 Country United States State North Carolina Counties Forsyth County Founded 1766 (Salem), 
+
+1849 (Winston) Consolidated 1913 (Winston-Salem) Government • Mayor Allen Joines ( D ) [1] • City Manager Lee D. Garrity Area • Total 133.7 sq mi (346.3 km 2 ) • Land 132.4 sq mi (343.0 km 2 ) • Water 1.2 sq mi (3.2 km 2 ) Elevation 970 ft (300 m) Population ( 2015 estimate ) [2] [3] • Total 241,218 (US: 88th ) • Density 1,821/sq mi (703.2/km 2 ) • MSA 659,330 (US: 83rd ) • CSA 1,642,506 (US: 33rd ) Demonym(s) Winston-Salemite Time zone Eastern ( UTC-5 ) • Summer ( DST ) EDT ( UTC-4 ) Area code(s) 336/743 Website www .cityofws .org 
+
+Winston-Salem is a city in and the county seat of Forsyth County , North Carolina , United States . [4] With a 2015 estimated population of 241,218, it is the second largest municipality in the Piedmont Triad region and the fifth largest city in the state. [2] Winston-Salem is home to the tallest office building in the region, 100 North Main Street , formerly the Wachovia Building and now known locally as the Wells Fargo Center. 
+
+Winston-Salem is called the "Twin City" for its dual heritage and "City of the Arts and Innovation" for its dedication to fine arts and theater and technological research. "Camel City" is a reference to the city's historic involvement in the tobacco industry related to locally based R. J. Reynolds Tobacco Company 's Camel cigarettes. Winston-Salem is also known for its traditional furniture company. Many locals refer to the city as "Winston" in informal speech. "The Dash" is referenced from the hyphen between Winston and Salem and was popularized by the nickname of the local minor league baseball team, the Winston-Salem Dash . 
+
+In 2012, the city was listed among the 10 best places to retire in the U.S. by CBS MoneyWatch . [5] 
+
+Contents 1 History 1.1 Salem 1.2 Winston 1.3 Winston-Salem 1.4 Notable early businesses 2 Government 2.1 Local government 3 Geography and climate 3.1 Climate 4 Demographics 4.1 Religion 5 Economy 5.1 Largest employers 5.2 Major industries 6 Attractions 6.1 Art 6.2 Shopping 6.3 Movies filmed in Winston-Salem 7 Sports 8 Education 8.1 Public 8.2 Private 8.3 Post-secondary institutions 9 Media 9.1 Newspapers 9.2 Radio stations 9.3 Television stations 10 Transportation 10.1 Public transportation 10.2 Thoroughfares 10.3 Aviation 10.4 Rail 11 Notable people 12 Sister cities 13 See also 14 References 15 External links 
+
+History [ edit ] See also: Timeline of Winston-Salem, North Carolina 
+
+The city of Winston-Salem is a product of the merging of the two neighboring towns of Winston and Salem in 1913. Salem [ edit ] 
+
+The origin of the town of Salem dates to January 1753, when Bishop August Gottlieb Spangenberg , on behalf of the Moravian Church , selected a settlement site in the three forks of Muddy Creek. He called this area "die Wachau" ( Latin form: Wachovia ) named after the ancestral estate of Count Nicolaus Ludwig von Zinzendorf . The land, just short of 99,000 acres (400 km 2 ), was subsequently purchased from John Carteret, 2nd Earl Granville . 
+
+On November 17, 1753, the first settlers arrived at what would later become the town of Bethabara. This town, despite its rapid growth, was not designed to be the primary settlement on the tract. Some residents expanded to a nearby settlement called Bethania in 1759. Finally, lots were drawn to select among suitable sites for the location of a new town. Historic Winkler Bakery in Old Salem 
+
+The town established on the chosen site was given the name of Salem (named after the Canaanite city mentioned in the Book of Genesis ) chosen for it by the Moravians' late patron, Count Zinzendorf . On January 6, 1766, the first tree was felled for the building of Salem. Salem was a typical Moravian settlement congregation with the public buildings of the congregation grouped around a central square, today Salem Square. These included the church, a Brethren's House and a Sisters' House for the unmarried members of the Congregation, which owned all the property in town. For many years only members of the Moravian Church were permitted to live in the settlement. This practice had ended by the American Civil War . Many of the original buildings in the settlement have been restored or rebuilt and are now part of Old Salem Museums Gardens. [6] 
+
+Salem was incorporated as a town in December 1856. [7] Salem Square and " God's Acre ", the Moravian Graveyard, since 1772 are the site each Easter morning of the world-famous Moravian sunrise service . This service, sponsored by all the Moravian church parishes in the city, attracts thousands of worshipers each year. Winston [ edit ] 
+
+In 1849, the Salem congregation sold land north of Salem to the newly formed Forsyth County for a county seat. The new town was called "the county town" or Salem until 1851 when it was named Winston for a local hero of the Revolutionary War, Joseph Winston . [8] For its first two decades, Winston was a sleepy county town. In 1868, work began by Salem and Winston business leaders to connect the town to the North Carolina Railroad. [9] That same year, Thomas Jethro Brown of Davie County rented a former livery stable and established the first tobacco warehouse in Winston. That same year, Pleasant Henderson Hanes, also of Davie, built his first tobacco factory a few feet from Brown's warehouse. In 1875, Richard Joshua Reynolds, of Patrick County, Virginia, built his first tobacco factory a few hundred feet from Hanes's factory. By the 1880s, there were almost 40 tobacco factories in the town of Winston. Hanes and Reynolds would compete fiercely for the next 25 years, each absorbing a number of the smaller manufacturers, until Hanes sold out to Reynolds in 1900 to begin a second career in textiles. A map of then known "Winston-Salem" in 1891, showing the development of Main Street and Fourth Street during the industrial tobacco boom--dozens of tobacco factories appear in downtown Winston, including ones owned by Hanes and Reynolds. Winston-Salem [ edit ] 
+
+In the 1880s, the US Post Office began referring to the two towns as Winston-Salem. In 1899, after nearly a decade of contention, the United States Post Office Department established the Winston-Salem post office in Winston, with the former Salem office serving as a branch. After a referendum the towns were officially incorporated as "Winston-Salem" in 1913. The USPS Address Information System (AIS) does not recognize the hyphen . [10] Ironically, the sign hanging on the USPS location in downtown Winston-Salem reads "United States Postal Service, Winston-Salem, NC." 
+
+The Reynolds family , namesake of the R. J. Reynolds Tobacco Company , played a large role in the history and public life of Winston-Salem. By the 1940s, 60% of Winston-Salem workers worked either for Reynolds or in the Hanes textile factories. [11] The Reynolds company imported so much French cigarette paper and Turkish tobacco for Camel cigarettes that Winston-Salem was designated by the United States federal government as an official port of entry for the United States, despite the city being 200 miles (320 km) inland. [11] Winston-Salem was the eighth-largest port of entry in the United States by 1916. [11] 
+
+In 1917, the company bought 84 acres (340,000 m 2 ) of property in Winston-Salem and built 180 houses that it sold at cost to workers, to form a development called "Reynoldstown." [11] By the time R.J. Reynolds died in 1918, his company owned 121 buildings in Winston-Salem. [11] 
+
+In 1920, with a population of 48,395, Winston-Salem was the largest city in North Carolina and the largest city between Atlanta and Washington, DC . [12] [13] [14] 
+
+In 1929, the Reynolds Building was completed in Winston-Salem. Designed by William F. Lamb from the architectural firm Shreve, Lamb and Harmon , the Reynolds Building is a 314 feet (96 m) skyscraper that has 21 floors. [15] [16] When completed as the headquarters of R.J. Reynolds Tobacco Company, it was the tallest building in the United States south of Baltimore, Maryland , and it was named the best building of the year by the American Institute of Architects. [17] The building is well known for being the predecessor and prototype for the much larger Empire State Building that was built in 1931 in New York City. [18] Every year the staff of the Empire State Building sends a Father's Day card to the staff at the Reynolds Building in Winston-Salem to pay homage to its role as predecessor to the Empire State Building. [19] Notable early businesses [ edit ] This section does not cite any sources . Please help improve this section by adding citations to reliable sources . Unsourced material may be challenged and removed . (February 2012) ( Learn how and when to remove this template message ) The Tavern at Old Salem, est. 1784 In 1799, the Winkler Bakery, famous for its Moravian cookies, was commissioned, and in 1807, the congregation brought in Christian Winkler of Pennsylvania to operate the bakery; his family owned and operated the business until 1929. It continues to operate today as part of Old Salem. In 1875, R J Reynolds founded R. J. Reynolds Tobacco Company later famous for branded products such as Prince Albert pipe tobacco (1907) and Camel cigarettes (1913). Other brands which it made famous are Winston, Salem, Doral, and Eclipse cigarettes. The Winston-Salem area is still the primary international manufacturing center for Reynolds brands of cigarettes, although employment is down from its peak of nearly 30,000 to under 3,000. A smoke stack from R.J. Reynolds' historic Bailey Power Plant In 1901, J. Wesley Hanes's Shamrock Hosiery Mills in Winston-Salem began making men's socks. Shortly afterward, his brother Pleasant Henderson Hanes founded the P.H. Hanes Knitting Company , which manufactured men's underwear. The two firms eventually merged to become the Hanes Corporation, now known as Hanesbrands , innovators in the textile industry . In 1906, the Bennett Bottling Company produced Bennett's Cola, a "Fine Carbonic Drink." The name was changed to Winston-Salem Bottling Works in 1915. in 1911, Wachovia Bank and Trust was formed by the merger of Wachovia National Bank (founded 1879) and Wachovia Loan and Trust (founded 1893). The company was purchased by First Union in 2001, which changed its name to Wachovia. Wachovia was purchased by Wells Fargo in 2009, and the Wachovia name was retired in 2011. In 1928, Miller's Clothing Store was opened by Mrs. Henry Miller. Miller's Variety Store still operates at the same location at 622 North Trade Street. Miller's was the first store in Winston-Salem to offer bell-bottoms in the area in the 1960s. Millers was listed by Playboy magazine in 1968 as a popular place to shop. [ citation needed ] In 1929, the local T.W. Garner Foods introduced Texas Pete , a popular hot sauce. In 1929 Quality Oil Company was organized in December 1929, initially to launch a distributorship for the then little known Shell Oil Company . In 1934, Malcolm Purcell McLean formed McLean Trucking Co. The firm benefited from the tobacco and textile industry headquartered in Winston-Salem, and became the second largest trucking firm in the nation. In 1937, Krispy Kreme opened its first doughnut shop on South Main Street. [20] Only surviving novelty Shell service station, one of several built by Quality Oil Company, a local distributor. In 1945 Piedmont Bible College opened (now Piedmont International University). [21] In 1948, Piedmont Airlines was formed out of the old Camel City Flying Service. The airline was based at Smith Reynolds Airport in Winston-Salem but marked its first commercial flight out of Wilmington, North Carolina on February 20, 1948. Piedmont grew to become one of the top airlines in the country before its purchase by USAir (now US Airways ) in 1987. US Airways maintains a reservation center in the old Piedmont Reservations office. Government [ edit ] Local government [ edit ] 
+
+The governing body for the City of Winston-Salem is an eight-member City Council. Voters go to the polls every four years in November to elect the Mayor and Council. The Mayor is elected at large and council members are elected by citizens in each of the eight wards within the city. The City Council is responsible for adopting and providing for all ordinances, rules and regulations as necessary for the general welfare of the city. It approves the city budget and sets property taxes and user fees. The Council appoints the City Manager and City Attorney and approves appointments to city boards and commissions. 
+
+As of 2015, the mayor of Winston-Salem is Allen Joines (D), who was first elected in 2001 and is longest-serving mayor in the history of the city. The members of the City Council are Denise Adams (North Ward), Mayor Pro Tempore Vivian Burke (Northeast Ward), Derwin Montgomery (East Ward), James Taylor, Jr. (Southeast Ward), Molly Leight (South Ward), Dan Besse (Southwest Ward), Robert Clark (West Ward), Jeff MacIntosh (Northwest Ward). 
+
+City officials appointed by the City Council include City Attorney Angela Carmon and City Manager Lee Garrity. [22] Geography and climate [ edit ] Pilot Mountain , a nearby member of the Sauratown Mountains . Winston-Salem is visible from its peak. 
+
+Winston-Salem is in the northwest Piedmont area of North Carolina, situated 65 miles (105 km) northwest of the geographic center of the state. [23] According to the United States Census Bureau , the city has a total area of 133.7 square miles (346.3 km 2 ), of which 132.4 square miles (343.0 km 2 ) is land and 1.2 square miles (3.2 km 2 ), or 0.93%, is water. [24] 
+
+Less than 30 miles (48 km) north of Winston-Salem are the remains of the ancient Sauratown Mountains , named for the Saura people who lived in much of the Piedmont area, including where is now Winston-Salem. 
+
+The nearest major cities are Greensboro , 30 miles (48 km) to the east, and High Point 20 miles (32 km) to the southeast. Climate [ edit ] 
+
+The city of Winston-Salem has a humid subtropical climate characterized by cool, sometimes moderately cold winters, and hot, humid summers. The Köppen Climate Classification subtype for this climate is Cfa . [25] The average high temperatures range from 51 °F (11 °C) in the winter to around 89 °F (32 °C) in the summer. The average low temperatures range from 28 °F (−2 °C) in the winter to around 67 °F (19 °C) in the summer. [26] Climate data for Winston-Salem, North Carolina Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Record high °F (°C) 79 
+
+(26) 83 
+
+(28) 91 
+
+(33) 93 
+
+(34) 101 
+
+(38) 104 
+
+(40) 104 
+
+(40) 104 
+
+(40) 102 
+
+(39) 96 
+
+(36) 84 
+
+(29) 79 
+
+(26) 104 
+
+(40) Average high °F (°C) 49.5 
+
+(9.7) 52.0 
+
+(11.1) 60.6 
+
+(15.9) 69.9 
+
+(21.1) 78.8 
+
+(26) 85.8 
+
+(29.9) 87.8 
+
+(31) 86.2 
+
+(30.1) 81.3 
+
+(27.4) 71.8 
+
+(22.1) 60.1 
+
+(15.6) 50.3 
+
+(10.2) 69.5 
+
+(20.8) Daily mean °F (°C) 39.1 
+
+(3.9) 41.2 
+
+(5.1) 49.0 
+
+(9.4) 57.7 
+
+(14.3) 66.8 
+
+(19.3) 74.7 
+
+(23.7) 77.3 
+
+(25.2) 76.0 
+
+(24.4) 70.4 
+
+(21.3) 59.5 
+
+(15.3) 48.1 
+
+(8.9) 39.9 
+
+(4.4) 58.31 
+
+(14.6) Average low °F (°C) 28.8 
+
+(−1.8) 30.3 
+
+(−0.9) 37.5 
+
+(3.1) 45.7 
+
+(7.6) 54.9 
+
+(12.7) 63.6 
+
+(17.6) 66.8 
+
+(19.3) 65.7 
+
+(18.7) 59.5 
+
+(15.3) 47.1 
+
+(8.4) 36.2 
+
+(2.3) 29.5 
+
+(−1.4) 47.1 
+
+(8.4) Record low °F (°C) −10 
+
+(−23) −1 
+
+(−18) 12 
+
+(−11) 21 
+
+(−6) 22 
+
+(−6) 40 
+
+(4) 43 
+
+(6) 47 
+
+(8) 36 
+
+(2) 21 
+
+(−6) 7 
+
+(−14) −3 
+
+(−19) −10 
+
+(−23) Average precipitation inches (mm) 3.30 
+
+(83.8) 3.38 
+
+(85.9) 3.82 
+
+(97) 3.45 
+
+(87.6) 3.92 
+
+(99.6) 3.83 
+
+(97.3) 4.70 
+
+(119.4) 4.46 
+
+(113.3) 3.38 
+
+(85.9) 3.01 
+
+(76.5) 2.63 
+
+(66.8) 3.51 
+
+(89.2) 43.4 
+
+(1,102.4) Average snowfall inches (cm) 3.0 
+
+(7.6) 2.5 
+
+(6.4) 1.6 
+
+(4.1) 0.3 
+
+(0.8) 0 
+
+(0) 0 
+
+(0) 0 
+
+(0) 0 
+
+(0) 0 
+
+(0) 0 
+
+(0) 0.2 
+
+(0.5) 1.7 
+
+(4.3) 9.3 
+
+(23.6) Average precipitation days (≥ 0.01 in) 9 9 10 9 10 9 11 10 7 6 7 9 106 Source: Southeast Regional Climate Center (normals and extremes 1899–2012) [27] The parameter "imperial first" is not recognized by Template:Weather box Demographics [ edit ] Historical population Census Pop. %± 1870 443 — 1880 4,194 846.7% 1890 10,729 155.8% 1900 13,650 27.2% 1910 22,700 66.3% 1920 48,395 113.2% 1930 75,274 55.5% 1940 79,815 6.0% 1950 87,881 10.1% 1960 111,135 26.5% 1970 133,683 20.3% 1980 131,885 −1.3% 1990 143,485 8.8% 2000 185,776 29.5% 2010 229,617 23.6% Est. 2015 241,218 [28] 5.1% U.S. Decennial Census [29] 
+
+2013 Estimate [30] This article needs to be updated . Please update this article to reflect recent events or newly available information. (February 2012) 
+
+Winston-Salem's population grew by 23.6% from 2000 to 2010, [31] making it the fourth largest city in North Carolina. As of the census of 2010, [32] the population is 229,617, with 90,245 households and a population density of 1,733.6 people per square mile. 
+
+Winston-Salem is 53.0% female, and 27.8% of its firms are owned by women. The median age is 35 years. 24.6% of the population is under 18 years old, and 12.5% of the population is 65 years or older. [31] 
+
+The racial composition of the city in 2010 was 51.2% White , 34.7% Black or African American , 2% Asian American , 0.1% Native American , 0.08% Native Hawaiian and Other Pacific native alone, [31] and 2.4% two or more races . In addition, 14.7% was Hispanic or Latino , of any race. Non-Hispanic Whites were 47.1% of the population in 2010. [31] 
+
+38.4% are married couples living together, 17.3% have a female householder with no husband present, and 39.7% are non-families. 33.1% of all households are made up of individuals and 10.3% have someone living alone who is 65 years of age or older. The average household size is 2.38 and the average family size is 3.06. [31] 
+
+The median income for a household in the city is $41,228, and the median income for a family is $53,222. The mean income for a household in the city is $60,637, and the mean income for a family is $74,938. Males have a median income of $41,064 versus $33,683 for females. The per capita income for the city is $24,728. 20.6% of the population and 15.7% of all families are below the poverty line . 26.2% of Out of the total population, 31.6% of those under the age of 18 and 8.2% of those 65 and older are living below the poverty line. [33] Religion [ edit ] A typical Moravian star 
+
+Winston-Salem is the most religious city in North Carolina, with 54.14% of the population being religiously affiliated. Christianity is the largest religion, with Baptists (15.77%) making up the largest religious group, followed by Methodists (12.79%) and Catholics (4.39%). Pentecostals (2.97%), Presbyterians (2.59%), Lutherans (0.96%), Mormons (0.90%) make up a significant amount of the Christian population as well. The remaining Christian population (11.93%) is affiliated with other churches such as the Moravians and the United Church of Christ . Islam (0.43%) is the second largest religion after Christianity, followed by Judaism (0.20%). Eastern religions (0.02%) make up the religious minority. [34] 
+
+The city's long history with the Moravian church has had a lasting cultural effect. The Moravian star is used as the city's official Christmas street decoration. In addition, a 31-foot Moravian star, one of the largest in the world, sits atop the North Tower of Wake Forest Baptist Medical Center during the Advent and Christmas seasons. [35] Another star sits under Wake Forest University 's Wait Chapel during the Advent and Christmas seasons as well. Also, Moravian star images decorate the lobby of the city's landmark Reynolds Building. Economy [ edit ] The former R.J. Reynolds headquarters, built in 1929 
+
+It is the location of the corporate headquarters of BB T (Branch Banking and Trust Company), HanesBrands , Inc., Krispy Kreme Doughnuts , Inc., Lowes Foods Stores, ISP Sports , Reynolds American (parent of R. J. Reynolds Tobacco Company ), Reynolda Manufacturing Solutions, K W Cafeterias , [36] [37] and TW Garner Food Company (makers of Texas Pete ). [38] Blue Rhino , the nation's largest propane exchange company and a division of Ferrellgas , is also headquartered in Winston-Salem. Wachovia Corporation was based in Winston-Salem until it merged with First Union Corporation in September 2001; the corporate headquarters of the combined company was located in Charlotte, until it was purchased by Wells Fargo in December 2008. PepsiCo has its Customer Service Center located in Winston-Salem. 
+
+Although traditionally associated with the textile and tobacco industries, Winston-Salem is transforming itself to be a leader in the nanotech , high-tech and bio-tech fields. Medical research is a fast-growing local industry, and Wake Forest Baptist Medical Center is the largest employer in Winston-Salem. In December 2004, the city landed a deal with Dell , Inc. providing millions of dollars in incentives to build a computer assembly plant nearby in southeastern Forsyth County. However Dell closed its Winston-Salem facility in January 2010 due to the poor economy. A portion of downtown Winston-Salem has been designated as the Wake Forest Innovation Quarter for biomedical and information technology research and development. Largest employers [ edit ] 
+
+According to the Winston-Salem Business Inc.'s 2012–2013 data report on major employers, [39] the ten largest employers in the city are: # Employer # of Employees 1 Wake Forest Baptist Medical Center 11,750 2 Novant Health 8,145 3 Winston-Salem/Forsyth County Schools 6,692 4 City/County Government 4,689 5 Reynolds American, Inc. 3,000 6 Wells Fargo 2,800 7 Hanesbrands Inc. 2,251 8 BB T 2,200 9 Wake Forest University 1,680 10 Lowe's Foods 1,500 Major industries [ edit ] 
+
+According to the Winston-Salem Business Inc.'s 2012 data report on major industries, [40] the major industries in Winston-Salem/Forsyth County are by percentage: # Employment by Sector % Percentage 1 Health Care and Social Assistance 29% 2 Trade, Transportation and Utilities 19% 3 Professional and Business Services 14% 4 Manufacturing 10% 5 Leisure and Hospitality 10% 5 Financial Activities 6% 7 Public Administration 4% 8 Construction 3% 9 Other Services 3% 10 Information 1% Attractions [ edit ] Bethabara Historic District is a site where Moravians from Pennsylvania first settled in North Carolina, the 195-acre (0.79 km 2 ) area includes a museum and a Moravian church and offers hiking, birdwatching and many varieties of trees and plants. Old Salem is a restored Moravian settlement founded in 1766. Seventy percent of the buildings are original and the village is a living history museum with skilled tinsmiths, blacksmiths, cobblers, gunsmiths, bakers and carpenters practicing their trades while interacting with visitors. [41] Along with the original 18th-century buildings, Old Salem is also home to the Museum of Early Southern Decorative Arts (MESDA), a gallery of 18th- and early 19th-century furniture, ceramics , and textiles. Reynolda Gardens is a 4-acre (16,000 m 2 ) formal garden set within a larger woodland site, originally part of the R. J. Reynolds country estate. The Wake Forest University Museum of Anthropology is an anthropological museum, maintained by Wake Forest University , that has many artifacts and other pieces of history. SciWorks – An interactive museum for children, SciWorks has 25,000 square feet (2,300 m 2 ) of exhibit space, 119-seat Planetarium and 15-acre (61,000 m 2 ) outdoor Environmental Park. Permanent exhibits include: Foucault Pendulum, PhysicsWorks, SoundWorks, HealthWorks, BioWorks and KidsWorks. The Environmental Park includes habitats for river otter, deer and waterfowl. [42] Children's Museum of Winston-Salem offers exhibits and programs designed to develop creative thinking, strengthen language skills, and encourage curiosity for children ages birth to eight. Despite the name, it is primarily an indoor playground for children with activities (admission fee or membership required). New Winston Museum is the community history museum for Winston-Salem and Forsyth County. It focuses on time periods since 1850 and features exhibitions and public programs. [43] Art [ edit ] 
+
+Winston-Salem is often referred to as the "City of the Arts", [44] partly because it created the first arts council in the United States, founded in 1949, and because of the local art schools and attractions. These include the University of North Carolina School of the Arts , Twin City Stage, Winston-Salem Theatre Alliance, the Piedmont Opera Theater, the Winston-Salem Symphony, the Stevens Center for the Performing Arts, the Milton Rhodes Center for the Arts, the Hanesbrands Theater, and the Sawtooth Center for Visual Arts. 
+
+The city's Arts District is centered around Sixth and Trade Streets, where there are many galleries and workshops; nearby is also the ARTivity on the Green art park, established by Art for Art's Sake. 
+
+It is also home to the Southeastern Center for Contemporary Art (SECCA), a nationally known art center, as well as the Reynolda House Museum of American Art (the restored 1917 mansion built by the founder of the R. J. Reynolds Tobacco Company [45] and now affiliated with Wake Forest University ), displays a premiere collection of American art. 
+
+The city plays host to the National Black Theatre Festival , the RiverRun International Film Festival and the Reynolda Film Festival. 
+
+Winston-Salem is also the home of the Art-o-mat and houses nine of them throughout the city. 
+
+The city is also home to Carolina Music Ways, a grassroots arts organization focusing on the area's diverse, interconnected music traditions, including bluegrass , blues, jazz, gospel, old-time stringband, and Moravian music. 
+
+Once a year the city is also the home of the Heavy Rebel Weekender music festival, featuring over 70 bands, primarily rockabilly, punk and honky tonk, over three days. Shopping [ edit ] 
+
+Winston-Salem is home to Hanes Mall , one of the largest shopping malls in North Carolina . The area surrounding the mall along Stratford Road and Hanes Mall Boulevard has become the city's largest shopping district. 
+
+Other shopping areas exist in the city, including Thruway Shopping Center, the city's first shopping center, Hanes Point Shopping Center, Hanes Commons, Pavilions, Stone's Throw Plaza, Silas Creek Crossing, and the Marketplace Mall . Movies filmed in Winston-Salem [ edit ] The Bedroom Window (1987) Mr. Destiny (1990) Eddie (1996) The Lottery (1996, made-for-television adaptation of Shirley Jackson 's short story) George Washington (2000) A Union in Wait (2001, documentary) Junebug (2005) Lost Stallions: The Journey Home (2008) Goodbye Solo (2008) Leatherheads (2008) Eyeborgs (2009) The 5th Quarter (2010) Are You Here (2013) Goodbye to All That (2014) The Longest Ride (2014) Sports [ edit ] 
+
+The Winston-Salem Dash is a Class A Minor-League baseball team currently affiliated with the Chicago White Sox . After 52 years at historic Ernie Shore Field , the Dash now plays its home games at the new BB T Ballpark , which opened in 2010. Previous names for the team include the Winston-Salem Cardinals, Twins, Red Sox, Spirits and, most recently, the Winston-Salem Warthogs. [46] Its players have included Vinegar Bend Mizell , Earl Weaver , Bobby Tiefenauer , Harvey Haddix , Stu Miller , Ray Jablonski , Don Blasingame , Gene Oliver , Rico Petrocelli , Jim Lonborg , George Scott , Sparky Lyle , Bill "Spaceman" Lee , Dwight Evans , Cecil Cooper , Butch Hobson , Wade Boggs , Carlos Lee , Joe Crede , Jon Garland , and Aaron Rowand , all of whom have played extensively at the major league level. 
+
+The Carolina Thunderbirds minor league hockey team will begin play in 2017 at the LJVM Coliseum Annex in Winston-Salem. 
+
+Wake Forest University is an original member of the Atlantic Coast Conference (ACC). Wake Forest's football team plays its games at BB T Field (formerly Groves Stadium), which seats 32,500. Wake Forest's soccer program made four consecutive final four appearances (2006–2009) and were NCAA champions in 2007. Their women's field hockey team won three consecutive national championships between 2002 and 2004. 
+
+The Lawrence Joel Veterans Memorial Coliseum is home to Wake Forest and some Winston-Salem State basketball games. 
+
+NASCAR Whelen All-American Series racing takes place from March until August at city-owned Bowman Gray Stadium . The K N Pro Series East also races here. It is NASCAR's longest running racing series, dating to the 1940s. In the fall, the stadium is used for Winston-Salem State Rams football games. 
+
+Winston-Salem offers a variety of community and children's sports programs and has an active YMCA presence. Several community pools are available for membership. 
+
+Winston-Salem hosts an ATP tennis tournament every year. Education [ edit ] Public [ edit ] 
+
+Winston-Salem/Forsyth County Schools has most of its schools inside Winston-Salem. WS/FC Schools include 51 elementary schools, 25 middle schools and 13 high schools. Private [ edit ] 
+
+Private and parochial schools also make up a significant portion of Winston-Salem's educational establishment. Catholic elementary schools include St. Leo The Great and Our Lady of Mercy . Protestant Christian schools include Calvary Baptist Day School, Gospel Light Christian School, Winston-Salem Christian School (formerly First Assembly Christian School), Salem Baptist Day School, Redeemer School ( Presbyterian ), St. John's Lutheran, Cedar Forest Christian School, Winston-Salem Street School, Salem Montessori School, Berean Baptist Christian School and Woodland Baptist Christian School. Until 2001, Winston-Salem was home to Bishop McGuinness Catholic High School (now in Kernersville, North Carolina ), one of only three Catholic high schools in North Carolina. Salem Academy , located in Old Salem, has been providing education to young women since 1772. Forsyth Country Day School (in nearby Lewisville, North Carolina ) and Summit School are secular private schools that serve the area. Post-secondary institutions [ edit ] 
+
+Winston-Salem has a number of colleges and universities, including: Wake Forest University Winston-Salem State University , a historically black university founded in 1892 University of North Carolina School of the Arts (formerly the North Carolina School of the Arts) Salem College , the first women's college in the South, founded in 1772 Forsyth Technical Community College Living Arts Institute [47] Piedmont International University (formerly Piedmont Baptist College) Media [ edit ] Newspapers [ edit ] 
+
+The Winston-Salem Journal is the main daily newspaper in Winston-Salem. Yes! Weekly is a free weekly paper covering news, opinion, arts, entertainment, music, movies and food. Triad City Beat is a free weekly paper in the Triad area that covers Winston-Salem. [48] The Winston-Salem Chronicle is a weekly newspaper that focuses on the African-American community. [49] Radio stations [ edit ] 
+
+These radio stations are located in Winston-Salem, and are listed by call letters, station number, and name. Many more radio stations can be picked up in Winston-Salem that are not located in Winston-Salem. WFDD , 88.5 FM, Wake Forest University (NPR Affiliate) WBFJ , 89.3 FM, Your Family Station (Contemporary Christian music) WSNC , 90.5 FM, Winston-Salem State University (Jazz) WXRI , 91.3 FM, Southern Gospel WSJS , 600 AM, News-Talk Radio WTRU , 830 AM, The Truth (Religious) WPIP , 880 AM, Berean Christian School WEGO , 980 AM, News, Talk WPOL , 1340 AM, The Light Gospel Music WWNT , 1380 AM, Top 40 Oldies WSMX , 1500 AM, Oldies, Carolina Beach WBFJ , 1550 AM, Christian Teaching Talk Radio Wake Radio, Wake Forest University's online, student-run radio station [50] Television stations [ edit ] 
+
+Winston-Salem makes up part of the Greensboro/Winston-Salem/High Point television designated market area . These stations are listed by call letters, channel number, network and city of license. WFMY-TV , 2, CBS , Greensboro WGHP , 8, Fox , High Point WXII-TV , 12, NBC , Winston-Salem WGPX , 16, Ion , Burlington WCWG , 20, CW , Lexington WUNL-TV , 26, PBS / UNC-TV , Winston-Salem WXLV-TV , 45, ABC , Winston-Salem WMYV , 48, My , Greensboro WLXI-TV , 61, TCT , Greensboro 
+
+Cable-Only News 14 Triad Transportation [ edit ] Public transportation [ edit ] 
+
+The Winston-Salem Transit Authority (WSTA) has the responsibility of providing public transportation. It took over from the Safe Bus Company, founded in the 1920s as the largest black owned transportation company in the United States, in 1972. Operating out of the Clark Campbell Transportation Center at 100 West Fifth Street, WSTA has 26 daily routes, which run between 5:30am and 12:00 midnight Monday through Friday and from 6:30am through 6:30pm on Saturday. WSTA makes nearly 3 million passenger trips annually. In February 2010 WSTA added 10 diesel-electric buses to its fleet. 
+
+The Piedmont Authority for Regional Transportation (PART) operates a daily schedule from the Campbell center connecting Winston-Salem to Boone, Mt. Airy and Greensboro, where other systems provide in-state routes to points east. 
+
+Greyhound lines also provides interstate transportation from the Campbell Center. Thoroughfares [ edit ] Business Interstate 40 at the US 52 interchange in downtown Winston-Salem. 
+
+US 52 (which runs concurrent with NC 8 ) is the predominant north-south freeway through Winston-Salem; it passes near the heart of downtown. Business 40 is the main east-west freeway through downtown Winston-Salem and was the main east-west route through the city until 1993, when a bypass loop of I-40 was built. I-74 links Winston-Salem to High Point (southeast) and US 311 follows I-40 and US 52 through the Winston-Salem business district. US 421 , which shares Business 40 through downtown, splits in the western part of the city onto its own freeway west (signed north) toward Wilkesboro, North Carolina and Boone, North Carolina . US 421 highway near Winston-Salem. Main article: Winston-Salem Beltway 
+
+The Winston-Salem Northern Beltway is a proposed freeway that will loop around the city to the north, providing a route for the Future I-74 on the eastern section and the Future Auxiliary Route I-274 on the western section. The NCDOT plans for this project to begin after 2010. 
+
+By 2014, US 52 south of I-40 will be signed as Spur Route I-285 . The Winston-Salem Department of Transportation also plans for the US 311 freeway to be extended north along the east side of the city to Business I-40 by 2030, according to the Long Range Plan. 
+
+Major thoroughfares in Winston-Salem include NC 67 (Silas Creek Parkway Reynolda Road), NC 150 (Peters Creek Parkway), US 158 (Stratford Road), University Parkway, Martin Luther King Jr. Drive, North Point Boulevard, and Hanes Mall Boulevard. The Winston-Salem Civil Air Patrol Composite Squadron patch Aviation [ edit ] 
+
+Winston-Salem is served by Greensboro 's Piedmont Triad International Airport . The airport also serves much of the surrounding Piedmont Triad area, including High Point, North Carolina . 
+
+A smaller airport, known as Smith Reynolds Airport , is located within the city limits, just northeast of downtown. It is mainly used for general aviation and charter flights. Every year, Smith Reynolds Airport hosts an air show for the general public. The Smith Reynolds Airport is home to the Winston-Salem Civil Air Patrol Composite Squadron, also known as NC-082. The Civil Air Patrol is a non-profit volunteer organization. Rail [ edit ] Main article: High Point (Amtrak station) 
+
+Amtrak runs a thruway motorcoach , twice daily in each direction, between Winston-Salem and the Amtrak station in nearby High Point . Buses depart from the Winston-Salem Transportation Center, then stop on the university campus before traveling to High Point. From the High Point station, riders can board the Crescent line or the Carolinian and Piedmont lines . These lines run directly to local North Carolina destinations as well as cities across the Southeast, as far west as New Orleans and as far north as New York City. Notable people [ edit ] Main article: List of people from Winston-Salem, North Carolina Sister cities [ edit ] 
+
+Winston-Salem has five sister cities , as designated by Sister Cities International : [51] [52] Ungheni , Moldova Kumasi , Ghana Nassau, Bahamas Shanghai , China Buchanan, Liberia See also [ edit ] Geography portal North America portal United States portal North Carolina portal Arts Council of Winston-Salem Forsyth County Interstate 85 in North Carolina List of tallest buildings in Winston-Salem May 1989 tornado outbreak Piedmont Triad Winston-Salem/Forsyth County Schools References [ edit ] ^ the City of Winston-Salem, Mayor of. "City of Winston-Salem, NC :: Meet the Mayor" . Winston-Salem, City of . Retrieved January 8, 2010 . ^ a b http://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk ^ [1] Archived October 6, 2011, at the Wayback Machine . ^ "Find a County" . National Association of Counties . Retrieved 2011-06-07 . ^ The 10 Best Places to Retire ^ Shirley, Michael (1997). From Congregation Town to Industrial City . NYU Press . p. 1. ISBN 978-0-8147-8086-2 . ^ Michael and Martha Hartley. Town of Salem Survey. 1999. Prepared for NC Division of Archives and History. ^ http://www.cityofws.org/home-center/discover-winston-salem/history/town-of-winston-history ^ Hartley. 1999. ^ USPS Pub 28, section 354, Special Characters (PDF) . ^ a b c d e Tursi, Frank (1994). Winston-Salem: A History . John F. Blair, publisher . pp. 110–11, 183. ISBN 978-0-89587-115-2 . ^ "Washington Park Historic District" . Retrieved 2014-05-29 . ^ "Merger of Winston, Salem allowed seeds of industry to sprout" . Winston-Salem Journal . 2013-05-08 . Retrieved 2014-05-29 . ^ Wellman, Manly Wade; Tise, Larry Edward (1976). Winston-Salem in History . 8 . Historic Winston. p. 5. ^ "Reynolds Building" . emporis.com . Retrieved 2008-07-10 . ^ Craver, Richard (2014-05-08). "Panel OKs nomination of RJR building for register" . Winston-Salem Journal . Retrieved 2014-05-09 . ^ Craver, Richard (2009-11-23). "Home of RJR on the market" . Winston-Salem Journal . Retrieved 2009-11-23 . ^ "Reynolds Building" . Retrieved 2008-09-18 . ^ Covington, Owen (2012-01-05). "A look at the historic Reynolds Building" . Triad Business Journal . Retrieved 2014-05-30 . ^ "Krispy Kreme – About Us" . ^ http://www.piedmontu.edu/history ^ "City of Winston-Salem | Home" . www.cityofws.org . Retrieved 2015-09-10 . ^ Star, North Carolina ^ "Geographic Identifiers: 2010 Census Summary File 1 (G001), Winston-Salem city, North Carolina" . American FactFinder . U.S. Census Bureau . Retrieved June 24, 2016 . ^ Climate Summary for Winston-Salem, North Carolina ^ "Average Weather for Winston-Salem, NC – Temperature and Precipitation" . Weather.com. July 27, 2012 . Retrieved November 7, 2012 . ^ "General Climate Summary Tables – Winston Salem Reynol, North Carolina" . Southeast Regional Climate Center . Retrieved December 4, 2012 . ^ "Annual Estimates of the Resident Population for Incorporated Places: April 1, 2010 to July 1, 2015" . Retrieved July 2, 2016 . ^ United States Census Bureau . "Census of Population and Housing" . Retrieved January 31, 2014 . ^ "Annual Estimates of the Resident Population: April 1, 2010 to July 1, 2013" . Retrieved June 15, 2014 . ^ a b c d e http://factfinder2.census.gov/bkmk/table/1.0/en/DEC/10_DP/DPDP1/1600000US3775000 ^ "Winston-Salem (city), North Carolina" . State County QuickFacts . U.S. Census Bureau. ^ http://factfinder2.census.gov/bkmk/table/1.0/en/ACS/11_5YR/DP03/1600000US3775000 ^ http://www.bestplaces.net/religion/city/north_carolina/winston-salem ^ "Annual Star Lighting Service", Wake Forest University Baptist Medical Center, retrieved 12-22-2010 ^ " Group Sales ." K W Cafeterias . Retrieved on January 31, 2012. "K W Corporate Office P.O. Box 25048 Winston-Salem, NC 27114-5048" ^ Daniel, Fran (January 15, 2012). "K W turns 75" . Winston-Salem Journal . Retrieved January 15, 2012 . – "Headquarters: 1391 Plaza West Road, off Healy Drive in Winston-Salem" ^ "Garner Foods considers moving corporate headquarters downtown" . Winston-Salem Journal . March 6, 2014 . Retrieved June 1, 2014 . – "based at 4045 Indiana Ave" ^ "Major Employers" . Retrieved June 2014 . Check date values in: |access-date= ( help ) ^ "Major Industries" (URL) . Retrieved June 2014 . Check date values in: |access-date= ( help ) ^ Old Salem Museums and Gardens ^ SciWorks, The Science Center and Environmental Park of Forsyth County ^ "New Winston Museum - Winston-Salem and Forsyth County's Community Museum" . New Winston Museum . Retrieved 2016-01-13 . ^ "It's official: Winston-Salem is 'City of Arts and Innovation ' ". http://myfox8.com/2014/04/21/its-official-winston-salem-is-city-of-arts-and-innovation/ . Check date values in: |access-date= ( help ); External link in |website= ( help ); Missing or empty |url= ( help ); |access-date= requires |url= ( help ) ^ Reynolda House ^ Outfield Gets Grass At Future Home Of 'Dash' | digtriad.com ^ Living Arts Institute , 2012-08-15 ^ "About" . Triad City Beat . Retrieved 2016-02-07 . ^ "About Us" . The Winston-Salem Chronicle . Retrieved September 18, 2012 . ^ Wake Radio ^ Sister Cities Winston-Salem . City of Winston-Salem. ^ Winston-Salem, NC . Interactive City Directory . Sister Cities International, Inc. External links [ edit ] Find more about 
+
+Winston-Salem, North Carolina 
+
+at Wikipedia's sister projects Definitions from Wiktionary Media from Commons News from Wikinews Quotations from Wikiquote Texts from Wikisource Textbooks from Wikibooks Learning resources from Wikiversity Official website Winston-Salem travel guide from Wikivoyage Visit Winston-Salem Winston-Salem, North Carolina at DMOZ Winston Salem Sister Cities v t e Municipalities and communities of Forsyth County, North Carolina , United States County seat : Winston-Salem Cities High Point ‡ King ‡ Winston-Salem Towns Bethania Kernersville ‡ Lewisville Rural Hall Walkertown Villages Clemmons Tobaccoville ‡ CDP Germanton ‡ Unincorporated 
+
+communities Belews Creek Donnaha Dozier Horneytown Pfafftown Seward Stanleyville Union Cross Vienna Footnotes ‡This populated place also has portions in an adjacent county or counties v t e Piedmont Triad Location North Carolina Piedmont Piedmont Crescent I-85 Corridor Cities Greensboro Winston-Salem High Point Asheboro Burlington Clemmons Eden Graham Kernersville Lexington Reidsville Thomasville Counties Alamance Davie Davidson Forsyth Guilford Randolph Rockingham Stokes Surry Yadkin Newspapers Greensboro News Record Winston-Salem Journal High Point Enterprise Burlington Times-News Thomasville Times Archdale-Trinity News Higher education Wake Forest University Salem College Winston-Salem State University University of North Carolina School of the Arts High Point University Guilford College University of North Carolina at Greensboro Greensboro College Bennett College North Carolina Agricultural and Technical State University Elon University Protected areas Blue Ridge Parkway Deep River State Trail Guilford Courthouse National Military Park Hanging Rock State Park Haw River State Park Mayo River State Park Mountains-to-Sea Trail Overmountain Victory National Historic Trail Pilot Mountain State Park Rendezvous Mountain Educational State Forest Stone Mountain State Park Uwharrie National Forest Yadkin River State Trail Transportation I-40 I-85 I-73 I-74 Bus I-40 Bus I-85 US 29 US 52 US 64 US 220 US 311 US 421 Piedmont Triad International Airport Greensboro Urban Loop Winston-Salem Beltway v t e Mayors of cities with populations exceeding 100,000 in North Carolina State capital : Raleigh Jennifer Roberts 
+
+( Charlotte ) Nancy McFarlane 
+
+( Raleigh ) Nancy Vaughan 
+
+( Greensboro ) Bill Bell 
+
+( Durham ) Allen Joines 
+
+( Winston-Salem ) Nat Robertson 
+
+( Fayetteville ) Harold Weinbrecht 
+
+( Cary ) Bill Saffo 
+
+( Wilmington ) Bill Bencini 
+
+( High Point ) Other states AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY v t e State of North Carolina Raleigh (capital) Topics Climate Geography Government History Music Law North Carolinians State Parks Wildlife Visitor attractions Society Culture Crime Demographics Economy Education Gambling Politics Sports Regions Cape Fear Coastal Plain Crystal Coast Eastern Foothills High Country Inner Banks Metrolina (Charlotte) Outer Banks Piedmont Piedmont Triad Sandhills Triangle Western Largest cities Asheville Cary Chapel Hill Charlotte Concord Durham Fayetteville Gastonia Greensboro Greenville High Point Jacksonville Raleigh Wilmington Winston‑Salem Smaller cities Albemarle Apex Asheboro Burlington Conover Eden Elizabeth City Garner Goldsboro Graham Havelock Henderson Hendersonville Hickory Kannapolis Kings Mountain Kinston Laurinburg Lenoir Lexington Lumberton Monroe Morganton New Bern Newton Reidsville Roanoke Rapids Rocky Mount Salisbury Sanford Shelby Statesville Thomasville Wake Forest Waynesville Wilson Major towns Beaufort Boone Carrboro Clayton Cornelius Dunn Fuquay-Varina Harrisburg Holly Springs Hope Mills Huntersville Indian Trail Kernersville Knightdale Leland Matthews Midland Mint Hill Mooresville Morehead City Morrisville Mount Pleasant Oxford Shallotte Smithfield Southern Pines Tarboro Winterville Counties Alamance Alexander Alleghany Anson Ashe Avery Beaufort Bertie Bladen Brunswick Buncombe Burke Cabarrus Caldwell Camden Carteret Caswell Catawba Chatham Cherokee Chowan Clay Cleveland Columbus Craven Cumberland Currituck Dare Davidson Davie Duplin Durham Edgecombe Forsyth Franklin Gaston Gates Graham Granville Greene Guilford Halifax Harnett Haywood Henderson Hertford Hoke Hyde Iredell Jackson Johnston Jones Lee Lenoir Lincoln Macon Madison Martin McDowell Mecklenburg Mitchell Montgomery Moore Nash New Hanover Northampton Onslow Orange Pamlico Pasquotank Pender Perquimans Person Pitt Polk Randolph Richmond Robeson Rockingham Rowan Rutherford Sampson Scotland Stanly Stokes Surry Swain Transylvania Tyrrell Union Vance Wake Warren Washington Watauga Wayne Wilkes Wilson Yadkin Yancey Authority control WorldCat Identities VIAF : 150085672 LCCN : n79092605 GND : 110443-3 (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Winston-Salem,_North_Carolina oldid=744205306 " Categories : Populated places established in 1766 Winston-Salem, North Carolina County seats in North Carolina History of the America (South) Province of the Moravian Church Cities in Forsyth County, North Carolina Hidden categories: Articles with Wayback Machine links CS1 errors: dates CS1 errors: external links Pages using web citations with no URL Pages using citations with accessdate and no URL Coordinates on Wikidata Articles needing additional references from February 2012 All articles needing additional references All articles with unsourced statements Articles with unsourced statements from May 2012 Pages using weather box with unknown parameters Pages using Weather box with unsupported parameters Wikipedia articles in need of updating from February 2012 All Wikipedia articles in need of updating Articles with DMOZ links Wikipedia articles with VIAF identifiers Wikipedia articles with LCCN identifiers Wikipedia articles with GND identifiers Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Wikivoyage Languages Afrikaans العربية Беларуская Беларуская (тарашкевіца)‎ Български Brezhoneg Català Čeština Cymraeg Dansk Deutsch Español Esperanto فارسی Français Frysk Galego 한국어 Hrvatski Bahasa Indonesia Italiano Kernowek Kiswahili Lietuvių Magyar Malagasy Nederlands 日本語 Norsk bokmål Norsk nynorsk Piemontèis Polski Português Română Русский Scots Simple English Ślůnski Српски / srpski Srpskohrvatski / српскохрватски Suomi Svenska Tagalog Türkçe Українська اردو Tiếng Việt Volapük Winaray 中文 Edit links This page was last modified on 13 October 2016, at 19:29. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.836", "walltime": "0.981", "ppvisitednodes": { "value": 8988, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 256677, "limit": 2097152 }, "templateargumentsize": { "value": 22075, "limit": 2097152 }, "expansiondepth": { "value": 23, "limit": 40 }, "expensivefunctioncount": { "value": 10, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 722.754 1 -total", " 26.43% 191.009 1 Template:Infobox_settlement", " 25.60% 184.999 1 Template:Reflist", " 21.57% 155.882 2 Template:Infobox", " 12.67% 91.579 20 Template:Cite_web", " 9.51% 68.735 1 Template:Weather_box", " 6.11% 44.195 19 Template:Convert", " 5.24% 37.849 20 Template:Rnd", " 5.14% 37.165 1 Template:US_Census_population", " 4.44% 32.078 4 Template:Navbox" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.293", "limit": "10.000" }, "limitreport-memusage": { "value": 10884149, "limit": 52428800 } }, "cachereport": { "origin": "mw1248", "timestamp": "20161021121730", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1258"});});

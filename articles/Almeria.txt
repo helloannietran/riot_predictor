@@ -1,0 +1,1220 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Almería - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Almería","wgTitle":"Almería","wgCurRevisionId":744637075,"wgRevisionId":744637075,"wgArticleId":385256,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia introduction cleanup from December 2011","All pages needing cleanup","Articles covered by WikiProject Wikify from December 2011","All articles covered by WikiProject Wikify","Articles needing cleanup from November 2009","All articles needing cleanup","Cleanup tagged articles without a reason field from November 2009","Wikipedia pages needing cleanup from November 2009","Articles needing additional references from March 2015","All articles needing additional references","Articles to be expanded from March 2016","All articles to be expanded","Articles needing translation from Spanish Wikipedia","Coordinates on Wikidata","All articles with unsourced statements","Articles with unsourced statements from February 2,014","Articles with Spanish-language external links","Settlement articles requiring maintenance","Articles with unsourced statements from July 2013","All articles with failed verification","Articles with failed verification from March 2016","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from July 2013","Commons category with local link same as on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Almería","955 establishments","History of Islam","Mediterranean port cities and towns in Spain","Municipalities in the Province of Almería","Populated places in the Province of Almería","Province of Almería"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Almería","wgRelevantArticleId":385256,"wgRequestId":"WAoZiApAADsAAVcq5lwAAABI","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Almeria","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgInternalRedirectTargetUrl":"/wiki/Almer%C3%ADa","wgCoordinates":{"lat":36.840277777778,"lon":-2.4680555555556},"wgWikibaseItemId":"Q10400","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Almer%C3%ADa"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Almer%C3%ADa&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Almer%C3%ADa&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Almer%C3%ADa"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Almería rootpage-Almería skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Almería</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Almeria&amp;redirect=no" class="mw-redirect" title="Almeria">Almeria</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">"Almeria" redirects here. For other uses, see <a href="/wiki/Almeria_(disambiguation)" class="mw-disambig" title="Almeria (disambiguation)">Almeria (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text">
+<div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><span class="mbox-text-span"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Almer%C3%ADa&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Almer%C3%ADa" title="Talk:Almería">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small></span>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="plainlinks metadata ambox ambox-content ambox-lead_too_short" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Wiki_letter_w.svg" class="image"><img alt="Wiki letter w.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/60px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/80px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's <b><a href="/wiki/Wikipedia:Manual_of_Style/Lead_section" title="Wikipedia:Manual of Style/Lead section">lead section</a> may not adequately <a href="/wiki/Wikipedia:Summary_style" title="Wikipedia:Summary style">summarize</a> key points of its contents</b>. <span class="hide-when-compact">Please consider expanding the lead to <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section#Provide_an_accessible_overview" title="Wikipedia:Manual of Style/Lead section">provide an accessible overview</a> of all important aspects of the article. Please discuss this issue on the article's <a href="/wiki/Talk:Almer%C3%ADa" title="Talk:Almería">talk page</a>.</span> <small><i>(December 2011)</i></small></span></td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-style ambox-Cleanup" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article may <b>require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a></b> to meet Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>. <span class="hide-when-compact">No <a href="/wiki/Template:Cleanup/doc" title="Template:Cleanup/doc">cleanup reason</a> has been specified. Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Almer%C3%ADa&amp;action=edit">improve this article</a> if you can.</span> <small><i>(November 2009)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Almer%C3%ADa&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(March 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+</div>
+</div>
+<small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-notice" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/50px-Translation_to_english_arrow.svg.png" width="50" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/75px-Translation_to_english_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/100px-Translation_to_english_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></div>
+</td>
+<td class="mbox-text">
+<div class="NavFrame collapsed" style="border:none;">
+<div class="NavHead" style="background:transparent;text-align:center;padding-right: 3em; font-weight: normal; text-align: left"><span class="mbox-text-span">This article <b>may be expanded with text translated from the <a href="https://es.wikipedia.org/wiki/Almer%C3%ADa" class="extiw" title="es:Almería">corresponding article</a> in Spanish</b>.  <i><small>(March 2016)</small></i> <small>Click [show] for important translation instructions.</small>&#160;</span></div>
+<div class="NavContent" style="background:transparent;text-align:left;">
+<ul>
+<li><span class="mbox-text-span"><a rel="nofollow" class="external text" href="https://translate.google.com/translate?&amp;u=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FAlmer%C3%ADa&amp;sl=es&amp;tl=en&amp;prev=_t&amp;hl=en">View</a> a machine-translated version of the Spanish article.</span></li>
+<li><span class="mbox-text-span">Google's machine translation is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the English Wikipedia.</span></li>
+<li><span class="mbox-text-span">Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article.</span></li>
+<li><span class="mbox-text-span">After translating, <code>{{Translated|es|Almería}}</code> must be added to the <a href="/wiki/Talk:Almer%C3%ADa" title="Talk:Almería">talk page</a> to ensure <a href="/wiki/Wikipedia:Copying_within_Wikipedia" title="Wikipedia:Copying within Wikipedia">copyright compliance</a>.</span></li>
+<li><span class="mbox-text-span">For more guidance, see <a href="/wiki/Wikipedia:Translation" title="Wikipedia:Translation">Wikipedia:Translation</a>.</span></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org">Almeria<br />
+<i>Almería</i></span></th>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Bandera_de_Almer%C3%ADa.svg" class="image" title="Flag of AlmeriaAlmería"><img alt="Flag of AlmeriaAlmería" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bandera_de_Almer%C3%ADa.svg/100px-Bandera_de_Almer%C3%ADa.svg.png" width="100" height="60" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bandera_de_Almer%C3%ADa.svg/150px-Bandera_de_Almer%C3%ADa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bandera_de_Almer%C3%ADa.svg/200px-Bandera_de_Almer%C3%ADa.svg.png 2x" data-file-width="833" data-file-height="500" /></a><br />
+<small><b>Flag</b></small></td>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Escudo_ciudad_de_Almer%C3%ADa.svg" class="image" title="Official seal of AlmeriaAlmería"><img alt="Official seal of AlmeriaAlmería" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Escudo_ciudad_de_Almer%C3%ADa.svg/100px-Escudo_ciudad_de_Almer%C3%ADa.svg.png" width="100" height="127" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Escudo_ciudad_de_Almer%C3%ADa.svg/150px-Escudo_ciudad_de_Almer%C3%ADa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Escudo_ciudad_de_Almer%C3%ADa.svg/200px-Escudo_ciudad_de_Almer%C3%ADa.svg.png 2x" data-file-width="782" data-file-height="992" /></a><br />
+<small><b>Seal</b></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<p>Motto: «Muy noble, muy leal y decidida por la libertad: ciudad de Almería»</p>
+<i>(Very noble, very loyal and determined towards freedom, city of Almeria)</i></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:300px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:300px;padding:0">
+<div style="position:relative;width:300px"><a href="/wiki/File:Spain_location_map.svg" class="image" title="AlmeriaAlmería is located in Spain"><img alt="AlmeriaAlmería is located in Spain" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Spain_location_map.svg/300px-Spain_location_map.svg.png" width="300" height="257" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Spain_location_map.svg/450px-Spain_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Spain_location_map.svg/600px-Spain_location_map.svg.png 2x" data-file-width="1184" data-file-height="1016" /></a>
+<div style="position:absolute;top:77.935%;left:50.557%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="AlmeriaAlmería" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="AlmeriaAlmería" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left">Almeria<br />
+<i>Almería</i></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span style="white-space:nowrap"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Almer%C3%ADa&amp;params=36_50_25_N_2_28_05_W_type:city_region:ES"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">36°50′25″N</span> <span class="longitude">2°28′05″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">36.84028°N 2.46806°W</span><span style="display:none">﻿ / <span class="geo">36.84028; -2.46806</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Almer%C3%ADa&amp;params=36_50_25_N_2_28_05_W_type:city_region:ES"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">36°50′25″N</span> <span class="longitude">2°28′05″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">36.84028°N 2.46806°W</span><span style="display:none">﻿ / <span class="geo">36.84028; -2.46806</span></span></span></a></span></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_countries" class="mw-redirect" title="List of countries">Country</a></th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Spain" title="Spain">Spain</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Autonomous_communities_of_Spain" title="Autonomous communities of Spain">Region</a></th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Andaluc%C3%ADa.svg/23px-Flag_of_Andaluc%C3%ADa.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Andaluc%C3%ADa.svg/35px-Flag_of_Andaluc%C3%ADa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_Andaluc%C3%ADa.svg/45px-Flag_of_Andaluc%C3%ADa.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Andalusia" title="Andalusia">Andalusia</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Provinces_of_Spain" title="Provinces of Spain">Province</a></th>
+<td><a href="/wiki/Province_of_Almer%C3%ADa" title="Province of Almería">Almería</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Comarcas_of_Spain" title="Comarcas of Spain">Comarca</a></th>
+<td><a href="/w/index.php?title=Comarca_Metropolitana_de_Almer%C3%ADa&amp;action=edit&amp;redlink=1" class="new" title="Comarca Metropolitana de Almería (page does not exist)">Comarca Metropolitana de Almería</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Founded</th>
+<td>955</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Founded by</th>
+<td><a href="/wiki/Abd-ar-Rahman_III" title="Abd-ar-Rahman III">Abd-ar-Rahman III</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Body</th>
+<td class="agent">Ayuntamiento de Almería</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Mayor" title="Mayor">Mayor</a></th>
+<td>Luis Rogelio Rodríguez-Comendador Pérez (<a href="/wiki/People%27s_Party_(Spain)" title="People's Party (Spain)">PP</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>296.21&#160;km<sup>2</sup> (114.37&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>27&#160;m (88,58&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2014)</span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>193,351<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2,014)">citation needed</span></a></i>]</sup></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+<td><i>almerienses</i>, <i>urcitanos</i></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Central_European_Time" title="Central European Time">CET</a> (<a href="/wiki/UTC%2B1" class="mw-redirect" title="UTC+1">UTC+1</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><span style="white-space:nowrap">&#160;•&#160;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th>
+<td><a href="/wiki/Central_European_Summer_Time" title="Central European Summer Time">CEST</a> (<a href="/wiki/UTC%2B2" class="mw-redirect" title="UTC+2">UTC+2</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Postal code</th>
+<td class="adr"><span class="postal-code">04001-04090</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Telephone_numbering_plan" title="Telephone numbering plan">Area code(s)</a></th>
+<td>(+34) 950</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Vehicle_registration_plate" title="Vehicle registration plate">Vehicle registration</a></th>
+<td>AL</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external free" href="http://www.aytoalmeria.es">http://www.aytoalmeria.es</a> <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Spanish)</span></td>
+</tr>
+</table>
+<p><b>Almería</b> (<span class="nowrap"><span class="IPA nopopups"><a href="/wiki/Help:IPA_for_English" title="Help:IPA for English">/<span style="border-bottom:1px dotted"><span title="/ˌ/ secondary stress follows">ˌ</span><span title="/æ/ short 'a' in 'bad'">æ</span><span title="'l' in 'lie'">l</span><span title="'m' in 'my'">m</span><span title="/ə/ 'a' in 'about'">ə</span><span title="/ˈ/ primary stress follows">ˈ</span><span title="'r' in 'rye'">r</span><span title="/iː/ long 'e' in 'seed'">iː</span><span title="/ə/ 'a' in 'about'">ə</span></span>/</a></span></span>; <small>Spanish:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_Spanish" title="Help:IPA for Spanish">[almeˈɾi.a]</a></span>, <small>locally:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_Spanish" title="Help:IPA for Spanish">[aɾmeˈɾi.a, al-]</a></span>) is a city in <a href="/wiki/Andalusia" title="Andalusia">Andalusia</a>, Spain, situated in the southeast of <a href="/wiki/Spain" title="Spain">Spain</a> on the <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a>. It is the capital of the <a href="/wiki/Province_of_Almer%C3%ADa" title="Province of Almería">province</a> of the same name.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Toponym"><span class="tocnumber">1</span> <span class="toctext">Toponym</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Main_sights"><span class="tocnumber">3</span> <span class="toctext">Main sights</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Demographics"><span class="tocnumber">4</span> <span class="toctext">Demographics</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#People_and_culture"><span class="tocnumber">5</span> <span class="toctext">People and culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Sports"><span class="tocnumber">5.1</span> <span class="toctext">Sports</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Economy"><span class="tocnumber">6</span> <span class="toctext">Economy</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Transportation"><span class="tocnumber">7</span> <span class="toctext">Transportation</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Geography"><span class="tocnumber">8</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Climate"><span class="tocnumber">9</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Crystal_Cave"><span class="tocnumber">10</span> <span class="toctext">Crystal Cave</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Films"><span class="tocnumber">11</span> <span class="toctext">Films</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">12</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">13</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Sources"><span class="tocnumber">14</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">15</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Toponym">Toponym</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=edit&amp;section=1" title="Edit section: Toponym">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Almería was founded due to the need for a better defense system for the regional Arab towns. It was Abd-al-Rahman III who founded the <a href="/wiki/Kasbah" title="Kasbah">Alcazaba</a> (the Citadel), which gave this city its name: Al-Mari'yah (<b>المريّة</b>, the Watchtower).<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the first century, <a href="/wiki/Christianity" title="Christianity">Christian</a> documents report that there was a town named <a href="/wiki/Urci" title="Urci">Urci</a>, possibly near the current site of Almería, in the <a href="/wiki/Hispania" title="Hispania">Hispania</a> of the <a href="/wiki/Roman_Empire" title="Roman Empire">Roman Empire</a>. However, this is disputed, as there are several possible sites of the town. However, one Saint <a href="/wiki/Indaletius" title="Indaletius">Indaletius</a>, a missionary is said to have evangelized Urci and become its first bishop, is officially the <a href="/wiki/Patron_saint" title="Patron saint">patron saint</a> of Almería.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Later, the city was refounded by Calipha <a href="/wiki/Abd-ar-Rahman_III" title="Abd-ar-Rahman III">Abd-ar-Rahman III</a> of <a href="/wiki/Caliphate_of_C%C3%B3rdoba" title="Caliphate of Córdoba">Córdoba</a> in 955 AD. It was to be a principal harbour in his extensive domain to strengthen his Mediterranean defences.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Almeria_Alcazaba_fcm.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Almeria_Alcazaba_fcm.jpg/170px-Almeria_Alcazaba_fcm.jpg" width="170" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Almeria_Alcazaba_fcm.jpg/255px-Almeria_Alcazaba_fcm.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Almeria_Alcazaba_fcm.jpg/340px-Almeria_Alcazaba_fcm.jpg 2x" data-file-width="1920" data-file-height="2560" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Almeria_Alcazaba_fcm.jpg" class="internal" title="Enlarge"></a></div>
+Alcazaba of Almería</div>
+</div>
+</div>
+<p>Its <a href="/wiki/Moorish" class="mw-redirect" title="Moorish">Moorish</a> castle, the <i><a href="/wiki/Alcazaba_of_Almer%C3%ADa" title="Alcazaba of Almería">Alcazaba of Almería</a></i>, is the second largest among the Muslim fortresses of <a href="/wiki/Andalusia" title="Andalusia">Andalusia</a>, after the <a href="/wiki/Alhambra" title="Alhambra">Alhambra</a>.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Almeria_Muralla_de_Jayran_fcm.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Almeria_Muralla_de_Jayran_fcm.jpg/220px-Almeria_Muralla_de_Jayran_fcm.jpg" width="220" height="191" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Almeria_Muralla_de_Jayran_fcm.jpg/330px-Almeria_Muralla_de_Jayran_fcm.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Almeria_Muralla_de_Jayran_fcm.jpg/440px-Almeria_Muralla_de_Jayran_fcm.jpg 2x" data-file-width="2211" data-file-height="1920" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Almeria_Muralla_de_Jayran_fcm.jpg" class="internal" title="Enlarge"></a></div>
+The ancient walls of Jayrán</div>
+</div>
+</div>
+<p>In this period, the port city of Almería reached its historical peak. After the fragmentation of the <a href="/wiki/Caliphate_of_C%C3%B3rdoba" title="Caliphate of Córdoba">Caliphate of Córdoba</a> in 1031, Almería continued to be ruled by powerful local Muslim <a href="/wiki/Taifa" title="Taifa">Taifa</a> emirs like <a href="/w/index.php?title=Jairan&amp;action=edit&amp;redlink=1" class="new" title="Jairan (page does not exist)">Jairan</a>, the first independent Emir of <a href="/wiki/Taifa_of_Almer%C3%ADa" title="Taifa of Almería">Almería</a> and <a href="/wiki/Cartagena,_Spain" title="Cartagena, Spain">Cartagena</a>, and <a href="/w/index.php?title=Almotacin&amp;action=edit&amp;redlink=1" class="new" title="Almotacin (page does not exist)">Almotacin</a>, the poet emir. Both Jairan and Almotacin were fearless warriors, but also sophisticated patrons of the arts. A <a href="/wiki/Silk" title="Silk">silk</a> industry, based upon plantings of <a href="/wiki/Mulberry" class="mw-redirect" title="Mulberry">mulberry</a> trees in the hot, dry landscape of the province, supported Almería in the 11th century and made its strategic harbour an even more valuable asset.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:San_Crist%C3%B3bal_detr%C3%A1s_Almer%C3%ADa_noche.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/San_Crist%C3%B3bal_detr%C3%A1s_Almer%C3%ADa_noche.JPG/220px-San_Crist%C3%B3bal_detr%C3%A1s_Almer%C3%ADa_noche.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/San_Crist%C3%B3bal_detr%C3%A1s_Almer%C3%ADa_noche.JPG/330px-San_Crist%C3%B3bal_detr%C3%A1s_Almer%C3%ADa_noche.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/San_Crist%C3%B3bal_detr%C3%A1s_Almer%C3%ADa_noche.JPG/440px-San_Crist%C3%B3bal_detr%C3%A1s_Almer%C3%ADa_noche.JPG 2x" data-file-width="3648" data-file-height="2736" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:San_Crist%C3%B3bal_detr%C3%A1s_Almer%C3%ADa_noche.JPG" class="internal" title="Enlarge"></a></div>
+The statue of San Cristóbal</div>
+</div>
+</div>
+<p>Contested by the emirs of <a href="/wiki/Granada" title="Granada">Granada</a> and <a href="/wiki/Kingdom_of_Valencia" title="Kingdom of Valencia">Valencia</a>, Almería experienced many sieges, including one especially fierce siege when Christians, called to the <a href="/wiki/Second_Crusade" title="Second Crusade">Second Crusade</a> by <a href="/wiki/Pope_Eugene_III" title="Pope Eugene III">Pope Eugene III</a>, were also encouraged to attack the Muslim 'infidels' on a more familiar coast. On that occasion <a href="/wiki/Alfonso_VII_of_Le%C3%B3n_and_Castile" class="mw-redirect" title="Alfonso VII of León and Castile">Alfonso VII</a>, starting on 11 July 1147, at the head of mixed forces of Catalans, Genoese, Pisans and Franks, led a crusade against the rich city, and Almería was occupied on 17 October 1147.<sup id="cite_ref-FOOTNOTERogers201036_3-0" class="reference"><a href="#cite_note-FOOTNOTERogers201036-3">[3]</a></sup></p>
+<p>Within a decade, however, Almería had passed to the control of the puritanical Muslim <a href="/wiki/Almoravid_dynasty" title="Almoravid dynasty">Almoravid</a> emirs,<sup id="cite_ref-FOOTNOTERogers201036_3-1" class="reference"><a href="#cite_note-FOOTNOTERogers201036-3">[3]</a></sup> and not until the late 15th century did it fall permanently into Christian hands. The city surrendered to the <a href="/wiki/Catholic_Monarchs" title="Catholic Monarchs">Catholic Monarchs</a>, <a href="/wiki/Fernando_II_of_Aragon" class="mw-redirect" title="Fernando II of Aragon">Fernando</a> and <a href="/wiki/Isabel_I_of_Castilla" class="mw-redirect" title="Isabel I of Castilla">Isabel</a>, on December 26, 1489.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Estacion-de-almeria-01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Estacion-de-almeria-01.jpg/220px-Estacion-de-almeria-01.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Estacion-de-almeria-01.jpg/330px-Estacion-de-almeria-01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Estacion-de-almeria-01.jpg/440px-Estacion-de-almeria-01.jpg 2x" data-file-width="1024" data-file-height="768" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Estacion-de-almeria-01.jpg" class="internal" title="Enlarge"></a></div>
+The former train station</div>
+</div>
+</div>
+<p>The 16th century was for Almería a century of natural and human catastrophes; for there were at least four <a href="/wiki/Earthquakes" class="mw-redirect" title="Earthquakes">earthquakes</a>, of which the one in 1522 was especially violent, devastating the city. The people who had remained Muslim were expelled from Almería after the <a href="/wiki/Alpujarras" title="Alpujarras">War of Las Alpujarras</a> in 1568 and scattered across Spain. Landings and attacks by <a href="/wiki/Berber_people" class="mw-redirect" title="Berber people">Berber</a> <a href="/wiki/Pirate" class="mw-redirect" title="Pirate">pirates</a> were also frequent in the 16th century, and continued until the early 18th century. At that time, huge iron mines were discovered and French and British companies set up business in the area, bringing renewed prosperity and returning Almería to a position of relative importance within Spain.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup></p>
+<p>During the <a href="/wiki/Spanish_Civil_War" title="Spanish Civil War">Spanish Civil War</a> the city was <a href="/wiki/Bombardment_of_Almer%C3%ADa" title="Bombardment of Almería">shelled by the German Navy</a>, with news reaching the London and Parisian press about the "criminal bombardment of Almería by German planes".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> Almería surrendered in 1939, being the last Andalusian capital city to fall to <a href="/wiki/Francisco_Franco_Bahamonde" class="mw-redirect" title="Francisco Franco Bahamonde">Francoist</a> forces.</p>
+<p>In the second half of the 20th century, Almería witnessed spectacular economic growth due to tourism and intensive agriculture, with crops grown year-round in massive <i>invernaderos</i> – plastic-covered "greenhouses" – for intensive vegetable production.</p>
+<p>After Franco's death and popular approval of the new Spanish Constitution, the people of southern Spain were called on to approve an autonomous status for the region in a referendum. While the referendum were approved with 118,186 votes for and 11,092 votes against in Almería province,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> an absolute majority of all 279,300 registered electors was needed, and the result in Almería was just 42%. The Government impugned the result,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup> and Almería remained part of the present autonomous region of <a href="/wiki/Andalusia" title="Andalusia">Andalusia</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Main_sights">Main sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=edit&amp;section=3" title="Edit section: Main sights">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Cable_ingl%C3%A9s_noches.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cable_ingl%C3%A9s_noches.JPG/220px-Cable_ingl%C3%A9s_noches.JPG" width="220" height="166" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cable_ingl%C3%A9s_noches.JPG/330px-Cable_ingl%C3%A9s_noches.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cable_ingl%C3%A9s_noches.JPG/440px-Cable_ingl%C3%A9s_noches.JPG 2x" data-file-width="2848" data-file-height="2144" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Cable_ingl%C3%A9s_noches.JPG" class="internal" title="Enlarge"></a></div>
+Cable Inglés, at night</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Alcazaba_of_Almer%C3%ADa" title="Alcazaba of Almería">The Alcazaba</a>, a medieval fortress that was begun in the 10th century but destroyed by an earthquake in 1522. It includes a triple line of walls, a majestic <a href="/wiki/Keep" title="Keep">keep</a> and large gardens. It commands a city quarter with buildings dressed in pastel colors, of Muslim-age aspect.</li>
+<li><a href="/wiki/Almer%C3%ADa_air_raid_shelters" title="Almería air raid shelters">Almería air raid shelters</a>, underground galleries for civilian protection during the <a href="/wiki/Spanish_Civil_War" title="Spanish Civil War">Spanish Civil War</a>, nowadays, the longest in Europe open for tourists.</li>
+<li><a href="/wiki/Cathedral_of_Almeria" class="mw-redirect" title="Cathedral of Almeria">The Cathedral</a> has a fortress-like appearance due to its towers, merlons and protected paths, created to defend it from Mediterranean pirates. Originally designated as a mosque, it was later converted into a Christian church, before being destroyed in the 1522 earthquake. In the 16th century it was rebuilt in the Renaissance style, whilst keeping some of its defensive features.</li>
+<li>Renaissance church of Santiago, built in 1533, with tower and portal decorated with reliefs.</li>
+<li><i>Chanca</i>, a group of houses carved into rocks.</li>
+<li>Castle of <i>San Cristobal</i>, now in ruins. It is connected to the Alcazaba by a line of walls.</li>
+<li>Museum of Almería. Includes findings from Prehistoric, Iberic, Roman, Greek ages and Muslim objects, mostly from the Alcazaba.</li>
+<li><i>Paseo de Coches</i>, a modern seaside promenade with gardens and palms.</li>
+</ul>
+<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=edit&amp;section=4" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Almeria has the highest proportion of Muslim population of any Spanish city at 11-20%, depending on source.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (March 2016)">not in citation given</span></a></i>]</sup></p>
+<table style="margin-left:auto;margin-right:auto;border:1px solid #999;border-collapse:collapse;background-color:#f3fff3">
+<caption style="margin-bottom:0.5em;font-size:1.1em;font-weight:bold">Historical population of Almería<br />
+<small>(Source: <a rel="nofollow" class="external text" href="http://www.ine.es">INE (Spain)</a>)</small></caption>
+<tr style="background:#ddffdd">
+<th scope="row" style="border:1px solid #999;padding:4px">Year</th>
+<th style="border:1px solid #999;padding:4px">1999</th>
+<th style="border:1px solid #999;padding:4px">2001</th>
+<th style="border:1px solid #999;padding:4px">2003</th>
+<th style="border:1px solid #999;padding:4px">2005</th>
+<th style="border:1px solid #999;padding:4px">2007</th>
+<th style="border:1px solid #999;padding:4px">2009</th>
+<th style="border:1px solid #999;padding:4px">2011</th>
+<th style="border:1px solid #999;padding:4px">2012</th>
+<th style="border:1px solid #999;padding:4px">2013</th>
+<th style="border:1px solid #999;padding:4px">2014</th>
+</tr>
+<tr>
+<th scope="row" style="border:1px solid #999;padding:4px">Population</th>
+<td style="border:1px solid #999;padding:4px;text-align:center">169,027</td>
+<td style="border:1px solid #999;padding:4px;text-align:center">170,994</td>
+<td style="border:1px solid #999;padding:4px;text-align:center">176,727</td>
+<td style="border:1px solid #999;padding:4px;text-align:center">181,702</td>
+<td style="border:1px solid #999;padding:4px;text-align:center">189,798</td>
+<td style="border:1px solid #999;padding:4px;text-align:center">188,810</td>
+<td style="border:1px solid #999;padding:4px;text-align:center">190,349</td>
+<td style="border:1px solid #999;padding:4px;text-align:center">191,443</td>
+<td style="border:1px solid #999;padding:4px;text-align:center">192,697</td>
+<td style="border:1px solid #999;padding:4px;text-align:center">193,251</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="People_and_culture">People and culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=edit&amp;section=5" title="Edit section: People and culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Almeria_Puerta_de_Purchena_fcm.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Almeria_Puerta_de_Purchena_fcm.jpg/220px-Almeria_Puerta_de_Purchena_fcm.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Almeria_Puerta_de_Purchena_fcm.jpg/330px-Almeria_Puerta_de_Purchena_fcm.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Almeria_Puerta_de_Purchena_fcm.jpg/440px-Almeria_Puerta_de_Purchena_fcm.jpg 2x" data-file-width="2560" data-file-height="1920" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Almeria_Puerta_de_Purchena_fcm.jpg" class="internal" title="Enlarge"></a></div>
+House of the Butterflies</div>
+</div>
+</div>
+<p>Famous natives of Almería include <a href="/wiki/Nicol%C3%A1s_Salmer%C3%B3n_y_Alonso" title="Nicolás Salmerón y Alonso">Nicolás Salmerón y Alonso</a>, who in 1873 was the third president of the <a href="/wiki/First_Spanish_Republic" title="First Spanish Republic">First Spanish Republic</a>, as well as several musicians, including the composer José Padilla Sánchez, whose music was declared of "universal interest" by Unesco in 1989, the popular folk singer <a href="/wiki/Manolo_Escobar" title="Manolo Escobar">Manolo Escobar</a>, renowned Flamenco guitar player <a href="/wiki/Tomatito" title="Tomatito">José Tomás "Tomatito"</a> and Grammy Award winner <a href="/wiki/David_Bisbal" title="David Bisbal">David Bisbal</a>; the champion motorcyclist <a href="/wiki/Antonio_Maeso" title="Antonio Maeso">Antonio Maeso</a> moved to Almería as a child.</p>
+<p>The Irish folk-rock group <a href="/wiki/The_Pogues" title="The Pogues">The Pogues</a> paid tribute to Almeria in "Fiesta," a rollicking Spike Jones-flavored song on the band's third album, <i>If I Should Fall From Grace with God</i>.</p>
+<p>Although administratively annexed to the Autonomous Community of Andalucia, in Southern Spain, some people of the province<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag possibly uses too-vague attribution or weasel words. (July 2013)">who?</span></a></i>]</sup> have shown a clear desire for regional autonomy in different referendums. The insular effect produced by its geographical situation has made several customs, accents and history different from the rest of the Autonomous Region of Andalucia.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=edit&amp;section=6" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Almería hosted the <a href="/wiki/Mediterranean_Games" title="Mediterranean Games">Mediterranean Games</a> in 2005. The city has 2 football teams: <a href="/wiki/UD_Almer%C3%ADa" title="UD Almería">UD Almería</a>, which plays in the Spanish <a href="/wiki/Liga_Adelante" class="mw-redirect" title="Liga Adelante">Segunda División</a> following relegation from <a href="/wiki/La_Liga" title="La Liga">La Liga</a> in 2013 and <a href="/wiki/CP_Almer%C3%ADa" title="CP Almería">CP Almería</a>, in regional division.</p>
+<h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=edit&amp;section=7" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ayunt_Almer%C3%ADa.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ayunt_Almer%C3%ADa.JPG/220px-Ayunt_Almer%C3%ADa.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ayunt_Almer%C3%ADa.JPG/330px-Ayunt_Almer%C3%ADa.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ayunt_Almer%C3%ADa.JPG/440px-Ayunt_Almer%C3%ADa.JPG 2x" data-file-width="3648" data-file-height="2736" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ayunt_Almer%C3%ADa.JPG" class="internal" title="Enlarge"></a></div>
+City Hall</div>
+</div>
+</div>
+<p>The economy of Almería is mostly based on agriculture, which is located mainly in the western part of the region. Numerous greenhouses mostly constructed with <a href="/wiki/Plasticulture" title="Plasticulture">plasticulture</a> produce tonnes of fruit and vegetables, more than 70% of their product being exported to the rest of Europe.</p>
+<h2><span class="mw-headline" id="Transportation">Transportation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=edit&amp;section=8" title="Edit section: Transportation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/Port_of_Almeria" title="Port of Almeria">Port of Almeria</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ramblaalmeria100.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ramblaalmeria100.jpg/220px-Ramblaalmeria100.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ramblaalmeria100.jpg/330px-Ramblaalmeria100.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ramblaalmeria100.jpg/440px-Ramblaalmeria100.jpg 2x" data-file-width="2272" data-file-height="1704" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ramblaalmeria100.jpg" class="internal" title="Enlarge"></a></div>
+Dry Riverbed of Almería</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Puerto_de_Almer%C3%ADa_100.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Puerto_de_Almer%C3%ADa_100.jpg/220px-Puerto_de_Almer%C3%ADa_100.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Puerto_de_Almer%C3%ADa_100.jpg/330px-Puerto_de_Almer%C3%ADa_100.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Puerto_de_Almer%C3%ADa_100.jpg/440px-Puerto_de_Almer%C3%ADa_100.jpg 2x" data-file-width="1600" data-file-height="1200" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Puerto_de_Almer%C3%ADa_100.jpg" class="internal" title="Enlarge"></a></div>
+Harbour of Almería</div>
+</div>
+</div>
+<p>By land, Almería can be reached by the <a href="/wiki/Autov%C3%ADa_A-7" title="Autovía A-7">A-7 Mediterranean Highway</a>, which connects the Mediterranean area with the <a href="/wiki/Autov%C3%ADa_A-92" title="Autovía A-92">Spanish A-92</a> that unites it with the rest of Andalusia.</p>
+<p>By sea, the port of Almería has connections to Melilla, Algeria and Morocco, and also tourist cruises in the Mediterranean. It also has a marina with moorings for pleasure boats. Currently the port of Almería is being expanded with new docks and transformed into a container port to take large-scale international shipping and thereby increase its freight traffic. It normally connects with the following destinations:</p>
+<ul>
+<li><a href="/wiki/Acciona_Trasmediterr%C3%A1nea" class="mw-redirect" title="Acciona Trasmediterránea">Acciona</a>: Ghazaouet (Algeria), <a href="/wiki/Oran" title="Oran">Oran</a> (Algeria), <a href="/wiki/Nador_Port" title="Nador Port">Nador</a> (<a href="/wiki/Morocco" title="Morocco">Morocco</a>) and <a href="/wiki/Melilla" title="Melilla">Melilla</a>.</li>
+<li><a href="/wiki/Comarit" title="Comarit">Comarit</a>: Nador.</li>
+<li><a href="/wiki/Compagnie_Marocaine_de_Navigation" title="Compagnie Marocaine de Navigation">Comanav</a>: Nador.</li>
+</ul>
+<p>By air, Almería is served by <a href="/wiki/Almer%C3%ADa_Airport" title="Almería Airport">Almería Airport</a>, the fourth largest in Andalusia<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2013)">citation needed</span></a></i>]</sup> with domestic and international connections to <a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a>, <a href="/wiki/Madrid" title="Madrid">Madrid</a>, <a href="/wiki/Barcelona" title="Barcelona">Barcelona</a>, <a href="/wiki/Melilla" title="Melilla">Melilla</a>, <a href="/wiki/London" title="London">London</a>, <a href="/wiki/Manchester" title="Manchester">Manchester</a>, <a href="/wiki/Birmingham" title="Birmingham">Birmingham</a>, <a href="/wiki/Brussels" title="Brussels">Brussels</a>, <a href="/wiki/Dublin" title="Dublin">Dublin</a> and Swiss, German and other EU airports.</p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=edit&amp;section=9" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Due to its arid landscape, numerous <a href="/wiki/Spaghetti_western" class="mw-redirect" title="Spaghetti western">spaghetti westerns</a> were filmed in Almería. According to Christopher Frayling, the author of <i>Once Upon a Time in Italy: The Films of <a href="/wiki/Sergio_Leone" title="Sergio Leone">Sergio Leone</a></i>, some of the sets are still there.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> These sets are located in the desert of <a href="/wiki/Tabernas" title="Tabernas">Tabernas</a>. The town and region were also used by <a href="/wiki/David_Lean" title="David Lean">David Lean</a> in <i><a href="/wiki/Lawrence_of_Arabia_(film)" title="Lawrence of Arabia (film)">Lawrence of Arabia</a></i> (1962), <a href="/wiki/John_Milius" title="John Milius">John Milius</a> in <i><a href="/wiki/The_Wind_and_the_Lion" title="The Wind and the Lion">The Wind and the Lion</a></i> (1975) and others.</p>
+<p>One of Almería's most famous natural spots is the <a href="/wiki/Cabo_de_Gata-N%C3%ADjar_Natural_Park" title="Cabo de Gata-Níjar Natural Park">Cabo de Gata-Níjar Natural Park</a>. This park is of volcanic origin, and is the largest and most ecologically significant marine-terrestrial space in the European Western <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a>. With one of the most beautiful and ecologically rich coasts of the western Mediterranean and an area of 380 square kilometres it is one of Spain’s natural jewels. The Cabo de Gata Natural Park runs through the municipal areas of <a href="/wiki/N%C3%ADjar" title="Níjar">Níjar</a>, Almería and <a href="/wiki/Carboneras" title="Carboneras">Carboneras</a>. Its villages, previously dedicated to <a href="/wiki/Fishing" title="Fishing">fishing</a>, have become <a href="/wiki/Tourism" title="Tourism">tourism</a> spots for those interested in nature. One of the greatest attractions of the Cabo de Gata Natural Park is its beaches.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:1002px;"><a href="/wiki/File:Panor%C3%A1mica_de_Almer%C3%ADa.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Panor%C3%A1mica_de_Almer%C3%ADa.jpg/1000px-Panor%C3%A1mica_de_Almer%C3%ADa.jpg" width="1000" height="120" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Panor%C3%A1mica_de_Almer%C3%ADa.jpg/1500px-Panor%C3%A1mica_de_Almer%C3%ADa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Panor%C3%A1mica_de_Almer%C3%ADa.jpg/2000px-Panor%C3%A1mica_de_Almer%C3%ADa.jpg 2x" data-file-width="22491" data-file-height="2699" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Panor%C3%A1mica_de_Almer%C3%ADa.jpg" class="internal" title="Enlarge"></a></div>
+Panorama of the city taken from La Alcazaba</div>
+</div>
+</div>
+<div style="clear:left;"></div>
+<h2><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=edit&amp;section=10" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Almería city is one of the driest cities in Europe and the Mediterranean coast. According to the <a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Köppen climate classification</a>, the city receives just enough rainfall to be classified as a <a href="/wiki/Hot_semi-arid_climate" class="mw-redirect" title="Hot semi-arid climate">hot semi-arid climate</a> (<i>BSh</i>), although nearby coastal areas within Almeria province have the only true <a href="/wiki/Hot_desert_climate" class="mw-redirect" title="Hot desert climate">hot desert climate</a> (<i>BWh</i>) in Europe. With an average annual temperature of above 19&#160;°C it also qualifies as one of the warmest cities in continental Europe. The dry season (although there is no real wet season) occurs during the hottest months, as in the Mediterranean climate.</p>
+<p>This climatic region spreads along the coastline around Almeria, from approximately Almerimar to the west, to Carboneras to the east. Inland the climate is temperate (mean annual temperature less than 18&#160;°C) arid or semi-arid (for instance in the <a href="/wiki/Tabernas_desert" class="mw-redirect" title="Tabernas desert">Tabernas desert</a> where the temperature is 17.9&#160;°C).</p>
+<p>Almeria also experiences the warmest winters of any city on the European continent with a population over 100,000, and hot and dry summers with no precipitation between June and September. Almería enjoys about 3000 hours of sunshine annually with over 320 sunny days a year on average (6 hours of sunshine in January and 12 in July). The city has an average of only 26 days with precipitation annually.</p>
+<p>Almería is unique, for a city in <a href="/wiki/Continental_Europe" title="Continental Europe">Continental Europe</a>, for not having any registered temperature under the freezing mark in its recorded weather history. The coldest temperature recorded was 0.2&#160;°C (32.4&#160;°F) on 9 February 1935.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>During the winter, daily maximum temperatures tend to stay around 18&#160;°C (64&#160;°F). At night, the temperature very rarely drops below 8&#160;°C (46&#160;°F). Precipitation even during the wettest months is rare, this falls in short showers or thunderstorms. Inland areas of the Almería province have reached 50&#160;°C (122&#160;°F).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>During the warmest months - July and August, the sky is clear and sunny and no rainfall occurs. The typical daily temperatures are around 33&#160;°C (91&#160;°F) during the heat of the day. This is often influenced by the <a href="/wiki/Levant_(wind)" title="Levant (wind)">Levant wind</a>, a hot dry easterly wind that blows from the interior desert that makes temperatures soar to 38&#160;°C (100&#160;°F) or higher. These can also carry dust or sand. The minimum temperatures stay around 24&#160;°C (75&#160;°F) during July and August. Heatwaves in Almería are quite common; Almería reached up to 43&#160;°C (109&#160;°F) in August 2011.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<table class="wikitable collapsible" style="width:90%; text-align:center; font-size:90%; line-height: 1.2em; margin:auto;">
+<tr>
+<th colspan="14">Climate data for Almería (airport 21m) 1981-2010</th>
+</tr>
+<tr>
+<th>Month</th>
+<th>Jan</th>
+<th>Feb</th>
+<th>Mar</th>
+<th>Apr</th>
+<th>May</th>
+<th>Jun</th>
+<th>Jul</th>
+<th>Aug</th>
+<th>Sep</th>
+<th>Oct</th>
+<th>Nov</th>
+<th>Dec</th>
+<th style="border-left-width:medium">Year</th>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Record high °C (°F)</th>
+<td style="background: #FF7500; color:#000000;">24.4<br />
+(75.9)</td>
+<td style="background: #FF7000; color:#000000;">25.2<br />
+(77.4)</td>
+<td style="background: #FF3E00; color:#000000;">32.4<br />
+(90.3)</td>
+<td style="background: #FF3200; color:#000000;">34.2<br />
+(93.6)</td>
+<td style="background: #FF3200; color:#000000;">34.2<br />
+(93.6)</td>
+<td style="background: #FF0400; color:#FFFFFF;">40.8<br />
+(105.4)</td>
+<td style="background: #FF0200; color:#FFFFFF;">41.2<br />
+(106.2)</td>
+<td style="background: #FF0200; color:#FFFFFF;">41.1<br />
+(106)</td>
+<td style="background: #FF1A00; color:#000000;">37.6<br />
+(99.7)</td>
+<td style="background: #FF3000; color:#000000;">34.4<br />
+(93.9)</td>
+<td style="background: #FF5600; color:#000000;">29.0<br />
+(84.2)</td>
+<td style="background: #FF5F00; color:#000000;">27.7<br />
+(81.9)</td>
+<td style="background: #FF0200; color:#FFFFFF; border-left-width:medium">41.2<br />
+(106.2)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average high °C (°F)</th>
+<td style="background: #FFA954; color:#000000;">16.9<br />
+(62.4)</td>
+<td style="background: #FFA44A; color:#000000;">17.6<br />
+(63.7)</td>
+<td style="background: #FF962E; color:#000000;">19.6<br />
+(67.3)</td>
+<td style="background: #FF8A16; color:#000000;">21.4<br />
+(70.5)</td>
+<td style="background: #FF7700; color:#000000;">24.1<br />
+(75.4)</td>
+<td style="background: #FF5D00; color:#000000;">27.9<br />
+(82.2)</td>
+<td style="background: #FF4B00; color:#000000;">30.5<br />
+(86.9)</td>
+<td style="background: #FF4800; color:#000000;">31.0<br />
+(87.8)</td>
+<td style="background: #FF5A00; color:#000000;">28.4<br />
+(83.1)</td>
+<td style="background: #FF7500; color:#000000;">24.5<br />
+(76.1)</td>
+<td style="background: #FF9022; color:#000000;">20.5<br />
+(68.9)</td>
+<td style="background: #FFA246; color:#000000;">17.9<br />
+(64.2)</td>
+<td style="background: #FF7C00; color:#000000; border-left-width:medium">23.4<br />
+(74.1)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Daily mean °C (°F)</th>
+<td style="background: #FFC78F; color:#000000;">12.6<br />
+(54.7)</td>
+<td style="background: #FFC285; color:#000000;">13.3<br />
+(55.9)</td>
+<td style="background: #FFB56C; color:#000000;">15.1<br />
+(59.2)</td>
+<td style="background: #FFA852; color:#000000;">17.0<br />
+(62.6)</td>
+<td style="background: #FF962D; color:#000000;">19.7<br />
+(67.5)</td>
+<td style="background: #FF7C00; color:#000000;">23.5<br />
+(74.3)</td>
+<td style="background: #FF6A00; color:#000000;">26.1<br />
+(79)</td>
+<td style="background: #FF6600; color:#000000;">26.7<br />
+(80.1)</td>
+<td style="background: #FF7700; color:#000000;">24.2<br />
+(75.6)</td>
+<td style="background: #FF9123; color:#000000;">20.4<br />
+(68.7)</td>
+<td style="background: #FFAC5A; color:#000000;">16.4<br />
+(61.5)</td>
+<td style="background: #FFBE7E; color:#000000;">13.8<br />
+(56.8)</td>
+<td style="background: #FF9A35; color:#000000; border-left-width:medium">19.1<br />
+(66.4)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average low °C (°F)</th>
+<td style="background: #FFE4CA; color:#000000;">8.3<br />
+(46.9)</td>
+<td style="background: #FFDFC0; color:#000000;">9.0<br />
+(48.2)</td>
+<td style="background: #FFD4AA; color:#000000;">10.6<br />
+(51.1)</td>
+<td style="background: #FFC790; color:#000000;">12.5<br />
+(54.5)</td>
+<td style="background: #FFB46A; color:#000000;">15.3<br />
+(59.5)</td>
+<td style="background: #FF9B38; color:#000000;">18.9<br />
+(66)</td>
+<td style="background: #FF8811; color:#000000;">21.7<br />
+(71.1)</td>
+<td style="background: #FF8308; color:#000000;">22.4<br />
+(72.3)</td>
+<td style="background: #FF9429; color:#000000;">20.0<br />
+(68)</td>
+<td style="background: #FFAD5C; color:#000000;">16.3<br />
+(61.3)</td>
+<td style="background: #FFC993; color:#000000;">12.3<br />
+(54.1)</td>
+<td style="background: #FFDBB8; color:#000000;">9.6<br />
+(49.3)</td>
+<td style="background: #FFB872; color:#000000; border-left-width:medium">14.7<br />
+(58.5)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Record low °C (°F)</th>
+<td style="background: #E7E7FF; color:#000000;">0.1<br />
+(32.2)</td>
+<td style="background: #ECECFF; color:#000000;">1.0<br />
+(33.8)</td>
+<td style="background: #ECECFF; color:#000000;">1.0<br />
+(33.8)</td>
+<td style="background: #FFF4EA; color:#000000;">6.0<br />
+(42.8)</td>
+<td style="background: #FFE4C9; color:#000000;">8.4<br />
+(47.1)</td>
+<td style="background: #FFD6AD; color:#000000;">10.4<br />
+(50.7)</td>
+<td style="background: #FFCB97; color:#000000;">12.0<br />
+(53.6)</td>
+<td style="background: #FFB871; color:#000000;">14.8<br />
+(58.6)</td>
+<td style="background: #FFD8B1; color:#000000;">10.1<br />
+(50.2)</td>
+<td style="background: #EFEFFF; color:#000000;">1.6<br />
+(34.9)</td>
+<td style="background: #F7F7FF; color:#000000;">3.1<br />
+(37.6)</td>
+<td style="background: #F1F1FF; color:#000000;">2.0<br />
+(35.6)</td>
+<td style="background: #E7E7FF; color:#000000; border-left-width:medium">0.1<br />
+(32.2)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> mm (inches)</th>
+<td style="background: #DBDBFF; color:#000000;">24<br />
+(0.94)</td>
+<td style="background: #D5D5FF; color:#000000;">25<br />
+(0.98)</td>
+<td style="background: #E7E7FF; color:#000000;">16<br />
+(0.63)</td>
+<td style="background: #E4E4FF; color:#000000;">17<br />
+(0.67)</td>
+<td style="background: #EDEDFF; color:#000000;">12<br />
+(0.47)</td>
+<td style="background: #F7F7FF; color:#000000;">5<br />
+(0.2)</td>
+<td style="background: #FDFDFF; color:#000000;">1<br />
+(0.04)</td>
+<td style="background: #FDFDFF; color:#000000;">1<br />
+(0.04)</td>
+<td style="background: #E9E9FF; color:#000000;">14<br />
+(0.55)</td>
+<td style="background: #D6D6FF; color:#000000;">27<br />
+(1.06)</td>
+<td style="background: #D3D3FF; color:#000000;">28<br />
+(1.1)</td>
+<td style="background: #D2D2FF; color:#000000;">30<br />
+(1.18)</td>
+<td style="background: #E5E5FF; color:#000000; border-left-width:medium">200<br />
+(7.87)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average precipitation days <span style="font-size:90%;" class="nowrap">(≥ 1&#160;mm)</span></th>
+<td style="background: #DBDBFF; color:#000000;">2.9</td>
+<td style="background: #D7D7FF; color:#000000;">2.9</td>
+<td style="background: #DEDEFF; color:#000000;">2.6</td>
+<td style="background: #DDDDFF; color:#000000;">2.6</td>
+<td style="background: #E7E7FF; color:#000000;">1.9</td>
+<td style="background: #F7F7FF; color:#000000;">0.6</td>
+<td style="background: #FBFBFF; color:#000000;">0.3</td>
+<td style="background: #FBFBFF; color:#000000;">0.3</td>
+<td style="background: #EBEBFF; color:#000000;">1.5</td>
+<td style="background: #DCDCFF; color:#000000;">2.8</td>
+<td style="background: #D1D1FF; color:#000000;">3.6</td>
+<td style="background: #D6D6FF; color:#000000;">3.3</td>
+<td style="background: #E4E4FF; color:#000000; border-left-width:medium">25.4</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average <a href="/wiki/Relative_humidity" title="Relative humidity">relative humidity</a> (%)</th>
+<td style="background: #0000FD; color:#FFFFFF;">67</td>
+<td style="background: #0000FD; color:#FFFFFF;">67</td>
+<td style="background: #0606FF; color:#FFFFFF;">65</td>
+<td style="background: #1111FF; color:#FFFFFF;">62</td>
+<td style="background: #0E0EFF; color:#FFFFFF;">63</td>
+<td style="background: #1515FF; color:#FFFFFF;">61</td>
+<td style="background: #1919FF; color:#FFFFFF;">60</td>
+<td style="background: #0E0EFF; color:#FFFFFF;">63</td>
+<td style="background: #0606FF; color:#FFFFFF;">65</td>
+<td style="background: #0000F9; color:#FFFFFF;">68</td>
+<td style="background: #0000FD; color:#FFFFFF;">67</td>
+<td style="background: #0000FD; color:#FFFFFF;">67</td>
+<td style="background: #0606FF; color:#FFFFFF; border-left-width:medium">65</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Mean monthly <a href="/wiki/Sunshine_duration" title="Sunshine duration">sunshine hours</a></th>
+<td style="background: #D6D600; color:#000000;">194</td>
+<td style="background: #DADA00; color:#000000;">191</td>
+<td style="background: #DFDF00; color:#000000;">232</td>
+<td style="background: #E7E700; color:#000000;">261</td>
+<td style="background: #EDED09; color:#000000;">297</td>
+<td style="background: #F6F61F; color:#000000;">325</td>
+<td style="background: #F8F822; color:#000000;">342</td>
+<td style="background: #F1F113; color:#000000;">315</td>
+<td style="background: #E6E600; color:#000000;">256</td>
+<td style="background: #DBDB00; color:#000000;">218</td>
+<td style="background: #D5D500; color:#000000;">183</td>
+<td style="background: #D0D000; color:#000000;">178</td>
+<td style="background: #E4E400; color:#000000; border-left-width:medium">2,994</td>
+</tr>
+<tr>
+<td colspan="14" style="text-align:center;font-size:95%;">Source: <a href="/wiki/Agencia_Estatal_de_Meteorolog%C3%ADa" title="Agencia Estatal de Meteorología">Agencia Estatal de Meteorología</a><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Crystal_Cave">Crystal Cave</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=edit&amp;section=11" title="Edit section: Crystal Cave">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2000, a team of geologists found a cave filled with giant <a href="/wiki/Gypsum" title="Gypsum">gypsum</a> crystals in an abandoned silver mine near Almería. The cavity, which measures 1.8x1.7 metres, would be the largest <a href="/wiki/Geode" title="Geode">geode</a> ever found. The entrance of the cave has been blocked by five tons of rocks, and is under police protection (to prevent looters from entering). According to geological models, the cave was formed during the <a href="/wiki/Messinian_salinity_crisis" title="Messinian salinity crisis">Messinian salinity crisis</a> 6 million years ago, when the Mediterranean sea evaporated and left thick layers of salt sediments (<a href="/wiki/Evaporite" title="Evaporite">evaporites</a>). The cave is currently not accessible to tourists.</p>
+<h2><span class="mw-headline" id="Films">Films</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=edit&amp;section=12" title="Edit section: Films">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">Main article: <a href="/wiki/List_of_films_shot_in_Almer%C3%ADa" title="List of films shot in Almería">List of films shot in Almería</a></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Solar_Almeria_Platform" class="mw-redirect" title="Solar Almeria Platform">Solar Almeria Platform</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.spain.info/en/ven/otros-destinos/almeria.html">"Tourism in Almería in Almería, Spain"</a>. <i>Spain.info</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlmer%C3a&amp;rft.atitle=Tourism+in+Almer%C3a+in+Almer%C3a%2C+Spain&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.spain.info%2Fen%2Fven%2Fotros-destinos%2Falmeria.html&amp;rft.jtitle=Spain.info&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://saints.sqpn.com/sainti49.htm">http://saints.sqpn.com/sainti49.htm</a></span></li>
+<li id="cite_note-FOOTNOTERogers201036-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTERogers201036_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTERogers201036_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFRogers2010">Rogers 2010</a>, p.&#160;36.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Abella, Rafael <i>La vida cotidiana durante la guerra civil: la España republicana</i>. p.254 Editorial Planeta 1975</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.congreso.es/consti/elecciones/referendos/ref_and_80.htm">"Referéndum de ratificación de la iniciativa autonómica de Andalucía - Constitución española"</a>. Congreso.es<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-08-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlmer%C3a&amp;rft.btitle=Refer%C3%A9ndum+de+ratificaci%C3%B3n+de+la+iniciativa+auton%C3%B3mica+de+Andaluc%C3a+-+Constituci%C3%B3n+espa%C3%B1ola&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.congreso.es%2Fconsti%2Felecciones%2Freferendos%2Fref_and_80.htm&amp;rft.pub=Congreso.es&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://servicios.lavozdigital.es/referendum-estatuto-andalucia/historia-estatuto-autonomia.html">"Referéndum del Estatuto de Andalucía - La Voz Digital"</a>. Servicios.lavozdigital.es<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-08-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlmer%C3a&amp;rft.btitle=Refer%C3%A9ndum+del+Estatuto+de+Andaluc%C3a+-+La+Voz+Digital&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fservicios.lavozdigital.es%2Freferendum-estatuto-andalucia%2Fhistoria-estatuto-autonomia.html&amp;rft.pub=Servicios.lavozdigital.es&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.euro-islam.info/2010/03/08/islam-in-spain/">"Islam in Spain"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlmer%C3a&amp;rft.btitle=Islam+in+Spain&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.euro-islam.info%2F2010%2F03%2F08%2Fislam-in-spain%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Frayling, Christopher. <a rel="nofollow" class="external text" href="http://www.npr.org/templates/story/story.php?storyId=4780340">"<span style="padding-left:0.2em;">'</span>Once Upon A Time in Italy': The Films of Sergio Leone"</a>. NPR<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-08-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlmer%C3a&amp;rft.aufirst=Christopher&amp;rft.aulast=Frayling&amp;rft.btitle=%27Once+Upon+A+Time+in+Italy%27%3A+The+Films+of+Sergio+Leone&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.npr.org%2Ftemplates%2Fstory%2Fstory.php%3FstoryId%3D4780340&amp;rft.pub=NPR&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Agencia Estatal de Meteorología. <a rel="nofollow" class="external text" href="http://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/efemerides_extremos*?w=0&amp;k=and&amp;l=6297&amp;datos=det&amp;x=6297&amp;m=13&amp;v=Tmn">"Almería: Almería - Valores extremos absolutos - Selector - Agencia Estatal de Meteorología - AEMET. Gobierno de España"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlmer%C3a&amp;rft.au=Agencia+Estatal+de+Meteorolog%C3a&amp;rft.btitle=Almer%C3a%3A+Almer%C3a+-+Valores+extremos+absolutos+-+Selector+-+Agencia+Estatal+de+Meteorolog%C3a+-+AEMET.+Gobierno+de+Espa%C3%B1a&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.aemet.es%2Fes%2Fserviciosclimaticos%2Fdatosclimatologicos%2Fefemerides_extremos%2A%3Fw%3D0%26k%3Dand%26l%3D6297%26datos%3Ddet%26x%3D6297%26m%3D13%26v%3DTmn&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.meteorologyclimate.com/extreme-temperature-records.htm">"Extreme temperature records since 1850"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlmer%C3a&amp;rft.btitle=Extreme+temperature+records+since+1850&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.meteorologyclimate.com%2Fextreme-temperature-records.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.portalciencia.net/meteoalmeria.html">"Meteo Almeria- Current weather Almería"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlmer%C3a&amp;rft.btitle=Meteo+Almeria-+Current+weather+Almer%C3a&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.portalciencia.net%2Fmeteoalmeria.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=6325O&amp;k=and">"Valores Climatológicos Normales. Almeria &amp; Almeria / Aeropuerto"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlmer%C3a&amp;rft.btitle=Valores+Climatol%C3%B3gicos+Normales.+Almeria+%26+Almeria+%2F+Aeropuerto&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.aemet.es%2Fes%2Fserviciosclimaticos%2Fdatosclimatologicos%2Fvaloresclimatologicos%3Fl%3D6325O%26k%3Dand&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=edit&amp;section=15" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite id="CITEREFRogers2010" class="citation book">Rogers, Clifford J. (2010). <a rel="nofollow" class="external text" href="https://books.google.nl/books?id=mzwpq6bLHhMC&amp;dq=Garc%C3%ADa+Ram%C3%ADrez+of+Navarre&amp;hl=nl&amp;source=gbs_navlinks_s"><i>The Oxford Encyclopedia of Medieval Warfare and Military Technology: Vol. 1</i></a>. Oxford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0195334036" title="Special:BookSources/978-0195334036">978-0195334036</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlmer%C3a&amp;rft.aufirst=Clifford+J.&amp;rft.aulast=Rogers&amp;rft.btitle=The+Oxford+Encyclopedia+of+Medieval+Warfare+and+Military+Technology%3A+Vol.+1&amp;rft.date=2010&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.nl%2Fbooks%3Fid%3Dmzwpq6bLHhMC%26dq%3DGarc%25C3%25ADa%2BRam%25C3%25ADrez%2Bof%2BNavarre%26hl%3Dnl%26source%3Dgbs_navlinks_s&amp;rft.isbn=978-0195334036&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/Almer%C3%ADa" class="extiw" title="wikivoyage:Almería">Almería</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Almer%C3%ADa" class="extiw" title="commons:Category:Almería">Almería</a></b></i>.</td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-labelledby="Municipalities_of_the_province_of_Almer.C3.ADa" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Municipalities_in_Almer%C3%ADa" title="Template:Municipalities in Almería"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Municipalities_in_Almer%C3%ADa" title="Template talk:Municipalities in Almería"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Municipalities_in_Almer%C3%ADa&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Municipalities_of_the_province_of_Almer.C3.ADa" style="font-size:114%">Municipalities of the <a href="/wiki/Province_of_Almer%C3%ADa" title="Province of Almería">province of Almería</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abla" title="Abla">Abla</a></li>
+<li><a href="/wiki/Abrucena" title="Abrucena">Abrucena</a></li>
+<li><a href="/wiki/Adra,_Spain" title="Adra, Spain">Adra</a></li>
+<li><a href="/wiki/Alboloduy" title="Alboloduy">Alboloduy</a></li>
+<li><a href="/wiki/Albox" title="Albox">Albox</a></li>
+<li><a href="/wiki/Albanchez" title="Albanchez">Albanchez</a></li>
+<li><a href="/wiki/Alcolea" title="Alcolea">Alcolea</a></li>
+<li><a href="/wiki/Alcudia_de_Monteagud" title="Alcudia de Monteagud">Alcudia de Monteagud</a></li>
+<li><a href="/wiki/Alc%C3%B3ntar" title="Alcóntar">Alcóntar</a></li>
+<li><a href="/wiki/Alhabia" title="Alhabia">Alhabia</a></li>
+<li><a href="/wiki/Alhama_de_Almer%C3%ADa" title="Alhama de Almería">Alhama de Almería</a></li>
+<li><a href="/wiki/Alic%C3%BAn" title="Alicún">Alicún</a></li>
+<li><strong class="selflink">Almería</strong></li>
+<li><a href="/wiki/Alm%C3%B3cita" title="Almócita">Almócita</a></li>
+<li><a href="/wiki/Alsodux" title="Alsodux">Alsodux</a></li>
+<li><a href="/wiki/Antas" title="Antas">Antas</a></li>
+<li><a href="/wiki/Arboleas" title="Arboleas">Arboleas</a></li>
+<li><a href="/wiki/Armu%C3%B1a_de_Almanzora" title="Armuña de Almanzora">Armuña de Almanzora</a></li>
+<li><a href="/wiki/Bacares" title="Bacares">Bacares</a></li>
+<li><a href="/wiki/Bayarque" title="Bayarque">Bayarque</a></li>
+<li><a href="/wiki/Bay%C3%A1rcal" title="Bayárcal">Bayárcal</a></li>
+<li><a href="/wiki/Beires" title="Beires">Beires</a></li>
+<li><a href="/wiki/Benahadux" title="Benahadux">Benahadux</a></li>
+<li><a href="/wiki/Benitagla" title="Benitagla">Benitagla</a></li>
+<li><a href="/wiki/Benizal%C3%B3n" title="Benizalón">Benizalón</a></li>
+<li><a href="/wiki/Bentarique" title="Bentarique">Bentarique</a></li>
+<li><a href="/wiki/Berja" title="Berja">Berja</a></li>
+<li><a href="/wiki/B%C3%A9dar" title="Bédar">Bédar</a></li>
+<li><a href="/wiki/Canj%C3%A1yar" title="Canjáyar">Canjáyar</a></li>
+<li><a href="/wiki/Cantoria" title="Cantoria">Cantoria</a></li>
+<li><a href="/wiki/Carboneras" title="Carboneras">Carboneras</a></li>
+<li><a href="/wiki/Castro_de_Filabres" title="Castro de Filabres">Castro de Filabres</a></li>
+<li><a href="/wiki/Chercos" title="Chercos">Chercos</a></li>
+<li><a href="/wiki/Chirivel" title="Chirivel">Chirivel</a></li>
+<li><a href="/wiki/Cuevas_del_Almanzora" title="Cuevas del Almanzora">Cuevas del Almanzora</a></li>
+<li><a href="/wiki/C%C3%B3bdar" title="Cóbdar">Cóbdar</a></li>
+<li><a href="/wiki/Dal%C3%ADas" title="Dalías">Dalías</a></li>
+<li><a href="/wiki/El_Ejido" title="El Ejido">El Ejido</a></li>
+<li><a href="/wiki/Enix,_Spain" title="Enix, Spain">Enix</a></li>
+<li><a href="/wiki/Felix,_Spain" title="Felix, Spain">Felix</a></li>
+<li><a href="/wiki/Fines,_Andalusia" title="Fines, Andalusia">Fines</a></li>
+<li><a href="/wiki/Fi%C3%B1ana" title="Fiñana">Fiñana</a></li>
+<li><a href="/wiki/Fond%C3%B3n" title="Fondón">Fondón</a></li>
+<li><a href="/wiki/Garrucha" title="Garrucha">Garrucha</a></li>
+<li><a href="/wiki/G%C3%A1dor" title="Gádor">Gádor</a></li>
+<li><a href="/wiki/G%C3%A9rgal" title="Gérgal">Gérgal</a></li>
+<li><a href="/wiki/Hu%C3%A9cija" title="Huécija">Huécija</a></li>
+<li><a href="/wiki/Hu%C3%A9rcal_de_Almer%C3%ADa" title="Huércal de Almería">Huércal de Almería</a></li>
+<li><a href="/wiki/Hu%C3%A9rcal-Overa" title="Huércal-Overa">Huércal-Overa</a></li>
+<li><a href="/wiki/%C3%8Dllar" title="Íllar">Íllar</a></li>
+<li><a href="/wiki/Instinci%C3%B3n" title="Instinción">Instinción</a></li>
+<li><a href="/wiki/La_Mojonera" title="La Mojonera">La Mojonera</a></li>
+<li><a href="/wiki/Laroya" title="Laroya">Laroya</a></li>
+<li><a href="/wiki/Las_Tres_Villas" title="Las Tres Villas">Las Tres Villas</a></li>
+<li><a href="/wiki/Los_Gallardos" title="Los Gallardos">Los Gallardos</a></li>
+<li><a href="/wiki/Lubr%C3%ADn" title="Lubrín">Lubrín</a></li>
+<li><a href="/wiki/Lucainena_de_las_Torres" title="Lucainena de las Torres">Lucainena de las Torres</a></li>
+<li><a href="/wiki/Laujar_de_Andarax" title="Laujar de Andarax">Laujar de Andarax</a></li>
+<li><a href="/wiki/L%C3%ADjar" title="Líjar">Líjar</a></li>
+<li><a href="/wiki/L%C3%BAcar" title="Lúcar">Lúcar</a></li>
+<li><a href="/wiki/Macael" title="Macael">Macael</a></li>
+<li><a href="/wiki/Mar%C3%ADa,_Spain" title="María, Spain">María</a></li>
+<li><a href="/wiki/Moj%C3%A1car" title="Mojácar">Mojácar</a></li>
+<li><a href="/wiki/Nacimiento,_Spain" title="Nacimiento, Spain">Nacimiento</a></li>
+<li><a href="/wiki/N%C3%ADjar" title="Níjar">Níjar</a></li>
+<li><a href="/wiki/Ohanes" title="Ohanes">Ohanes</a></li>
+<li><a href="/wiki/Olula_de_Castro" title="Olula de Castro">Olula de Castro</a></li>
+<li><a href="/wiki/Olula_del_R%C3%ADo" title="Olula del Río">Olula del Río</a></li>
+<li><a href="/wiki/Oria,_Spain" title="Oria, Spain">Oria</a></li>
+<li><a href="/wiki/Padules" title="Padules">Padules</a></li>
+<li><a href="/wiki/Partaloa" title="Partaloa">Partaloa</a></li>
+<li><a href="/wiki/Paterna_del_R%C3%ADo" title="Paterna del Río">Paterna del Río</a></li>
+<li><a href="/wiki/Pechina" title="Pechina">Pechina</a></li>
+<li><a href="/wiki/Pulp%C3%AD" title="Pulpí">Pulpí</a></li>
+<li><a href="/wiki/Purchena" title="Purchena">Purchena</a></li>
+<li><a href="/wiki/Rioja,_Almer%C3%ADa" title="Rioja, Almería">Rioja</a></li>
+<li><a href="/wiki/Roquetas_de_Mar" title="Roquetas de Mar">Roquetas de Mar</a></li>
+<li><a href="/wiki/R%C3%A1gol" title="Rágol">Rágol</a></li>
+<li><a href="/wiki/Santa_Cruz_de_Marchena" title="Santa Cruz de Marchena">Santa Cruz de Marchena</a></li>
+<li><a href="/wiki/Santa_Fe_de_Mond%C3%BAjar" title="Santa Fe de Mondújar">Santa Fe de Mondújar</a></li>
+<li><a href="/wiki/Sen%C3%A9s" title="Senés">Senés</a></li>
+<li><a href="/wiki/Ser%C3%B3n" title="Serón">Serón</a></li>
+<li><a href="/wiki/Sierro" title="Sierro">Sierro</a></li>
+<li><a href="/wiki/Somont%C3%ADn" title="Somontín">Somontín</a></li>
+<li><a href="/wiki/Sorbas" title="Sorbas">Sorbas</a></li>
+<li><a href="/wiki/Sufl%C3%AD" title="Suflí">Suflí</a></li>
+<li><a href="/wiki/Tabernas" title="Tabernas">Tabernas</a></li>
+<li><a href="/wiki/Taberno" title="Taberno">Taberno</a></li>
+<li><a href="/wiki/Tahal_(Spanish_municipality)" class="mw-redirect" title="Tahal (Spanish municipality)">Tahal</a></li>
+<li><a href="/wiki/Terque" title="Terque">Terque</a></li>
+<li><a href="/wiki/Turre" title="Turre">Turre</a></li>
+<li><a href="/wiki/Turrillas" title="Turrillas">Turrillas</a></li>
+<li><a href="/wiki/T%C3%ADjola" title="Tíjola">Tíjola</a></li>
+<li><a href="/wiki/Uleila_del_Campo" title="Uleila del Campo">Uleila del Campo</a></li>
+<li><a href="/wiki/Urr%C3%A1cal" title="Urrácal">Urrácal</a></li>
+<li><a href="/wiki/Velefique" title="Velefique">Velefique</a></li>
+<li><a href="/wiki/Vera,_Spain" title="Vera, Spain">Vera</a></li>
+<li><a href="/wiki/Viator" title="Viator">Viator</a></li>
+<li><a href="/wiki/V%C3%A9lez-Blanco" title="Vélez-Blanco">Vélez-Blanco</a></li>
+<li><a href="/wiki/V%C3%A9lez-Rubio" title="Vélez-Rubio">Vélez-Rubio</a></li>
+<li><a href="/wiki/V%C3%ADcar" title="Vícar">Vícar</a></li>
+<li><a href="/wiki/Zurgena" title="Zurgena">Zurgena</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Flag_Almer%C3%ADa_Province.svg" class="image" title="Flag of Almería"><img alt="Flag of Almería" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_Almer%C3%ADa_Province.svg/50px-Flag_Almer%C3%ADa_Province.svg.png" width="50" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_Almer%C3%ADa_Province.svg/75px-Flag_Almer%C3%ADa_Province.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_Almer%C3%ADa_Province.svg/100px-Flag_Almer%C3%ADa_Province.svg.png 2x" data-file-width="750" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Capitals_of_provinces_of_Spain" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Capitals_of_Provinces_in_Spain" title="Template:Capitals of Provinces in Spain"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Capitals_of_Provinces_in_Spain" title="Template talk:Capitals of Provinces in Spain"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Capitals_of_Provinces_in_Spain&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Capitals_of_provinces_of_Spain" style="font-size:114%">Capitals of <a href="/wiki/Provinces_of_Spain" title="Provinces of Spain">provinces</a> of <a href="/wiki/Spain" title="Spain">Spain</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/A_Coru%C3%B1a" title="A Coruña">A Coruña</a></li>
+<li><a href="/wiki/Albacete" title="Albacete">Albacete</a></li>
+<li><a href="/wiki/Alicante" title="Alicante">Alicante</a></li>
+<li><strong class="selflink">Almería</strong></li>
+<li><a href="/wiki/%C3%81vila,_Spain" title="Ávila, Spain">Ávila</a></li>
+<li><a href="/wiki/Badajoz" title="Badajoz">Badajoz</a></li>
+<li><a href="/wiki/Barcelona" title="Barcelona">Barcelona</a></li>
+<li><a href="/wiki/Bilbao" title="Bilbao">Bilbao</a></li>
+<li><a href="/wiki/Burgos" title="Burgos">Burgos</a></li>
+<li><a href="/wiki/C%C3%A1ceres,_Spain" title="Cáceres, Spain">Cáceres</a></li>
+<li><a href="/wiki/C%C3%A1diz" title="Cádiz">Cádiz</a></li>
+<li><a href="/wiki/Castell%C3%B3n_de_la_Plana" title="Castellón de la Plana">Castellón de la Plana</a></li>
+<li><a href="/wiki/Ciudad_Real" title="Ciudad Real">Ciudad Real</a></li>
+<li><a href="/wiki/C%C3%B3rdoba,_Andalusia" title="Córdoba, Andalusia">Córdoba</a></li>
+<li><a href="/wiki/Cuenca,_Spain" title="Cuenca, Spain">Cuenca</a></li>
+<li><a href="/wiki/San_Sebasti%C3%A1n" title="San Sebastián">Donostia-San Sebastián</a></li>
+<li><a href="/wiki/Girona" title="Girona">Girona</a></li>
+<li><a href="/wiki/Granada" title="Granada">Granada</a></li>
+<li><a href="/wiki/Guadalajara,_Castile-La_Mancha" class="mw-redirect" title="Guadalajara, Castile-La Mancha">Guadalajara</a></li>
+<li><a href="/wiki/Huelva" title="Huelva">Huelva</a></li>
+<li><a href="/wiki/Huesca" title="Huesca">Huesca</a></li>
+<li><a href="/wiki/Ja%C3%A9n,_Spain" title="Jaén, Spain">Jaén</a></li>
+<li><a href="/wiki/Logro%C3%B1o" title="Logroño">Logroño</a></li>
+<li><a href="/wiki/Las_Palmas" title="Las Palmas">Las Palmas</a></li>
+<li><a href="/wiki/Le%C3%B3n,_Spain" title="León, Spain">León</a></li>
+<li><a href="/wiki/Lleida" title="Lleida">Lleida</a></li>
+<li><a href="/wiki/Lugo" title="Lugo">Lugo</a></li>
+<li><a href="/wiki/Madrid" title="Madrid">Madrid</a></li>
+<li><a href="/wiki/M%C3%A1laga" title="Málaga">Málaga</a></li>
+<li><a href="/wiki/Murcia" title="Murcia">Murcia</a></li>
+<li><a href="/wiki/Ourense" title="Ourense">Ourense</a></li>
+<li><a href="/wiki/Oviedo" title="Oviedo">Oviedo</a></li>
+<li><a href="/wiki/Palencia" title="Palencia">Palencia</a></li>
+<li><a href="/wiki/Palma,_Majorca" title="Palma, Majorca">Palma</a></li>
+<li><a href="/wiki/Pamplona" title="Pamplona">Pamplona</a></li>
+<li><a href="/wiki/Pontevedra" title="Pontevedra">Pontevedra</a></li>
+<li><a href="/wiki/Salamanca" title="Salamanca">Salamanca</a></li>
+<li><a href="/wiki/Santander,_Spain" title="Santander, Spain">Santander</a></li>
+<li><a href="/wiki/Santa_Cruz_de_Tenerife" title="Santa Cruz de Tenerife">Santa Cruz</a></li>
+<li><a href="/wiki/Segovia" title="Segovia">Segovia</a></li>
+<li><a href="/wiki/Seville" title="Seville">Seville</a></li>
+<li><a href="/wiki/Soria" title="Soria">Soria</a></li>
+<li><a href="/wiki/Tarragona" title="Tarragona">Tarragona</a></li>
+<li><a href="/wiki/Teruel" title="Teruel">Teruel</a></li>
+<li><a href="/wiki/Toledo,_Spain" title="Toledo, Spain">Toledo</a></li>
+<li><a href="/wiki/Valencia" title="Valencia">Valencia</a></li>
+<li><a href="/wiki/Valladolid" title="Valladolid">Valladolid</a></li>
+<li><a href="/wiki/Vitoria-Gasteiz" title="Vitoria-Gasteiz">Vitoria-Gasteiz</a></li>
+<li><a href="/wiki/Zamora,_Spain" title="Zamora, Spain">Zamora</a></li>
+<li><a href="/wiki/Zaragoza" title="Zaragoza">Zaragoza</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="1" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Flag_of_Spain.svg" class="image" title="Flag of Spain"><img alt="Flag of Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/50px-Flag_of_Spain.svg.png" width="50" height="33" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/75px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/100px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="List_of_the_Spanish_Costas" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Costas" title="Template:Costas"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Costas" title="Template talk:Costas"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Costas&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="List_of_the_Spanish_Costas" style="font-size:114%">List of the Spanish Costas</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Costa_de_Almer%C3%ADa" title="Costa de Almería">Costa de Almería</a></li>
+<li><a href="/wiki/Costa_del_Azahar" title="Costa del Azahar">Costa del Azahar</a></li>
+<li><a href="/wiki/Costa_Blanca" title="Costa Blanca">Costa Blanca</a></li>
+<li><a href="/wiki/Costa_Brava" title="Costa Brava">Costa Brava</a></li>
+<li><a href="/wiki/Costa_C%C3%A1lida" title="Costa Cálida">Costa Cálida</a></li>
+<li><a href="/wiki/Costa_Daurada" title="Costa Daurada">Costa Daurada</a></li>
+<li><a href="/wiki/Costa_Tropical" title="Costa Tropical">Costa Tropical</a></li>
+<li><a href="/wiki/Costa_de_la_Luz" title="Costa de la Luz">Costa de la Luz</a></li>
+<li><a href="/wiki/Costa_do_Marisco" title="Costa do Marisco">Costa do Marisco</a></li>
+<li><a href="/wiki/Costa_da_Morte" title="Costa da Morte">Costa da Morte</a></li>
+<li><a href="/wiki/Costa_del_Sol" title="Costa del Sol">Costa del Sol</a></li>
+<li><a href="/wiki/Green_Spain" title="Green Spain">Costa Verde</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Mediterranean_Games" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#BFD7FF;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Mediterranean_Games" title="Template:Mediterranean Games"><abbr title="View this template" style=";background:#BFD7FF;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Mediterranean_Games" title="Template talk:Mediterranean Games"><abbr title="Discuss this template" style=";background:#BFD7FF;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Mediterranean_Games&amp;action=edit"><abbr title="Edit this template" style=";background:#BFD7FF;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Mediterranean_Games" style="font-size:114%"><a href="/wiki/Mediterranean_Games" title="Mediterranean Games">Mediterranean Games</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1951_Mediterranean_Games" title="1951 Mediterranean Games">Alexandria 1951</a></li>
+<li><a href="/wiki/1955_Mediterranean_Games" title="1955 Mediterranean Games">Barcelona 1955</a></li>
+<li><a href="/wiki/1959_Mediterranean_Games" title="1959 Mediterranean Games">Beirut 1959</a></li>
+<li><a href="/wiki/1963_Mediterranean_Games" title="1963 Mediterranean Games">Naples 1963</a></li>
+<li><a href="/wiki/1967_Mediterranean_Games" title="1967 Mediterranean Games">Tunis 1967</a></li>
+<li><a href="/wiki/1971_Mediterranean_Games" title="1971 Mediterranean Games">İzmir 1971</a></li>
+<li><a href="/wiki/1975_Mediterranean_Games" title="1975 Mediterranean Games">Algiers 1975</a></li>
+<li><a href="/wiki/1979_Mediterranean_Games" title="1979 Mediterranean Games">Split 1979</a></li>
+<li><a href="/wiki/1983_Mediterranean_Games" title="1983 Mediterranean Games">Casablanca 1983</a></li>
+<li><a href="/wiki/1987_Mediterranean_Games" title="1987 Mediterranean Games">Latakia 1987</a></li>
+<li><a href="/wiki/1991_Mediterranean_Games" title="1991 Mediterranean Games">Athens 1991</a></li>
+<li><a href="/wiki/1993_Mediterranean_Games" title="1993 Mediterranean Games">Languedoc-Roussillon 1993</a></li>
+<li><a href="/wiki/1997_Mediterranean_Games" title="1997 Mediterranean Games">Bari 1997</a></li>
+<li><a href="/wiki/2001_Mediterranean_Games" title="2001 Mediterranean Games">Tunis 2001</a></li>
+<li><a href="/wiki/2005_Mediterranean_Games" title="2005 Mediterranean Games">Almeria 2005</a></li>
+<li><a href="/wiki/2009_Mediterranean_Games" title="2009 Mediterranean Games">Pescara 2009</a></li>
+<li><a href="/wiki/2013_Mediterranean_Games" title="2013 Mediterranean Games">Mersin 2013</a></li>
+<li><i><a href="/wiki/2017_Mediterranean_Games" title="2017 Mediterranean Games">Tarragona 2017</a></i></li>
+<li><i><a href="/wiki/2021_Mediterranean_Games" title="2021 Mediterranean Games">Oran 2021</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/containsVIAFID/161802803">WorldCat Identities</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/161802803">161802803</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n80001096">n80001096</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4084986-7">4084986-7</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:385256-0!*!0!!en!4!* and timestamp 20161019092018 and revision id 744637075
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Almería&amp;oldid=744637075">https://en.wikipedia.org/w/index.php?title=Almería&amp;oldid=744637075</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/w/index.php?title=Category:Articles_with_unsourced_statements_from_February_2,014&amp;action=edit&amp;redlink=1" class="new" title="Category:Articles with unsourced statements from February 2,014 (page does not exist)">Articles with unsourced statements from February 2,014</a></li><li><a href="/wiki/Category:Almer%C3%ADa" title="Category:Almería">Almería</a></li><li><a href="/wiki/Category:955_establishments" title="Category:955 establishments">955 establishments</a></li><li><a href="/wiki/Category:History_of_Islam" title="Category:History of Islam">History of Islam</a></li><li><a href="/wiki/Category:Mediterranean_port_cities_and_towns_in_Spain" title="Category:Mediterranean port cities and towns in Spain">Mediterranean port cities and towns in Spain</a></li><li><a href="/wiki/Category:Municipalities_in_the_Province_of_Almer%C3%ADa" title="Category:Municipalities in the Province of Almería">Municipalities in the Province of Almería</a></li><li><a href="/wiki/Category:Populated_places_in_the_Province_of_Almer%C3%ADa" title="Category:Populated places in the Province of Almería">Populated places in the Province of Almería</a></li><li><a href="/wiki/Category:Province_of_Almer%C3%ADa" title="Category:Province of Almería">Province of Almería</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_introduction_cleanup_from_December_2011" title="Category:Wikipedia introduction cleanup from December 2011">Wikipedia introduction cleanup from December 2011</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_December_2011" title="Category:Articles covered by WikiProject Wikify from December 2011">Articles covered by WikiProject Wikify from December 2011</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li><li><a href="/wiki/Category:Articles_needing_cleanup_from_November_2009" title="Category:Articles needing cleanup from November 2009">Articles needing cleanup from November 2009</a></li><li><a href="/wiki/Category:All_articles_needing_cleanup" title="Category:All articles needing cleanup">All articles needing cleanup</a></li><li><a href="/wiki/Category:Cleanup_tagged_articles_without_a_reason_field_from_November_2009" title="Category:Cleanup tagged articles without a reason field from November 2009">Cleanup tagged articles without a reason field from November 2009</a></li><li><a href="/wiki/Category:Wikipedia_pages_needing_cleanup_from_November_2009" title="Category:Wikipedia pages needing cleanup from November 2009">Wikipedia pages needing cleanup from November 2009</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_March_2015" title="Category:Articles needing additional references from March 2015">Articles needing additional references from March 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_March_2016" title="Category:Articles to be expanded from March 2016">Articles to be expanded from March 2016</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_needing_translation_from_Spanish_Wikipedia" title="Category:Articles needing translation from Spanish Wikipedia">Articles needing translation from Spanish Wikipedia</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_Spanish-language_external_links" title="Category:Articles with Spanish-language external links">Articles with Spanish-language external links</a></li><li><a href="/wiki/Category:Settlement_articles_requiring_maintenance" title="Category:Settlement articles requiring maintenance">Settlement articles requiring maintenance</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2013" title="Category:Articles with unsourced statements from July 2013">Articles with unsourced statements from July 2013</a></li><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_March_2016" title="Category:Articles with failed verification from March 2016">Articles with failed verification from March 2016</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_July_2013" title="Category:Articles with specifically marked weasel-worded phrases from July 2013">Articles with specifically marked weasel-worded phrases from July 2013</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Almer%C3%ADa" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Almer%C3%ADa" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Almer%C3%ADa"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Almer%C3%ADa"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Almer%C3%ADa" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Almer%C3%ADa&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Almer%C3%ADa" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Almer%C3%ADa" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Almer%C3%ADa&amp;oldid=744637075" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Almer%C3%ADa&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q10400" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Almer%C3%ADa&amp;id=744637075" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Almer%C3%ADa">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Almer%C3%ADa&amp;returnto=Almer%C3%ADa&amp;oldid=744637075&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Almer%C3%ADa&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Almer%C3%ADa" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Almer%C3%ADa" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D9%85%D8%B1%D9%8A%D8%A9" title="ألمرية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B0%D0%B4_%D0%90%D0%BB%D1%8C%D0%BC%D0%B5%D1%80%D1%8B%D1%8F" title="Горад Альмерыя – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%BC%D1%8D%D1%80%D1%8B%D1%8F" title="Альмэрыя – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BB%D0%BC%D0%B5%D1%80%D0%B8%D1%8F" title="Алмерия – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Almeria" title="Almeria – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Almer%C3%ADa_(kapital_sa_lalawigan)" title="Almería (kapital sa lalawigan) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%91%CE%BB%CE%BC%CE%B5%CF%81%CE%AF%CE%B1" title="Αλμερία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://es.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Almerio" title="Almerio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Almeria" title="Almeria – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D9%84%D9%85%D8%B1%DB%8C%D8%A7" title="آلمریا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Almeria" title="Almeria – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%8C%EB%A9%94%EB%A6%AC%EC%95%84" title="알메리아 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%AC%D5%B4%D5%A5%D6%80%D5%AB%D5%A1" title="Ալմերիա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Almer%C3%ADa_(grad)" title="Almería (grad) – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%BC%D0%B5%D1%80%D0%B8" title="Альмери – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%9E%D7%A8%D7%99%D7%94" title="אלמריה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Almer%C3%ADa_(Almer%C3%ADa)" title="Almería (Almería) – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Almeria" title="Almeria – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Almerija" title="Almerija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Almerija" title="Almerija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%86%E0%A4%B2%E0%A5%8D%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="आल्मेरिया – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Almer%C3%ADa_(stad)" title="Almería (stad) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%A1%E3%83%AA%E3%82%A2" title="アルメリア – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%BC%D0%B5%D1%80%D0%B8" title="Альмери – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Almeria" title="Almeria – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%DB%8C%D8%B1%DB%8C%D8%A7" title="المیریا – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Almeria" title="Almeria – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%BC%D0%B5%D1%80%D0%B8%D1%8F" title="Альмерия – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="अल्मेरिया – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Almeria" title="Almeria – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Almeria" title="Almeria – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%BC%D0%B5%D1%80%D0%B8%D1%98%D0%B0" title="Алмерија – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%B2%E0%AF%8D%E0%AE%AE%E0%AF%87%E0%AE%B0%E0%AF%80%E0%AE%AF%E0%AE%BE" title="அல்மேரீயா – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%BC%D0%B5%D1%80%D1%96%D1%8F" title="Альмерія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B1%DB%8C%DB%81" title="المریہ – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Almer%C3%ADa" title="Almería – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E6%A2%85%E9%87%8C%E4%BA%9A" title="阿尔梅里亚 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q10400#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 16 October 2016, at 14:26.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Almer%C3%ADa&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.800",
+            "walltime": "0.967",
+            "ppvisitednodes": {
+                "value": 7155,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 186217,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 24271,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 19,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 18,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  806.393      1 -total",
+                " 29.82%  240.459      1 Template:Infobox_settlement",
+                " 24.78%  199.864      2 Template:Infobox",
+                " 17.02%  137.262      5 Template:Ambox",
+                " 13.16%  106.106      7 Template:Fix",
+                " 12.44%  100.308      1 Template:Multiple_issues",
+                " 10.31%   83.155      5 Template:Citation_needed",
+                "  9.89%   79.716      1 Template:Weather_box",
+                "  9.84%   79.369      1 Template:Reflist",
+                "  9.30%   75.006      7 Template:Delink"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.350",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 9224618,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1171",
+            "timestamp": "20161019092019",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw1264"});});</script>
+	</body>
+</html>

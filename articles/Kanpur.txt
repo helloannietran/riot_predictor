@@ -1,0 +1,209 @@
+Kanpur - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kanpur","wgTitle":"Kanpur","wgCurRevisionId":742006602,"wgRevisionId":742006602,"wgArticleId":363531,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Unfit url","All articles with dead external links","Articles with dead external links from March 2012","Wikipedia semi-protected pages","Articles needing additional references from June 2015","All articles needing additional references","Articles that may contain original research from May 2016","All articles that may contain original research","Use Indian English from June 2016","All Wikipedia articles written in Indian English","Use dmy dates from July 2014","Coordinates on Wikidata","Settlement articles requiring maintenance","Articles with hAudio microformats","Commons category with page title same as on Wikidata","Wikipedia articles with GND identifiers","Kanpur","Articles containing potentially dated statements from 2011"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Kanpur","wgRelevantArticleId":363531,"wgRequestId":"WAlUGQpAEK4AAAfBtbgAAABH","wgIsProbablyEditable":false,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":26.449923,"lon":80.331874},"wgWikibaseItemId":"Q66568","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Kanpur From Wikipedia, the free encyclopedia Jump to: navigation , search For other places with the same name, see Kanpur (disambiguation) . This article has multiple issues. Please help improve it or discuss these issues on the talk page . ( Learn how and when to remove these template messages ) This article needs additional citations for verification . Please help improve this article by adding citations to reliable sources . Unsourced material may be challenged and removed. (June 2015) ( Learn how and when to remove this template message ) This article possibly contains original research . Please improve it by verifying the claims made and adding inline citations . Statements consisting only of original research should be removed. (May 2016) ( Learn how and when to remove this template message ) ( Learn how and when to remove this template message ) Kanpur 
+
+कानपुर 
+
+کانپور 
+
+Cawnpore Clockwise from top right: Green Park Stadium ; Civil Lines district; Kanpur Police headquarters; Landmark Hotel; Kanpur Memorial Church; JK Temple Nickname(s): "Leather City of the world"; [1] "Manchester of the East" [2] Kanpur Coordinates: 26°27′00″N 80°19′55″E ﻿ / ﻿ 26.449923°N 80.331874°E ﻿ / 26.449923; 80.331874 Coordinates : 26°27′00″N 80°19′55″E ﻿ / ﻿ 26.449923°N 80.331874°E ﻿ / 26.449923; 80.331874 Country India State Uttar Pradesh District Kanpur Nagar District 
+
+Kanpur Dehat District Government • Mayor Shri Jagat Vir Singh Drona • Deputy Mayor Shri Haji Suhail Ahmed Area • Metropolis 403.70 km 2 (155.87 sq mi) Elevation 126 m (413 ft) Population [3] • Metropolis 2,765,348 • Rank 12th • Metro [4] 2,920,496 Time zone IST ( UTC+5:30 ) PIN 208 0xx 
+
+• 209 2xx 
+
+• 209 3xx 
+
+• 209 4xx Telephone code 0512 Vehicle registration UP-78,77 Coastline 0 kilometres (0 mi) Sex ratio 0.855 ♂ / ♀ Literacy 84.37% Climate Cfa ( Köppen ) Website www .kanpurnagar .nic .in 
+
+Kanpur ( / ˈ k ɑː n p ʊər / pronunciation ( help · info ) ; formerly Cawnpore ; is the 12th most populous city in India . It is the administrative headquarters of Kanpur Nagar district and Kanpur division . It is the second largest industrial town in north India, following Delhi . 
+
+The name is believed to have derived from Karnapur (meaning "town of Karna", one of the heroes of the Mahabharata ). Another theory is that it came from the nearby town of Makanpur , earlier known as Khairabad, where the Sufi saint of the Madariya Sufi order , Badiuddin Zinda Shah Madar, settled. [5] 
+
+Contents 1 History 1.1 1857 uprising 2 Climate 3 Surrounding areas 4 Civic administration 5 Demography 6 Metropolitan area 7 Transport 8 Sister Cities 9 See also 10 Notes 11 References 12 External links 
+
+History Kanpur Sangrahalaya 
+
+In 1207, Raja Kanh Deo of the Kanhpuria clan established the village of Kanhpur, which later came to be known as Kanpur. [6] [7] 1857 uprising Main article: Siege of Cawnpore 
+
+In the 19th century, Kanpur was an important British garrison with barracks for 7,000 soldiers. During the Indian Rebellion of 1857 , 900 British men, women and children were besieged in the fortifications for 22 days by rebels under Nana Sahib Peshwa . They surrendered on the agreement that they would get safe passage to the nearby Satti Chaura Ghat whereupon they would board barges and be allowed to go by river to Allahabad . [8] 
+
+Though controversy surrounds what exactly happened at the Satti Chaura Ghat , and who fired the first shot, it is known that, soon afterwards, the departing British were shot at by the rebel sepoys and were either killed or captured. Some of the British officers later claimed that the rebels had, on purpose, placed the boats as high in the mud as possible, to cause delay. They also claimed that Nana Sahib's camp had previously arranged for the rebels to fire upon and kill all the English. Although the East India Company later accused Nana Sahib of betrayal and murder of innocent people, no evidence has ever been found to prove that Nana Sahib had pre-planned or ordered the massacre. Some historians believe that the Satti Chaura Ghat massacre was the result of confusion, and not of any plan implemented by Nana Sahib and his associates. Lieutenant Mowbray Thomson, one of the four male survivors of the massacre, believed that the rank-and-file sepoys who spoke to him did not know of the killing to come. [9] 
+
+Many were killed and the remaining 200 British women and children were brought back to shore and sent to a building called the Bibighar (the ladies' home). After some time, the commanders of the rebels decided to kill their hostages. The rebel soldiers refused to carry out orders and butchers from the nearby town were brought in to kill the hostages three days before the British entered the city on 18 July. The dismembered bodies were thrown into a deep well nearby. The British under General Neill retook the city and committed a series of retaliations against the rebel Sepoys and those civilians caught in the area, including women, children and old men. The Kanpur Massacre, as well as similar events elsewhere, were seen by the British as justification for unrestrained vengeance. [10] 
+
+Ruins of General Wheeler's entrenchment where Nana Sahib's forces besieged them 
+
+1858 picture of Sati Chaura Ghat where a massacre of the British took place 
+
+Highlanders led by General Havelock fight with Indian rebels to rescue the besieged British troops 
+
+British Forces capture the rebel forces in 1857 near Kanpur, India Climate Main article: Climate of Uttar Pradesh Climate data for Kanpur Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Record high °C (°F) 31.1 
+
+(88) 35.6 
+
+(96.1) 42.8 
+
+(109) 45.6 
+
+(114.1) 47.2 
+
+(117) 47.3 
+
+(117.1) 45.0 
+
+(113) 40.6 
+
+(105.1) 40.0 
+
+(104) 40.6 
+
+(105.1) 36.1 
+
+(97) 31.3 
+
+(88.3) 47.3 
+
+(117.1) Average high °C (°F) 23.1 
+
+(73.6) 25.9 
+
+(78.6) 32.3 
+
+(90.1) 38.3 
+
+(100.9) 40.7 
+
+(105.3) 39.0 
+
+(102.2) 33.8 
+
+(92.8) 32.9 
+
+(91.2) 33.2 
+
+(91.8) 33.0 
+
+(91.4) 29.4 
+
+(84.9) 24.8 
+
+(76.6) 32.2 
+
+(90) Average low °C (°F) 7.9 
+
+(46.2) 10.3 
+
+(50.5) 15.3 
+
+(59.5) 21.4 
+
+(70.5) 25.4 
+
+(77.7) 27.4 
+
+(81.3) 26.3 
+
+(79.3) 25.9 
+
+(78.6) 24.6 
+
+(76.3) 19.6 
+
+(67.3) 13.0 
+
+(55.4) 8.6 
+
+(47.5) 18.7 
+
+(65.7) Record low °C (°F) 1.6 
+
+(34.9) 0.6 
+
+(33.1) 7.2 
+
+(45) 11.1 
+
+(52) 16.4 
+
+(61.5) 20.6 
+
+(69.1) 21.7 
+
+(71.1) 21.7 
+
+(71.1) 11.8 
+
+(53.2) 4.6 
+
+(40.3) 0.5 
+
+(32.9) −0.9 
+
+(30.4) −0.9 
+
+(30.4) Average precipitation mm (inches) 18.7 
+
+(0.736) 15.7 
+
+(0.618) 8.3 
+
+(0.327) 7.4 
+
+(0.291) 19.8 
+
+(0.78) 99.0 
+
+(3.898) 300.8 
+
+(11.843) 233.1 
+
+(9.177) 188.7 
+
+(7.429) 53.8 
+
+(2.118) 5.1 
+
+(0.201) 9.1 
+
+(0.358) 959.6 
+
+(37.78) Average rainy days 1.9 1.5 1.0 0.8 1.2 4.6 13.7 10.7 6.8 2.1 0.4 0.7 45.5 Source: India Meteorological Department (record high and low up to 2010) [11] [12] Surrounding areas GT Amusement Park Town (GTAPT) Gangotri Township Shuklaganj New Kanpur City Kanpur Cantonment Kanpur City Centre Rawatpur , shivrajpur , bilhaur , kannuj Fazalganj Govind Nagar 
+
+Lucknow =100 km Civic administration Kanpur Municipal Corporation HQ Kanpur City officials Divisional Commissioner Mohammad Iftikharuddin [13] District Magistrate Shri Kaushal Raj Sharma [14] Mayor Captain Jagatveer Singh Dron [15] Chief Metropolitan Magistrate Peeyush Pandey [16] Metropolitan Magistrate Pradeep Kumar Jayant [17] Demography 
+
+See Ethnic communities in Kanpur , List of people from Kanpur 
+
+As per 2011 census Kanpur city has a population of 2,701,324.The total population of the district is 4,524,324 out of which males were 24,59,806 and females were 21,21,462. The literacy rate was 70.76 per cent. [18] 
+
+The majority of Kanpur's population comprises people from Central and Western Uttar Pradesh. However, Punjabis and Anglo-Indians have also settled in large numbers in areas of Swaroop Nagar, Tilak Nagar, Azad Nagar and Civil Lines. While the majority of the population is Hindu, there is a significant Muslim minority population. There are also small groups of Sikhs , Jains , Christians and Buddhists . As per 2011 census literacy rate of Kanpur is 82.42% ( http://www.census2011.co.in/census/city/131-kanpur.html) . 
+
+In Kanpur, the banking services were availed by only 61 percent of the households (Census 2001). About 8 percent of the households did not possess basic assets such as vehicles (bicycles, scooter, moped, car, jeep, etc.), televisions and radios. Katiyabaaz (Powerless), a 2014 Indian documentary film deals with the issue of power theft in the city of Kanpur. [19] 
+
+There are 35 Parsis in Kanpur with their Fire Temple at The Mall . [20] Metropolitan area 
+
+The metropolitan region defined under JNNURM by Kanpur Nagar Nigam, includes the Kanpur Nagar Nigam area, 8 kilometre around KNN boundary and newly included 47 villages of Unnao district on the north-eastern side, it extends to Murtaza Nagar, in the west its limit is up to Akbarpur, Kanpur Dehat Nagar Panchayat limit, in the eastern side the limit has been expanded on the road leading to Fatehpur and in extended up to. The metropolitan region area includes the area of Shuklaganj Municipal Committee (Nagar Palika), Unnao Municipal Committee (Nagar Palika), Akbarpur Village Authority (Nagar Panchayat) and Bithoor Village Authority (Nagar Panchayat) area. [21] In 1997-98, total metropolitan region area has increased to 89131.15 hectare out of which 4,743.9 hectare (5.31%) was non-defined (prohibited area) and rest 29,683 hectare and 54,704 hectare (61.39%) was urban and rural area respectively. Transport 
+
+Airways Air India (Regional) landing at Kanpur Airport 
+
+Kanpur Airport has scheduled commercial flights to Delhi. The nearest International Airport is the Chaudhary Charan Singh International Airport at Lucknow , which is around 77.1 km from Kanpur. 
+
+Roadways Upstream view of Ganga from Kanpur railway bridge Downstream view of Ganga from Kanpur railway bridge 
+
+The city has had chronic problems with maintaining local roads. [22] There are several important National Highways that pass through Kanpur. NH No Route Total Length NH 2 Delhi » Mathura » Agra » Kanpur » Allahabad » Varanasi » Mohania » Barhi » Palsit » Dankuni (near Kolkata ) 2542 NH 25 Lucknow » Kanpur » Jhansi 352 NH 86 Kanpur » Hamirpur » Mahoba » Chhatarpur » Sagar » Bhopal » Indore 674 NH 91 Ghaziabad » Aligarh » Etah » Kannauj » Kanpur 405 NH 157 (Proposed) Kanpur » Raebareli » Sultanpur » Shahganj » Azamgarh » Gaura Barhaj » Siwan » Muzaffarpur 581 
+
+The Inter State Bus Station (ISBT) of Kanpur officially named as the "Shaheed Major Salman Khan Bus Station". It is locally known as the "Jhakarkati Bus Station" enquiry number: 0512 2328381. It provides buses to important cities of India. The other bus stations are: [23] 
+
+Ring road 
+
+The National Highways Authority of India (NHAI) is all set to develop a four-lane outer ring road along the periphery of Kanpur with an aim to prevent traffic congestion in the industrial city caused by long-distance heavy vehicles. The new road, which will help the heavy vehicles to bypass the city, will be developed on a "Built, Operate and Transfer" (BOT) basis under the phase-VII of National Highways Development Programme (NHDP). [24] 
+
+Railways 
+
+Kanpur Central is the major rail head. Beside, Kanpur Anwarganj , Panki , Govindpuri , Rawatpur and Kalyanpur are major railway halt stations. Kanpur Metro is planned MRTS for the city. Kanpur Central (Platform view) Sister Cities Chiniot , Pakistan See also Kanpur Dehat (Lok Sabha constituency) Ethnic communities in Kanpur Kanpur Nagar (Lok Sabha constituency) List of cities in Uttar Pradesh List of engineering colleges in Kanpur Renamed places in Kanpur List of twin towns and sister cities in India Second Battle of Cawnpore Notes ^ "Kanpur India - Kanpur Uttar Pradesh, Kanpur City, Kanpur Guide, Kanpur Location" . Iloveindia.com . Retrieved 2012-12-19 . ^ "Nick Name of Indian Places" . Facts-about-india.com . Retrieved 2012-12-19 . ^ "Uttar Pradesh (India): Districts, Cities, Towns and Outgrowth Wards - Population Statistics in Maps and Charts" . City population.de. ^ "Uttar Pradesh (India): State, Major Agglomerations Cities - Population Statistics in Maps and Charts" . City population.de. ^ Suvorova, Anna Aronovna (2004). Muslim saints of South Asia: the eleventh to fifteenth centuries- Volume 14 of RoutledgeCurzon Sūfī series . Routledge. p. 171. ISBN 0-415-31764-9 . ^ "Kanpur History - History of Kanpur City- History of Kanpur India" . Journeymart.com . Retrieved 2015-07-29 . ^ "Man" (PDF) . Dspace.wbpublisher.gov.in. p. 479 . Retrieved 2015-07-29 . ^ Wright, Caleb (1863) [1863]. Historic Incidents and Life in India . J. A. Brainerd. p. 239. ISBN 978-1-135-72312-5 . ^ Sen, Surendra Nath (1995) [1957]. Eighteen Fifty-seven . Publications Division, Ministry of Information Broadcasting, Government of India. p. 145. ISBN 81-230-0093-6 . ^ Dalrymple, W. 2007. The Last Mughal. The Fall of a Dynasty : Delhi, 1857, Alfred Knopf, New York ^ "Kanpur Climatological Table Period: 1971–1990" . India Meteorological Department . Retrieved April 11, 2015 . ^ "Ever recorded Maximum and minimum temperatures up to 2010" . India Meteorological Department. Archived from the original on 21 May 2013 . Retrieved April 11, 2015 . CS1 maint: Unfit url ( link ) ^ "Mohammad Iftikharuddin, new Kanpur commission er" . The Times of India. 2014-04-24 . Retrieved 2010-05-05 . ^ "Dr Roshan Jacob is new Kanpur DM" . The Times of India. 2012-03-20 . Retrieved 2012-03-20 . [ dead link ] ^ "S.K. Nataraj elected Mayor of Kanpur" . The Hindu. 2010-04-24 . Retrieved 2010-05-05 . ^ "Court dismisses complaint against Mulayam" . The Times of India. 2012-03-29 . Retrieved 2010-05-05 . ^ "Metropolitan Magistrate" . Kanpur District Court. 2012-04-15 . Retrieved 2011-04-08 . ^ "Urban Agglomerations/Cities having population 1 lakh and above" (PDF) . Provisional Population Totals, Census of India 2011 . Retrieved 2012-07-07 . ^ " ' Katiyabaaz': A documentary maker challenges mainstream space" . The Times of India. 23 August 2014 . Retrieved 2014-08-30 . ^ "Appeal – Cawnpore Parsee Anjuman, Kanpur | Parsis, Iranis, Zarathushtis - ALL Under One Roof" . Zoroastrians.net . Retrieved 2015-07-29 . ^ "Final Report : Kanpur City" (PDF) . Jnnurm.nic.in . Retrieved 2015-07-29 . ^ Potholed roads, eight to ten hours long power cut, overflowing drains and contaminated drinking water tell the tale of the Industrial town, which is fast turning into a big slum. Siddiqui, Faiz Rahman (29 April 2014). " ' Outsider' Joshi takes on 'local' Jaiswal" . The Times of India . Archived from the original on 21 July 2014. ^ "UPSRTC" . UPSRTC . Retrieved 2012-12-19 . ^ "Kanpur to get outer ring road to bypass traffic blues" . Indianepress.com . Retrieved 2011-01-20 . References Singh, Harihar (1972). Kanpur: a study in urban geography . Indrasini Devi. Free Trade Unions, International Confederation for (1989). "7. Kanpur - The Experience in Textile Industry". Employment and structural change in Indian industries: a trade union viewpoint, Vol. 1 . International Labour Organization. ISBN 92-2-106709-2 . Singh, Surendra Nath (1990). Planning development of an industrial town: a study of Kanpur . Mittal Publications. ISBN 81-7099-241-9 . Silas, Sandeep (2005). "44. Manchester of the East: Kanpur". Discover India by Rail . Sterling Publishers. ISBN 81-207-2939-0 . External links Wikimedia Commons has media related to Kanpur . Wikisource has the text of the 1911 Encyclopædia Britannica article Cawnpore . Kanpur city portal Kanpur Dehat portal kanpur Smart city Explore Kanpur City Kanpur travel guide from Wikivoyage Links to related articles v t e Kanpur topics History History of Kanpur Siege of Cawnpore Second Battle of Cawnpore Rebellion of 1857 War of Indian Independence of 1857 Development of Industries Cultural History Kanpur Bolshevik Conspiracy Case Kanpur Conspiracy Case Places of worship 
+
+and tourist spots Anandeshwar Temple J. K. Temple Sai Darbar Panki Hanuman Mandir Jain Glass Temple Kherepati Temple Bhitargaon Temple Bara-Devi Mandir Tapeshwari Mandir Kanpur Memorial Church Allen Forest Zoo Moti Jheel Bithoor Jajmau Nawabganj Bird Sanctuary Kanpur Sangrahalaya Ganges Barrage Rave 3 Z Square Rave 4 Ghats Brahmavart Ghat Patthar Ghat Massacre Ghat Sarsaiya Ghat Government Agency Kanpur Development Authority Kanpur City Police Public parks Phool Bagh Nana Rao Park Companies Artificial Limbs Manufacturing Corporation of India British India Corporation Rupani Footwear Dainik Jagran Inext Lohia Machinery Limited Panki Thermal Power Station Education Universities Chhatrapati Shahu Ji Maharaj University (Kanpur University) Chandra Shekhar Azad University of Agriculture Technology Medical colleges Ganesh Shankar Vidyarthi Memorial Medical College Pt. Jawahar Lal Nehru State Homoeopathic Medical College Technological institutes Indian Institute of Technology Kanpur -( Antaragni Techkriti RNSoM, IIT Kanpur P K Kelkar library IIT Kanpur Airport ) Harcourt Butler Technological Institute -( Odyssey (HBTI, Kanpur) ) Govt. Central Textile Institute University Institute of Engineering and Technology, Kanpur University Government Leather Institute Kanpur Central Leather Research Institute Private technological 
+
+institutes Pranveer Singh Institute of Technology Maharana Pratap Engineering College Krishna Institute of Technology Kanpur Institute of Technology List of engineering colleges in Kanpur Localities North West Kanpur Civil Lines Tilak Nagar Arya Nagar Swaroop Nagar Chunni Ganj Azad Nagar Nawab Ganj Central Kanpur Kakadeo Geeta Nagar Pandu Nagar Sarvodya Nagar Sharda Nagar Shastri Nagar Rawatpur Keshavpuram Ravidas Puram Shivaji Nagar Downtown East Kanpur Jajmau Lal Bangla Chakeri Shyam Nagar Cantt West Kanpur Indira Nagar Kalyanpur Panki Mandhana Chobepur Bithoor Armapur Estate New Kanpur City South Kanpur Barra Govind Nagar Gujaini Kidwai Nagar Ratan Lal Nagar Naubasta Yashoda Nagar Jarauli Tatya Tope Nagar Hanspuram Left Bank Shuklaganj Gangotri Township Hotels Hotel Landmark Hotel Megadoot Hotel Gaurav Hotel Bliss Kanha Continental Kanha International Economy and transport UP Stock Exchange Kanpur Electricity Supply Company Ltd.(KESCo) Auto rickshaw Kanpur Metropolitan Bus Service Captain Lakshmi Sehgal International Airport Kanpur Airport IIT Kanpur Airport Kanpur Civil Airport Chandari Junction railway station Govindpuri railway station Kanpur Anwarganj railway station Kanpur Central railway station Kalianpur Kanpur Metro Trams Lucknow-Kanpur Suburban Railway Kanpur Lucknow Roadways Service Kanpur over-bridge Sports Green Park Stadium Kamla Club Ground Lok Sabha Constituencies Kanpur Akbarpur Assembly Constituencies Govind Nagar Sishamau Arya Nagar Kidwai Nagar Kanpur Cantonment Bithoor Kalyanpur Maharajpur Other topics Eminent people associated with Kanpur List of cities in India Category:People from Kanpur Renamed places in Kanpur Lajpat Bhawan image gallery v t e Million-plus agglomerations in India Mumbai Delhi Kolkata Chennai Bangalore Hyderabad Ahmedabad Pune Surat Jaipur Kanpur Lucknow Nagpur Ghaziabad Indore Coimbatore Kochi Patna Kozhikode Bhopal Thrissur Vadodara Agra Visakhapatnam Malappuram Thiruvananthapuram Kannur Ludhiana Nashik Vijayawada Madurai Varanasi Meerut Faridabad Rajkot Jamshedpur Jabalpur Srinagar Asansol Vasai-Virar Allahabad Dhanbad Aurangabad Amritsar Jodhpur Raipur Ranchi Gwalior Kollam Bhilai Chandigarh Tiruchirappalli Kota v t e Cities and towns in Kanpur district Census towns in Kanpur Armapur Estate Bilhaur Bithoor Chakeri Choubepur Kalan Ghatampur Kanpur Northern Railway Colony Shivrajpur Other towns Bhitargaon Gajner Kakwan Karbigwan Makanpur Other districts Agra Aligarh Allahabad Ambedkar Nagar Amethi Amroha Auraiya Azamgarh Badaun Bagpat Bahraich Ballia Balrampur Banda Barabanki Bareilly Basti Bijnor Bulandshahr Chandauli Chitrakoot Deoria Etah Etawah Faizabad Farrukhabad Fatehpur Firozabad Gautam Buddha Nagar Ghaziabad Ghazipur Gonda Gorakhpur Hamirpur Hapur Hardoi Hathras Jalaun Jaunpur Jhansi Kannauj Kanpur Dehat Kasganj Kaushambi Kushinagar Lakhimpur Kheri Lalitpur Lucknow Maharajganj Mahoba Mainpuri Mathura Mau Meerut Mirzapur Moradabad Muzaffarnagar Pilibhit Pratapgarh Raebareli Rampur Saharanpur Sambhal Sant Kabir Nagar Sant Ravidas Nagar Shahjahanpur Shamli Shravasti Siddharthnagar Sitapur Sonbhadra Sultanpur Unnao Varanasi v t e Kanpur division topics General Doab Dainik Jagran National Chambal Sanctuary Lakh Bahosi Sanctuary Mythology, history Panchala Panchala Kingdom Siege of Cawnpore Second Battle of Cawnpore Districts Auraiya Etawah Farrukhabad Kannauj Kanpur Kanpur Dehat Tehsils Saifai Rivers, dams, lakes Chambal Ganges Kali Ramganga Sindh Yamuna Ganges Barrage Moti Jheel Languages, people Awadhi Braj Bhasha Hindustani Kannauji Khariboli Standard Hindi Urdu Transport NH 2 Grand Trunk Road NH 26 NH 86 NH 96 SMSKBT Kanpur over-bridge Kanpur Airport IIT Kanpur Airport Kanpur Civil Airport Kanpur Central railway station Kanpur Anwarganj railway station Govind Nagar Panki Chandari Junction railway station Chakeri Shuklaganj Rawatpur Kalianpur Mandhana Bithoor Chobepur Maharajpur Saifai Airport Sarsaul Bhaupur Gangaghat Magarwara Howrah–Delhi main line Lucknow–Kanpur Suburban Railway Kanpur Monorail Kanpur Metro Kanpur Metropolitan Bus Service Industries Panki Thermal Power Station Lohia Machinery Artificial Limbs Manufacturing Corporation of India British India Corporation Rupani Footwear Institutes of 
+
+higher learning Indian Institute of Technology Kanpur Chhatrapati Shahu Ji Maharaj University Chandra Shekhar Azad University of Agriculture and Technology Harcourt Butler Technological Institute Uttar Pradesh Textile Technology Institute University Institute of Engineering and Technology, Kanpur List of engineering colleges in Kanpur Ganesh Shankar Vidyarthi Memorial Medical College U.P. Rural Institute of Medical Sciences and Research Uttar Pradesh Medical Sciences University Lok Sabha constituencies 
+
+in Megapolitan Region Kanpur Akbarpur Ghatampur Bilhaur Unnao Auraiya Fatehpur Sikandra See also Cities and towns in Auraiya district Cities and towns in Etawah district Cities and towns in Farrukhabad district Cities and towns in Kannauj district Cities and towns in Kanpur district Cities and towns in Ramabai Nagar district Villages in Auraiya district Villages in Etawah district Villages in Farrukhabad district Villages in Kannauj district Villages in Kanpur district Villages in Ramabai Nagar district People from Etawah People from Farrukhabad People from Kanpur People from Ramabai Nagar district Kanpur topics Other Divisions Agra Aligarh Allahabad Azamgarh Bareilly Basti Chitrakoot Devipatan Faizabad Gorakhpur Jhansi Lucknow Meerut Mirzapur Moradabad Saharanpur Varanasi v t e Hindustani -speaking areas of India See also: Hindi Belt Bihar Araria Arwal Aurangabad Banka Begusarai Bhagalpur Bhojpur Buxar Darbhanga East Champaran Gaya Gopalganj Jamui Jehanabad Kaimur Katihar Khagaria Kishanganj Lakhisarai Madhepura Madhubani Munger Muzaffarpur Nalanda Nawada Patna Purnia Rohtas Saharsa Samastipur Saran Sheikhpura Sheohar Sitamarhi Siwan Supaul Vaishali West Champaran Chhattisgarh Bastar Bilaspur Dantewada Dhamtari Durg Janjgir-Champa Jashpur Kabirdham Kanker Korba Koriya Mahasamund Narayanpur Raigarh Raipur Rajnandgaon Surguja Delhi Central Delhi East Delhi New Delhi North Delhi North East Delhi North West Delhi South Delhi South West Delhi West Delhi Haryana Ambala Bhiwani Faridabad Fatehabad Gurgaon Hisar Jhajjar Jind Kaithal Karnal Kurukshetra Mahendragarh Mewat Panchkula Palwal Panipat Rewari Rohtak Sirsa Sonipat Yamuna Nagar Himachal Pradesh Bilaspur Chamba Hamirpur Kangra Kinnaur Kullu Lahul and Spiti Mandi Shimla Sirmaur Solan Una Jharkhand Bokaro Chatra Deoghar Dhanbad Dumka East Singhbhum Garhwa Giridih Godda Gumla Hazaribagh Jamtara Khunti Koderma Latehar Lohardaga Pakur Palamu Ramgarh Ranchi Saraikela Kharsawan Simdega Singhbhum Sahebganj Madhya Pradesh Anuppur Ashoknagar Balaghat Barwani Betul Bhind Bhopal Burhanpur Chhatarpur Chhindwara Damoh Datia Dewas Dhar Dindori Guna Gwalior Harda Hoshangabad Indore Jabalpur Jhabua Katni Khandwa Khargone Mandla Mandsaur Morena Narsinghpur Neemuch Panna Raisen Rajgarh Ratlam Rewa Sagar Satna Sehore Seoni Shahdol Shajapur Sheopur Shivpuri Sidhi Tikamgarh Ujjain Umaria Vidisha Rajasthan Ajmer Alwar Banswara Baran Barmer Bhilwara Bikaner Bharatpur Bundi Chittorgarh Churu Dausa Dholpur Dungarpur Ganganagar Hanumangarh Jaipur Jaisalmer Jalore Jhalawar Jhunjhunu Jodhpur Karauli Kota Nagaur Pali Pratapgarh Rajsamand Sawai Madhopur Sikar Sirohi Tonk Udaipur Uttar Pradesh Agra Aligarh Allahabad Ambedkar Nagar Amethi Amroha Auraiya Azamgarh Badaun Bagpat Bahraich Balarampur Ballia Banda Barabanki Bareilly Basti Bijnor Bulandshahr Chandauli Chitrakoot Devaria Etah Etawah Faizabad Farrukhabad Fatehpur Firozabad Ghaziabad Gonda Gorakhpur Gautam Buddha Nagar Ghazipur Hamirpur Hardoi Hathras Jalaun Jaunpur Jhansi Kannauj Kanpur Kanpur Dehat Kaushambi Kushinagar Khair City Lakhimpur Kheri Lalitpur Lucknow Maharajganj Mahoba Mainpuri Mathura Mau Meerut Mirzapur Moradabad Muzaffarnagar Pilibhit Pratapgarh Raebareli Rampur Saharanpur Sant Kabir Nagar Sant Ravidas Nagar Shahjahanpur Shravasti Siddharthnagar Sitapur Sonbhadra Sultanpur Unnao Varanasi Uttarakhand Almora Bageshwar Chamoli Champawat Dehradun Haridwar Nainital New Tehri Pauri Pithoragarh Rudraprayag Rudrapur Uttarkashi v t e State of Uttar Pradesh Capital : Lucknow Topics History Geography Government Economy Culture Achitecture Tourism Demographics Education Regions Western Uttar Pradesh Eastern Uttar Pradesh Central Uttar Pradesh Divisions Agra Aligarh Allahabad Azamgarh Bareilly Basti Chitrakoot Devipatan Faizabad Gorakhpur Jhansi Kanpur Lucknow Meerut Mirzapur Moradabad Saharanpur Varanasi Districts Agra Aligarh Allahabad Ambedkar Nagar Amethi Amroha Auraiya Azamgarh Badaun Bagpat Bahraich Ballia Balrampur Banda Barabanki Bareilly Basti Bijnor Bulandshahr Chandauli Chitrakoot Devaria Etah Etawah Faizabad Farrukhabad Fatehpur Firozabad Gautam Buddha Nagar Ghaziabad Ghazipur Gonda Gorakhpur Hamirpur Hardoi Hathras Jalaun Jaunpur Jhansi Kannauj Kanpur Dehat (Akbarpur) Kanpur Nagar Kanshiram Nagar Kaushambi Kushinagar (Padrauna) Lakhimpur Kheri Lalitpur Lucknow Maharajganj Mahoba Mainpuri Mathura Mau Meerut Mirzapur Moradabad Muzaffarnagar Pilibhit Pratapgarh Raebareli Rampur Saharanpur Sambhal Sant Kabir Nagar Sant Ravidas Nagar (Bhadohi) Shahjahanpur Shamli Shravasti Siddharthnagar Sitapur Sonbhadra Sultanpur Unnao Varanasi Major cities Kanpur Lucknow Ghaziabad Agra Varanasi Faizabad Meerut Allahabad Bareilly Aligarh Moradabad Saharanpur Gorakhpur Noida Jhansi Mathura Villages Adhkatiya Kala Khas Aharak Ahiran, Pindra Ahirani, Pindra Airla Aitha Ajaipur Akhari Akorha Amaut Amawar Amilo, Varanasi Araji Line Babhanpura Baghirua Baliakheri Bhelupura Chadpur Dabethuwa Deorai Eshipur Harora Aht. Harora Must. Janakpatti Jayapur Kathiraon Khanzadipur Kudi Lamhi Mehdiganj Phoolpur Raghunathpur Rajpur Saifai Tisaura Vyaspur Zafarabad Portal : Uttar Pradesh Authority control GND : 4029504-7 (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Kanpur oldid=742006602 " Categories : Kanpur Hidden categories: CS1 maint: Unfit url All articles with dead external links Articles with dead external links from March 2012 Wikipedia semi-protected pages Articles needing additional references from June 2015 All articles needing additional references Articles that may contain original research from May 2016 All articles that may contain original research Use Indian English from June 2016 All Wikipedia articles written in Indian English Use dmy dates from July 2014 Coordinates on Wikidata Settlement articles requiring maintenance Articles with hAudio microformats Commons category with page title same as on Wikidata Wikipedia articles with GND identifiers Articles containing potentially dated statements from 2011 Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read View source View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Wikivoyage Languages Afrikaans العربية Azərbaycanca বাংলা Bân-lâm-gú भोजपुरी Български Brezhoneg Буряад Català Cebuano Čeština Dansk Deutsch Ελληνικά Español Esperanto Euskara فارسی Fiji Hindi Français Galego ગુજરાતી 한국어 हिन्दी বিষ্ণুপ্রিয়া মণিপুরী Bahasa Indonesia Íslenska Italiano עברית Kalaallisut ಕನ್ನಡ Kapampangan ქართული Kernowek Кыргызча Latviešu Lietuvių Magyar Malagasy മലയാളം Māori मराठी მარგალური Bahasa Melayu Монгол Nederlands नेपाली नेपाल भाषा 日本語 Нохчийн Norsk bokmål Олык марий ଓଡ଼ିଆ ਪੰਜਾਬੀ پنجابی پښتو Polski Português Română Русский संस्कृतम् Scots Simple English Српски / srpski Suomi Svenska Tagalog தமிழ் Türkçe Twi Українська اردو Tiếng Việt Volapük Winaray 中文 Edit links This page was last modified on 1 October 2016, at 02:33. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.740", "walltime": "0.907", "ppvisitednodes": { "value": 7211, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 388916, "limit": 2097152 }, "templateargumentsize": { "value": 113842, "limit": 2097152 }, "expansiondepth": { "value": 23, "limit": 40 }, "expensivefunctioncount": { "value": 12, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 673.211 1 -total", " 32.31% 217.498 1 Template:Infobox_settlement", " 26.58% 178.938 2 Template:Infobox", " 19.84% 133.557 1 Template:Reflist", " 11.62% 78.256 19 Template:Cite_web", " 9.45% 63.586 1 Template:Weather_box", " 9.26% 62.368 1 Template:Navboxes", " 8.40% 56.580 3 Template:Ambox", " 7.43% 50.043 1 Template:Pp-protected", " 6.47% 43.566 1 Template:Multiple_issues" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.262", "limit": "10.000" }, "limitreport-memusage": { "value": 11165565, "limit": 52428800 } }, "cachereport": { "origin": "mw1187", "timestamp": "20161014024634", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1219"});});

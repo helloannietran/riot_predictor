@@ -1,0 +1,157 @@
+Jos - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Jos","wgTitle":"Jos","wgCurRevisionId":744023771,"wgRevisionId":744023771,"wgArticleId":1188322,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles needing page number citations from May 2014","Coordinates on Wikidata","Settlement articles requiring maintenance","All articles with unsourced statements","Articles with unsourced statements from November 2014","Vague or ambiguous time from November 2014","Articles with unsourced statements from June 2010","Articles with unsourced statements from June 2011","Articles with unsourced statements from June 2016","Commons category with local link same as on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Populated places in Plateau State","State capitals in Nigeria","Jos","Populated places established in 1915","Cities in Nigeria"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Jos","wgRelevantArticleId":1188322,"wgRequestId":"WApNJQpAAD8AAMus4TMAAABN","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":9.9333333333333,"lon":8.8833333333333},"wgWikibaseItemId":"Q321079","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Jos From Wikipedia, the free encyclopedia Jump to: navigation , search For other uses, see Jos (disambiguation) . Jos 
+
+J-Town The city of Jos Jos Location in Nigeria Coordinates: 9°56′N 8°53′E ﻿ / ﻿ 9.933°N 8.883°E ﻿ / 9.933; 8.883 Coordinates : 9°56′N 8°53′E ﻿ / ﻿ 9.933°N 8.883°E ﻿ / 9.933; 8.883 Country Nigeria State Plateau State Government • Chief Da Jacob Gyang Buba Elevation 1,217 m (3,993 ft) Population (2006) • Total 873,943 • Rank 5th [1] Climate Aw 
+
+Jos is a city in the Middle Belt of Nigeria . The city has a population of about 900,000 residents based on the 2006 census. [1] Popularly called "J-town", it is the administrative capital of Plateau State . 
+
+The city is located on the Jos Plateau at an elevation of about 1,238 metres or 4,062 feet high above sea level. During British colonial rule , Jos was an important centre for tin mining . In recent years it has suffered violent religious clashes between its Muslim and Christian populations in 2001 , 2008 , 2010 , and 2011. One of the major schools in Jos is Maygo High School. 
+
+Contents 1 History 2 Administrative divisions 3 Geography and climate 4 Features 5 Notable Nigerians associated with Jos 6 See also 7 References 8 External links 
+
+History [ edit ] 
+
+The earliest known settlers of the land that would come to be known as Nigeria were the Nok people (circa 1000 BC), skilled artisans from around the Jos area who mysteriously vanished in the late first millennium. [ citation needed ] 
+
+According to the historian Sen Luka Gwom Zangabadt, [2] the area known as Jos today was inhabited by indigenous ethnic groups who were mostly farmers. According to Billy J. Dudley, [3] the British colonialists used direct rule for the indigenous ethnic groups on the Jos plateau since they were not under the Fulani emirates where indirect rule was used. According to the historian Samuel N Nwabara, [4] the Fulani empire controlled most of northern Nigeria, except the Plateau province and the Berom Mwagavhul , Ng as , Tiv , Jukun and Idoma ethnic groups. It was the discovery of tin by the British that led to the influx of other ethnic groups such as the Hausa , Igbo , Urhobo and Yoruba , thus making Jos a cosmopolitan city. 
+
+According to the white paper of the commission of inquiry into the 1994 crisis, Ames, a British colonial administrator, said that the original name for Jos was Gwosh which was a village situated at the current site of the city; according to Ames, the Hausa wrongly pronounced Gwosh as Jos and it stuck. [5] Another version was that "Jos" came from the word "Jasad" meaning body. To distinguish it from the hill tops, it was called "Jas," which was mis-pronounced by the British as "Jos." It grew rapidly after the British discovered vast tin deposits in the vicinity. Both tin and columbite were extensively mined in the area up until the 1960s. They were transported by railway to both Port Harcourt and Lagos on the coast, then exported from those ports. Jos is still often referred to as "Tin City". In 1967 it was made capital of Benue-Plateau State , becoming the capital of the new Plateau State in 1975. 
+
+Jos has become an important national administrative, commercial, and tourist centre. Tin mining has led to the influx of migrants, mostly Igbos , Yorubas and Europeans , who constitute more than half of the population of Jos. This "melting pot" of race, ethnicity and religion makes Jos one of the most cosmopolitan cities in Nigeria. For this reason, Plateau State is known in Nigeria as the "home of peace and tourism." Despite this, in 2001, the city witnessed violent riots between the divided Muslim and Christian populations, in which several thousand people died. [6] [7] In 2004, the former governor of Plateau State, Joshua Dariye , was suspended for six months for failing to control the violence. In November 2008, clashes between Christians and Muslims killed almost 400 and wounded many. In spite of the communal clashes, visitors are surprised at the amount of activities still going on in the city. There is still an influx of people into the city and the cost of accommodation and land is still going up daily. [ when? ] This shows that the city is still one of the most desirable cities in Nigeria, despite the communal clashes. [ citation needed ] 
+
+In January 2011 there were almost daily clashes between Christian and Muslim mobs in villages around Jos since a series of bombs had been detonated during Christmas Eve celebrations a month earlier, killing scores of people. [8] In May 2014, a twin bomb attack in Jos killed 118 people. 
+
+Between August 2013 and December 2014, a peace process was undertaken by communities living in Jos. [9] The Jos Forum Inter-Communal Dialogue 
+
+ultimately led to a "Declaration of Commitment to Peace" signed by the participating communities (Afizere, Anaguta, Berom, Fulani, Hausa, Igbo, South-South and Yoruba, as well as women who were represented as their own distinct community). 
+
+On 12 December 2014 at least 30 people were killed as twin bombs exploded in the central Nigerian city of Jos [10] Administrative divisions [ edit ] 
+
+The city is divided into 3 local government areas of Jos north, Jos south and Jos east.The city proper lies between Jos north and Jos south.Jos east houses the prestigious National Center For Remote Sensing. Jos north is the state capital and the area where most commercial activities of the state takes place although due to the recent communal clashes a lot of commercial activities are shifting to Jos south. The Governor's office is located in an area in Jos North called "Jise" in Berom language,"Gise" in Afizere(Jarawa) language or "Tundun-Wada" in Hausa language. Jos south is the seat of the Deputy Governor i.e. the old Government House in Rayfield and the industrial centre of Plateau State due to the presence of industries like the NASCO group, Standard Biscuits,Grand Cereals and Oil Mills, Zuma steel west Africa, aluminium roofing industries, Jos International Breweries among others. Jos south also houses prestigious institutions like the National Institute of Policy and Strategic Studies (NIPSS), the highest academic awarding institution in Nigeria, the National Veterinary Research Institute, the Police Staff College, the NTA television college and the Nigerian Film Corporation . Jos north is the location of the University of Jos and its teaching hospital.The city has formed an agglomeration with the town of Bukuru to form the Jos-Bukuru metropolis(JBM). Geography and climate [ edit ] Jos Climate chart ( explanation ) J F M A M J J A S O N D 0.4 27 13 2.8 29 15 30 30 18 93 30 18 160 28 18 199 27 17 304 24 17 290 24 17 198 26 17 38 28 17 0.3 28 15 0.5 27 13 Average max. and min. temperatures in °C Precipitation totals in mm Source: Jos, Nigeria: Climate, Global Warming, and Daylight Charts and Data [11] Imperial conversion J F M A M J J A S O N D 0 81 55 0.1 84 59 1.2 87 64 3.7 86 65 6.3 83 64 7.8 80 63 12 76 62 11 76 62 7.8 79 62 1.5 82 62 0 82 59 0 81 56 Average max. and min. temperatures in °F Precipitation totals in inches 
+
+Situated almost at the geographical centre of Nigeria and about 179 kilometres (111 miles) from Abuja , the nation's capital, Jos is linked by road, rail and air to the rest of the country. The city is served by Yakubu Gowon Airport , but its rail connections no longer operate as the only currently operational section of Nigeria's rail network is the western line from Lagos to Kano . 
+
+At an altitude of 1,217 m (3,993 ft) above sea level, Jos enjoys a more temperate climate than much of the rest of Nigeria. Average monthly temperatures range from 21–25 °C (70–77 °F), and from mid-November to late January, night-time temperatures drop as low as 11 °C (52 °F). Hail sometimes falls during the rainy season because of the cooler temperatures at high altitudes. [ citation needed ] These cooler temperatures have meant that, from colonial times until the present day, Jos is a favourite holiday location for both tourists and expatriates based in Nigeria. [ citation needed ] 
+
+Jos receives about 1,400 millimetres (55 inches) of rainfall annually, the precipitation arising from both convectional and orographic sources, owing to the location of the city on the Jos Plateau. [12] 
+
+According to the Köppen Climate Classification system, Jos has a Tropical savanna climate , abbreviated "Aw". [13] Climate data for Jos (1961–1990) Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Average high °C (°F) 27.3 
+
+(81.1) 28.7 
+
+(83.7) 30.4 
+
+(86.7) 30.2 
+
+(86.4) 28.2 
+
+(82.8) 26.6 
+
+(79.9) 24.4 
+
+(75.9) 24.3 
+
+(75.7) 26.1 
+
+(79) 27.8 
+
+(82) 28.0 
+
+(82.4) 27.2 
+
+(81) 27.4 
+
+(81.3) Daily mean °C (°F) 21.3 
+
+(70.3) 22.9 
+
+(73.2) 24.9 
+
+(76.8) 25.7 
+
+(78.3) 24.5 
+
+(76.1) 22.7 
+
+(72.9) 21.4 
+
+(70.5) 20.9 
+
+(69.6) 21.9 
+
+(71.4) 22.9 
+
+(73.2) 22.7 
+
+(72.9) 21.5 
+
+(70.7) 22.78 
+
+(72.99) Average low °C (°F) 12.7 
+
+(54.9) 15.1 
+
+(59.2) 17.7 
+
+(63.9) 18.3 
+
+(64.9) 18.0 
+
+(64.4) 17.2 
+
+(63) 16.7 
+
+(62.1) 16.5 
+
+(61.7) 16.7 
+
+(62.1) 16.6 
+
+(61.9) 14.9 
+
+(58.8) 13.1 
+
+(55.6) 16.1 
+
+(61) Average precipitation mm (inches) 0.4 
+
+(0.016) 2.8 
+
+(0.11) 29.8 
+
+(1.173) 92.9 
+
+(3.657) 159.8 
+
+(6.291) 198.5 
+
+(7.815) 303.8 
+
+(11.961) 290.1 
+
+(11.421) 197.6 
+
+(7.78) 38.3 
+
+(1.508) 0.3 
+
+(0.012) 0.5 
+
+(0.02) 1,314.8 
+
+(51.764) Average precipitation days (≥ 0.1 mm) 0.1 0.2 1.4 6.9 11.6 15.6 20.6 19.9 16.2 4.0 0.1 0.1 96.7 Average relative humidity (%) (at 15:00 LST ) 14.1 13.6 19.6 38.7 58.3 66.0 75.8 76.2 64.2 42.0 20.8 16.5 42.1 Mean monthly sunshine hours 282.1 254.8 238.7 204.0 204.6 198.0 158.1 139.5 177.0 238.7 285.0 288.3 2,668.8 Mean daily sunshine hours 9.1 9.1 7.7 6.8 6.6 6.6 5.1 4.5 5.9 7.7 9.5 9.3 7.32 Source #1: NOAA [14] Source #2: Climate-Data.org (altitude: 1185m, mean temperatures) [13] Features [ edit ] Market 
+
+Visitors to the city will notice the massive road projects embarked on by the state government. The city boundaries have extended into the town of Bukuru to form the Jos-Bukuru metropolis. The city is home to the University of Jos (founded in 1975), St Luke's Cathedral, an airport and a railway station. Jos is served by several teaching hospitals including ECWA Evangel Hospital and Jos University Teaching Hospital (JUTH), a federal government-funded referral hospital. [ citation needed ] The Nigerian College of Accountancy , with over 3,000 students in 2011, is based in the Dogon-Dutse area of Jos. [15] 
+
+The National Museum in Jos was founded in 1952 by Bernard Fagg , [16] and was recognized as one of the best in the country. It has unfortunately been left to fall to ruin as is the case with most of the cultural establishments in Nigeria. The Pottery Hall is a museum that has an exceptional collection of finely crafted pottery from all over Nigeria and boasts some fine specimens of Nok terracotta heads and artifacts dating from 500 BC to AD 200. It also incorporates the Museum of Traditional Nigerian Architecture with life-size replicas of a variety of buildings, from the walls of Kano and the Mosque at Zaria to a Tiv village. Articles of interest from colonial times relating to the railway and tin mining can also be found on display. A School for Museum Technicians is attached to the museum, established with the help of UNESCO . The Jos Museum is also located beside the zoo. 
+
+Jos has two golf courses, Rayfield and Plateau, plus a polo club, a stadium and other sports/entertainment offerings. Hillcrest School , an international missionary school, is also located in Jos. The school has been running for more than fifty years (since 1942) and contains a large international student population. 
+
+Covering roughly 3 square miles (7.8 km 2 ) of savannah bush, the Jos Wildlife Park is a popular local attraction and includes animals such as lions, pythons and pygmy hippopotami . 
+
+Other local enterprises include food processing, beer brewing, and the manufacture of cosmetics, soap, rope, jute bags, and furniture. Heavy industry produces cement and asbestos cement, crushed stone, rolled steel, and tire retreads. Jos also is a centre for the construction industry and has several printing and publishing firms. The Jos- Bukuru dam and reservoir on the Shen River provide water for the city's industries. 
+
+Jos Airport , situated at Heipang, has one of the most modern buildings in the country with a long enough runway for the jet airlines. The airport is served by a Arik Air which operates one flight daily between Lagos and Jos. 
+
+Jos is a great base for exploring the beauty of Plateau State. The Shere Hills, seen to the east of Jos, offer a prime view of the city below. Assop Falls is a small waterfall which makes a pleasant picnic spot on a drive from Jos to Abuja. Riyom Rock is a dramatic and photogenic pile of rocks balanced precariously on top of one another, with one resembling a clown's hat, observable from the main Jos-Akwanga road. [ citation needed ] Notable Nigerians associated with Jos [ edit ] 
+
+Jos is not only one of the most popular cities in Nigeria but also served as the spring board for the following Nigerians. Segun Odegbami ; Nigerian footballer had his childhood years in Jos, Desmond Elliot ; Nigerian actor, director and Member representing Surulere Constituency I in the Lagos State House of Assembly, had his childhood years in Jos, Ahmed Musa (footballer) ; Nigerian footballer was born in Jos Bez (musician) ; Nigerian alternative soul singer was born and raised in Jos, John Obi Mikel ; international footballer had his childhood years in Jos, Ogenyi Onazi ; international footballer was born in Jos, Sunday Mba ; international footballer had his childhood years in Jos, Joseph Akpala ; international footballer was born in Jos, James Obiora ; international footballer was born in Jos, Benedict Akwuegbu ; international footballer had his childhood years in Jos, Chibuzor Okonkwo ; international footballer was born in Jos, Ice Prince ; Nigerian musical artist known for his hit single " Oleku " grew up in Jos, Dayo Okeniyi , actor most known for playing Thresh in the Hunger Games was born in Jos. Sani Mu'azu , actor most known for playing Baban Nasiru in "Riddles and Hopes (Soap Opera)| and Solomon in "Shuga Naija" was born in and bred in Jos. Sani Mu'azu was the national president of Motion Picture Practitioners Association of Nigeria. He is currently one of the leading media consultants in Nigeria. Tony Banjo ace cinematographer was also raised in Jos M.I_(Nigerian_Rapper) rapper born and raised in Jos Dr. Raphael Anumba ; 1st Director of Computer Center, University of Abuja. Was born and raised in Jos, Saint Obi, veteran Nollywood actor kicked off his career in Jos. Innocent 'Tuface' Idibia Nigerian multi-award winning musician was born in Jos Professor Joseph O. Irukwu, Senior Advocate of Nigeria, former Ohaneze Ndi Ibo president and foremost insurance lawyer in West-Africa attended primary school in Jos. [ citation needed ] Doug Kazé ; author of Eyelash Magic and singer-songwriter was born and raised in Jos See also [ edit ] Nigeria portal Railway stations in Nigeria 2001 Jos riots 2008 Jos riots 2010 Jos riots 2014 Jos bombings References [ edit ] ^ a b "FEDERAL REPUBLIC OF NIGERIA : 2006 Population Census" (PDF) . Web.archive.org. Archived from the original (PDF) on March 5, 2012 . Retrieved 22 November 2014 . ^ History of Jos and political development of Nigeria; Sen Luka Gwom Zangabadt ^ Billy J. Dudley. Parties and politics in Northern Nigeria ^ Samuel N Nwabara; The Fulani conquest and the rule of the Hausa kingdom of Northern Nigeria (1804-1900) [ page needed ] ^ "Petition Online - Petition Online has been retired" . Retrieved 22 November 2014 . ^ Krause, Jana (2011). "A Deadly Cycle of Ethno-religious violence" (PDF) . Working Paper . Geneva Declaration: 13. ISBN 978-2-9700771-0-7 . Retrieved 18 October 2015 . ^ Higazi, Adam (January 2011). "The Jos Crisis: A Recurrent Nigerian Tragedy" (PDF) . Working Paper . Friedrich-Ebert-Stiftung (2): 17–18 . Retrieved 19 October 2015 . ^ "Buildings burn, death toll mounts in central Nigeria | Reuters" . Af.reuters.com. 2011-01-30 . Retrieved 2014-02-28 . ^ "Plateau communities make commitment to peace" . dailytrust.com.ng . Retrieved 2015-11-05 . ^ http://www.theguardian.com/world/2014/dec/12/30-killed-twin-bombs-nigeria-jos-elections ^ "Jos, Nigeria: Climate, Global Warming, and Daylight Charts and Data" . Jos, Nigeria: Climate-charts.com . Retrieved 2013-12-10 . ^ "Publications" (PDF) . Iahs.info . Retrieved 2013-12-10 . ^ a b "Climate: Jos - Climate graph, Temperature graph, Climate table" . Climate-Data.org . Retrieved 2013-11-26 . ^ "Jos Climate Normals 1961–1990" . National Oceanic and Atmospheric Administration . Retrieved 22 July 2016 . ^ "History The College" . ANAN . Retrieved 2011-06-11 . ^ Man, Vol. 52, Jul., 1952 (Jul., 1952), pp. 107-108 via Jstor External links [ edit ] Wikimedia Commons has media related to Jos . Hiking around the hills of Jos v t e Largest cities in Nigeria Aba Abakaliki Abeokuta Abuja Ado Ekiti Akure Asaba Awka Bauchi Benin City Birnin Kebbi Calabar Dutse Eket Enugu Gombe Gusau Ibadan Ife Ikeja Ikot-Abasi Ikot Ekpene Ikoyi Ilorin Iseyin Iwo Jalingo Jimeta Jos Kaduna Kano Katsina Lafia Lagos Lokoja Maiduguri Makurdi Minna Nnewi Nsukka Ogbomosho Okene Onitsha Ondo City Oron Osogbo Owerri Owo Oyo Port Harcourt Potiskum Sokoto Suleja Umuahia Uyo Warri Wukari Yenagoa Yola Zaria Authority control WorldCat Identities VIAF : 140719562 GND : 4096634-3 (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Jos oldid=744023771 " Categories : Populated places in Plateau State State capitals in Nigeria Jos Populated places established in 1915 Cities in Nigeria Hidden categories: Wikipedia articles needing page number citations from May 2014 Coordinates on Wikidata Settlement articles requiring maintenance All articles with unsourced statements Articles with unsourced statements from November 2014 Vague or ambiguous time from November 2014 Articles with unsourced statements from June 2010 Articles with unsourced statements from June 2011 Articles with unsourced statements from June 2016 Commons category with local link same as on Wikidata Wikipedia articles with VIAF identifiers Wikipedia articles with GND identifiers Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Wikivoyage Languages العربية Bân-lâm-gú Català Čeština Dansk Deutsch Español Esperanto فارسی Français Gaeilge 한국어 Hrvatski Igbo Bahasa Indonesia Italiano Lietuvių Magyar Bahasa Melayu Nederlands 日本語 Norsk bokmål Norsk nynorsk Polski Português Română Русский Српски / srpski Suomi Svenska Tagalog Türkçe Українська اردو Yorùbá 中文 Edit links This page was last modified on 12 October 2016, at 17:23. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.560", "walltime": "0.639", "ppvisitednodes": { "value": 7409, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 179427, "limit": 2097152 }, "templateargumentsize": { "value": 8899, "limit": 2097152 }, "expansiondepth": { "value": 19, "limit": 40 }, "expensivefunctioncount": { "value": 8, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 536.646 1 -total", " 26.18% 140.482 1 Template:Infobox_settlement", " 21.36% 114.639 9 Template:Fix", " 20.62% 110.666 2 Template:Infobox", " 18.13% 97.318 1 Template:Reflist", " 13.09% 70.268 9 Template:Delink", " 10.73% 57.558 1 Template:Weather_box", " 10.13% 54.349 5 Template:Citation_needed", " 9.78% 52.465 9 Template:Cite_web", " 8.69% 46.654 2 Template:Cn" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.238", "limit": "10.000" }, "limitreport-memusage": { "value": 7122825, "limit": 52428800 } }, "cachereport": { "origin": "mw1178", "timestamp": "20161012193348", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":64,"wgHostname":"mw1268"});});

@@ -1,0 +1,185 @@
+Hyderabad, Sindh - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hyderabad,_Sindh","wgTitle":"Hyderabad, Sindh","wgCurRevisionId":745342921,"wgRevisionId":745342921,"wgArticleId":288090,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from November 2013","CS1 errors: external links","Articles with Wayback Machine links","Articles needing additional references from July 2015","All articles needing additional references","EngvarB from February 2014","Use dmy dates from February 2014","Coordinates on Wikidata","Articles containing Sindhi-language text","Articles containing Urdu-language text","Wikipedia articles with GND identifiers","Hyderabad, Sindh","Populated places in Sindh","Metropolitan areas of Pakistan","History of Sindh","Chach Nama","Populated places established in 1768"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hyderabad,_Sindh","wgRelevantArticleId":288090,"wgRequestId":"WAm0pwpAADoAAEwcfa0AAACS","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":25.379166666667,"lon":68.368333333333},"wgWikibaseItemId":"Q1640079","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Hyderabad, Sindh From Wikipedia, the free encyclopedia Jump to: navigation , search This article is about Hyderabad city in Sindh , Pakistan . For other uses, see Hyderabad (disambiguation) . This article needs additional citations for verification . Please help improve this article by adding citations to reliable sources . Unsourced material may be challenged and removed. (July 2015) ( Learn how and when to remove this template message ) Hyderabad 
+
+حیدر آباد City District / Divisional Capital Hyderabad Location in Pakistan Coordinates: 25°22′45″N 68°22′06″E ﻿ / ﻿ 25.37917°N 68.36833°E ﻿ / 25.37917; 68.36833 Coordinates : 25°22′45″N 68°22′06″E ﻿ / ﻿ 25.37917°N 68.36833°E ﻿ / 25.37917; 68.36833 Country Pakistan District Hyderabad District Autonomous towns 5 Union councils 20 Government • Type Municipal Corporation • Mayor Tayyab Hussain • Deputy Mayor Syed Suhail Mehmood Mashadi Area • Total 3,198 km 2 (1,235 sq mi) Elevation 13 m (43 ft) Population (2014) [1] • Total 3,429,471 Demonym(s) Hyderabadi Time zone PST ( UTC+5 ) • Summer ( DST ) PDT ( UTC+6 ) Area code(s) 022 Website N/A 
+
+Hyderabad ( Sindhi : حيدرآباد ‎, Urdu : حيدرآباد ‎) is a city located in the Sindh province of Pakistan. Hyderabad is the 4th largest city in Pakistan and the 2nd largest in the province of Sindh . [2] It is located in south-east of the country. 
+
+Contents 1 History 1.1 Capital of Sindh 2 Demographics 3 Geography and climate 4 Economy 4.1 Administrative divisions 5 Points of interest 6 Media 6.1 Literature 6.2 Radio and television 7 Notable people 8 See also 9 Notes 10 References 11 External links 
+
+History [ edit ] Main articles: History of Hyderabad, Pakistan and Old City (Hyderabad, Pakistan) The Pacco Qillo built by Ghulam Shah still remains today but in a desolate state and a dire need of repair. 
+
+In AD 711, Arab general Muhammad bin Qasim conquered Sindh, bringing South Asian societies into contact with Islam . Raja Dahir was a Hindu king who ruled over a Buddhist majority and that Chach of Alor and his kin were regarded as usurpers of the earlier Buddhist Rai Dynasty . [3] [4] This view is questioned by those who note the diffuse and blurred nature of Hindu and Buddhist practices in the region, [5] especially that of royalty to be patrons of both and those who believe that Chach himself may have been a Buddhist. [6] [7] The forces of Muhammad bin Qasim defeated Raja Dahir . A rare photograph of Hyderabad from the late 1800s. The triangular structures on the rooftops are wind catchers, funnelling the cool breeze into the homes below, called a moug . 
+
+Hyderabad is a city built on three hillocks cascading over each other. Mian Ghulam Shah Kalhoro of the Kalhora Dynasty founded the city in 1768 over the ruins of Neroon Kot (Nerun or Nerun Kot meaning the place of Neroon ), a small fishing village on the banks of Indus River named after its ruler Neroon. A formal concept for the city was laid out by his son, Sarfraz Khan in 1782. When the foundations were laid, the city obtained the nickname Heart of the Mehran as the ruler Mian Ghulam Shah himself was said to have fallen in love with the city. In 1768 he ordered a fort to be built on one of the three hills of Hyderabad to house and defend his people. The fort was built using fire-baked bricks, on account of which it was named Pacco Qillo (Sindhi: پڪو قلعو) meaning the strong fort . [8] 
+
+The City has a history of Sufism. In the 18th Century Syeds from Multan migrated and settled at Tando Jahania making it a sacred place for Muslims. These Syeds came here from Uch Sharif ( Bahawalpur District ) via Jahanian ( Khanewal District 42 km from Multan ). These were the descendants of Jahaniyan Jahangasht a noted Sufi saint. [9] [10] [11] [12] Capital of Sindh [ edit ] 
+
+The City of Hyderabad served as the capital of Sindh province, From 1947 to 1955, which was later dissolved and one unit was formed named West PakistanCity also served as capital during Kalhoro regime Demographics [ edit ] Religions in Hyderabad Religions Percent Islam   94.0% Hinduism   5.0% Others   1.0% 
+
+Hyderabad is noteworthy in Sindh and Pakistan generally for its comparative tolerance towards religious and ethnic minorities. The city is a multi-ethnic and has a mix of Sindhi , Urdu speaking Muhajirs , Punjabis , Pashtuns , Memons and Baloch people. A Sindhi woman on the banks of the River Indus in the outskirts of Hyderabad 
+
+The independence of Pakistan in 1947 saw the influx of Muslim Urdu -speaking Muhajirs from India fleeing from anti-Muslim pogroms . Mahjirs mainly live in Latifabad and Sindhi mainly live in Qasimabad areas. 
+
+A large influx of Punjabis were attracted to Hyderabad after the Indus treaty settlement. Most Punjabis and Pakhtuns are distinct and separately living near the railway station and its vicinity. The city therefore has cosmopolitan atmosphere with multiethnic and multicultural communities. 
+
+Hindus account for the largest religious minority forming 5% of the total population of the city. While Christians account for 1% of the total population, Hyderabad is the seat of a Diocese of the Church of Pakistan and has five churches and a cathedral. Geography and climate [ edit ] Main article: Climate of Hyderabad, Sindh Ranikot Fort 
+
+Located at 25.367 °N latitude and 68.367 °E longitude with an elevation of 13 metres (43 ft), Hyderabad is located on the east bank of the Indus River and is roughly 150 kilometres (93 mi) away from Karachi, the provincial capital. Two of Pakistan's largest highways, the Indus Highway and the National Highway join at Hyderabad. Several towns surrounding the city include Kotri at 6.7 kilometres (4.2 mi), Jamshoro at 8.1 kilometres (5.0 mi), Hattri at 5.0 kilometres (3.1 mi) and Husri at 7.5 kilometres (4.7 mi). 
+
+Hyderabad has a hot desert climate ( Köppen BWh ), with warm conditions year-round. The period from mid-April to late June (before the onset of the monsoon ) is the hottest of the year, with highs peaking in May at 41.4 °C (106.5 °F). During this time, winds that blow usually bring along clouds of dust, and people prefer staying indoors in the daytime, while the breeze that flows at night is more pleasant. Winters are warm, with highs around 25 °C (77 °F), though lows can often drop below 10 °C (50 °F) at night. The highest temperature of 48.5 °C (119 °F) was recorded on 7 June 1991, while the lowest temperature of 1 °C (34 °F) was recorded on 8 February 2012. 
+
+In recent years, Hyderabad has seen great downpours. In February 2003, Hyderabad received 105 millimetres (4.13 in) of rain in 12 hours, leaving many dead. [13] [14] The years of 2006 and 2007 saw close contenders to this record rain with death tolls estimated in the hundreds. The highest single-day rain total of 250.7 millimetres (9.87 in) was recorded on 12 September 1962, while the wettest month was September 1962, at 286 millimetres (11.26 in). Climate data for Hyderabad, Pakistan Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Record high °C (°F) 33.3 
+
+(91.9) 38.2 
+
+(100.8) 43.4 
+
+(110.1) 46.0 
+
+(114.8) 48.4 
+
+(119.1) 48.5 
+
+(119.3) 45.5 
+
+(113.9) 43.9 
+
+(111) 45.0 
+
+(113) 44.0 
+
+(111.2) 41.0 
+
+(105.8) 36.0 
+
+(96.8) 48.5 
+
+(119.3) Average high °C (°F) 25.0 
+
+(77) 28.1 
+
+(82.6) 33.9 
+
+(93) 38.9 
+
+(102) 41.6 
+
+(106.9) 40.2 
+
+(104.4) 37.4 
+
+(99.3) 36.3 
+
+(97.3) 36.8 
+
+(98.2) 37.2 
+
+(99) 31.9 
+
+(89.4) 26.3 
+
+(79.3) 34.47 
+
+(94.03) Average low °C (°F) 11.1 
+
+(52) 13.6 
+
+(56.5) 18.5 
+
+(65.3) 23.0 
+
+(73.4) 26.2 
+
+(79.2) 28.1 
+
+(82.6) 27.8 
+
+(82) 26.7 
+
+(80.1) 25.3 
+
+(77.5) 22.3 
+
+(72.1) 17.3 
+
+(63.1) 12.5 
+
+(54.5) 21.03 
+
+(69.86) Record low °C (°F) 3.3 
+
+(37.9) 4.0 
+
+(39.2) 9.0 
+
+(48.2) 12.0 
+
+(53.6) 19.0 
+
+(66.2) 20.0 
+
+(68) 21.4 
+
+(70.5) 22.8 
+
+(73) 20.6 
+
+(69.1) 15.0 
+
+(59) 6.0 
+
+(42.8) 3.0 
+
+(37.4) 3.0 
+
+(37.4) Average rainfall mm (inches) 1.2 
+
+(0.047) 3.9 
+
+(0.154) 5.1 
+
+(0.201) 5.8 
+
+(0.228) 3.5 
+
+(0.138) 13.9 
+
+(0.547) 56.7 
+
+(2.232) 60.8 
+
+(2.394) 21.4 
+
+(0.843) 1.5 
+
+(0.059) 2.1 
+
+(0.083) 2.0 
+
+(0.079) 177.9 
+
+(7.005) Mean monthly sunshine hours 272.8 257.1 288.3 288.0 313.1 279.0 235.6 251.1 285.0 306.9 279.0 272.8 3,328.7 Source #1: [15] Source #2: HKO (sun only, 1969–1989) [16] Economy [ edit ] 
+
+Hyderabad is an important commercial centre where industries includes: textiles, sugar, cement, manufacturing of mirror, soap, ice, paper, pottery, plastics, tanneries, hosiery mills and film. There are hide tanneries and sawmills. Handicraft industries, including silver and gold work, lacquer ware, ornamented silks, and embroidered leather saddles, are also well established. Hyderabad produces almost all of the ornamental glass bangles in Pakistan. Hyderabad is a major commercial centre for the agricultural produce of the surrounding area, including millet, rice, wheat, cotton, and fruit. [17] Administrative divisions [ edit ] 
+
+Before the government of Abubaker Nizamani, the District Hyderabad included the present-day District of Badin . Then in the 2005-6 General Pervaiz Musharraf again divided it into four more districts Matiyari, Tando Allahyar, Tando Mohammad Khan and Hyderabad. Hyderabad district was subdivided into four talukas [18] Hyderabad City Taluka Hyderabad Taluka (rural) Latifabad Qasimabad Points of interest [ edit ] Tombs of the Talpur Mirs ( Cubbas ), now in Hirabad in Hyderabad, Sindh. These shrines are now in a desolate state. Pacco Qillo Tombs of Talpur Mirs Rani Bagh Sindh Museum Media [ edit ] Literature [ edit ] 
+
+As tradition goes, Sindh had always been a hub for Sufi poets. With a foothold on strong educational foundations, the city of Hyderabad was made into a refuge for thriving literary advocates. Of the few, Mirza Kalich Beg received education from the Government High School, Hyderabad and carried the banner of Sindhi literature across borders. [19] Modern novelists, writers, columnists and researchers like Musharraf Ali Farooqi , Ghulam Mustafa Khan and Qabil Ajmeri also hail from Hyderabad. 
+
+Hyderabad has served many Sindhi literary campaigns throughout the history of Pakistan as is evident from the daily newspapers and periodicals that are published in the city. A few worth mention dailies are the Kawish , [20] Ibrat , [21] and Daily Sindh . [22] Radio and television [ edit ] 
+
+With the inauguration of a new broadcasting house at Karachi in 1950, it was possible to lay the foundations for the Hyderabad radio station in 1951. The initial broadcast was made capable using 1 kW medium-wave transmitter. With the first successful transmissions on the FM 100 bandwidth in Karachi, Lahore and Islamabad in October 1998, the Government decided on opening transmissions to other cities where Radio Pakistan had found success. This made available the FM 101 bandwidth transmissions to Hyderabad and other cities in Sindh. [23] 
+
+A relief from the regular broadcasts in other cities, entertainment content on the Hyderabad radio gave birth to many a star whose names became an attribute to Hyderabad's richer media content. Among them were actor Shafi Mohammad, a young man who had recently finished his postgraduate degree from the University of Sindh . [24] Such fresh and young talent became a trademark to entertainment in Hyderabad. 
+
+Pakistan Television had only had half-a-decade broadcast success from 1963 to 1969 that people in the radio entertainment business felt destined to make a mark on the television circuits. Prominent radio personalities from the Hyderabad radio station like Shafi Muhammad Shah and Mohammad Ali left the airwaves to hone their acting skills on the television. [25] Television shows and content enriched with the inclusion of Hyderabadi names however PTV never opened a television station in Hyderabad. 
+
+While the year 2005 saw new FM regular stations set up at Gawadar , Mianwali , Sargodha , Kohat , Bannu and Mithi , private radio channels began airing in and around Hyderabad. Of late, stations like Sachal FM 105 and some others have gained popularity. But the unavailability of an up-to-date news and current affairs platform renders the services of such stations of not much value to the masses but nonetheless appealing to youngsters. 
+
+As the Pakistan Electronic Media Regulatory Authority (abbreviated as PEMRA) gave licenses to private radio channels, so were television channels owned privately given a right to broadcast from the year 2002, [26] and Daily Kawish , [20] a prominent Sindhi newspaper published from Hyderabad opened a one-of-its-kind private Sindhi channel Kawish Television Network . Many followed in its path namely Sindh TV , Dhoom TV and Kashish TV premiering Sindhi content. Notable people [ edit ] Hoshu Sheedi , General of Talpur Mirs' Army, which fought against British in the Battles of Miani and last Battle of Dubbo. Jivatram Kripalani (1886–1982), Indian politician and Indian independence activist . Mirza Kalich Beg (1853–1929), civil servant and author K. R. Malkani (1921–2003), Indian politician. Lieutenant-Governor of Pondicherry (2002–03) Allama Imdad Ali Imam Ali Kazi (1886–1968), philosopher and scholar Sadhu T. L. Vaswani (1879–1966), Hindu spiritualist. Founder of the Sadhu Vaswani Mission . Nabi Bux Khan Baloch (1917–2011), linguist and author Muhammad Ibrahim Joyo (born 1915), scholar and translator Ghulam Mustafa Khan (born 1912), researcher, and linguist Choudry Mohammad Sadiq (1900–1975), politician and Muslim Leaguer Syed Qamar Zaman Shah (born 1933), the nephew and son-in-law of Late Syed Miran Mohammad Shah. Senator during the early 1970s. Syed Miran Mohammad Shah , speaker of Sindh legislative Assembly, Minister in the Sindh Government, Ambassador of Pakistan to Spain. Qabil Ajmeri (1931–1962), recognised as a "senior" poet of Urdu Bhawani Shankar Chowdhry (born 1959), ICT Professional and an electronics engineer. Architect Shah Rukh Noman (born 1988), Architect. See also [ edit ] List of twin towns and sister cities in Pakistan Hyderabad District, Sindh Hyderabadi pickle Hyderabad Electric Supply Company Sateen Jo Aastan Tando Jahania Hyderabad Airport History of Hyderabad, Pakistan History of Hyderabad, Sindh Battle of Hyderabad Hyderabad Junction railway station Notes [ edit ] ^ "Sindh population surges by 81.5 pc, households by 83.9 pc" . Thenews.com.pk. 2 April 2012 . Retrieved 21 April 2013 . ^ http://www.siasat.pk/forum/showthread.php?397650-by-winning-2nd-largest-city-Hyderabad-and-4th-largest-city-Mirpurkhas-MQM-declared-Urban-Sindh-Leader ^ Nicholas F. Gier, FROM MONGOLS TO MUGHALS: RELIGIOUS VIOLENCE IN INDIA 9TH-18TH CENTURIES , Presented at the Pacific Northwest Regional Meeting American Academy of Religion, Gonzaga University, May 2006 [1] . Retrieved 11 December 2006. ^ Naik, C.D. (2010). Buddhism and Dalits: Social Philosophy and Traditions . Delhi: Kalpaz Publications. p. 32. ISBN 978-81-7835-792-8 . ^ P. 151 Al-Hind, the Making of the Indo-Islamic World By André Wink ^ P. 164 Notes on the religious, moral, and political state of India before the Mahomedan invasion, chiefly founded on the travels of the Chinese Buddhist priest Fai Han in India, A.D. 399, and on the commentaries of Messrs. Remusat, Klaproth, Burnouf, and Landresse, Lieutenant-Colonel W.H. Sykes by Sykes, Colonel; ^ P. 505 The History of India, as Told by Its Own Historians by Henry Miers Elliot, John Dowson ^ "Pakka Qila Hyderabad" . abbasikalhora.com. Archived from the original on 4 July 2014 . Retrieved 16 November 2014 . ^ Uch Sharif (18 December 2011). "Safarnama Makhdoom Jahanian Jahangasht" . Uchsharif.com. Archived from the original on 9 November 2013 . Retrieved 20 November 2013 . ^ [2] [ dead link ] ^ "Sufis Shaykhs [4] – World of Tasawwuf" . Spiritualfoundation.net . Retrieved 20 November 2013 . ^ "Tomb of Bibi Jawindi, Baha'al-Halim and Ustead and the Tomb and Mosque of Jalaluddin Bukhari – UNESCO World Heritage Centre" . Whc.unesco.org . Retrieved 20 November 2013 . ^ "Pakistan floods leave many dead" . BBC News . 18 February 2003. ^ "World Briefing – Asia: Pakistan: Floods Kill 88 And Maroon 100,000 \" . The New York Times . 30 July 2003. ^ http://worldweather.wmo.int/en/city.html?cityId=896 ^ "Climatological Information for Hyderabad, Pakistan" . Hong Kong Observatory . Retrieved 2011-05-04 . ^ "Pakistan Backgrounder" . South Asia Terrorism Portal . Retrieved 15 April 2008 . External link in |publisher= ( help ) ^ [3] Archived 27 September 2007 at the Wayback Machine . ^ "Mirza Kalich Beg: Renowned scholar of Sindh" . Retrieved 18 March 2008 . ^ a b "Read Daily Kawish online" . Daily Kawish . Retrieved 21 May 2008 . ^ "Read Daily Ibrat online" . Daily Ibrat . Retrieved 21 May 2008 . ^ "Read Daily Sindh online" . Daily Sindh . Retrieved 21 May 2008 . ^ "Radio Pakistan: Chronicle of Progress" . Radio Pakistan. Archived from the original on 14 February 2008 . Retrieved 18 March 2008 . ^ "Actor Shafi Muhammad passes away" . Retrieved 18 March 2008 . ^ "Pakistan's Top Film Star Muhammad Ali Dies" . Pakistan Tribune . Retrieved 18 March 2008 . ^ "PEMRA Ordinance 2002" (PDF) . Pakistan Electronic Media Regulatory Authority . Archived from the original (PDF) on 10 October 2007 . Retrieved 18 March 2008 . References [ edit ] Biographical Encyclopedia of Pakistan 1963–1966 edition. External links [ edit ] Find more about 
+
+Hyderabad, Sindh 
+
+at Wikipedia's sister projects Definitions from Wiktionary Media from Commons News from Wikinews Quotations from Wikiquote Texts from Wikisource Textbooks from Wikibooks Learning resources from Wikiversity Hyderabad (Pakistan) travel guide from Wikivoyage Official website of the City District Government of Hyderabad v t e Hyderabad Hystory History of Sindh Muhammad bin Qasim British Raj Indian Rebellion of 1857 Pakistan Movement Muhajir people Muttahida Qaumi Movement History of Hyderabad Battle of Hyderabad Shah Abdul Latif Bhittai Kalhora Indus Valley Civilisation Geography Climate Indus River Kotri Barrage Kirthar National Park Phuleli Localities Hyderabad City Hyderabad rural Qasimabad Latifabad Old City Government Mayor of Hyderabad Hyderabad Municipal Corporation NA 218 NA 219 NA 220 NA 221 PS 43 PS 44 PS 45 PS 46 PS 47 PS 48 PS 49 PS 50 PS 51 PS 52 PS 53 PS 54 Attractions Ranikot Fort Pacco Qillo Rani Bagh Sindh Museum Tombs of Talpur Mirs Agham Kot Hyderabad Ghanta Ghar Hyderabad Expo Center Transport Railway station Hyderabad Airport M9 Motorway Hyderabad Flyovers Education Isra University Hyderabad Institute of Arts, Science and Technology Sindh Agriculture University Cadet College Petaro SZABIST Sports and 
+
+culture Niaz Stadium Municipal Gardens Ground Hyderabad Hawks First Class Hyderabadi pickle The Bombay Bakery Lists educational institutions in Hyderabad List of twin cities List of Hospitals List of people from Hyderabad v t e Million-plus cities in Pakistan Faisalabad Gujranwala Hyderabad Islamabad Karachi Lahore Multan Peshawar Quetta Rawalpindi Sargodha v t e Major cities in Pakistan Islamabad Capital Territory Islamabad * Punjab Attock Bahawalpur Burewala Chakwal Chiniot Faisalabad Gujar Khan Gujranwala Gujrat Jhang Jhelum Kasur Kharian Lahore ** Mianwali Multan Murree Rahim Yar Khan Rawalpindi Sadiqabad Sahiwal Sargodha Sheikhupura Sialkot Taxila Toba Tek Singh Sindh Badin Hyderabad Jacobabad Karachi ** Khairpur Larkana Nawabshah Sukkur Thatta Khyber Pakhtunkhwa FATA Abbottabad D.I.Khan Chitral Charsada Haripur Kohat Peshawar ** Mansehra Mardan Paharpur Swat Sawabi Timergara Tank Nowshera Balochistan Chaman Gwadar Khuzdar Quetta ** Ziarat Azad Kashmir Bagh Bhimber Kotli Mirpur Muzaffarabad ** Rawalakot Gilgit–Baltistan Gilgit ** Skardu * Federal capital ** Provincial/Territorial capitals v t e Pakistan topics Basic topics Alphabetical index of topics History Ancient Stone age Soanian Mehrgarh Indus Valley Indo-Iranics Indo-Aryan Achaemenid Greco-Bactrian Maurya Gandhara Indo-Greek Indo-Scythians Indo-Parthian Kushan Indo-Sassanid Medieval Indo-Hephthalite Kamboja Rai Dynasty Shahi Pala Solanki Muhammad bin Qasim Ghaznavid Ghurid Mamluk Khilji Tughlaq Sayyid Lodi Timurid Modern Pre-colonial Mughal East India Company Durrani Sikh Confederacy Sikh Empire First Anglo-Afghan War First Anglo-Sikh War Second Anglo-Sikh War Rebellion Colonial British Raj Second Anglo-Afghan War Durand Line Third Anglo-Afghan War Aligarh Movement Hindi–Urdu controversy Pakistan Movement Muslim League Two nation theory Jinnah's 14 Points Lahore Resolution Direct Action Day Partition Independence Dominion Dominion of Pakistan Princely states 1947 War Liaquat–Nehru Pact Baghdad Pact Republic Indus Treaty 1965 War 1971 War Project-706 Islamisation Baloch insurgency Kargil War Liberalization War in north-west Geography Features Beaches Deserts Glaciers Islands Lakes Mountains Passes Rivers Valleys Waterfalls Wetlands Areas Arabian Sea Gwadar Bay Indus Plain Pothohar Plateau Salt Range Sistan Basin Geology Coal fields Gas fields Minerals Oil fields Tectonics Volcanoes Floods Environment Botanical gardens Ecoregions Environmental issues Forests Protected areas national parks game reserves sanctuaries Wildlife flora fauna Zoos Other topics Archaeological sites Climate weather records Borders Natural disasters earthquakes floods Subdivisions provinces districts cities World Heritage Sites Governance State President National Security Council ( C 2 NS ECC AEDB NCA ) Government National government Cabinet Ministries Prime Minister Provincial governments Governors Chief Ministers Local government Union councils Legislative Parliament ( Majlis-e-Shoora ) Senate (upper house) Chairman National Assembly (lower house) Speaker Provincial assemblies Jirga (tribal assembly) Judicial Supreme Council Supreme Court Chief Justice Shariat Court High Courts District Courts Politics Elections Foreign relations Feudalism Intelligence community Political parties Martial law Law Constitution LFO PPC WPB PCO Human rights LGBT LGBT history Law enforcement Police Criminal Investigation (CID) Anti-Narcotics (ANF) Capital punishment Terrorism State terrorism Military History Army Air force Navy Marines Coast Guard Paramilitary Nuclear Economy Infrastructure Electricity coal nuclear solar wind Foreign aid Fuel extraction Housing Planning Commission Post Poverty Satellite Tallest buildings Telecommunications Transportation bridges Water management Water supply and sanitation Industry Agriculture Arms Automobile Fishery Forestry Husbandry Labour child Media Mining Pharmaceuticals Silk Textiles Tourism Commerce Banking banks Companies Investment board Rupee (currency) Securities and Exchange Commission Stock markets Trade unions Trading Corporation Policy programmes Corporatisation Directive investment Industrialisation Military economisation Nationalisation Privatisation Public-private partnering Redundant Islamic economisation Society and culture Society Crime Culture Education institutions Feudalism Gender discrimination Healthcare hospitals Human rights LGBT Marriage Media Naming List of Pakistanis Prostitution Religion Social clubs Time Urbanisation Women Demographics Diaspora Ethnicity Immigration Languages Urdu Arts Architecture Cinema films Dance Festivals Folklore Literature Mushaira Music Philosophy Textiles Theatre Lifestyle Clothing Shalwar kameez Mehndi Cuisine Etiquette Gun culture Nationalism flags public holidays songs symbols Sports Athletics Baseball Boxing Cricket Cycling Field hockey Football Gilli-danda Golf Kabaddi Motorsport Marathon (Lahore) Olympics Paralympics Polo Rugby Squash Swimming Tennis Places Botanical gardens Cemeteries Churches Forts Gurdwaras Hindu temples Libraries Mausolea and shrines Mosques Museums Parks Stadiums World Heritage Sites Zoos Category Portal Commons Authority control GND : 7718749-0 (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Hyderabad,_Sindh oldid=745342921 " Categories : Hyderabad, Sindh Populated places in Sindh Metropolitan areas of Pakistan History of Sindh Chach Nama Populated places established in 1768 Hidden categories: All articles with dead external links Articles with dead external links from November 2013 CS1 errors: external links Articles with Wayback Machine links Articles needing additional references from July 2015 All articles needing additional references EngvarB from February 2014 Use dmy dates from February 2014 Coordinates on Wikidata Articles containing Sindhi-language text Articles containing Urdu-language text Wikipedia articles with GND identifiers Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Wikivoyage Languages Afrikaans العربية Български Català Dansk Deutsch Ελληνικά Español Esperanto فارسی Français 한국어 हिन्दी Hrvatski Ido Italiano עברית Kalaallisut ქართული Lietuvių Magyar Māori मराठी Nederlands 日本語 Нохчийн Norsk bokmål Norsk nynorsk Oʻzbekcha/ўзбекча ਪੰਜਾਬੀ پنجابی Polski Русский संस्कृतम् Scots Simple English سنڌي Српски / srpski Suomi தமிழ் Türkçe Українська اردو Tiếng Việt Winaray 粵語 中文 Edit links This page was last modified on 20 October 2016, at 15:51. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "1.016", "walltime": "1.200", "ppvisitednodes": { "value": 7092, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 308133, "limit": 2097152 }, "templateargumentsize": { "value": 28264, "limit": 2097152 }, "expansiondepth": { "value": 23, "limit": 40 }, "expensivefunctioncount": { "value": 9, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 935.193 1 -total", " 26.97% 252.220 1 Template:Reflist", " 22.18% 207.438 1 Template:Infobox_settlement", " 16.62% 155.396 2 Template:Infobox", " 12.19% 113.982 1 Template:Pakistan_topics", " 11.55% 108.044 1 Template:Navbox_with_collapsible_groups", " 10.94% 102.335 14 Template:Cite_web", " 8.61% 80.510 1 Template:Weather_box", " 6.86% 64.158 3 Template:Cite_news", " 6.19% 57.883 14 Template:Convert" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.374", "limit": "10.000" }, "limitreport-memusage": { "value": 9785474, "limit": 52428800 } }, "cachereport": { "origin": "mw1191", "timestamp": "20161020155154", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1263"});});

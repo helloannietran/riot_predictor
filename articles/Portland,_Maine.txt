@@ -1,0 +1,517 @@
+Portland, Maine - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Portland,_Maine","wgTitle":"Portland, Maine","wgCurRevisionId":744565535,"wgRevisionId":744565535,"wgArticleId":44591,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Wayback Machine links","Use mdy dates from July 2014","Coordinates on Wikidata","Articles containing potentially dated statements from 2007","All articles containing potentially dated statements","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Portland, Maine","Former state capitals in the United States","Port cities and towns of the United States Atlantic coast","Populated places established in 1633","Portland, Maine metropolitan area","1633 establishments in the Thirteen Colonies","Cities in Cumberland County, Maine","Populated coastal places in Maine","Cities in Maine","County seats in Maine"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Portland,_Maine","wgRelevantArticleId":44591,"wgRequestId":"WAo3@QpAAD0AACK9lI8AAAAP","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":43.666666666667,"lon":-70.266666666667},"wgWikibaseItemId":"Q49201","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Portland, Maine From Wikipedia, the free encyclopedia Jump to: navigation , search For other uses, see Portland (disambiguation) . Not to be confused with Poland, Maine . Portland, Maine City City of Portland, Maine Clockwise: Portland waterfront, the Portland Observatory on Munjoy Hill , the corner of Middle and Exchange Street in the Old Port , Congress Street, the Civil War Memorial in Monument Square, and winter light sculptures in Congress Square Plaza. 
+
+Flag 
+
+Seal Nickname(s): The Forest City, Portland of the East Motto: Resurgam ( Latin ) 
+
+"I Will Rise Again" 
+
+Location in Cumberland County and the state of Maine . Portland, Maine Location in the United States Coordinates: 43°40′N 70°16′W ﻿ / ﻿ 43.667°N 70.267°W ﻿ / 43.667; -70.267 Coordinates : 43°40′N 70°16′W ﻿ / ﻿ 43.667°N 70.267°W ﻿ / 43.667; -70.267 Country United States State Maine County Cumberland Settled 1632 Incorporated July 4, 1786 Named for Isle of Portland [1] Government • Type City council and city manager • City manager Jon Jenningswas • Mayor Ethan Strimling ( D ) Area [2] • City 69.44 sq mi (179.85 km 2 ) • Land 21.31 sq mi (55.19 km 2 ) • Water 48.13 sq mi (124.66 km 2 ) Elevation 62 ft (19 m) Population ( 2010 ) [3] • City 66,194 • Estimate (2015) [4] 66,881 • Rank US: 519th • Density 3,107.2/sq mi (1,199.7/km 2 ) • Urban 203,914 (US: 177th ) • Metro 519,900 (US: 104th ) Time zone EST ( UTC-5 ) • Summer ( DST ) EDT ( UTC-4 ) ZIP codes 04101, 04102, 04103, 04104, 04108, 04109, 04112, 04116, 04122, 04123, 04124 Area code(s) 207 FIPS code 23-60545 GNIS feature ID 0573692 Website City of Portland 
+
+Portland is the largest city in the U.S. state of Maine and the county seat of Cumberland County . [5] In 2015, the city proper had a population of 66,881, [6] growing exactly 1 percent since the census of 2010 . The Greater Portland metropolitan area is home to over half a million people, more than one-third of Maine's total population. 
+
+Tourists visit Portland's historic Old Port district along Portland Harbor, at the mouth of the Fore River and part of Casco Bay , and the Arts District , which runs along Congress Street in the center of the city. Portland Head Light is located in nearby Cape Elizabeth and marks the entrance to Portland Harbor. 
+
+The city seal depicts a phoenix rising from ashes, which aligns with the city's motto, Resurgam , Latin for "I will rise again." The motto refers to Portland's recoveries from four devastating fires. [7] Portland, Maine was named for the English Isle of Portland , and the city of Portland, Oregon was in turn named for Portland, Maine. [8] 
+
+Portland Public Schools is the largest school system in Maine, serving more than 7,000 students. [9] With about 230 restaurants, Portland's per capita restaurant density ranks among the top cities in the United States. 
+
+Contents 1 History 2 Geography and climate 3 Neighborhoods 4 Demographics 4.1 2010 census 4.2 2000 census 5 Economy 6 Culture 6.1 Sites of interest 6.1.1 Notable buildings 6.2 Notable people 7 Media 7.1 Novels set in Portland 7.2 Movies filmed in Portland 8 Sports 9 Food and beverage 10 Infrastructure 10.1 Government 10.2 Fire department 10.3 Education 10.3.1 High schools 10.3.2 Colleges and universities 10.4 Hospitals 11 Transportation 11.1 Roads 11.2 Intercity buses and trains 11.3 Airports 11.4 Water transportation 11.5 Local buses and taxis 12 Honors 12.1 Food and drink 12.2 Other 13 Sister cities 14 See also 15 Gallery 16 Notes 17 References 18 Further reading 19 External links 
+
+History [ edit ] Main articles: History of Portland, Maine and Timeline of Portland, Maine Fort Casco, Portland, Maine built by Wolfgang William Romer ; map by Cyprian Southack 
+
+Native Americans originally called the Portland peninsula Machigonne ("Great Neck"). [7] The first European settler was Capt. Christopher Levett , an English naval captain granted 6,000 acres (2,400 ha) in 1623 to found a settlement in Casco Bay . A member of the Council for New England and agent for Ferdinando Gorges , Levett built a stone house where he left a company of ten men, then returned to England and wrote a book about his voyage to drum up support for the settlement. [10] The settlement failed, and the fate of Levett's colonists is unknown. The explorer sailed from England to the Massachusetts Bay Colony to meet John Winthrop in 1630, but never returned to Maine. Fort Levett in the harbor is named for him. 
+
+The peninsula was first permanently settled in 1632 as a fishing and trading village named Casco . [7] When the Massachusetts Bay Colony took over Casco Bay in 1658, the town's name changed again to Falmouth . In 1676, the village was destroyed by the Abenaki during King Philip's War . It was rebuilt. During King William's War , a raiding party of French and Native allies attacked and largely destroyed it again in the Battle of Fort Loyal (1690). Gun recovered from USS Maine on Munjoy Hill 
+
+On October 18, 1775, Falmouth was burned in the Revolution by the Royal Navy under command of Captain Henry Mowat . [11] Longfellow Square (c. 1906) 
+
+Following the war, a section of Falmouth called The Neck developed as a commercial port and began to grow rapidly as a shipping center. In 1786, the citizens of Falmouth formed a separate town in Falmouth Neck and named it Portland , after the isle off the coast of Dorset , England. [1] Portland's economy was greatly stressed by the Embargo Act of 1807 (prohibition of trade with the British), which ended in 1809, and the War of 1812 , which ended in 1815. 
+
+In 1820, Maine became a state with Portland as its capital. In 1832, the capital was moved north to Augusta . In 1851, Maine led the nation by passing the first state law prohibiting the sale of alcohol except for "medicinal, mechanical or manufacturing purposes." The law subsequently became known as the Maine law , as 18 states quickly followed. On June 2, 1855, the Portland Rum Riot occurred. 
+
+In 1853, upon completion of the Grand Trunk Railway to Montreal , Portland became the primary ice-free winter seaport for Canadian exports. The Portland Company manufactured more than 600 19th-century steam locomotives . Portland became a 20th-century rail hub as five additional rail lines merged into Portland Terminal Company in 1911. Following nationalization of the Grand Trunk system in 1923, Canadian export traffic was diverted from Portland to Halifax, Nova Scotia , causing marked local economic decline. In the 20th century, icebreakers later enabled ships to reach Montreal in winter, drastically reducing Portland's role as a winter port for Canada. 
+
+On June 26, 1863, a Confederate raiding party led by Captain Charles Read, entered the harbor at Portland and the Battle of Portland Harbor ensued, one of the northernmost battles of the Civil War . The 1866 Great Fire of Portland, Maine of July 4, 1866, ignited during the Independence Day celebration, destroyed most of the commercial buildings in the city, half the churches and hundreds of homes. More than 10,000 people were left homeless. 
+
+By act of the Maine Legislature In 1899, Portland annexed the city of Deering [12] despite a vote by Deering residents rejecting the annexation greatly increasing the size of the city and opening areas for development beyond the peninsula. [13] 
+
+The construction of The Maine Mall , an indoor shopping center established in the suburb of South Portland during the 1970s, economically depressed downtown Portland. The trend reversed when tourists and new businesses started revitalizing the old seaport, locally known as the Old Port. Since the 1990s, the historically industrial Bayside neighborhood saw rapid development. The emerging harborside Ocean Gateway neighborhood at the base of Munjoy Hill [14] [15] [16] The Maine College of Art has been a revitalizing force downtown, attracting students from around the country. The historic Porteous building on Congress Street was restored by the College. See also: Railroad history of Portland, Maine Portland skyline at sunset Geography and climate [ edit ] Aerial view of Portland Deering Oaks Park with fountain and castle pavilion is located at the point where Interstate 295 meets State Street, Park Avenue, and Deering Avenue 
+
+According to the United States Census Bureau , the city has a total area of 69.44 square miles (179.85 km 2 ), of which, 21.31 square miles (55.19 km 2 ) is land and 48.13 square miles (124.66 km 2 ) is water. [2] Portland is on a peninsula in Casco Bay on the Gulf of Maine and the Atlantic Ocean. 
+
+Portland borders South Portland , Westbrook and Falmouth . The city is located at 43.66713 N, 70.20717 W. 
+
+Portland has a humid continental climate ( Köppen : Dfb), with rather cold, snowy winters, and warm, occasionally almost hot, summers. The monthly daily average temperature ranges from 22.3 °F (−5.4 °C) in January to 69.1 °F (20.6 °C) in July. Daily high temperatures reach or exceed 90 °F (32 °C) on only 4.6 days per year on average, while cold-season lows of 0 °F (−18 °C) or below are reached on 7.7 nights per year on average. [17] The area can be affected by severe nor'easters during winter, with high winds and snowfall totals. Annual precipitation averages 47.2 inches (1,200 mm) and is plentiful year-round, but with a slightly drier summer; snowfall averages 61.9 inches (157 cm). In coastal Maine, winter-season mid-latitude storms can be intense from November to March, while warm-season thunderstorms are markedly less frequent than in the Midwestern, Mid-Atlantic, and Southeastern U.S. Direct strikes by hurricanes or tropical storms are rare, partially due to the normally cooler Atlantic waters off the Maine coast (which weaken tropical systems), but primarily because most tropical systems approaching or reaching 40 degrees North latitude recurve (Coriolis effect), carrying most such storms well south and east of the Portland area. Extremes range from −39 °F (−39 °C) on February 16, 1943 to 103 °F (39 °C) on July 4, 1911 and August 2, 1975. [17] 
+
+
+
+Climate data for Portland International Jetport , Maine (1981–2010 normals, [a] extremes 1871–present [b] ) Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Record high °F (°C) 67 
+
+(19) 64 
+
+(18) 88 
+
+(31) 92 
+
+(33) 94 
+
+(34) 98 
+
+(37) 100 
+
+(38) 103 
+
+(39) 95 
+
+(35) 88 
+
+(31) 74 
+
+(23) 71 
+
+(22) 103 
+
+(39) Mean maximum °F (°C) 50.2 
+
+(10.1) 51.4 
+
+(10.8) 61.5 
+
+(16.4) 74.7 
+
+(23.7) 83.8 
+
+(28.8) 88.8 
+
+(31.6) 91.3 
+
+(32.9) 90.1 
+
+(32.3) 85.6 
+
+(29.8) 74.7 
+
+(23.7) 65.3 
+
+(18.5) 55.6 
+
+(13.1) 93.4 
+
+(34.1) Average high °F (°C) 31.2 
+
+(−0.4) 34.6 
+
+(1.4) 42.1 
+
+(5.6) 53.3 
+
+(11.8) 63.5 
+
+(17.5) 73.2 
+
+(22.9) 78.8 
+
+(26) 77.7 
+
+(25.4) 70.0 
+
+(21.1) 58.7 
+
+(14.8) 48.0 
+
+(8.9) 37.3 
+
+(2.9) 55.8 
+
+(13.2) Average low °F (°C) 13.4 
+
+(−10.3) 16.4 
+
+(−8.7) 24.9 
+
+(−3.9) 34.7 
+
+(1.5) 44.2 
+
+(6.8) 53.6 
+
+(12) 59.4 
+
+(15.2) 58.2 
+
+(14.6) 50.3 
+
+(10.2) 38.9 
+
+(3.8) 30.9 
+
+(−0.6) 20.4 
+
+(−6.4) 37.2 
+
+(2.9) Mean minimum °F (°C) −7 
+
+(−22) −3.1 
+
+(−19.5) 5.9 
+
+(−14.5) 23.9 
+
+(−4.5) 32.2 
+
+(0.1) 42.6 
+
+(5.9) 49.9 
+
+(9.9) 46.7 
+
+(8.2) 36.5 
+
+(2.5) 25.6 
+
+(−3.6) 16.1 
+
+(−8.8) 2.1 
+
+(−16.6) −9.9 
+
+(−23.3) Record low °F (°C) −26 
+
+(−32) −39 
+
+(−39) −21 
+
+(−29) 8 
+
+(−13) 23 
+
+(−5) 33 
+
+(1) 40 
+
+(4) 33 
+
+(1) 23 
+
+(−5) 15 
+
+(−9) 3 
+
+(−16) −21 
+
+(−29) −39 
+
+(−39) Average precipitation inches (mm) 3.38 
+
+(85.9) 3.25 
+
+(82.6) 4.24 
+
+(107.7) 4.32 
+
+(109.7) 4.01 
+
+(101.9) 3.79 
+
+(96.3) 3.61 
+
+(91.7) 3.14 
+
+(79.8) 3.69 
+
+(93.7) 4.87 
+
+(123.7) 4.93 
+
+(125.2) 4.02 
+
+(102.1) 47.25 
+
+(1,200.1) Average snowfall inches (cm) 19.2 
+
+(48.8) 12.1 
+
+(30.7) 12.7 
+
+(32.3) 2.8 
+
+(7.1) 0 
+
+(0) 0 
+
+(0) 0 
+
+(0) 0 
+
+(0) 0 
+
+(0) trace 1.9 
+
+(4.8) 13.2 
+
+(33.5) 61.9 
+
+(157.2) Average precipitation days (≥ 0.01 in) 11.1 9.8 11.7 11.2 12.6 11.8 11.0 9.3 9.2 10.5 11.2 11.5 130.9 Average snowy days (≥ 0.1 in) 7.9 6.1 5.1 1.0 0 0 0 0 0 0 1.5 6.1 27.7 Average relative humidity (%) 66.8 65.2 66.3 66.8 71.1 74.7 75.3 76.3 76.7 73.9 72.6 70.2 71.3 Mean monthly sunshine hours 164.8 172.8 205.2 213.5 243.2 259.1 282.2 267.6 229.1 195.7 138.7 140.9 2,512.8 Percent possible sunshine 57 59 55 53 53 56 60 62 61 57 48 51 56 Source: NOAA (relative humidity and sun 1961–1990), [17] [19] [20] Climate data for Portland, Maine (extremes 1874–present [c] ) Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Record high °F (°C) 67 
+
+(19) 64 
+
+(18) 88 
+
+(31) 92 
+
+(33) 96 
+
+(36) 98 
+
+(37) 103 
+
+(39) 103 
+
+(39) 96 
+
+(36) 88 
+
+(31) 74 
+
+(23) 71 
+
+(22) 103 
+
+(39) Record low °F (°C) −26 
+
+(−32) −39 
+
+(−39) −21 
+
+(−29) 8 
+
+(−13) 23 
+
+(−5) 33 
+
+(1) 40 
+
+(4) 33 
+
+(1) 23 
+
+(−5) 15 
+
+(−9) −6 
+
+(−21) −21 
+
+(−29) −39 
+
+(−39) Source: NOAA [17] 
+
+
+
+Neighborhoods [ edit ] Main article: Neighborhoods of Portland, Maine 
+
+Portland is organized into neighborhoods generally recognized by residents, but they have no legal or political authority. In many cases, city signs identify neighborhoods or intersections (which are often called corners). Most city neighborhoods have a local association, [21] which usually maintains ongoing relations of varying degrees with the city government on issues affecting the neighborhood. 
+
+On March 8, 1899, Portland annexed the neighboring city of Deering. [22] Deering neighborhoods now comprise the northern and eastern sections of the city before the merger. Portland's Deering High School was formerly the public high school for Deering. 
+
+Portland's neighborhoods include the Arts District , Bayside, Bradley's Corner, Cushing's Island, Deering Center, Deering Highlands, Downtown, East Deering , East Bayside, East End, Eastern Cemetery, Great Diamond Island , Highlands, Kennedy Park , Libbytown, [23] Little Diamond Island, Lunt's Corner, Morrill's Corner, Munjoy Hill , Nason's Corner, North Deering , Oakdale, the Old Port, Parkside, Peaks Island , Riverton Park, Rosemont, Stroudwater, the West End, and Woodford's Corner. Moulton Street in Old Port Demographics [ edit ] Historical population Census Pop. %± 1790 2,240 — 1800 3,704 65.4% 1810 7,169 93.5% 1820 8,581 19.7% 1830 12,598 46.8% 1840 15,218 20.8% 1850 20,815 36.8% 1860 26,341 26.5% 1870 31,413 19.3% 1880 33,810 7.6% 1890 36,425 7.7% 1900 50,145 37.7% 1910 58,571 16.8% 1920 69,272 18.3% 1930 70,810 2.2% 1940 73,643 4.0% 1950 77,634 5.4% 1960 72,566 −6.5% 1970 65,116 −10.3% 1980 61,572 −5.4% 1990 64,358 4.5% 2000 64,249 −0.2% 2010 66,194 3.0% Est. 2015 66,881 [6] 1.0% U.S. Decennial Census [24] 
+
+Raymond H. Fogler Library [25] 2010 census [ edit ] 
+
+As of the census [3] of 2010, there were 66,194 people, 30,725 households, and 13,324 families residing in the city. The population density was 3,106.2 inhabitants per square mile (1,199.3/km 2 ). There were 33,836 housing units at an average density of 1,587.8 per square mile (613.1/km 2 ). The racial makeup of the city was 85.0% White (83.6% non-Hispanic White alone), down from 96.6% in 1990, [26] 7.1% African American , 0.5% Native American , 3.5% Asian , 1.2% from other races , and 2.7% from two or more races. Hispanic or Latino of any race were 3.0% of the population. 40.7% of the population had a bachelor's degree or higher. Men's Health ranked Portland the ninth most educated city in America. [27] 
+
+There were 30,725 households of which 20.7% had children under the age of 18 living with them, 29.7% were married couples living together, 10.1% had a female householder with no husband present, 3.6% had a male householder with no wife present, and 56.6% were non-families. 40.5% of all households were made up of individuals and 11.4% had someone living alone who was 65 years of age or older. The average household size was 2.07 and the average family size was 2.88. 
+
+The median age in the city was 36.7 years. 17.1% of residents were under the age of 18; 11.4% were between the ages of 18 and 24; 33.1% were from 25 to 44; 25.9% were from 45 to 64; and 12.6% were 65 years of age or older. The gender makeup of the city was 48.8% male and 51.2% female. 2000 census [ edit ] 
+
+As of the census of 2000, there were 64,250 people, 29,714 households, and 13,549 families residing in the city. The population density was 3,029.2 people per square mile (1,169.6/km²). There were 31,862 housing units at an average density of 1,502.2 per square mile (580.0/km²). 
+
+According to the U.S. Census Bureau, Portland's immediate metropolitan area ranked 147th in the nation in 2000 with a population of 243,537, while the Portland/South Portland/Biddeford metropolitan area included 487,568 total inhabitants. This has increased to an estimated 513,102 inhabitants (and the largest metro area in Northern New England) as of 2007 [update] . [28] Much of this increase in population has been due to growth in the city's southern and western suburbs. 
+
+The racial makeup of the city was 91.27% White , 2.59% African American , 0.47% Native American , 3.08% Asian , 0.06% Pacific Islander , 0.67% from other races , and 1.86% from two or more races. Hispanic or Latino of any race were 1.52% of the population. 
+
+The largest ancestries include: British (including Scottish, Welsh, and English) (21.2%), Irish (19.2%), French (10.8%), Italian (10.5%), and German (6.9%). [29] 
+
+There were 29,714 households out of which 21.4% had children under the age of 18 living with them, 32.1% were married couples living together, 10.5% had a female householder with no husband present, and 54.4% were non-families. 40.1% of all households were made up of individuals and 11.5% had someone living alone who was 65 years of age or older. The average household size was 2.08 and the average family size was 2.89. 
+
+In the city the population was spread out with 18.8% under the age of 18, 10.7% from 18 to 24, 36.1% from 25 to 44, 20.6% from 45 to 64, and 13.9% who were 65 years of age or older. The median age was 36 years. For every 100 females there were 91.8 males. For every 100 females age 18 and over, there were 89.0 males. 
+
+The median income for a household in the city was $35,650, and the median income for a family was $48,763. Males had a median income of $31,828 versus $27,173 for females. The per capita income for the city was $22,698. About 9.7% of families and 14.1% of the population were below the poverty line , including 12.5% of those under age 18 and 11.9% of those age 65 or over. Economy [ edit ] Municipal ferries on the Portland waterfront 
+
+Portland has become Maine's economic capital because the city has Maine's largest port, largest population, and is close to Boston (115 miles to the south). Over the years, the local economy has shifted from fishing, manufacturing and agriculture towards a more service-based economy . Most national financial services organizations such as Bank of America , and Key Bank base their Maine operations in Portland. Unum , Magellan Petroleum , Maine Bank Trust , ImmuCell Corp , and Pioneer Telephone have headquarters here, and Portland's neighboring cities of South Portland , Westbrook and Scarborough , provide homes for other corporations. Since 1867, Burnham Morrill Co., maker of B M Baked Beans, has had its main plant in Portland. The plant is considered a local and state landmark. 
+
+The city's port is also undergoing a revival and the first ever container train departed from the new International Marine Terminal with 15 containers of locally produced bottled water recently. 
+
+Americold , a US-based international provider of temperature-controlled storage and distribution, won the port authority's bid to develop a state-of-the-art temperature-controlled storage facility adjacent to the port. The facility will support perishable produce, meats and seafood imports and exports directly through the port and is slated to have construction begin in December 2016. 
+
+Portland has a low unemployment level when compared to national and state averages, 2.9% in October 2015. [30] Portland and surrounding communities also have higher median incomes than most other Maine communities. Fishing vessels (c. 1908) 
+
+The Portland-Montreal Pipe Line , a crude oil pipeline that stretches from South Portland to Montreal , may be a major contributing factor in these rankings. [31] 
+
+Portland is home to increased urban farming , [32] particularly in the East Bayside neighborhood. [33] [34] Culture [ edit ] Flying kites on Kite Day, Bug Light Park Maine Narrow Gauge Railroad Old Casco Bank Building Wadsworth-Longfellow House Sites of interest [ edit ] 
+
+The Arts District, centered on Congress Street, is home to the Portland Museum of Art , Portland Stage Company , Maine Historical Society Museum , Portland Public Library , Maine College of Art , Children's Museum of Maine , SPACE Gallery , Merrill Auditorium , the Kotzschmar Memorial Organ , and Portland Symphony Orchestra , as well as many smaller art galleries and studios. 
+
+Baxter Boulevard around Back Cove , Deering Oaks Park , the Eastern Promenade , Western Promenade , Lincoln Park and Riverton Park are all historical parks within the city. Other parks and natural spaces include Payson Park , Post Office Park, Baxter Woods , Evergreen Cemetery , Western Cemetery and the Fore River Sanctuary . The non-profit organization Portland Trails maintains an extensive network of walking and hiking trails throughout the city and neighboring communities. 
+
+Other sites of interest include: Casco Bay Islands, including the Casco Bay Lines Cross Insurance Arena East End Beach Exchange Street (the "Old Port" area) Hadlock Field , home of the Portland Sea Dogs International Cryptozoology Museum Longfellow Arboretum Neal S. Dow House Maine Narrow Gauge Railroad Museum Martin's Point McLellan-Sweat Mansion The Portland Club Portland Conservatory of Music Portland Financial District Portland Head Light Lighthouse Portland Observatory Portland Stage Company University of Southern Maine (USM) Victoria Mansion Wadsworth-Longfellow House Notable buildings [ edit ] Custom House, completed 1872 
+
+The spire of the Cathedral of the Immaculate Conception has been a notable feature of the Portland skyline since its completion in 1854. In 1859, Ammi B. Young designed the Marine Hospital, the first of three local works by Supervising Architects of the U.S. Treasury Department . Although the city lost to redevelopment its 1867 Greek Revival post office, which was designed by Alfred B. Mullett of white Vermont marble and featured a Corinthian portico , Portland retains his equally monumental 1872 granite Second Empire – Renaissance Revival custom house . 
+
+A more recent building of note is Franklin Towers , a 16-story residential tower completed in 1969. At 175 feet (53 meters), [35] it is Portland's (as well as Maine's) tallest building. It is next to the Cathedral of the Immaculate Conception on the city skyline. During the building boom of the 1980s, several new buildings rose on the peninsula, including the 1983 Charles Shipman Payson Building by Henry N. Cobb of Pei, Cobb, Freed Partners at the Portland Museum of Art complex (a component of which is the 1801 McLellan-Sweat Mansion ), and the Back Bay Tower, a 15-story residential building completed in 1990. [36] 
+
+477 Congress Street (known locally as the Time and Temperature Building ) is situated near Monument Square in the Arts District and is a major landmark: the 14-story building features a large electronic sign on its roof that flashes time and temperature data, as well as parking ban information in the winter. The sign can be seen from nearly all of downtown Portland. The building is home to several radio stations. Townhouses, completed 1835 
+
+The Eastland Park Hotel , completed in 1927, is a prominent hotel located on High St. in downtown Portland. Photographer Todd Webb lived in Portland during his later years and took many pictures of the city. [37] Some of Webb's pictures of Portland can be found at the Evans Gallery in South Portland. [38] Notable people [ edit ] Main article: List of people from Portland, Maine Media [ edit ] See also: Media of Portland, Maine WCSH is the city's NBC affiliate, located in the Arts District 
+
+Portland is home to a concentration of publishing and broadcast companies, advertising agencies, web designers, commercial photography studios and film makers. 
+
+The city is home to two daily newspapers, The Portland Press Herald/Maine Sunday Telegram founded in 1862 and The Portland Daily Sun . The Press Herald is published Monday through Saturday, and The Maine Sunday Telegram , is published on Sundays. Both are published by MaineToday Media, Inc., which also operates an entertainment website, MaineToday.com and owns papers in Augusta, Waterville and Bath. The Daily Sun began operation in 2009; it is owned and published by the The Conway Daily Sun in North Conway, New Hampshire. 
+
+Portland is also covered by an alternative weekly newspaper, The Portland Phoenix , published by the Phoenix Media/Communications Group, which also produces a New England-wide news, arts, and entertainment website, thephoenix.com , and a twice-annual GLBT issues magazine, Out In Maine . 
+
+Other publications include The Portland Forecaster , a weekly newspaper; The Bollard , a monthly alternative magazine; The West End News , The Munjoy Hill Observer , The Baysider , The Waterfront , Portland Magazine , and The Companion , an LGBT publication. Portland is also the home office of The Exception Magazine , an online newspaper that covers Maine. 
+
+The Portland broadcast media market is the largest one in Maine in both radio and television. A whole host of radio station are located in Portland, including WFNK (Classic Hits), WJJB (Sports), WTHT (Country), WBQW (Classical), WHXR (Rock), WHOM ( Adult Contemporary ), WJBQ ( Top 40 ), WCLZ (Adult Album Alternative), WBLM (Classic Rock), WYNZ ('60s-'70s Hits), and WCYY ( Modern rock ). WMPG is a local non-commercial radio station, run by community members and the University of Southern Maine . The Maine Public Broadcasting Network 's (MPBN) radio news operations are based in Portland. 
+
+The area is served by local television stations representing most of the television networks. These stations include WCSH 6 ( NBC ), WMTW 8 ( ABC ), WGME 13 ( CBS ), WPFO 23 ( Fox ), WPME 35 ( MyNetworkTV ), and WPXT 51 ( The CW ). There is no PBS affiliate licensed to the city of Portland but the market is served by MPBN outlets WCBB Channel 10 in Augusta and WMEA-TV Channel 26 Biddeford . TV Channel Number on Cable Call Sign Network 6 WCSH NBC 8 WMTW ABC 10 WCBB PBS 13 WGME CBS 23 WPFO Fox 26 WMEA-TV PBS 35 WPME MyNetworkTV 51 WPXT The CW Novels set in Portland [ edit ] Kieran Shields' mystery novels The Truth of All Things (2012) and A Study in Revenge (2013), featuring police detective Archie Lean and criminologist Perceval Grey, take place in early 1890s Portland. All six books in The Moosepath Saga by Van Reid , take place, in part, in late 1890s Portland, and follow the adventures and misadventures of a Portland gentlemen's club known as The Moosepath League . Reid's historical Portland is precisely described and many readers (particularly summer visitors) have made a game out of visiting the streets, landmarks, and institutions where his various and sundry characters have walked. Thus far, the Saga of the Moosepath League includes: 
+
+Cordelia Underwood , or the Marvelous Beginnings of the Moosepath League (1998) 
+
+Mollie Peer , or the Underground Adventure of the Moosepath League (1999) 
+
+Daniel Plainway , or the Holiday Haunting of the Moosepath League (2000) 
+
+Mrs. Roberto , or the Widowy Worries of the Moosepath League (2003) 
+
+Fiddler's Green , or a Wedding, a Ball, and the Singular Adventures of Sundry Moss (2004) 
+
+Moss Farm , or the Mysterious Missives of the Moosepath League (2012) Movies filmed in Portland [ edit ] The Man Without a Face Message in a Bottle The Preacher's Wife Thinner Unfinished Business Sports [ edit ] Club League Venue Established Championships Portland Sea Dogs Eastern League , Baseball Hadlock Field 1994 1 Maine Red Claws NBA D-League , Basketball Portland Exposition Building 2009 0 Portland Phoenix FC USL PDL , Soccer Memorial Stadium 2009 0 Maine Roller Derby WFTDA , Roller Derby Portland Exposition Building 2006 0 Portland Rugby Football Club (Maine) New England Rugby Football Union , Rugby Union Fox Street Field 1969 1 Maine Red Claws playing in Cross Insurance Arena Entrance area of Hadlock Field, home of the Portland Sea Dogs State Soccer Championship, Fitzpatrick Stadium 
+
+The city is home to three minor league teams. The Portland Sea Dogs , the Double-A farm team of the Boston Red Sox , play at Hadlock Field . The Maine Red Claws , the NBA Development League affiliate of the Boston Celtics , play at the Portland Exposition Building . The GPS Portland Phoenix soccer teams plays in the Premier Development League . 
+
+Previously, Portland was home of several minor league ice hockey teams: the Maine Nordiques ( NAHL ) from 1973 to 1977, the Maine Mariners ( AHL ) from 1977 to 1992, and the Portland Pirates (AHL) from 1993 to 2016. The Mariners were three-time Calder Cup winners. 
+
+The Portland Sports Complex, located off of Park and Brighton Avenues near I-295 and Deering Oaks park, houses several of the city's stadiums and arenas, including: Hadlock Field – baseball (Capacity 7,368) Fitzpatrick Stadium – football, soccer, lacrosse, field hockey, and outdoor track (Capacity 6,000+ seated) Portland Exposition Building – basketball, indoor track, concerts and trade shows (Capacity 3,000) Portland Ice Arena – hockey and figure skating (Capacity 400) 
+
+The Portland area has eleven professional golf courses , 124 tennis courts, and 95 playgrounds . There are also over 100 miles (160 km) of nature trails . 
+
+Portland hosts the Maine Marathon each October. 
+
+Memorial Stadium is the home of the Deering High School sports teams and is located behind the school. Food and beverage [ edit ] Lobster from the Gulf of Maine A few of the many restaurants in Portland, Maine 
+
+The downtown area of Portland, including the Arts District and the Old Port have a high concentration of eating and drinking establishments, with many more to be found throughout the rest of the peninsula, outlying neighborhoods, and neighboring communities. 
+
+Portland ranks among the top U.S. cities in restaurants and bars per capita. According to the Maine Restaurant Association, Portland is currently home to about 230 restaurants. Many of these institutions cater to niche markets in the culinary world, perhaps most notably the harvest of local sea cucumbers that are primarily exported to Asian markets. [39] 
+
+Portland has developed a national reputation for the quality of its restaurants and eateries. In 2009, Portland was named the "Foodiest Small Town in America" by Bon Appétit magazine, and was featured in the New York Times as a food destination. [40] [41] 
+
+In the spring of 2007, Portland was nominated as one of three finalists for "Delicious Destination of the Year" at the 2007 Food Network Awards . [42] 
+
+Many local chefs have gained national attention over the past few years. [43] [44] [45] 
+
+The city and outlying region played host to Rachael Ray in an episode of her Food Network Series $40 a Day , and was also featured in the Travel Channel series Man v. Food and Anthony Bourdain: No Reservations in 2010. 
+
+Portland is home to a number of microbreweries and brewpubs , including the D. L. Geary Brewing Company , Gritty McDuff's Brewing Company , Shipyard Brewing Company , Casco Bay Brewing Company , and Allagash Brewing Company . 
+
+Portland is the birthplace of the Italian sandwich . Southern Maine's signature sandwich, it is called simply "an Italian" by locals. Italian sandwiches are available at many stores, but most famously at Amato's Italian delicatessens, which claims to have originated the sandwich (hence the name). [46] 
+
+The Portland Farmers' Market, which has been in continuous operation since 1768, takes place every Wednesday morning in Monument Square and every Saturday in Deering Oaks Park from early May to the end of November, and every Saturday indoors at 200 Anderson Street in the East Bayside Neighborhood, from early December to the end of April. Fresh fish and seafood can be purchased at a number of markets on the wharves along Commercial Street, and numerous artisan bread makers bake fresh loaves every day. 
+
+Appreciation for sustainable food and farming gained a significant boost throughout the state in the 1970s when back-to-the-landers moved to Maine in droves. With them came the resurgence of farmers' markets (including the expansion of the Portland market), a significant organic farming movement and an increased interest in plant-based cuisine. [47] The echoes of this movement continue in Portland, where restaurants emphasize local and organic food and where the state's greatest concentration of vegetarian and vegetarian-friendly restaurants can be found. 
+
+Portland hosts a number of food and beverage festivals, including: Festival of Nations Greek Festival Harvest on the Harbor Italian Heritage Festival Maine Brewers Festival Maine Vegetarian Vegan Food Festival Taste of the Nation Infrastructure [ edit ] Government [ edit ] City Hall (c. 1910) Closeup of City Hall (2014) 
+
+The city has adopted a council-manager style government that is detailed in the city charter . The citizens of Portland are represented by a nine-member city council which makes policy, passes ordinances, approves appropriations, appoints the city manager and oversees the municipal government. The city council of nine members is elected by the citizens of Portland. The city has five voting districts, with each district electing a city councilor to represent their neighborhood interests for a three-year term. There are also four members of the city council who are elected at-large . [48] 
+
+From 1923 until 2011, city councilors chose one of themselves each year to serve as mayor, a primarily ceremonial position. Two of the most long lasting mayors, with 20 years each, were Connor Knoblock and Conner Walton. On November 2, 2010, Portland voters narrowly approved a measure that allowed them to elect the mayor. On November 8, 2011, former State Senator and candidate for U.S. Congress Michael F. Brennan was elected as mayor. On December 5, 2011, he was sworn in as the first citizen-elected mayor in 88 years (see Portland, Maine mayoral election, 2011 ). The office of mayor is a four-year paid position. [49] The current mayor is Ethan Strimling , who defeated Brennan in the 2015 election . 
+
+A city manager is appointed by the city council. The city manager oversees the daily operations of the city government, appoints the heads of city departments, and prepares annual budgets. The city manager directs all city agencies and departments, and is responsible for the executing laws and policies passed by the city council. [48] The current city manager is Jon Jennings . 
+
+Aside from the main city council there is also an elected school board for the Portland Public School system . The school board is made up in the same manner of the city council with five district members, four at-large members and one chairman. [50] There are also three students from the local high schools elected to serve on the board. There are many other boards and committees such as the Planning Committee, Board of Appeals, and Harbor Commission, etc. These committees and boards have limited power in their respective areas of expertise. Members of boards and committees are appointed by city council members. 
+
+On November 5, 2013, Portland voters overwhelmingly approved an ordinance to legalize the possession and private use of cannabis for adults, making the city the first municipality in the Eastern United States to do so. [51] 
+
+Voter registration Voter Registration and Party Enrollment as of November 2014 [52] Party Total Voters Percentage Democratic 24,486 46.49% Unenrolled 18,071 34.31% Republican 7,003 13.29% Green Independent 3,105 5.90% Total 52,665 100% Fire department [ edit ] 
+
+The Portland Fire Department (PFD) provides fire protection and emergency medical services to the city of Portland 24/7, 365. Established in 1768, the PFD is made up of over 230 paid, professional firefighters and operates out of 7 Fire Stations, located throughout the city, in addition to Fire Stations staffed by "on-call" firefighters on Peaks Island , Great Diamond Island , Cushing Island , and Cliff Island . The Portland Fire Department also operates an Airport Division Station at 1001 Westbrook St., at the Portland International Jetport , and a Marine Division Station, located at 54 Commercial St. [53] [54] 
+
+The Portland Fire Department also operates a fire apparatus fleet of 4 Engine Companies (5 when manpower permits), 4 Ladder Companies (including 2 Quints), 1 Rescue Company, 1 Hazardous Materials (Haz-Mat.) Unit, 1 Confined-Space Rescue Unit, 5 ARFF Crash Rescue Units, 3 Marine Units (Fireboats), 5 MEDCU Units (Ambulances), and numerous other special, support, and reserve units. Island "call" firefighters man a total of 4 Engines, 1 Ladder, 4 Water Tank Units, and 3 MEDCU Units (Ambulances). 
+
+Each frontline fire company is staffed by 1 Officer and 2 Firefighters per shift. Each MEDCU Unit (Ambulance) is staffed by 2 Firefighter/EMT's per shift. The Marine Division is staffed by 1 Officer and 2 Firefighters per shift, who also cross-staff Engine 7 in the event of a structural fire in the city not requiring a Marine Unit. Education [ edit ] Maine College of Art . Portland High School. College of Pharmacy, University of New England. 
+
+See also Portland Public Schools List of Portland, Maine schools High schools [ edit ] Baxter Academy for Technology and Science (charter) Casco Bay High School (public-expeditionary) Catherine McAuley High School (private) Cheverus High School (private) Deering High School (public) Portland Arts Technology High School (public-vocational) Portland High School (public) Waynflete School (private) Colleges and universities [ edit ] Maine College of Art University of Maine School of Law University of New England (formerly Westbrook College ) University of Southern Maine Hospitals [ edit ] Maine Medical Center and a jetBlue airliner, viewed from the South Portland side of the Portland International Jetport, 2009. 
+
+Maine Medical Center a Level One Trauma Center is the largest hospital in Maine and is continuing to expand its campus and services. Mercy Hospital , a faith-based hospital, is the fourth-largest hospital in the state and began construction on its new campus along the Fore River in late 2006. The project is expected to be constructed in several phases, with completion of the first phase scheduled for 2008. [55] 
+
+The formerly independent Brighton Medical Center (once known as the Osteopathic Hospital) is now owned by Maine Medical Center and is operated as a minor care center under the name Brighton First Care and New England Rehab. In 2010, Maine Medical Center's Hannaford Center for Safety, Innovation and Simulation opened at the Brighton campus. [56] The former Portland General Hospital is now home to the Barron Center nursing facility. Transportation [ edit ] Roads [ edit ] See also: Portland Transportation Center and Ocean Gateway International Marine Passenger Terminal Portland from above, looking north along I-295 
+
+Portland is accessible from I-95 (the Maine Turnpike ), I-295 , and US 1 . Also, U.S. Route 302 , a major travel route and scenic highway between Maine and Vermont , has its eastern terminus in Portland. State Routes include SR 9 , SR 22 , SR 25 , SR 26 , SR 77 , and SR 100 . SR 25 Business goes through southwestern Portland. Intercity buses and trains [ edit ] 
+
+Amtrak 's Downeaster service offers five daily trains connecting the city with eight towns and cities to the south, ending at Boston's North Station . To the north, two of the Downeasters go to Freeport and Brunswick . 
+
+Concord Coach Lines bus service connects Portland to 14 other communities in Maine as well as to Boston's South Station and Logan Airport . Both the Downeaster and the Concord Coach Lines can be found at the Portland Transportation Center on Thompsons Point Road, in the Libbytown neighborhood. [23] Greyhound Lines on Saint John Street connects to 17 Maine communities and to more than 3,600 U.S. destinations. 
+
+A carsharing service provided by Uhaul Car Share is available. 
+
+The city bus service is provided by Metro Greater Portland Transit District. [57] Airports [ edit ] The busy waterfront in Portland, Maine. 
+
+Commercial air service is available at the Portland International Jetport , located in Stroudwater west of the city's downtown district. Several car rental agencies are located at the jetport. American, Southwest, JetBlue, Delta, and United serve the airport. Direct flights are available to Baltimore, Philadelphia, New York, Atlanta, Newark, Washington, Charlotte, Chicago, and Detroit. [58] Water transportation [ edit ] 
+
+The Port of Portland is the second-largest cruise and passenger destination in the state (next to Bar Harbor ), and is served by the Ocean Gateway International Marine Passenger Terminal . Ferry service is available year-round to many destinations in Casco Bay . From 2006 to 2009, Bay Ferries operated a high speed ferry called The Cat featuring a five-hour trip to Yarmouth , Nova Scotia for summer passengers and cars. Before that, the Scotia Prince Cruises trip took eleven hours. A proposal to replace the defunct Nova Scotia ferry services was rejected in 2013 by Nova Scotia's government. From May 15, 2014 until October 2015, the cruise ship ferry Nova Star made daily trips from Portland to Yarmouth, Nova Scotia. [59] Due to poor passenger numbers and financial problems, Nova Scotia selected Bay Ferries, the prior operator of The Cat , to operate the service starting in 2016. Nova Scotia cited Bay Ferries' experience and industry relationships in making its decision. Nova Star officials pledged a smooth transition to the new operator. [60] The Nova Star was later ordered seized by federal marshals for nonpayment of bills. [61] The USNS Puerto Rico , the boat to be used on the Portland-Yarmouth ferry run 
+
+Bay Ferries announced on March 24, 2016 that they had chartered the former Hawaii Superferry boat USNS Puerto Rico from the US Navy to use for the Portland-Yarmouth service, for a two-year period. Bay Ferries signed a 10-year deal with Nova Scotia to run the ferry route, which will take about five and a half hours to run in a crossing. They stated that the boat would be renamed The Cat [62] and that service would begin around June 15, after the boat was refitted in a South Carolina shipyard. There is still a dispute as to whether the ferry will be permitted to carry trucks, which is desired by Nova Scotia businesses, but opposed by the City of Portland. [63] 
+
+The Casco Bay Lines operates several passenger ferries with dozens of trips every day year-round to the major populated islands of Casco Bay. The service to Peaks Island also provides an auto ferry for most of its schedule. Local buses and taxis [ edit ] 
+
+There are two public bus systems in Portland. The Portland Explorer is a service that connects various transportation centers within the city and the METRO provides public bus transit throughout Portland and the surrounding area. South Portland 's municipal bus service connects with Portland's METRO service. 
+
+Numerous private taxi cab companies operate in and around Portland. Honors [ edit ] Downtown Portland Food and drink [ edit ] Ranked as Bon Appétit magazine's "America's Foodiest Small Town" (2009). [64] Ranked fourth on Sperlings Best Places list for America's Foodie Cities! [65] Ranked 19th (tied with San Diego) of top 20 "America's Best Food Cities" in 2014 by Huffington Post. Named "Best American City for Food" by the Daily Meal, April 2015. [66] Named "No. 1 city in U.S. for beer drinkers" by NYC personal finance tech company, SmartAsset, December 2015. [67] Ranked No. 1 city in the world (April, 2016) for craft beer by the largest independent travel publisher in the world, The Matador Network. [68] Other [ edit ] Ranked No. 1 by Thrillist best city in America to spend the weekend in" (May, 2016). Ranked No. 9 Travel and Leisure magazine's "America's Best Cities for Hipsters" (2013). Ranked as Forbes magazine's "Top City for Empty Nesters" (2012). [69] "Top City for Empty Nesters" (Kiplingers) Ranked No. 1 on Forbes.com "America's Most Livable Cities" (2009). [70] Ranked No. 12 on Frommer's 2007 "Top Travel Destinations". [71] Ranked No. 20 in Inc. Magazine 2006 "Boom Town List of Hottest Cities for Entrepreneurs". Named No. 15 in medium-sized "Top U.S. Cities for Doing Business" by Inc. Magazine , May 2005 Named No. 14 in "Best Performing Cities" index by the Milken Institute , November 2004. Ranked No. 13 on Men's Health Magazine ' s list of America's 100 most "car crazed" cities. [72] Ranked No. 20 on the list of Top 20 Best Small Cities for College Students by the American Institute for Economic Research . [73] Named one of the "Coolest Small Cities in America" by GQ Magazine. [74] Ranked as the third gayest city in the nation by UCLA 's Williams Institute. [75] Named Best Adventure Town in the East by Outside Magazine. [76] Ranked No. 3 Parenting Magazine "Best Cities for Families." Portland's Congress Street named one of the "ten great streets in America" by the American Planning Association . (2014) Ranked No. 1 (for 2015), "Most Cozy city in America," by Honeywell Heaters and Environmental Health Engineering. Ranked No. 4 (Feb., 2015), "Best business Startup cities.", Popular Mechanics Magazine. Portland ranked as the 14th best metro area in U.S. for well being, 2014, by Gallup. (after 178,000 interviews nationwide!) Ranked 13th (tied with LA and before 14th ranked NYC), "America's Most Romantic Cities," in 2015 by Travel Leisure Magazine. Ranked No. 1 (2016) in U.S. by HenrySelects.com for best music, food, and art options in a mid-sized metro area. Sister cities [ edit ] 
+
+Portland has four sister cities , as designated by Sister Cities International (SCI): Arkhangelsk , Russia Cap-Haïtien , Haiti Mytilene , Greece Shinagawa, Tokyo , Japan [77] See also [ edit ] List of mayors of Portland, Maine Gallery [ edit ] 
+
+Aerial view of the Old Port area 
+
+Tourists along Commercial Street 
+
+Eastern Promenade Park overlooking Casco Bay 
+
+Mount Washington seen on a clear day from the Western Promenade 
+
+Portland's Financial District 
+
+Old Port (Wharf Street) 
+
+New modern hotel in Old Port 
+
+LL Bean flagship store (15 min. north of Portland) 
+
+Cruise ships docked in Portland Harbor 
+
+Middle Street in Old Port 
+
+Gourmet restaurants 
+
+Portland Museum of Art 
+
+First Friday Art Walk 
+
+Liquid Riot Bottling Company 
+
+World-famous Portland Head light. 
+
+Wednesday's farmer's market. 
+
+Scales on the waterfront (with old time, belt driven ceiling fans). 
+
+Westin Hotel and Congress Square Park. 
+
+Upper Exchange Street in Old Port Notes [ edit ] ^ Mean monthly maxima and minima (i.e. the expected highest and lowest temperature readings at any point during the year or given month) calculated based on data at said location from 1981 to 2010. ^ Official records for Portland were kept at downtown from March 1871 to 24 November 1940, and at Portland Int'l Jetport (PWM) since 25 November 1940. Temperature records are limited to the period that PWM was the official site (i.e. since 1940) and are based on the Monthly Weather Summary product issued by the NWS office in Gray, Maine. [18] precipitation and snowfall records date to 1871 and 1882, respectively. ^ This record thread is based on "Portland Area". [17] References [ edit ] General History of Portland from 1632 to 1864 by Wm. Willis (1865) History of Portland, Maine (1886) Specific ^ a b Coolidge, A.J. and J.B. Mansfeld. 1859. A History and Description of New England, General and Local. Boston: Austin J. Coolidge, p. 301. ^ a b "US Gazetteer files 2010" . United States Census Bureau . Retrieved November 23, 2012 . ^ a b "American FactFinder" . United States Census Bureau . Retrieved November 23, 2012 . ^ "Population Estimates" . United States Census Bureau . Retrieved 2014-11-04 . ^ "Find a County" . National Association of Counties . Retrieved 2011-06-07 . ^ a b "Annual Estimates of the Resident Population for Incorporated Places: April 1, 2010 to July 1, 2015" . Retrieved July 2, 2016 . ^ a b c History of Portland, Maine , Maine Resource Guide ^ "Portland: The Town that was Almost Boston" . Portland Oregon Visitors Association . Retrieved March 6, 2013 . ^ http://www2.portlandschools.org/sites/default/files/Fast%20Facts%20Spring%202013.pdf ^ Christopher Levett, of York: The Pioneer Colonist in Casco Bay, James Baxter Phinney,1893 ^ "Jedediah Preble letter on Mowat kidnapping, 1775" . Retrieved April 1, 2007 . ^ Maine Secretary of State (1899). Private and Special Laws of the State of Maine . Kennebec Journal Print. pp. 9–13 . Retrieved 30 January 2016 . ^ Conforti, Joseph (2007). Creating Portland . UPNE. p. xvii. ISBN 978-1-58465-449-0 . Retrieved 30 January 2016 . ^ "Bayside is a journey of many 'next steps ' " . Portland Press Herald (Blethen Maine Newspapers, Inc.). October 16, 2006 . Retrieved November 13, 2006 . ^ Bouchard, Kelley (October 6, 2006). "Riverwalk: Parking garage due to rise; luxury condos to follow" . Portland Press Herald (Blethen Maine Newspapers, Inc.) . Retrieved November 13, 2006 . ^ Turkel, Tux (February 6, 2007). "An urban vision rises in Bayside" . Portland Press Herald (Blethen Maine Newspapers, Inc.) . Retrieved February 27, 2007 . ^ a b c d e "NowData – NOAA Online Weather Data" . National Oceanic and Atmospheric Administration . Retrieved 2016-09-12 . ^ "Observed Weather Reports" . National Oceanic and Atmospheric Administration . Retrieved 2016-09-12 . ^ "Station Name: ME PORTLAND INTL JETPORT" . National Oceanic and Atmospheric Administration . Retrieved 2016-09-12 . ^ "NOAA" . NOAA. ^ Portland Neighborhood Associations ^ "Shall We Tax the Hunters?" . Lewiston Evening Journal . Google News Archive. February 2, 1899. p. 2. ^ a b Deans, Emma (July 8, 2010). "Welcome to Nowhere | Reconnecting an amputated neighborhood" . The Bollard . Retrieved July 12, 2010 . ^ United States Census Bureau . "Census of Population and Housing" . Retrieved November 4, 2014 . ^ "Minor Civil Division Population Search Results" . University of Maine . Retrieved September 18, 2013 . ^ "Maine - Race and Hispanic Origin for Selected Cities and Other Places: Earliest Census to 1990" . U.S. Census Bureau. ^ The most (and least) educated cities in America ^ "Table 1. Annual Estimates of the Population of Metropolitan and Micropolitan Statistical Areas: April 1, 2010 to July 1, 2012 (CBSA-EST2012-01)" ( CSV ) . 2012 Population Estimates . United States Census Bureau , Population Division. September 18, 2013 . Retrieved September 18, 2013 . ^ "Portland, Maine" . City Data. 2010 . Retrieved April 3, 2010 . ^ [1] Bureau of Labor Statistics, October 2015 ^ "About Us - Portland Montreal Pipe Line" . Portland Montreal Pipe Line . Retrieved 2016-04-27 . ^ 36 Hours in Portland, Me. New York Times, August 19, 2010 ^ Sustainability Initiatives in East Bayside Neighborhood, Portland, Maine New England Environmental Finance Center, Muskie School, University of Southern Maine, May 15, 2010 ^ Portland warehouse gets new life as urban farm, fermentory Portland Forecaster, September 7, 2010 ^ "Franklin Towers" . Emporis.com . Retrieved 2014-02-13 . ^ CB Richard Ellis/The Boulos Company. "Greater Portland Area 2006 Office Market Survey" (PDF) . Retrieved August 10, 2006 . ^ Bob Keyes (April 4, 2010). "THAT '70S SHOW: A new photography exhibition offers a look back at a very different Portland" . Maine Sunday Telegram . Retrieved October 10, 2010 . "Seeing Portland" focuses on the work of photographers from the 1970s and early '80s, including "Splendid Restaurant, Congress Street, Portland, 8/20/76" by Todd Webb. The show opens Saturday at Zero Station in Portland. ... The exhibition brings together the work of several accomplished photographers. In addition to Graham, photographers with work in the show include Tom Brennan, C.C. Church, Rose Marasco , Joe Muir, Mark Rockwood, Jeff Stevensen, Jay York and Todd Webb. ^ {{cite news |author=Bob Keyes |title= Photographer's estate updates, improves website |work=Maine Sunday Telegram |quote= The estate of Todd Webb announced a recent refurbishment of its website, toddwebbphotographs.com. |date= May 30, 2010 |url= http://www.pressherald.com/life/audience/arts-dispatches_2010-05-30.html |accessdate= October 10, 2010 }} ^ Huang, Josie (April 23, 2007). "Portland diners keep fast-food urges under control" . Portland Press Herald (Blethen Maine Newspapers, Inc.) . Retrieved April 23, 2007 . ^ Goad, Meredith (September 18, 2009). "A second course of food glory" . Portland Press Herald . Retrieved September 25, 2009 . ^ Knowlton, Andrew. "Portland, Maine: In the Magazine: Bon Appétit" . Bonappetit.com . Retrieved April 28, 2013 . ^ Goad, Meredith (April 16, 2007). "Portland has taste of food fame, but the other Portland is served" . Portland Press Herald (Blethen Maine Newspapers, Inc.) . Retrieved April 16, 2007 . ^ Goad, Meredith (April 5, 2007). "Food could put Portland on the map" . Portland Press Herald (Blethen Maine Newspapers, Inc.) . Retrieved April 5, 2007 . ^ Goad, Meredith (April 11, 2007). "Where chefs come to shine" . Portland Press Herald (Blethen Maine Newspapers, Inc.) . Retrieved April 11, 2007 . ^ First, Devra (February 13, 2008). "James Beard Awards: and the nominees might be" . The Boston Globe . ^ "History Hoagie Sandwich, History Submarine Sandwich, History Po' Boys Sandwich, Poor Boy Sandwich, History Dagwood Sandwich, History Italian Sandwich" . Whatscookingamerica.net . Retrieved April 28, 2013 . ^ Kamila, Avery Yale (August 19, 2009). "Veteran plant-eater happily endorses veggie chic" . Portland Press Herald (MaineToday Media, Inc.) . Retrieved August 19, 2009 . ^ a b © Copyrighted ^ Portland Elected Mayor Measure Passes ^ Copyrighted ^ Koenig, Seth (November 6, 2013). "Portland police chief, Maine attorney general say Portland pot legalization vote won't change enforcement strategies" . Bangor Daily News . Retrieved June 1, 2014 . ^ "REGISTERED ENROLLED VOTERS - STATEWIDE" (PDF) . November 4, 2014 . Retrieved May 25, 2015 . ^ http://portlandmaine.gov/190/Fire ^ http://portlandmaine.gov/Facilities?clear=False ^ [2] Archived December 23, 2008, at the Wayback Machine . ^ http://simulation.mmc.org ^ http://www.portlandmaine.gov/460/METRO-Bus ^ http://www.transtats.bts.gov/airports.asp?pn=1 Airport=PWM Airport_Name=Portland,%20ME:%20Portland%20International%20%20Jetport carrier=FACTS ^ Richardson, Whit (March 5, 2013). "Nova Scotia rejects both proposals to restart ferry service to Maine" . Bangor Daily News . Retrieved September 16, 2016 . ^ Fischell, Darren (October 29, 2015). "Province prefers past Cat ferry operator over Nova Star for 2016" . Bangordailynews.com . Retrieved November 19, 2015 . ^ Betts, Stephen (October 31, 2015). "Court orders seizure of Nova Star ferry" . Bangordailynews.com . Retrieved November 19, 2015 . ^ Murphy, Edward (March 24, 2016). "New ferry expected to make Portland-Yarmouth trip in 5½ hours" . Portland Press Herald . Retrieved March 29, 2016 . ^ Fischell, Darren (March 24, 2016). "Ferry operator lands ship, signs 10-year Portland-Nova Scotia deal" . Bangordailynews.com . Retrieved March 29, 2016 . ^ "America's Foodiest Small Town" . ^ America's Top Foodie Cities – Portland is #4! | There's nowhere quite like downtown Portland ^ "Best American Cities for Food" . The Daily Meal . Retrieved 2016-05-04 . ^ "The Best Cities for Beer Drinkers | SmartAsset.com" . smartasset.com . Retrieved 2016-05-04 . ^ "17 of the world's best cities for craft beer" . Matador Network . Retrieved 2016-05-04 . ^ "Second Act" . ^ "America's Most Livable Cities" . Forbes . April 1, 2009. Archived from the original on December 8, 2012 . Retrieved April 7, 2009 . ^ "Frommer's Top Travel Destinations for 2007" . Frommer's (Wiley Publishing, Inc.). November 21, 2006 . Retrieved November 29, 2006 . ^ America's Most Car-Crazed Cities ^ Quimby, Beth (September 10, 2010). "Portland joins list of top college cities" . Portland Press Herald . Retrieved September 10, 2010 . ^ "The Coolest Small Cities in America" . GQ . Retrieved November 6, 2010 . ^ "Yep, We're Gay! Study Finds Portland (Maine!) Third Gayest City" . LiveWorkPortland. July 25, 2010 . Retrieved January 19, 2011 . ^ Portland, Maine: Best. City. Ever. | MNN – Mother Nature Network ^ Japan index of Sister Cities International retrieved on December 9, 2008 Further reading [ edit ] Michael C. Connolly. Seated by the Sea: The Maritime History of Portland, Maine, and Its Irish Longshoremen (University Press of Florida; 2010) 280 pages; Focuses on the years 1880 to 1923 in a study of how an influx of Irish immigrant workers transformed the city's waterfront. John F. Bauman. Gateway to Vacationland: The Making of Portland Maine (University of Massachusetts Press: 2012) 285 pages; Explores the socio-economic, political and cultural history of Portland emphasizing the evolution of the city's built environment after the fire of 1866. External links [ edit ] Wikimedia Commons has media related to Portland, Maine . Wikivoyage has a travel guide for Portland, Maine . Wikisource has the text of a 1911 Encyclopædia Britannica article about Portland, Maine . City of Portland Port of Portland Portland Public Schools Portland Public Library Portland's Downtown District Greater Portland Casco Bay Convention and Visitors Bureau Old USGS maps of Portland Area. 1876 Panoramic Birdseye View of Portland by Warner at LOC. Guide to the Western Promenade, Portland, Maine, Portlandlandmarks.org Articles relating to Portland, Maine v t e The City of Portland, Maine General Buildings Climate Government History Timeline Mayors Media Notable people Transportation Geography Bramhall Hill Cliff Island Cow Island Cushing Island Fore River Fore River Sanctuary Great Diamond Island Jewell Island Little Diamond Island Mackworth Island Munjoy Hill Peaks Island Neighborhoods Historic Deering Current Arts District Back Cove East Bayside (includes Kennedy Park ) Deering Center Munjoy Hill Old Port Portland Financial District West End Bridges, Streets and Squares Casco Bay Bridge Commercial Street Congress Street Eastern Promenade Exchange Street Franklin Street Longfellow Square Martin's Point Bridge Monument Square Tukey's Bridge Veterans' Memorial Bridge Western Promenade Sports teams Current Maine Red Claws Portland Phoenix Portland Sea Dogs Maine Roller Derby Former Maine Mariners Portland Blue Sox Portland Pilots Portland Pirates Metropolitan area Greater Portland Education University of Southern Maine Maine College of Art Salt Institute University of New England Portland, Maine schools Casco Bay HS Catherine McAuley HS Cheverus HS Deering HS Grace Baptist School Portland HS Waynflete School v t e Greater Portland, Maine Counties Androscoggin Cumberland Sagadahoc York Cities and towns 
+
+25k-99k Lewiston Portland Cities and towns 
+
+10k-25k Auburn Biddeford Brunswick Falmouth Gorham Kennebunk Saco Sanford Scarborough South Portland Westbrook Windham York 
+
+Template:Maine county seats v t e Municipalities and communities of Cumberland County, Maine , United States County seat : Portland Cities Portland South Portland Westbrook Towns Baldwin Bridgton Brunswick Cape Elizabeth Casco Chebeague Island Cumberland Falmouth Freeport Frye Island Gorham Gray Harpswell Harrison Long Island Naples New Gloucester North Yarmouth Pownal Raymond Scarborough Sebago Standish Windham Yarmouth CDPs Bridgton Brunswick Brunswick Station Casco Cousins Island Cumberland Center Falmouth Falmouth Foreside Freeport Gorham Gray Little Falls Littlejohn Island Naples North Windham Scarborough South Windham Standish Steep Falls Yarmouth Other 
+
+villages Casco Terrace North Bridgton Prouts Neck Sebago Lake South Casco South Freeport White Rock v t e Cities of Maine Portland Lewiston Bangor South Portland Auburn Biddeford Sanford Augusta Saco Westbrook Waterville Presque Isle Brewer Bath Caribou Old Town Ellsworth Rockland Belfast Gardiner Calais Hallowell Eastport v t e State of Maine Augusta (capital) Topics Index Geography Government Governors History Islands Images People Visitor attractions Congressional districts Society Culture Crime Demographics Economy Education Party strength Regions Down East Highlands Kennebec Valley Lake Country Mid Coast North Woods Penobscot Bay Southern Coast Western Mountains Counties Androscoggin Aroostook Cumberland Franklin Hancock Kennebec Knox Lincoln Oxford Penobscot Piscataquis Sagadahoc Somerset Waldo Washington York Cities Auburn Augusta Bangor Bath Belfast Biddeford Brewer Calais Caribou Eastport Ellsworth Gardiner Hallowell Lewiston Old Town Portland Presque Isle Rockland Saco Sanford South Portland Waterville Westbrook Largest towns Bridgton Brunswick Cape Elizabeth Falmouth Gorham Kennebunk Kittery Lisbon Old Orchard Beach Orono Sanford Scarborough Skowhegan Standish Topsham Wells Windham Winslow York v t e Presumpscot River Watershed Tributaries Bear River Chute River Crooked River East Branch Piscataqua River Little River Muddy River North Branch Little River Northwest River Piscataqua River Pleasant River Songo River Sticky River Tenny River Lakes Brandy Pond Crescent Lake Crystal Lake Highland Lake ( Bridgton ) Highland Lake ( Windham ) Keoka Lake Little Sebago Lake Long Lake Panther Pond Peabody Pond Pleasant Lake Sebago Lake Thomas Pond Trickey Pond Towns Albany Bridgton Casco Cumberland Falmouth Frye Island Gorham Gray Harrison Naples Norway Otisfield Portland Raymond Sebago Standish Sweden Waterford Westbrook Windham Landmarks Babb's Bridge Bridgton and Saco River Railroad Cumberland and Oxford Canal Oriental Powder Company Roosevelt Trail S. D. Warren Paper Mill Sebago Lake State Park Songo Lock v t e New England Topics Autumn Climate Cuisine Culture Demographics Economy Elections Flag Geography Geology Government History New England Colonies Dominion of New England New England Confederation Literature Politics Sports States Connecticut Maine Massachusetts New Hampshire Rhode Island Vermont Major cities Augusta Bangor Boston Bridgeport Burlington Cambridge Concord Fall River Hartford Lowell Lynn Manchester Montpelier Nashua New Bedford New Haven New London Pawtucket Portland Providence Quincy Springfield Stamford Waterbury Worcester State capitals Augusta Boston Concord Hartford Montpelier Providence Transportation Passenger rail MBTA (MA, RI) Northeast Corridor (CT, MA, RI) Acela Express (CT, MA, RI) Downeaster (ME, NH, MA) Vermonter (CT, MA, VT) Shore Line East (CT) Metro-North (CT) High-speed Northern New England (proposed) Major Interstates I-84 (CT, MA) I-89 (NH, VT) I-90 (Mass Pike) (MA) I-91 (CT, MA, VT) I-93 (MA, NH, VT) I-95 (CT, RI, MA, NH, ME) Airports Bradley (CT) Burlington (VT) T. F. Green (RI) Manchester–Boston (NH) Logan (MA) Portland (ME) Category Portal v t e Northeastern United States Topics Culture Geography Government History States Connecticut Delaware District of Columbia Maryland Massachusetts New Hampshire New Jersey New York Maine Pennsylvania Rhode Island Vermont Major cities Allentown Baltimore Boston Bridgeport Buffalo Burlington Cambridge Elizabeth Erie Hartford Jersey City Lowell Manchester New Haven New York Newark Paterson Philadelphia Portland Providence Quincy Reading Rochester Scranton Springfield Stamford Syracuse Washington, D.C. Waterbury Wilmington Worcester State capitals Albany Annapolis Augusta Boston Concord Dover Hartford Harrisburg Montpelier Providence Trenton Authority control WorldCat Identities VIAF : 128452415 LCCN : n81050808 GND : 4198300-2 BNF : cb150658204 (data) (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Portland,_Maine oldid=744565535 " Categories : Portland, Maine Former state capitals in the United States Port cities and towns of the United States Atlantic coast Populated places established in 1633 Portland, Maine metropolitan area 1633 establishments in the Thirteen Colonies Cities in Cumberland County, Maine Populated coastal places in Maine Cities in Maine County seats in Maine Hidden categories: Articles with Wayback Machine links Use mdy dates from July 2014 Coordinates on Wikidata Articles containing potentially dated statements from 2007 All articles containing potentially dated statements Wikipedia articles with VIAF identifiers Wikipedia articles with LCCN identifiers Wikipedia articles with GND identifiers Wikipedia articles with BNF identifiers Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Wikivoyage Languages Afrikaans العربية Aragonés Asturianu বাংলা Bân-lâm-gú Беларуская Български Brezhoneg Català Čeština Cymraeg Dansk Deutsch Eesti Ελληνικά Español Esperanto Euskara فارسی Français Frysk Gaeilge Gàidhlig Galego 한국어 Հայերեն Hrvatski Bahasa Indonesia Interlingua Interlingue Íslenska Italiano עברית Қазақша Kernowek Kiswahili Кырык мары Latina Latviešu Lietuvių मराठी Nāhuatl Nederlands 日本語 Norsk bokmål Norsk nynorsk Occitan Polski Português Română Русский Sardu Scots Simple English Српски / srpski Srpskohrvatski / српскохрватски Suomi Svenska Tagalog Türkçe Українська اردو ئۇيغۇرچە / Uyghurche Vepsän kel’ Tiếng Việt Volapük Winaray 粵語 中文 Edit links This page was last modified on 16 October 2016, at 02:14. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.976", "walltime": "1.187", "ppvisitednodes": { "value": 11497, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 416981, "limit": 2097152 }, "templateargumentsize": { "value": 89255, "limit": 2097152 }, "expansiondepth": { "value": 16, "limit": 40 }, "expensivefunctioncount": { "value": 7, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 883.755 1 -total", " 32.59% 288.056 2 Template:Reflist", " 18.74% 165.631 1 Template:Infobox_settlement", " 15.58% 137.661 2 Template:Infobox", " 14.89% 131.557 32 Template:Cite_web", " 9.66% 85.329 1 Template:Navboxes", " 9.53% 84.243 1 Template:Portland,_Maine_weatherbox", " 9.13% 80.676 2 Template:Weather_box", " 7.52% 66.439 19 Template:Cite_news", " 6.42% 56.744 9 Template:Navbox" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.350", "limit": "10.000" }, "limitreport-memusage": { "value": 9758240, "limit": 52428800 } }, "cachereport": { "origin": "mw1249", "timestamp": "20161020151923", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1266"});});

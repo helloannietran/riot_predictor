@@ -1,0 +1,405 @@
+UEFA Euro 2004 - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"UEFA_Euro_2004","wgTitle":"UEFA Euro 2004","wgCurRevisionId":737134286,"wgRevisionId":737134286,"wgArticleId":372770,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Unfit url","Use dmy dates from May 2014","Articles with Portuguese-language external links","Articles containing Portuguese-language text","Commons category with page title same as on Wikidata","Articles with French-language external links","Articles with German-language external links","Articles with Spanish-language external links","Articles with Italian-language external links","Articles with Russian-language external links","Articles with Japanese-language external links","Articles with Chinese-language external links","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","UEFA Euro 2004","International association football competitions hosted by Portugal","UEFA European Championship tournaments","2003–04 in European football","2003–04 in Portuguese football"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"UEFA_Euro_2004","wgRelevantArticleId":372770,"wgRequestId":"WAkfpwpAADwAAG-r0kAAAAAL","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikibaseItemId":"Q102920","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); UEFA Euro 2004 From Wikipedia, the free encyclopedia Jump to: navigation , search This article is about the sporting event. For the video game based on this event, see UEFA Euro 2004 (video game) . UEFA Euro 2004 Campeonato da Europa de Futebol 2004 (Portuguese) Official logo Tournament details Host country Portugal Dates 12 June – 4 July Teams 16 Venue(s) 10 (in 8 host cities) Final positions Champions Greece (1st title) Runners-up Portugal Tournament statistics Matches played 31 Goals scored 77 (2.48 per match) Attendance 1,156,473 (37,306 per match) Top scorer(s) Milan Baroš (5 goals) Best player Theodoros Zagorakis ← 2000 2008 → 
+
+The 2004 UEFA European Championship , commonly referred to as UEFA Euro 2004 or simply Euro 2004 , was the 12th edition of the UEFA European Championship , a quadrennial football competition contested by the men's national teams of UEFA member associations. The final tournament was hosted for the first time in Portugal , from 12 June to 4 July 2004, after their bid was selected on 12 October 1999, over those of Spain and Austria / Hungary . [1] [2] A total of thirty-one matches were played in ten venues across eight cities – Aveiro , Braga , Coimbra , Guimarães , Faro / Loulé , Leiria , Lisbon and Porto . 
+
+As in the 1996 and 2000 editions, the final tournament was contested by 16 teams – the hosts plus the 15 teams that successfully overcame the qualification round , which began in September 2002. Latvia secured their first participation in a major tournament after overcoming Turkey in the play-offs , while Greece returned to the European Championship after 24 years. 
+
+The tournament was rich in surprises and upsets: Germany , Spain and Italy were eliminated in the group stage, while France , the defending champions, were knocked out in the quarter-finals by Greece. The Portuguese team recovered from an opening defeat against Greece to reach the final , eliminating England and the Netherlands along the way. For the first time in a major football tournament, the last match featured the same teams as the opening match. [3] Portugal was defeated by Greece with a goal from Angelos Charisteas . [4] Greece's triumph was unexpected, considering that they had only qualified for two other major tournaments, the UEFA Euro 1980 and the 1994 FIFA World Cup , where they failed to win a single match. 
+
+During the opening ceremony, one of the tableaux depicted a ship – symbolising the voyages of the Portuguese explorers – sailing through a sea that transformed into the flags of all competing countries. [5] In the closing ceremony, Portuguese-Canadian singer Nelly Furtado performed her single and official tournament theme song, " Força ". 
+
+Contents 1 Summary 2 Qualification 2.1 Qualified teams 2.2 Final draw 3 Venues 3.1 Ticketing 3.2 Broadcasting 3.3 Team base camps 4 Squads 5 Match officials 6 Group stage 6.1 Tiebreakers 6.2 Group A 6.3 Group B 6.4 Group C 6.5 Group D 7 Knockout stage 7.1 Format 7.2 Bracket 7.3 Quarter-finals 7.4 Semi-finals 7.5 Final 8 Statistics 8.1 Goalscorers 8.2 Awards 8.3 Prize money 8.4 Discipline 9 Marketing 9.1 Logo, mascot and official song 9.2 Match ball 9.3 Trophy tour 9.4 Merchandise and memorabilia 9.5 Sponsorship 10 See also 11 References 12 External links 
+
+Summary [ edit ] 
+
+Group A opened with a shock as Greece, ranked outsiders from start, defeated the hosts 2–1. Giorgos Karagounis put the Greeks ahead after only seven minutes, and Angelos Basinas made it 2–0 from the penalty spot on 51 minutes. An injury time goal from Cristiano Ronaldo proved no more than a consolation. [6] Greece then drew with Spain, [7] before losing to Russia in their last group stage game. [8] Portugal, meanwhile, recovered from their opening defeat by defeating Russia 2–0, who had their keeper Sergei Ovchinnikov sent off. [9] Nuno Gomes scored the winning goal against Spain, [10] which ensured Portugal finished first place in Group A. Greece advanced to the quarter-finals as runners-up, ahead Spain on goals scored. [11] 
+
+France, the holders, and England ended their Group B encounter in furious fashion as the French scored twice in injury time to go from 1–0 down to 2–1 winners. Zinedine Zidane scored in the first minute of injury time and two minutes later, an error by the English defence gave a France penalty and Zidane fired in the winner. [12] England's other two games were memorable for the performances of their young star Wayne Rooney . Only 18 at the time, Rooney's goal-scoring ability proved instrumental in victories over Switzerland (3–0) and Croatia (4–2). [13] [14] France and England qualified from the group as winners and runners-up, respectively. [15] Opening ceremony at the Estádio do Dragão in Porto 
+
+Group C featured a three-way tie between Sweden, Denmark and Italy for first spot. All matches between the three sides had ended in draws and all three had beaten Bulgaria. [16] [17] [18] Italy were ultimately eliminated on the number of goals scored between the three sides, after Sweden and Denmark drew 2–2 and qualified to the quarter-finals as group winners and runners-up. [19] [20] The Italians went so far as to accuse Sweden and Denmark of fixing their match, [21] as both sides knew that a 2–2 result would advance them both over Italy, but UEFA disregarded such an idea. [22] 
+
+The Czech Republic took the first place in Group D after becoming the only team to win all three of their group matches. They defeated Latvia 2–1, [23] the Netherlands 3–2, [24] and Germany 2–1. [25] It was another disappointing European campaign for Germany, which failed to advance from the group stage for the second consecutive time. [26] The Netherlands claimed a quarter-final berth as runners-up. [27] Swedish striker Henrik Larsson taking a free kick against the Netherlands in the quarter-finals 
+
+In the first quarter-final match between England and Portugal, the English opened the score after only two minutes, through Michael Owen . Portugal's constant attacking pressure from then on resulted in Hélder Postiga 's 83rd-minute equaliser. A controversial incident came in the dying minutes when Owen hit the Portuguese crossbar, resulting in a Sol Campbell header that appeared to have given England the lead again, but was ruled out for what the referee Urs Meier deemed a foul on the Portuguese goalkeeper Ricardo . The sides exchanged goals in extra-time, sending the match to a penalty shoot-out. Portugal won 6–5, as goalkeeper Ricardo saved a penalty from Darius Vassell , and then scored himself the winning goal. [28] 
+
+The Greeks, meanwhile, continued to stun everybody. Firm defensive play and an Angelos Charisteas goal on 65 minutes helped them defeat France 1–0 and send Greece through to the semi-finals. [29] This victory made Greece the first team to defeat both the holders and the hosts in the same tournament. Sweden and the Netherlands played out an exciting encounter, but neither side could find a breakthrough and the match ended goalless, even after a dramatic extra-time, in which Sweden, through Fredrik Ljungberg , came as close to scoring as hitting the inside of the Dutch goalpost. The Dutch ultimately progressed after winning the penalty shoot-out 5–4, their first ever victory on penalties in a major tournament. [30] The last quarter-final match saw the Czechs dispatch Denmark, as a two-goal effort from Milan Baroš helped seal a 3–0 win. [31] Angelos Charisteas (first from left with white shirt), scoring Greece's winner against Portugal in the final. 
+
+Portugal and the Netherlands faced each other in the first semi-final. Cristiano Ronaldo put the hosts in the lead from a corner kick midway through the first half, and just before the hour mark Maniche made it 2–0 for Portugal with a spectacular goal from the corner of the penalty area. An own goal from Jorge Andrade gave the Netherlands a glimmer of hope. Portugal came close to scoring a third goal that was only stopped by Wilfred Bouma 's blocking attempt. The game ended 2–1 to Portugal and the hosts, [32] after their opening day failure, were through to the final of their European Championship. The Czech Republic looked likely candidates to face the hosts in the final. They were favorites to take the trophy, having won all four games. However, they would have to see off the upstart Greeks to do so. The Czechs had several chances, including a shot from Tomáš Rosický that struck the bar. The game remained goalless, until the dying moments of the first half of extra-time, when Traianos Dellas headed home the winner, the first and only silver goal in a European Championship. [33] 
+
+The final was a repeat of the opening game of the tournament and Portugal were hoping to avenge their opening day loss. Portugal furiously attacked and dominated the possession but once again, sturdy defending and goalkeeping from Greece kept the Portuguese hosts off the scoreboard. Just before the hour mark, Greece earned a corner kick from which Angelos Charisteas scored. Portugal continued to press after the goal but even with five minutes of injury time they could not find an equaliser. Greece won the match 1–0 and were crowned European champions, [34] a title that they were given a 150–1 chance of winning before the tournament. [35] All of Greece's wins in the knockout stage came in an identical manner: a 1–0 win, with the goal being a header off a cross from the right wing. Portugal became the first host nation to lose in a European Championship final. Qualification [ edit ] Main article: UEFA Euro 2004 qualifying 
+
+The draw for the qualifying round was held on 25 January 2002 at the Europarque Congress Centre, in Santa Maria da Feira , Portugal. Fifty teams were divided into ten groups of five and each team played two matches against all its opponents, on a home-and-away basis. Qualification matches took place from September 2002 to November 2003. The first-placed teams from each group qualified automatically to the final tournament, whereas the ten runners-up took part in a two-legged play-off to select the remaining five teams that would join the host nation in the final tournament. [36] [37] Qualified teams [ edit ] 
+
+Ten of the sixteen finalists participated in the previous tournament in 2000 . Latvia made its first appearance in a major football competition, while Greece returned to the European Championship finals after a 24-year absence. Bulgaria, Croatia, Russia and Switzerland also took part in their second tournament finals since their debut in 1996 . Country Qualified as Qualified on Previous appearances in tournament [A] Portugal 00 Hosts 000000001999-10-13-0000 13 October 1999 3 ( 1984 , 1996 , 2000 ) France 01 Group 1 winner 000000002003-09-10-0000 10 September 2003 5 ( 1960 , 1984 , 1992 , 1996 , 2000 ) Denmark 02 Group 2 winner 000000002003-10-11-0000 11 October 2003 6 ( 1964 , 1984 , 1988 , 1992 , 1996 , 2000 ) Czech Republic [B] 03 Group 3 winner 000000002003-09-10-0000 10 September 2003 5 ( 1960 , 1976 , 1980 , 1996 , 2000 ) Sweden 04 Group 4 winner 000000002003-09-10-0000 10 September 2003 2 ( 1992 , 2000 ) Germany [C] 05 Group 5 winner 000000002003-10-11-0000 11 October 2003 8 ( 1972 , 1976 , 1980 , 1984 , 1988 , 1992 , 1996 , 2000 ) Greece 06 Group 6 winner 000000002003-10-11-0000 11 October 2003 1 ( 1980 ) England 07 Group 7 winner 000000002003-10-11-0000 11 October 2003 6 ( 1968 , 1980 , 1988 , 1992 , 1996 , 2000 ) Bulgaria 08 Group 8 winner 000000002003-09-10-0000 10 September 2003 1 ( 1996 ) Italy 09 Group 9 winner 000000002003-10-11-0000 11 October 2003 5 ( 1968 , 1980 , 1988 , 1996 , 2000 ) Switzerland 10 Group 10 winner 000000002003-10-11-0000 11 October 2003 1 ( 1996 ) Croatia 11 Play-off winner 000000002003-11-19-0000 19 November 2003 1 ( 1996 ) Latvia 12 Play-off winner 000000002003-11-19-0000 19 November 2003 0 (debut) Netherlands 13 Play-off winner 000000002003-11-19-0000 19 November 2003 6 ( 1976 , 1980 , 1988 , 1992 , 1996 , 2000 ) Spain 14 Play-off winner 000000002003-11-19-0000 19 November 2003 6 ( 1964 , 1980 , 1984 , 1988 , 1996 , 2000 ) Russia [D] 15 Play-off winner 000000002003-11-19-0000 19 November 2003 7 ( 1960 , 1964 , 1968 , 1972 , 1988 , 1992 , 1996 ) ^ Bold indicates champion for that year. Italic indicates host for that year. ^ From 1960 to 1992, the Czech Republic competed as Czechoslovakia . ^ From 1972 to 1988, Germany competed in the European Championship final tournament as West Germany . ^ From 1960 to 1988, Russia competed as the Soviet Union , and in 1992 as the Commonwealth of Independent States . Final draw [ edit ] 
+
+The draw for the group stage took place on 30 November 2003 at the Pavilhão Atlântico in Lisbon , Portugal, where the 16 finalists were divided into four groups. [38] [39] 
+
+The pot allocations were based on the UEFA national team coefficient which measured performance of teams in the 2002 FIFA World Cup qualifying and UEFA Euro 2004 qualifying . [38] The coefficient was calculated by dividing the number of all points scored (three points for a win, one for a draw) by the number of all matches played. Results from the final tournaments, play-off matches and friendly games were all ignored. [40] As host country, Portugal were unranked and automatically placed in Group A. The remaining 15 teams were split into four pots, with title-holders France seeded alongside Sweden and the Czech Republic in the first pot. [38] For reference, the European zonal rankings calculated for FIFA World Rankings from 19 November 2003 are given in tables below. Pot 1 [a] Team Coeff Rank France [b] 3,000 1 Sweden 2,389 12 Czech Republic 2,333 7 Pot 2 Team Coeff Rank Italy 2,313 8 Spain 2,313 2 England 2,313 5 Germany 2,188 6 Pot 3 Team Coeff Rank Netherlands 2,167 3 Croatia 2,125 14 Russia 2,056 18 Denmark 2,056 9 Pot 4 Team Coeff Rank Bulgaria 1,889 22 Switzerland 1,611 24 Greece 1,563 19 Latvia 1,250 30 ^ Hosts Portugal (coefficient 2,400; rank 13) were automatically assigned to position A1. ^ Defending champions France (coefficient 3,000; rank 1) were automatically assigned to Pot 1. Group A Pos Team A1 Portugal A2 Greece A3 Spain A4 Russia Group B Pos Team B1 France B2 England B3 Switzerland B4 Croatia Group C Pos Team C1 Sweden C2 Bulgaria C3 Denmark C4 Italy Group D Pos Team D1 Czech Republic D2 Latvia D3 Germany D4 Netherlands Venues [ edit ] 
+
+The final tournament was played in ten venues located in eight different cities. Lisbon and Porto , the two biggest cities, had two venues each, while Aveiro , Braga , Coimbra , Faro - Loulé , Guimarães and Leiria had one venue. In order to meet UEFA's requirements on venue capacity and infrastructure, seven new stadiums were built – Estádio Municipal de Aveiro (Aveiro), [41] Estádio Municipal de Braga (Braga), [42] Estádio Algarve (Faro-Loulé), [43] Estádio Dr. Magalhães Pessoa (Leiria), [44] Estádio da Luz (Lisbon), [45] Estádio José Alvalade (Lisbon), [46] and Estádio do Dragão (Porto) [47] – and three underwent renovation works – Estádio Cidade de Coimbra (Coimbra), [48] Estádio D. Afonso Henriques (Guimarães), [49] and Estádio do Bessa Século XXI (Porto). [50] The Estádio da Luz was the largest stadium with a tournament capacity of 65,000 seats, and served as the venue for the final. The opening ceremony and match took place at the Estádio do Dragão. 
+
+This was the first European Championship where matches took place in more than eight venues, since the tournament was expanded to sixteen teams in 1996. As of the Euro 2016 , the final tournament will be contested by twenty-four teams and matches will be played in ten venues. [51] 
+
+The table below lists stadium capacity for the final tournament, which may not correspond to their effective maximum capacity. Aveiro Braga Coimbra Faro Guimarães Leiria Lisbon Porto Lisbon Lisbon Porto Estádio da Luz Estádio José Alvalade Estádio do Dragão Capacity: 65,000 Capacity: 52,000 Capacity: 52,000 Aveiro Coimbra Braga Estádio Municipal de Aveiro Estádio Cidade de Coimbra Estádio Municipal de Braga Capacity: 30,000 Capacity: 30,000 Capacity: 30,000 Guimarães Faro / Loulé Porto Leiria Estádio D. Afonso Henriques Estádio Algarve Estádio do Bessa Século XXI Estádio Dr. Magalhães Pessoa Capacity: 30,000 Capacity: 30,000 Capacity: 30,000 Capacity: 30,000 Ticketing [ edit ] 
+
+A total of 1.2 million tickets were available for the 31 matches of the final tournament, [52] of which 77% were to be sold to the general public, and the remainder reserved for sponsors and partners (13%), media (5%), and corporate hospitality (5%). [53] Public sales for an initial batch of 450,000 tickets (38%) were launched on 28 April 2003, [54] in a ceremony in Lisbon which gathered former European football stars Eusébio and Ruud Gullit . [55] Ticket prices were divided in three categories, ranging from €35 (group matches) to €270 (final). [53] 
+
+In a first phase lasting until 16 June 2003, supporters could apply for tickets via UEFA's tournament website or through forms available at the Portuguese Football Federation and match venues. Applicants could request a maximum of four tickets per match but were limited to one match per day. In parallel to individual match tickets, UEFA created a new category of tickets called "Follow My Team", which allowed supporters to see all the matches of their favourite team (group stage and, if qualified, knockout stage matches). If there were oversubscribed matches by the end of the first phase of sales, a match-specific draw would take place to select the successful applicants. [53] 
+
+Between 1 August and 24 November 2003, available tickets were placed again on sale in a first-come, first-served basis. [56] After the draw for the group stage on 30 November, a third phase of public sales began on 9 December, which included a second batch of tickets (39%) that could be bought until March 2004 through the national associations of the finalist teams. [57] Every national association was awarded 20% of the venue capacity for each of their team's matches. [53] From 1 to 30 April 2004, surplus tickets from UEFA or national associations were made available to the public for the last time. [58] Ticket distribution began in May, after sales were officially closed. [53] Broadcasting [ edit ] Main article: UEFA Euro 2004 broadcasting rights 
+
+Nineteen cameras were used in each of the ten venues to broadcast the live matches, with three additional cameras in the opening and knockout stage matches. [59] [60] Team base camps [ edit ] 
+
+Póvoa de Varzim 
+
+Coruche 
+
+Sintra Portimão 
+
+Oeiras 
+
+Santo Tirso 
+
+Almancil 
+
+Vila do Conde 
+
+
+
+Lisbon Anadia 
+
+
+
+Albufeira Alcochete 
+
+Vilamoura 
+
+Braga 
+
+Estoril 
+
+
+
+Óbidos UEFA Euro 2004 team base camps 
+
+Each team was provided a base camp for residence and daily training between tournament matches. An initial list of 25 bases approved by the Portuguese Football Federation , following a selection process started in November 2001, was announced by the organisation on 5 February 2003. [61] Team Base camp Match venues Last match Bulgaria Póvoa de Varzim Braga , Guimarães and Lisbon (group stage) 000000002016-06-22-0000 22 June Croatia Coruche Leiria and Lisbon (group stage) 000000002016-06-21-0000 21 June Czech Republic Sintra Aveiro and Lisbon (group stage) 
+
+Porto (quarter-finals) 
+
+Porto (semi-finals) 000000002016-07-01-0000 1 July Denmark Portimão Braga , Guimarães and Porto (group stage) 
+
+Porto (quarter-finals) 000000002016-06-27-0000 27 June England Oeiras Coimbra and Lisbon (group stage) 
+
+Lisbon (quarter-finals) 000000002016-06-24-0000 24 June France Santo Tirso Coimbra , Leiria and Lisbon (group stage) 
+
+Lisbon (quarter-finals) 000000002016-06-25-0000 25 June Germany Almancil Lisbon and Porto (group stage) 000000002016-06-23-0000 23 June Greece Vila do Conde Porto and Faro / Loulé (group stage) 
+
+Lisbon (quarter-finals) 
+
+Porto (semi-finals) 
+
+Lisbon (Final) 000000002016-07-04-0000 4 July Italy Lisbon Guimarães and Porto (group stage) 000000002016-06-22-0000 22 June Latvia Anadia Aveiro , Braga and Porto (group stage) 000000002016-06-23-0000 23 June Netherlands Albufeira Aveiro , Braga and Porto (group stage) 
+
+Faro / Loulé (quarter-finals) 
+
+Lisbon (semi-finals) 000000002016-06-30-0000 30 June Portugal Alcochete Lisbon and Porto (group stage) 
+
+Lisbon (quarter-finals) 
+
+Lisbon (semi-finals) 
+
+Lisbon (Final) 000000002016-07-04-0000 4 July Russia Vilamoura Faro / Loulé and Lisbon (group stage) 000000002016-06-20-0000 20 June Spain Braga Faro / Loulé and Porto (group stage) 000000002016-06-20-0000 20 June Sweden Estoril Lisbon and Porto (group stage) 
+
+Faro / Loulé (quarter-finals) 000000002016-06-26-0000 26 June Switzerland Óbidos Coimbra and Leiria (group stage) 000000002016-06-21-0000 21 June Squads [ edit ] 
+
+For the list of all squads that played in the tournament, see UEFA Euro 2004 squads . Match officials [ edit ] 
+
+On 4 December 2003, UEFA revealed the twelve referees and four fourth officials . [62] Each refereeing team was composed by one main referee and two assistant referees from the same country. Country Referee Assistant referees Matches refereed Denmark Kim Milton Nielsen Jens Larsen 
+
+Jørgen Jepsen Croatia 2–2 France (group B) 
+
+Netherlands 3–0 Latvia (group D) England Mike Riley Philip Sharp 
+
+Glenn Turner Sweden 5–0 Bulgaria (group C) 
+
+Latvia 0–0 Germany (group D) France Gilles Veissière Frédéric Arnault 
+
+Serge Vallin Russia 2–1 Greece (group A) 
+
+Czech Republic 2–1 Latvia (group D) Germany Markus Merk Christian Schraer 
+
+Jan-Henrik Salver France 2–1 England (group B) 
+
+Denmark 2–2 Sweden (group C) 
+
+Portugal 0–1 Greece (Final) Italy Pierluigi Collina Marco Ivaldi 
+
+Narciso Pisacreta Portugal 1–2 Greece (group A) 
+
+Croatia 2–4 England (group B) 
+
+Greece 1–0 Czech Republic (semi-final) Norway Terje Hauge Ole Hermann Borgan 
+
+Steinar Holvik Russia 0–2 Portugal (group A) 
+
+Germany 1–2 Czech Republic (group D) Portugal Lucílio Batista José Cardinal 
+
+Paulo Januário Switzerland 0–0 Croatia (group B) 
+
+Bulgaria 0–2 Denmark (group C) Russia Valentin Ivanov Gennady Krasyuk 
+
+Vladimir Eniutin England 3–0 Switzerland (group B) 
+
+Italy 2–1 Bulgaria (group C) 
+
+Czech Republic 3–0 Denmark (quarter-final) Slovakia Ľuboš Micheľ Igor Sramka 
+
+Martin Balko Greece 1–1 Spain (group A) 
+
+Switzerland 1–3 France (group B) 
+
+Sweden 0–0 Netherlands (quarter-final) Spain Manuel Mejuto González Oscar Martínez Samaniego 
+
+Rafael Guerrero Alonso Denmark 0–0 Italy (group C) 
+
+Netherlands 2–3 Czech Republic (group D) Sweden Anders Frisk Kenneth Petersson 
+
+Peter Ekström Spain 0–1 Portugal (group A) 
+
+Germany 1–1 Netherlands (group D) 
+
+France 0–1 Greece (quarter-final) 
+
+Portugal 2–1 Netherlands (semi-final) Switzerland Urs Meier Francesco Buragina 
+
+Rudolf Käppeli Spain 1–0 Russia (group A) 
+
+Italy 1–1 Sweden (group C) 
+
+Portugal 2–2 England (quarter-final) Country Fourth official Belgium Frank De Bleeckere Greece Kyros Vassaras Luxembourg Alain Hamer Scotland Stuart Dougal Group stage [ edit ] UEFA Euro 2004 finalists and their result 
+
+UEFA announced the match schedule for the final tournament on 10 March 2003, in Porto, Portugal. In a change from the previous tournament schedule, where two quarter-final matches were played per day, over two days, the quarter-finals at the Euro 2004 were to be played over four consecutive days, with one match per day. [63] Tiebreakers [ edit ] 
+
+If two or more teams finished level on points after completion of the group matches, the following tie-breakers are used to determine the final ranking: [64] greater number of points in the matches between the teams in question; greater goal difference in matches between the teams in question; greater number of goals scored in matches between the teams in question; greater goal difference in all group games; greater number of goals scored in all group games; higher coefficient derived from Euro 2004 and 2002 World Cup qualifiers (points obtained divided by number of matches played); fair play conduct in Euro 2004; drawing of lots. 
+
+If two teams playing the final group match have identical records going into that match, and it ends in a draw, then a penalty shoot-out would be played, rather than using the above criteria. [64] Euro 2004 marked the introduction of this procedure, although it did not need to be used. The same procedure was also used at Euro 2008 . Group A [ edit ] Main article: UEFA Euro 2004 Group A Team Pld W D L GF GA GD Pts Portugal 3 2 0 1 4 2 +2 6 Greece 3 1 1 1 4 4 0 4 Spain 3 1 1 1 2 2 0 4 Russia 3 1 0 2 2 4 −2 3 12 June 2004 Portugal 1–2 Greece Spain 1–0 Russia 16 June 2004 Greece 1–1 Spain Russia 0–2 Portugal 20 June 2004 Spain 0–1 Portugal Russia 2–1 Greece Group B [ edit ] Main article: UEFA Euro 2004 Group B Team Pld W D L GF GA GD Pts France 3 2 1 0 7 4 +3 7 England 3 2 0 1 8 4 +4 6 Croatia 3 0 2 1 4 6 −2 2 Switzerland 3 0 1 2 1 6 −5 1 13 June 2004 Switzerland 0–0 Croatia France 2–1 England 17 June 2004 England 3–0 Switzerland Croatia 2–2 France 21 June 2004 Croatia 2–4 England Switzerland 1–3 France Group C [ edit ] Main article: UEFA Euro 2004 Group C Team Pld W D L GF GA GD Pts Sweden 3 1 2 0 8 3 +5 5 Denmark 3 1 2 0 4 2 +2 5 Italy 3 1 2 0 3 2 +1 5 Bulgaria 3 0 0 3 1 9 −8 0 14 June 2004 Denmark 0–0 Italy Sweden 5–0 Bulgaria 18 June 2004 Bulgaria 0–2 Denmark Italy 1–1 Sweden 22 June 2004 Italy 2–1 Bulgaria Denmark 2–2 Sweden Group D [ edit ] Main article: UEFA Euro 2004 Group D Team Pld W D L GF GA GD Pts Czech Republic 3 3 0 0 7 4 +3 9 Netherlands 3 1 1 1 6 4 +2 4 Germany 3 0 2 1 2 3 −1 2 Latvia 3 0 1 2 1 5 −4 1 15 June 2004 Czech Republic 2–1 Latvia Germany 1–1 Netherlands 19 June 2004 Latvia 0–0 Germany Netherlands 2–3 Czech Republic 23 June 2004 Netherlands 3–0 Latvia Germany 1–2 Czech Republic Knockout stage [ edit ] Main article: UEFA Euro 2004 knockout stage Format [ edit ] 
+
+The knockout stage was a single-elimination tournament involving the eight teams that advanced from the group stage. There were three rounds of matches, with each round eliminating half of the teams entering that round, culminating in the final to decide the champions. Any game in the knockout stage that was not decided by the end of the regular 90 minutes was followed by up to 30 minutes of extra time (two 15-minute halves). 
+
+For the first time in an international football tournament, the silver goal system was applied, whereby the team that led the game at the half-time break during the extra time period would be declared the winner. [65] If the scores were still level after the initial 15 minutes of extra time, play would continue for a further 15 minutes. If the teams could still not be separated after the extra time, there would be a penalty shoot-out (at least five penalties each) to determine which team progressed to the next round. [65] The silver goal replaced the golden goal from the previous two championships and was used in the semi final between Greece and the Czech Republic. Bracket [ edit ] Quarter-finals Semi-finals Final 24 June – Lisbon (Luz) Portugal ( p ) 2 (6) 30 June – Lisbon (Alvalade) England 2 (5) Portugal 2 26 June – Faro/Loulé Netherlands 1 Sweden 0 (4) 4 July – Lisbon (Luz) Netherlands ( p ) 0 (5) Portugal 0 25 June – Lisbon (Alvalade) Greece 1 France 0 1 July – Porto Greece 1 Greece ( aet ) 1 27 June – Porto Czech Republic 0 Czech Republic 3 Denmark 0 
+
+All times are Western European Summer Time ( UTC+1 ) Quarter-finals [ edit ] 
+
+Portugal v England 24 June 2004 
+
+19:45 
+
+Portugal 2–2 ( a.e.t. ) England Postiga 83' 
+
+Rui Costa 110' Report Owen 3' 
+
+Lampard 115' Penalties Deco 
+
+Simão 
+
+Rui Costa 
+
+Ronaldo 
+
+Maniche 
+
+Postiga 
+
+Ricardo 6–5 Beckham 
+
+Owen 
+
+Lampard 
+
+Terry 
+
+Hargreaves 
+
+Cole 
+
+Vassell Estádio da Luz , Lisbon 
+
+Attendance: 65,000 
+
+Referee: Urs Meier ( Switzerland ) 
+
+France v Greece 25 June 2004 
+
+19:45 
+
+France 0–1 Greece Report Charisteas 65' Estádio José Alvalade , Lisbon 
+
+Attendance: 45,390 
+
+Referee: Anders Frisk ( Sweden ) 
+
+Sweden v Netherlands 26 June 2004 
+
+19:45 
+
+Sweden 0–0 ( a.e.t. ) Netherlands Report Penalties Källström 
+
+Larsson 
+
+Ibrahimović 
+
+Ljungberg 
+
+Wilhelmsson 
+
+Mellberg 4–5 Van Nistelrooy 
+
+Heitinga 
+
+Reiziger 
+
+Cocu 
+
+Makaay 
+
+Robben Estádio Algarve , Faro / Loulé 
+
+Attendance: 27,286 
+
+Referee: Ľuboš Micheľ ( Slovakia ) 
+
+Czech Republic v Denmark 27 June 2004 
+
+19:45 
+
+Czech Republic 3–0 Denmark Koller 49' 
+
+Baroš 63' , 65' Report Estádio do Dragão , Porto 
+
+Attendance: 41,092 
+
+Referee: Valentin Ivanov ( Russia ) Semi-finals [ edit ] 
+
+Portugal v Netherlands 30 June 2004 
+
+19:45 
+
+Portugal 2–1 Netherlands Ronaldo 26' 
+
+Maniche 58' Report Andrade 63' ( o.g. ) Estádio José Alvalade , Lisbon 
+
+Attendance: 46,679 
+
+Referee: Anders Frisk ( Sweden ) 
+
+Greece v Czech Republic 1 July 2004 
+
+19:45 
+
+Greece 1–0 ( a.e.t. ) Czech Republic Dellas 105+1' Report Estádio do Dragão , Porto 
+
+Attendance: 42,449 
+
+Referee: Pierluigi Collina ( Italy ) Final [ edit ] Main article: UEFA Euro 2004 Final 
+
+Portugal v Greece 4 July 2004 
+
+19:45 
+
+Portugal 0–1 Greece Report Charisteas 57' Estádio da Luz , Lisbon 
+
+Attendance: 62,865 
+
+Referee: Markus Merk ( Germany ) Statistics [ edit ] Main article: UEFA Euro 2004 statistics Goalscorers [ edit ] 
+
+Milan Baroš was the top goalscorer of the tournament with five goals. [66] [67] 5 goals Milan Baroš 4 goals Wayne Rooney Ruud van Nistelrooy 3 goals Jon Dahl Tomasson Frank Lampard Zinedine Zidane Angelos Charisteas Henrik Larsson 2 goals Marek Heinz Jan Koller Thierry Henry Antonio Cassano Rui Costa Maniche Cristiano Ronaldo Zlatan Ibrahimović 1 goal Martin Petrov Niko Kovač Dado Pršo Milan Rapaić Igor Tudor Vladimír Šmicer Jesper Grønkjær Steven Gerrard Michael Owen Paul Scholes David Trezeguet Michael Ballack Torsten Frings Angelos Basinas Traianos Dellas Giorgos Karagounis Zisis Vryzas Simone Perrotta Māris Verpakovskis Wilfred Bouma Roy Makaay Nuno Gomes Hélder Postiga Dmitri Bulykin Dmitri Kirichenko Fernando Morientes Juan Carlos Valerón Marcus Allbäck Mattias Jonson Fredrik Ljungberg Johan Vonlanthen Own goals [68] Igor Tudor (playing against France) Jorge Andrade (playing against the Netherlands) Awards [ edit ] UEFA Team of the Tournament 
+
+The UEFA Technical Team was charged with naming a squad composed of the 23 best players over the course of the tournament. [69] The group of eight analysts watched every game at the tournament before making their decision after the final. Five players from the winning Greek team were named to the team of the tournament. Michael Ballack and Gianluca Zambrotta were the only players to be included whose teams were knocked out in the group stage. [69] [70] Theodoros Zagorakis , UEFA Player of the Tournament Goalkeepers Defenders Midfielders Forwards Petr Čech 
+
+Antonios Nikopolidis Sol Campbell 
+
+Ricardo Carvalho 
+
+Ashley Cole 
+
+Traianos Dellas 
+
+Olof Mellberg 
+
+Giourkas Seitaridis 
+
+Gianluca Zambrotta Michael Ballack 
+
+Luís Figo 
+
+Frank Lampard 
+
+Maniche 
+
+Pavel Nedvěd 
+
+Theodoros Zagorakis 
+
+Zinedine Zidane Milan Baroš 
+
+Angelos Charisteas 
+
+Henrik Larsson 
+
+Ruud van Nistelrooy 
+
+Cristiano Ronaldo 
+
+Wayne Rooney 
+
+Jon Dahl Tomasson Golden Boot 
+
+The Golden Boot was awarded to Milan Baroš , who scored five goals in all three group stage matches and in the quarter-finals against Denmark . Milan Baroš (5 goals) [71] UEFA Player of the Tournament Theodoros Zagorakis [72] Prize money [ edit ] 
+
+Overall, CHF 200 million was awarded to the 16 teams, a boost from the CHF120 million in the previous event . [73] Below is a complete list of the allocations: [74] Prize for participating: CHF7.5 million 
+
+Extra payment based on teams performance: Winner: CHF10 million Runner-up: CHF6 million Semi-finals: CHF4 million Quarter-finals: CHF3 million Group stage (per match): Win: CHF1 million Draw: CHF500,000 Discipline [ edit ] Main article: UEFA Euro 2004 disciplinary record 
+
+If a player was shown a red card – whether as a result of two bookable offences or a straight red – he would become suspended from playing in his team's next match. A player would also become suspended for one match for picking up two yellow cards in separate matches. However, any yellow cards accumulated would be cancelled once a team was eliminated from the tournament or reached the semi-finals. In extreme cases of ill-discipline, UEFA could choose to have a disciplinary panel examine the incident in order to determine whether or not further suspension would be required. 
+
+The following players were suspended for one or more games as a result of red cards or yellow card accumulation: Player Offence(s) Suspension(s) Notes Roman Sharonov in Group A v Spain Group A v Portugal Suspension due to second yellow card of match Giorgos Karagounis in Group A v Portugal 
+
+in Group A v Spain Group A v Russia in quarter-final v France 
+
+in semi-final v Czech Republic Final v Portugal Zisis Vryzas in Group A v Portugal 
+
+in Group A v Russia Quarter-final v France Sergei Ovchinnikov in Group A v Portugal Group A v Greece Alexey Smertin in Group A v Spain 
+
+in Group A v Portugal Group A v Greece Carlos Marchena in Group A v Russia 
+
+in Group A v Greece Group A v Portugal Johann Vogel in Group B v Croatia Group B v England Suspension due to second yellow card of match Bernt Haas in Group B v England Group B v France Suspension due to second yellow card of match Rosen Kirilov in Group C v Sweden 
+
+in Group C v Italy Group C v Denmark Stiliyan Petrov in Group C v Denmark Group C v Italy Suspension due to second yellow card of match Tobias Linderoth in Group C v Bulgaria 
+
+in Group C v Italy Group C v Denmark Erik Edman in Group C v Italy 
+
+in Group C v Denmark Quarter-final v Netherlands Fabio Cannavaro in Group C v Denmark 
+
+in Group C v Sweden Group C v Bulgaria Gennaro Gattuso in Group C v Denmark 
+
+in Group C v Sweden Group C v Bulgaria Francesco Totti Spat on Christian Poulsen in Group C v Denmark Three games suspension The disciplinary committee suspended Totti 
+
+after seeing a video where he committed the offence. John Heitinga in Group D v Czech Republic Group D v Latvia Suspension due to second yellow card of match Marketing [ edit ] Logo, mascot and official song [ edit ] UEFA Euro 2004 mascot, Kinas 
+
+The official tournament logo was created by Euro RSCG Wnek Gosper agency and unveiled on 13 May 2002 at a ceremony held in Lisbon's Belém Cultural Center . [75] It represents a football in the centre of a heart, surrounded by seven green dots. The football – displaying typical Portuguese folk artistic motifs on its panels – and the heart – shaped in the traditional style of the filigree art – conveyed the football passion of the host country. The seven dots represent significant Portuguese elements and achievements, such as the number of castles in the national coat of arms or the conquest of the seven seas during the Age of Discoveries . The logo's colour palette was based on the Portuguese flag and its warm tones recall the light and sun associated with the Portuguese landscape and climate. [76] [77] The competition slogan used was "Vive O 2004!" ( Portuguese : Live 2004! ). [78] [79] 
+
+The official mascot was a boy named Kinas – derived from quinas (English: inescutcheons ), one of the symbols of the Portuguese coat of arms [80] – who wore a football kit with the Portuguese colors (red shirt and green shorts) and was constantly playing with a football . He possessed the knowledge and talent of generations of highly gifted football players, and embodied the energy and passion of football. [81] Created by Warner Bros. , Kinas was officially unveiled on 29 March 2003 at the Casa de Serralves , in Porto , Portugal. [80] 
+
+The official song, called " Força " ( Portuguese : Strength ), was written and performed by Portuguese-Canadian singer Nelly Furtado . [82] The song was taken from her second studio album, Folklore , and released as its third single, soon after the start of the tournament. Furtado was selected to sing the official song of the tournament, because of her familial connection to the host country (her parents are both Portuguese from the Azores ). [83] She wrote "Força" with "the passion the Portuguese people have for football" in mind. [83] The song was played at every match, and performed live by Furtado at the closing ceremony prior to the final. [84] [85] Match ball [ edit ] Main article: Adidas Roteiro 
+
+The official match ball was presented during the final draw ceremony on 30 November 2003 in Lisbon . [86] [87] It was produced by Adidas and named Adidas Roteiro , after the logbook ( Portuguese : roteiro ) used by the Portuguese maritime explorers, such as Vasco da Gama . [86] Roteiro was the first official tournament football to employ the new thermal-bonding technique in its production, which resulted in a seamless surface and a more homogenous design. [86] Portuguese Football Federation president Gilberto Madaíl praised the ball, stating: "Adidas has delivered a stunning, modern and state-of the-art Portuguese football. This is very much how we envisage the UEFA Euro 2004 event to be". [86] Roteiro was also used at the 2004 AFC Asian Cup , [88] and during the mid-season of the 2004–05 German Bundesliga . [89] 
+
+The new ball received mixed reactions from players and technical staffs. England midfielder David Beckham , who was asked by Adidas to test it, was pleased with Roteiro's performance, particularly in free-kicks. [86] France midfielder Zinedine Zidane believed the ball would "improve the game". [89] Several Spanish players, however, regarded it as "horrible, difficult to control and to pass", with Real Madrid footballer Iván Helguera describing it as a "beach ball". [90] Notable players of the Italy national team, such as Francesco Totti , Andrea Pirlo and goalkeeper Gianluigi Buffon also voiced criticisms. [91] Trophy tour [ edit ] 
+
+During the two months ahead of the tournament, the Henri Delaunay Trophy travelled across Portugal to promote the European Championship finals in the host country. The tour began on 8 April 2004 at the Praça do Comércio in Lisbon, where the launching ceremony took place with the presence of Portuguese football legend and tournament ambassador Eusébio . [92] A total of twenty towns and cities were visited by the trophy tour caravan, including the ten that would host matches. [93] Trophy tour stops and dates Lisbon (8–11 April) Setúbal (10–14 April) Faro / Loulé (15–18 April) Beja (20–22 April) Évora (23–25 April) Portalegre (27–29 April) Santarém (30 April–2 May) Leiria (4–6 May) Castelo Branco (7–8 May) Coimbra (10–13 May) Aveiro (13–15 May) Guarda (16–17 May) Viseu (18–19 May) Bragança (21–23 May) Vila Real (24–25 May) Viana do Castelo (27–28 May) Guimarães (29 May – 1 June) Braga (2–4 June) Porto (6–11 June) Merchandise and memorabilia [ edit ] 
+
+In November 2002, UEFA appointed Warner Bros. Consumer Products (WBCP) as the tournament's exclusive worldwide licensing agent. [94] As the global licensing rights owner, WBCP was responsible for negotiating product license contracts with third parties on the behalf of UEFA and delineate product sales strategies across the host country. Other tasks included setting up and managing marketing plans, product distribution and prices, and prevent illegal use of trademarks and product sales. [95] Over 2,000 merchandise items were developed by the 28 licensees chosen by WBCP, and were distributed not only within Portugal but also in major European and Asian markets. [96] 
+
+To celebrate Portugal's hosting of the Euro 2004 finals, commemorative coin and stamp collections were issued by the Imprensa Nacional-Casa da Moeda , the Portuguese national mint and printing house, [97] and CTT , the national postal service. [98] Sponsorship [ edit ] 
+
+UEFA distinguishes between global sponsors and national sponsors. Global Euro sponsors can come from any country and have together exclusive worldwide sponsorship rights for a UEFA European Football Championship. National sponsors come from the host country and do only have sponsorship rights within that country. [99] Eight sponsors were announced by UEFA in December 2002. [100] Global sponsors National sponsors Adidas [101] BenQ [102] Canon [103] Carlsberg [104] Coca-Cola [105] Hyundai [106] JVC [107] MasterCard [108] McDonald's [109] NTT / Verio [110] PT [111] T-Mobile [112] BPI [113] CTT [114] Galp Energia [115] Portucel Soporcel [116] Vista Alegre Atlantis Group [117] See also [ edit ] Vive O 2004! , the official album for UEFA Euro 2004 UEFA Euro 2004 , the official video game for UEFA Euro 2004 References [ edit ] ^ "Euro Championships lowdown" . BBC Sport (British Broadcasting Corporation). 29 November 2003 . Retrieved 26 April 2010 . ^ "Stadium deals inked" . UEFA.com (Union of European Football Associations). 10 March 2003 . Retrieved 11 June 2012 . ^ Holland, Phil; Williamson, Martin (29 April 2012). "History of the Euros: European Championships 2004" . ESPN . Retrieved 17 June 2012 . ^ McCarra, Kevin (5 July 2004). "Charisteas the hero as Greece defy the odds" . The Guardian . Guardian News and Media . Retrieved 24 May 2012 . ^ "Euro 2004 build-up in pictures" . BBC Sport (British Broadcasting Corporation). 12 June 2004 . Retrieved 10 June 2012 . ^ "Portugal 1–2 Greece" . BBC Sport (British Broadcasting Corporation). 12 June 2004 . Retrieved 10 June 2012 . ^ "Greece 1–1 Spain" . BBC Sport (British Broadcasting Corporation). 16 June 2004 . Retrieved 10 June 2012 . ^ "Russia 2–1 Greece" . BBC Sport (British Broadcasting Corporation). 20 June 2004 . Retrieved 10 June 2012 . ^ "Russia 0–2 Portugal" . BBC Sport (British Broadcasting Corporation). 16 June 2004 . Retrieved 16 June 2012 . ^ "Spain 0–1 Portugal" . BBC Sport (British Broadcasting Corporation). 20 June 2004 . Retrieved 16 June 2012 . ^ "Group A" . BBC Sport (British Broadcasting Corporation). 25 May 2004 . Retrieved 10 June 2012 . ^ "France 2–1 England" . BBC Sport (British Broadcasting Corporation). 13 June 2004 . Retrieved 10 June 2012 . ^ "England 3–0 Switzerland" . BBC Sport (British Broadcasting Corporation). 17 June 2004 . Retrieved 10 June 2012 . ^ "Croatia 2–4 England" . BBC Sport (British Broadcasting Corporation). 21 June 2004 . Retrieved 10 June 2012 . ^ "Group B" . BBC Sport (British Broadcasting Corporation). 25 May 2004 . Retrieved 10 June 2012 . ^ "Sweden 5–0 Bulgaria" . BBC Sport (British Broadcasting Corporation). 14 June 2004 . Retrieved 10 June 2012 . ^ "Bulgaria 0–2 Denmark" . BBC Sport (British Broadcasting Corporation). 18 June 2004 . Retrieved 10 June 2012 . ^ "Italy 2–1 Bulgaria" . BBC Sport (British Broadcasting Corporation). 23 June 2004 . Retrieved 10 June 2012 . ^ "Denmark 2–2 Sweden" . BBC Sport (British Broadcasting Corporation). 22 June 2004 . Retrieved 10 June 2012 . ^ "Group C" . BBC Sport (British Broadcasting Corporation). 22 June 2004 . Retrieved 10 June 2012 . ^ "Italy angry at rivals' draw" . BBC Sport (British Broadcasting Corporation). 23 June 2004 . Retrieved 11 June 2012 . ^ "UEFA will not investigate" . BBC Sport (British Broadcasting Corporation). 22 June 2004 . Retrieved 6 June 2008 . ^ "Czech Rep 2–1 Latvia" . BBC Sport (British Broadcasting Corporation). 15 June 2004 . Retrieved 10 June 2012 . ^ "Holland 2–3 Czech Rep" . BBC Sport (British Broadcasting Corporation). 19 June 2004 . Retrieved 10 June 2004 . ^ "Germany 1–2 Czech Rep" . BBC Sport (British Broadcasting Corporation). 23 June 2004 . Retrieved 10 June 2012 . ^ McNulty, Phil (24 June 2004). "Great survivors put to the sword" . BBC Sport (British Broadcasting Corporation) . Retrieved 10 June 2012 . ^ "Group D" . BBC Sport (British Broadcasting Corporation). 28 May 2004 . Retrieved 10 June 2012 . ^ "Portugal break England hearts" . BBC Sport (British Broadcasting Corporation). 24 June 2004 . Retrieved 10 June 2012 . ^ "France 0–1 Greece" . BBC Sport (British Broadcasting Corporation). 25 June 2004 . Retrieved 10 June 2012 . ^ "Holland end Swede dream" . BBC Sport (British Broadcasting Corporation). 26 June 2004 . Retrieved 10 June 2012 . ^ "Czech Republic 3–0 Denmark" . BBC Sport (British Broadcasting Corporation). 27 June 2004 . Retrieved 10 June 2012 . ^ "Portugal 2–1 Holland" . BBC Sport (British Broadcasting Corporation). 30 June 2004 . Retrieved 10 June 2012 . ^ "Greece 1–0 Czech Rep" . BBC Sport (British Broadcasting Corporation). 1 July 2004 . Retrieved 10 June 2012 . ^ McNulty, Phil (4 July 2004). "Greece win Euro 2004" . BBC Sport (British Broadcasting Corporation) . Retrieved 10 June 2012 . ^ Bull, Andy; Doyle, Paul; Bandini, Paolo (4 December 2009). "The Joy of Six: memorable sporting moments of the decade" . The Guardian . Guardian News and Media . Retrieved 8 December 2009 . ^ "Spotlight on Euro 2004™ draw" . UEFA.com (Union of European Football Associations). 24 January 2002 . Retrieved 13 June 2012 . ^ "Play-off draws on horizon" . UEFA.com (Union of European Football Associations). 9 October 2003 . Retrieved 13 June 2012 . ^ a b c "Lisbon draw looms large" . UEFA.com (Union of European Football Associations). 28 November 2003 . Retrieved 1 June 2012 . ^ "Neighbours face finals meeting" . UEFA.com . Union of European Football Associations. 30 November 2003. Archived from the original on 2 December 2003 . Retrieved 20 June 2016 . ^ "Finalists line up for Lisbon" . UEFA.com (Union of European Football Associations). 20 November 2003 . Retrieved 7 July 2012 . ^ "Venues Guide – Aveiro" . BBC Sport (British Broadcasting Corporation). 25 May 2004 . Retrieved 17 June 2012 . ^ "Venues Guide – Braga" . BBC Sport (British Broadcasting Corporation). 25 May 2004 . Retrieved 17 June 2012 . ^ "Venues Guide – Faro/Loule" . BBC Sport (British Broadcasting Corporation). 25 May 2004 . Retrieved 17 June 2012 . ^ "Venues Guide – Leiria" . BBC Sport (British Broadcasting Corporation). 25 May 2004 . Retrieved 17 June 2012 . ^ "Venues Guide – Lisbon Luz" . BBC Sport (British Broadcasting Corporation). 25 May 2004 . Retrieved 17 June 2012 . ^ "Venues Guide – Lisbon Jose Alvalade" . BBC Sport (British Broadcasting Corporation). 25 May 2004 . Retrieved 17 June 2012 . ^ "Venues Guide – Porto Dragao" . BBC Sport (British Broadcasting Corporation). 25 May 2004 . Retrieved 17 June 2012 . ^ "Venues Guide – Coimbra" . BBC Sport (British Broadcasting Corporation). 25 May 2004 . Retrieved 17 June 2012 . ^ "Venues Guide – Guimaraes" . BBC Sport (British Broadcasting Corporation). 25 May 2004 . Retrieved 17 June 2012 . ^ "Venues Guide – Porto Bessa" . BBC Sport (British Broadcasting Corporation). 25 May 2004 . Retrieved 17 June 2012 . ^ "Nancy removed from list of Euro 2016 venues" . Reuters . 2 December 2011 . Retrieved 17 June 2012 . ^ "1.5 million Euro fans for Portugal" . CNN.com (Cable News Network). 5 April 2004 . Retrieved 2 July 2012 . ^ a b c d e "Tickets go on sale for Euro 2004™" . UEFA.com (Union of European Football Associations). 29 April 2003 . Retrieved 1 July 2012 . ^ Matos Pereira, Rui (24 April 2003). "Just the ticket for Euro 2004™" . UEFA.com (Union of European Football Associations) . Retrieved 1 July 2012 . ^ Matos Pereira, Rui (29 April 2003). "Legends gather for ticket launch" . UEFA.com (Union of European Football Associations) . Retrieved 1 July 2012 . ^ "Ticket sales soar for Euro 2004™" . UEFA.com (Union of European Football Associations). 31 July 2003 . Retrieved 2 July 2012 . ^ "Fans warned over ticket purchases" . UEFA.com (Union of European Football Associations). 4 December 2003 . Retrieved 3 July 2012 . ^ "High demand for finals tickets" . UEFA.com (Union of European Football Associations). 2 April 2004 . Retrieved 3 July 2012 . ^ Teixeira, Diogo (3 June 2003). "Lisbon holds broadcasters gathering" . UEFA.com (Union of European Football Associations). Archived from the original on 26 June 2003 . Retrieved 10 July 2012 . ^ "Broadcasting tops workshop agenda" . UEFA.com (Union of European Football Associations). 27 June 2003. Archived from the original on 10 August 2003 . Retrieved 10 July 2012 . ^ "Training centres revealed" . Union of European Football Associations. 5 February 2003. Archived from the original on 24 June 2003 . Retrieved 18 June 2016 . ^ "Euro 2004™ referees named" . UEFA.com (Union of European Football Associations). 4 December 2003. Archived from the original on 12 December 2003 . Retrieved 10 June 2012 . ^ "Euro 2004™ schedule decided" . UEFA.com (Union of European Football Associations). 10 March 2003 . Retrieved 4 July 2012 . ^ a b "Tiebreakers explained" . BBC Sport (British Broadcasting Corporation). 18 June 2004 . Retrieved 7 March 2008 . ^ a b "Format" . UEFA.com (Union of European Football Associations). 3 August 2002 . Retrieved 4 July 2012 . ^ "Goals scored" . UEFA.com (Union of European Football Associations) . Retrieved 12 June 2012 . ^ "Goals scored (continued)" . UEFA.com (Union of European Football Associations) . Retrieved 12 June 2012 . ^ "Own goals against" . UEFA.com (Union of European Football Associations). Archived from the original on 7 July 2004 . Retrieved 12 June 2012 . ^ a b "All-star squad revealed" . UEFA.com (Union of European Football Associations). 5 July 2004. Archived from the original on 7 July 2004 . Retrieved 5 July 2012 . ^ "Euro stars to be named" . UEFA.com (Union of European Football Associations). 2 July 2004. Archived from the original on 6 July 2004 . Retrieved 5 July 2012 . ^ "Net gains for brilliant Baroš" . UEFA.com (Union of European Football Associations). 4 July 2004. Archived from the original on 6 July 2004 . Retrieved 5 July 2012 . ^ Chaplin, Mark (5 July 2004). "Zagorakis is Euro's finest" . Lisbon: UEFA.com (Union of European Football Associations). Archived from the original on 7 July 2004 . Retrieved 5 July 2012 . ^ "Euro 2004 prize money up 66 percent" . ESPN . Entertainment Sports Programming Network. Reuters. 6 November 2003 . Retrieved 4 September 2014 . ^ "UEFA announces total income for Euro 2004" . Sportcal . 1 June 2004 . Retrieved 4 September 2014 . ^ "UEFA Euro 2004™ logo unveiled" . UEFA.com (Union of European Football Associations). 14 May 2002 . Retrieved 6 July 2012 . ^ "The significance of seven" . UEFA.com (Union of European Football Associations). 1 December 2002. Archived from the original on 23 June 2004 . Retrieved 6 July 2012 . ^ "Passion Concept – Storyline" (PDF) . UEFA.com (Union of European Football Associations) . Retrieved 6 July 2012 . ^ "Portugal to unite for Euro 2004™" . UEFA.com (Union of European Football Associations). 4 July 2003 . Retrieved 10 July 2012 . ^ "Unite for Euro 2004" . Algarve Resident . 1 August 2003 . Retrieved 10 July 2012 . ^ a b "Kinas™ makes Porto debut" . UEFA.com (Union of European Football Associations). 29 March 2003 . Retrieved 14 June 2012 . ^ "Kinas" . UEFA.com (Union of European Football Associations). 16 March 2003. Archived from the original on 22 June 2004 . Retrieved 12 June 2012 . ^ "Furtado flying high" . UEFA.com (Union of European Football Associations). 1 June 2004. Archived from the original on 4 July 2004 . Retrieved 6 July 2012 . ^ a b " ' Força' unveiled as official song" . UEFA.com (Union of European Football Associations). 5 April 2004 . Retrieved 27 June 2012 . ^ Hart, Simon (7 July 2004). "A-Z of UEFA Euro 2004™" . UEFA.com (Union of European Football Associations) . Retrieved 27 June 2012 . ^ "Going out with a bang" . UEFA.com (Union of European Football Associations). 4 July 2004 . Retrieved 27 June 2012 . ^ a b c d e "Adidas on the ball for Euro" . UEFA.com (Union of European Football Associations). 30 November 2003. Archived from the original on 4 February 2004 . Retrieved 24 June 2012 . ^ "Adidas presents Roteiro as the official match vall of UEFA Euro 2004" . Adidas. 1 December 2003. Archived from the original on 6 February 2004 . Retrieved 24 June 2012 . ^ "Football Year 2004 – The most successful for Adidas" . Adidas . 16 December 2004 . Retrieved 24 June 2012 . ^ a b Gowar, Rex (11 June 2004). "New Roteiro ball makes waves" . Rediffmail India Limited . Retrieved 25 June 2012 . ^ "Euro 2004 ball criticised" . BBC Sport (British Broadcasting Corporation). 20 February 2004 . Retrieved 24 June 2012 . ^ "New Euro 2004 ball under fire from players" . Daily Times . Pakistan. 9 June 2004 . Retrieved 24 June 2012 . ^ "Trophy tour for Portugal" . UEFA.com (Union of European Football Associations). 9 April 2004 . Retrieved 26 June 2012 . ^ "Trophy embarks on Portuguese adventure" . UEFA.com (Union of European Football Associations). 3 June 2004. Archived from the original on 5 June 2004 . Retrieved 27 June 2012 . ^ "UEFA Appoints Warner Bros. Consumer Products Worldwide Licensing Agent for UEFA Euro 2004" . Business Wire . FindArticles.com. 6 November 2002 . Retrieved 8 July 2012 . ^ "UEFA seeks licensing agent for Euro 2004™" . UEFA.com (Union of European Football Associations). 6 May 2002 . Retrieved 8 July 2012 . ^ "Lisbon launch for licensing programme" . UEFA.com (Union of European Football Associations). 10 February 2004 . Retrieved 8 July 2012 . ^ "Second series of coins revealed" . UEFA.com (Union of European Football Associations). 24 May 2004. Archived from the original on 11 June 2004 . Retrieved 11 July 2012 . ^ "Stamps depict host cities" . UEFA.com (Union of European Football Associations). 21 April 2004 . Retrieved 14 July 2012 . ^ "UEFA Euro 2012 official sponsors" (PDF) . Prasowy Warszawa . Retrieved 17 July 2012 . ^ "Eight partners sign-up for UEFA Euro 2004™" . UEFA.com (Union of European Football Associations). 1 December 2002. Archived from the original on 11 June 2004 . Retrieved 6 July 2012 . ^ "adidas becomes UEFA Euro 2004™ National Supporter" . UEFA.com (Union of European Football Associations). 21 July 2003. Archived from the original on 19 April 2004 . Retrieved 6 July 2012 . ^ "BenQ on board for Portugal" . UEFA.com (Union of European Football Associations). 20 November 2003. Archived from the original on 5 June 2004 . Retrieved 6 July 2012 . ^ "Canon on board for UEFA Euro 2004™" . UEFA.com (Union of European Football Associations). 27 January 2003. Archived from the original on 29 October 2004 . Retrieved 6 July 2012 . ^ "Carlsberg first to back Euro 2004™" . UEFA.com (Union of European Football Associations). 22 March 2002. Archived from the original on 16 June 2004 . Retrieved 6 July 2012 . ^ "Coca-Cola to sponsor Euro 2004™" . UEFA.com (Union of European Football Associations). 17 May 2002. Archived from the original on 15 June 2004 . Retrieved 6 July 2012 . ^ "Hyundai in driving seat for Portugal" . UEFA.com (Union of European Football Associations). 4 March 2003. Archived from the original on 15 June 2004 . Retrieved 6 July 2012 . CS1 maint: Unfit url ( link ) ^ "JVC becomes Euro 2004™ partner" . UEFA.com (Union of European Football Associations). 4 March 2003. Archived from the original on 17 June 2004 . Retrieved 6 July 2012 . ^ "MasterCard continue UEFA partnership" . UEFA.com (Union of European Football Associations). 12 March 2003. Archived from the original on 17 June 2004 . Retrieved 6 July 2012 . ^ "McDonald's supports Euro 2004™" . UEFA.com (Union of European Football Associations). 17 April 2002. Archived from the original on 18 June 2004 . Retrieved 6 July 2012 . ^ "UEFA announce NTT Com partnership" . UEFA.com (Union of European Football Associations). 13 February 2003. Archived from the original on 14 July 2004 . Retrieved 6 July 2012 . ^ "Portugal Telecom answers call" . UEFA.com (Union of European Football Associations). 14 March 2003. Archived from the original on 22 June 2004 . Retrieved 6 July 2012 . ^ "T-Mobile ring in for Portugal" . UEFA.com (Union of European Football Associations). 22 October 2003. Archived from the original on 18 June 2004 . Retrieved 6 July 2012 . ^ "BPI banking on finals success" . UEFA.com (Union of European Football Associations). 24 April 2003. Archived from the original on 23 June 2004 . Retrieved 6 July 2012 . ^ "Stamp of approval for CTT" . UEFA.com (Union of European Football Associations). 6 December 2002. Archived from the original on 23 June 2004 . Retrieved 6 July 2012 . ^ "Galp Energia named as National Supporter" . UEFA.com (Union of European Football Associations). 17 February 2003. Archived from the original on 21 June 2004 . Retrieved 6 July 2012 . ^ "Navigator joins journey to Euro 2004™" . UEFA.com (Union of European Football Associations). 11 April 2003. Archived from the original on 20 June 2004 . Retrieved 6 July 2012 . ^ "Vista Alegre Atlantis Group joins Euro 2004™" . UEFA.com (Union of European Football Associations). 24 July 2003. Archived from the original on 21 June 2004 . Retrieved 6 July 2012 . External links [ edit ] Wikimedia Commons has media related to UEFA Euro 2004 . UEFA Euro 2004 history at UEFA.com UEFA Euro 2004 coverage at BBC Sport Official website (archived) (Portuguese) (French) (German) (Spanish) (Italian) (Russian) (Japanese) (Chinese) v t e UEFA Euro 2004 Stages Qualification Group stage Group A Group B Group C Group D Knockout stage Final General information Squads Broadcasting Discipline Officials Matches Seeding Sponsorship Statistics v t e UEFA Euro 2004 finalists Champions Greece Runners-up Portugal Eliminated in the semi-finals Czech Republic Netherlands Eliminated in the quarter-finals Denmark England France Sweden Eliminated in the group stage Bulgaria Croatia Germany Italy Latvia Russia Spain Switzerland v t e UEFA Euro 2004 stadiums Estádio da Luz ( Lisbon ) Estádio José Alvalade ( Lisbon ) Estádio do Dragão ( Porto ) Estádio do Bessa ( Porto ) Estádio Municipal de Braga ( Braga ) Estádio Municipal de Aveiro ( Aveiro ) Estádio Cidade de Coimbra ( Coimbra ) Estádio D. Afonso Henriques ( Guimarães ) Estádio Dr. Magalhães Pessoa ( Leiria ) Estádio Algarve ( Faro / Loulé ) v t e UEFA European Championships Tournaments France 1960 Spain 1964 Italy 1968 Belgium 1972 Yugoslavia 1976 Italy 1980 France 1984 West Germany 1988 Sweden 1992 England 1996 Belgium/Netherlands 2000 Portugal 2004 Austria/Switzerland 2008 Poland/Ukraine 2012 France 2016 Pan-European 2020 TBA 2024 Qualification 1960 1964 1968 1972 1976 1980 1984 1988 1992 1996 2000 2004 2008 2012 2016 2020 Finals 1960 1964 1968 1972 1976 1980 1984 1988 1992 1996 2000 2004 2008 2012 2016 Squads 1960 1964 1968 1972 1976 1980 1984 1988 1992 1996 2000 2004 2008 2012 2016 Bids 1960 1964 1968 1972 1976 1980 1984 1988 1992 1996 2000 2004 2008 2012 2016 2020 2024 Statistics Team appearances Teams with no appearances Droughts Goalscorers Hat-tricks Own goals Penalty shoot-outs Records Red cards Teams of the Tournament Mascots Video games Authority control WorldCat Identities VIAF : 144048107 GND : 10079582-1 (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=UEFA_Euro_2004 oldid=737134286 " Categories : UEFA Euro 2004 International association football competitions hosted by Portugal UEFA European Championship tournaments 2003–04 in European football 2003–04 in Portuguese football Hidden categories: CS1 maint: Unfit url Use dmy dates from May 2014 Articles with Portuguese-language external links Articles containing Portuguese-language text Commons category with page title same as on Wikidata Articles with French-language external links Articles with German-language external links Articles with Spanish-language external links Articles with Italian-language external links Articles with Russian-language external links Articles with Japanese-language external links Articles with Chinese-language external links Wikipedia articles with VIAF identifiers Wikipedia articles with GND identifiers Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Languages العربية Azərbaycanca Беларуская Български Boarisch Bosanski Català Čeština Dansk Deutsch Eesti Ελληνικά Español Esperanto Euskara فارسی Français Galego 한국어 Հայերեն Hrvatski Bahasa Indonesia Íslenska Italiano עברית Basa Jawa ქართული Latviešu Lietuvių Magyar मराठी Bahasa Melayu Nederlands 日本語 Norsk bokmål Norsk nynorsk Plattdüütsch Polski Português Română Русский Shqip Simple English Slovenčina Slovenščina Српски / srpski Suomi Svenska ไทย Türkçe Українська Tiếng Việt 吴语 粵語 中文 Edit links This page was last modified on 31 August 2016, at 23:40. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "1.732", "walltime": "1.930", "ppvisitednodes": { "value": 32153, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 462294, "limit": 2097152 }, "templateargumentsize": { "value": 55747, "limit": 2097152 }, "expansiondepth": { "value": 13, "limit": 40 }, "expensivefunctioncount": { "value": 12, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 1328.254 1 -total", " 38.76% 514.769 3 Template:Reflist", " 20.69% 274.820 75 Template:Cite_news", " 11.70% 155.386 110 Template:Fb", " 9.57% 127.099 42 Template:Cite_web", " 6.51% 86.467 2 Template:Location_map+", " 5.51% 73.122 1 Template:Infobox_international_football_competition", " 5.25% 69.696 24 Template:Location_map~", " 4.75% 63.072 1 Template:Infobox", " 4.70% 62.477 124 Template:Flagicon" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.561", "limit": "10.000" }, "limitreport-memusage": { "value": 5604109, "limit": 52428800 } }, "cachereport": { "origin": "mw1270", "timestamp": "20161005034815", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1265"});});

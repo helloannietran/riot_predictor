@@ -1,0 +1,161 @@
+Arusha - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Arusha","wgTitle":"Arusha","wgCurRevisionId":745097890,"wgRevisionId":745097890,"wgArticleId":360916,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from October 2012","Articles needing additional references from November 2014","All articles needing additional references","Commons category with local link same as on Wikidata","Coordinates on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Arusha","Populated places in the Arusha Region","Cities in Tanzania","Regional capitals in Tanzania","1900 establishments in German East Africa"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Arusha","wgRelevantArticleId":360916,"wgRequestId":"WAoxugpAICkAAHG85-EAAAAT","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":-3.3666666666667,"lon":36.683333333333},"wgWikibaseItemId":"Q4301","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Arusha From Wikipedia, the free encyclopedia Jump to: navigation , search This article is about the city. For other uses, see Arusha (disambiguation) . City of Arusha City Mt.Meru in the background of the City of Arusha Nickname(s): A-Town 
+
+Location of Arusha City in Arusha Region City of Arusha Location of Arusha City in Arusha Region Coordinates: 3°22′S 36°41′E ﻿ / ﻿ 3.367°S 36.683°E ﻿ / -3.367; 36.683 Country Tanzania Region Arusha Region City Arusha City Council Incorporated Town 1948 Incorporated City July 2010 Government • Type City Council Elevation 1,387 m (4,551 ft) Population (2012) [1] • Total 416,442 Time zone EAT ( UTC+3 ) • Summer ( DST ) not observed ( UTC+3 ) Area code(s) 027 Climate Cwb 
+
+Arusha is a city in northern Tanzania and the capital of the Arusha Region , with a population of 416,442 plus 323,198 in the surrounding Arusha District (2012 census). [1] Located below Mount Meru on the eastern edge of the eastern branch of the Great Rift Valley , Arusha has a temperate climate. The city is close to the Serengeti National Park , the Ngorongoro Conservation Area , Lake Manyara National Park , Olduvai Gorge , Tarangire National Park , Mount Kilimanjaro , and Arusha National Park on Mount Meru. 
+
+Arusha is a major international diplomatic hub. The city hosts the East African Community . From 1994 to 2015, the city also hosted the International Criminal Tribunal for Rwanda , but that entity has ceased operations. It is a multicultural city with a majority Tanzanian population of mixed backgrounds: indigenous African, Arab-Tanzanian and Indian-Tanzanian population, plus small White European and white American minority population. Religions of the Arushan population are Christian , Muslim , and Hindu . 
+
+Contents 1 History 2 Industry and economy 3 Districts 4 Transport 5 Culture and cuisine 6 Education and health 7 Geography and climate 8 Sports 9 In popular culture 10 Sister cities 11 See also 12 References 13 External links 
+
+History [ edit ] Arusha clock tower area, 1953. 
+
+The current site of Arusha was first settled in the 1830s by the agro-pastoral Arusha Maasai from the Arusha Chini community, south of Mount Kilimanjaro . [2] :page 112 They traded grains, honey, beer, and tobacco with the pastoral Kisongo Maasai in exchange for livestock, milk, meat, and skins. [2] :page 112 Demand for Arusha's foodstuffs increased substantially during the 1860s when the Pangani Valley trade route was extended through Old Moshi, Arusha, and ultimately to western Kenya. [2] :page 112 Although it was not yet a town, it was a regional centre and had a number of urban features. [2] :page 113 
+
+Arusha was conquered by the Germans in 1896 after the murder of the first two missionaries who attempted to settle on nearby Mount Meru . [2] :page 113 The Germans established a permanent presence in 1900 when a military fort (a boma ) was built and soldiers were garrisoned there. [2] :page 113 "The boma was a solid statement, meant to impress German moral and political order on the surrounding countryside. Set on a rise overlooking the plains, the fortress-like building dominated the surrounding landscape" complete with a machine gun. [2] :page 113 Many Africans were forcibly displaced from their ancestral lands by the Germans and forced to dig lime or carry stones to construct the fort. [2] :page 114 
+
+The British took Arusha from the Germans in 1916 during World War I . [2] :page 114 German officials left the area, the British deported German missionaries and settlers, and only a skeletal military administration of the town remained. [2] :page 114 But slowly during the 1920s, civilian administration was implemented, missionaries from the United States arrived, British and Greek settlers reoccupied the former German farms, and the town grew, especially after the British moved the regional administration from New Moshi to Arusha. [2] :page 114 The extension of the railroad from Moshi to Arusha in 1928-29 greatly increased commerce. [2] :page 114 The Great Depression soon thereafter, however, squelched commerce, and Arusha in 1940 had less than 2,000 residents. [2] :page 115 Growth resumed during World War II and by 1948, the population had increased to more than 5,000. [2] :page 115 
+
+In the 1960s parts of the movie Hatari! with John Wayne were filmed at Momella. 
+
+Arusha has been a crucial city in the history of modern Tanzania. Official documents ceding independence to Tanganyika were signed by the United Kingdom at Arusha in 1961. Also, the Arusha Declaration was signed in 1967 in Arusha. 
+
+The Arusha Accords were signed at the city of Arusha on August 4, 1993, by representatives of competing factions in the Rwandan civil war. East African Legislative Assembly 
+
+The Arusha Peace and Reconciliation Agreement for Burundi was signed on 28 August 2000 as part of a process forging peace in that country through power sharing and establishing a transitional government. The January 2015 Arusha Agreement for South Sudan created a framework for the reunification of South Sudan's ruling SPLM party, which had splintered into three creating a humanitarian crisis as fighting between factions intensified. It provided that all SPLM members who were dismissed be reinstated to their previous positions and a secret ballot system be adopted. [3] Arusha Declaration Monument in Arusha 
+
+In 1994 the UN Security Council decided by its Resolution 955 of 8 November 1994 that Arusha should host the International Criminal Tribunal for Rwanda . The establishment of the tribunal with its foreign employees has influenced the local economy of the city increasing the cost of living for residents. The tribunal has downsized due to its closure in 2014, but its legal successor, the International Residual Mechanism for Criminal Tribunals established by United Nations Security Council Resolution 1966 , will continue entertaining a branch in Arusha, opening on 1 July 2012. 
+
+Arusha was officially declared a city on 1 July 2006 by the Tanzanian government. [4] Industry and economy [ edit ] 
+
+The primary industry of the city is the service sector. The city hosts numerous small and large businesses, banking, retail and commercial enterprises thus making it the financial and cultural capital of the Arusha region. The city of Arusha is home to the largest manufacturing sector in the region with breweries, tyre manufacturing and agro-forest processing, and a large pharmaceuticals maker. 
+
+Tourism is also a major part of the economy of the city of Arusha, and the largest dollar-earning economic sector in Tanzania. The city is located on the northern safari circuit near some of the greatest national parks and game reserves in Africa, including Serengeti National Park, Kilimanjaro National Park, Ngorongoro Conservation Area, Arusha National Park, Lake Manyara National Park, and Tarangire National Park. 
+
+The city of Arusha is the headquarters of the East African Community , and plays host to the International Residual Mechanism for Criminal Tribunals , and the African Court on Human and Peoples' Rights . 
+
+The city is home to the famous Arusha International Conference Center , host to many international meetings. 
+
+Arusha is also a well known destination for Non Governmental Organizations that operate out the city in a variety of regions and aid areas such as HIV and AIDS Awareness, children's education, and micro-finance . Districts [ edit ] Offices of the International Criminal Tribunal for Rwanda , 2003. Bishop's Cathedral of Arusha. Arusha Clock Tower. roast chicken ( koku choma ), chips, and roast banana ( ndizi choma ) 
+
+Among Arusha's notable districts are the Central Business Area , located by the Clocktower, Sekei in the North-West which is largely residential with a vibrant nightlife, Njiro , a middle-class rapidly growing suburb in the South, and Tengeru , a lively market-town in the East. 
+
+North of Arusha are districts called Karatu, Ngorongoro, Monduli, Arumeru and Longido, about 90 minutes north of Arusha by daladala along the Arusha-Nairobi Road. 
+
+Arusha's clock tower 03°22′20.5″S 036°41′40.1″E ﻿ / ﻿ 3.372361°S 36.694472°E ﻿ / -3.372361; 36.694472 ﻿ ( Arusha Clocktower ) is popularly supposed to be situated at the midpoint between Cairo and Cape Town , therefore representing the halfway point between the two termini of the old British Empire in Africa. [ citation needed ] However, the actual great circle midpoint between these two cities lies in central Congo. [ citation needed ] The clock tower is currently adorned by the logo of the Coca-Cola Company. Transport [ edit ] 
+
+Arusha is served by Kilimanjaro International Airport for international air travellers, some 60 kilometres (37 mi) east, approximately halfway to Moshi . The airport provides international and domestic flights. Arusha Airport is a regional air hub in the west of the city and serves more than 87,000 passengers yearly. Travel by road can be done through privately run coaches (buses) to Nairobi , Dodoma and Dar Es Salaam , and other major cities in the nation. Culture and cuisine [ edit ] 
+
+Arusha is known for its vibrant night life, with popular local night clubs . 
+
+The city hosts the National Natural History Museum. The museum contains three exhibits on early man, plants and animals of the region, and the history of the city. [5] 
+
+There is a small museum adjacent to the Uhuru monument which displays information about the proceedings of the Arusha Declaration in 1967. 
+
+Arusha is also the headquarters of the African Great Lakes region's first local media center, Aang Serian Drum . 
+
+Masai Market is the local handicrafts and curios market. Cultural Heritage Center has a large handicrafts store, Tanzanite, and art gallery. 
+
+The city's cuisine is a blend of dishes from various parts of Tanzania as well as global culinary traditions. Ugali (stiff maize meal polenta) with meat sauce, beans, and greens is a staple dish. Nyama Ndizi (soup of meat and starchy cooking bananas) is also popular. Nyama Choma , Kiti moto , Kuku choma are popular barbecue dishes usually served with local cold beer and Pili Pili . Chips mayai is another popular local dish of chips (fried potatoes) and egg. Indian cuisine and Chinese food are also widely available. Education and health [ edit ] This section does not cite any sources . Please help improve this section by adding citations to reliable sources . Unsourced material may be challenged and removed . (November 2014) ( Learn how and when to remove this template message ) 
+
+Most Arushan children attend public schools located in almost every ward of the city. There are five international schools in and around Arusha: International School Moshi (Arusha Campus), Arusha International School , Braeburn School , St Constantine's International School , and Kennedy House International School . The Arusha Lutheran Medical Center in downtown Arusha. 
+
+The city of Arusha is home to the National College of Tourism - Arusha Campus , Arusha Technical College , Tengeru Institute of community Development , The Nelson Mandela African Institute of Science and Technology , Eastern and Southern African Management Institute , MS Training Centre for Development Cooperation (MS-TCDC) , The Institute of Accountancy Arusha , Forestry Training Institute, Olmotonyi , Tanzania Wildlife Research Institute , Tumaini University Makumira , The Arusha University and The Mount Meru University . Planning for Aga Khan University-Arusha Campus is in the initial stages. 
+
+Arusha is home to the largest medical hospitals in Arusha Region. Mount Meru Hospital and Arusha Lutheran Medical Center are among the largest in the city. Geography and climate [ edit ] 
+
+Despite its proximity to the equator , Arusha's elevation of 1,400 metres (4,600 ft) on the southern slopes of Mount Meru keeps temperatures relatively low and alleviates humidity. Cool dry air is prevalent for much of the year. The temperature typically ranges between 5 and 30 degrees Celsius with an average annual high temperature around 25 degrees. It has distinct wet and dry seasons, and experiences an eastern prevailing wind from the Indian Ocean , a couple of hundred miles east. Under the Köppen climate classification system, it has a temperate highland tropical climate with dry winters (Cwb). Areas to the south and west of Arusha away are classified as tropical savanna climates (Aw). Climate data for Arusha Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Average high °C (°F) 29 
+
+(84) 29 
+
+(84) 27 
+
+(81) 25 
+
+(77) 22 
+
+(72) 21 
+
+(70) 21 
+
+(69) 22 
+
+(72) 24 
+
+(76) 27 
+
+(80) 27 
+
+(81) 27 
+
+(81) 25 
+
+(77) Average low °C (°F) 10 
+
+(50) 11 
+
+(51) 12 
+
+(53) 14 
+
+(57) 11 
+
+(52) 9 
+
+(48) 9 
+
+(49) 9 
+
+(48) 8 
+
+(47) 11 
+
+(51) 11 
+
+(51) 10 
+
+(50) 11 
+
+(51) Average precipitation mm (inches) 58 
+
+(2.3) 84 
+
+(3.3) 180 
+
+(7) 368 
+
+(14.5) 211 
+
+(8.3) 33 
+
+(1.3) 15 
+
+(0.6) 20 
+
+(0.8) 20 
+
+(0.8) 36 
+
+(1.4) 112 
+
+(4.4) 100 
+
+(4) 1,234 
+
+(48.6) Source: Weatherbase [6] 
+
+The record [7] high since records began in 2000 is 39 degrees Celsius (102 F). Record low is 7 Celsius (45 F). Arusha averages 29.8 days per year above 32 Celsius (90F) – all between November and March. Arusha's annual precipitation average is 123 cm (48.7 inches), mostly coming during the long rainy season from March to May. Areas immediately to the north and northeast of Arusha can see more precipitation and cooler temperatures due to the influence of Mt. Meru, whose rain shadow extends toward the southeast side of the mountain. 
+
+Arusha and the northern highlands of Tanzania experience a bimodal rainfall pattern, with two rainy seasons. Many crops are planted twice per year. The long "masika" rains from March through May are more reliable in Arusha than in surrounding areas because of the influence of Mt. Meru. The short "vuli" rains are less reliable, usually coming in November and December. The dry "kiangazi" season is June to October. Higher elevation areas north and northeast of the city are home to farmers growing bananas, coffee, cabbage, potatoes, carrots, leafy greens, and other vegetables. Cultivation in areas to the northwest, west, southwest, south, and southeast focuses on maize, beans and wheat. There is a significant horticulture industry, with several companies growing flowers for export to Europe. Sports [ edit ] Sheikh Amri Abeid Memorial Stadium . 
+
+The city is home to the Tanzanian rugby national team . The city hosts International rugby matches as well. Joshua Peterson who played for the national team was the second youngest international rugby player ever behind Johnny Wilkinson. Southern Pool A of the 2007 Castel Beer Trophy was hosted here as well. 
+
+The city is home to Arusha FC , playing in Sheikh Amri Abeid Memorial Stadium , which represents the city in Tanzanian league football. 
+
+The city also hosted the Mount Meru Marathon , held from 1985 to 2004. [8] The "all-comers" record for the fastest marathon performance in Tanzania, 2:13:46, was set at the event by former long-distance runner Benedict Ako on August 1, 1993. [9] 
+
+On May 21, 2011, the Drake University Bulldogs beat the CONADEIP All-Stars 17-7 in the first ever American Football Game in Tanzania. In popular culture [ edit ] 
+
+Arusha was the setting for the 1962 film Hatari! directed by Howard Hawks and starring John Wayne . In the video game Halo 3 , a highway sign is seen that says "Arusha", though it is crossed out, suggesting that the city was destroyed by the Covenant . Sister cities [ edit ] Durham, North Carolina , United States Kansas City, Missouri , United States Mürzzuschlag , Austria Tifariti , Western Sahara See also [ edit ] Arusha Accords Arusha Cultural Heritage Centre Arusha Declaration Arusha National Park Arusha Region Lake Manyara Longido Mount Meru (Tanzania) Selian Tanzania United Nations Security Council resolution References [ edit ] ^ a b Population Distribution by Administrative Areas , 2012 Population and Housing Census, National Bureau of Statistics, United Republic of Tanzania, 2013, page 26, accessed 1 November 2014 ^ a b c d e f g h i j k l m n "'A Town of Strangers' or a 'Model Modern East African Town'? Arusha the Arusha", authored by Thomas Spear, in Africa's Urban Past , edited by David Anderson and Richard Rathbone, James Currey Publishers, 2000, accessed 31 October 2014 ^ Oduha, Joseph (19 May 2016). "The EastAfrican" . allafrica.com . The EastAfrican . Retrieved 23 May 2016 . ^ Arusha Times ^ "Archived copy" . Archived from the original on 2011-07-07 . Retrieved 2010-12-01 . ^ "Weatherbase: Historical Weather for Arusha, Tanzania" . Weatherbase. 2011. Retrieved on November 24, 2011 ^ "Arusha, Tanzania Travel Weather Averages (Weatherbase)" . Weatherbase . Retrieved 2016-05-23 . ^ "Mount Meru Marathon" . Association of Road Racing Statisticians . Archived from the original on 20 October 2010 . Retrieved October 30, 2010 . ^ "All-Comers Records- Marathon" . Association of Road Racing Statisticians . Archived from the original on 20 October 2010 . Retrieved October 30, 2010 . External links [ edit ] Wikimedia Commons has media related to Arusha . Wikivoyage has a travel guide for Arusha . Wikiquote has quotations related to: Arusha Forestry Training Institute Olmotonyi (FTI) Eastern and Southern Africa Management Institute David Marsh's Childhood Map of European Area of Arusha, ca. 1956 v t e Cities of Tanzania Arusha Bagamoyo (from 2014) Dar es Salaam Dodoma Mbeya Mwanza Tanga Zanzibar City v t e Districts of Arusha Region , Tanzania Arusha Rural Arusha Urban ( City ) Karatu Longido Meru Monduli Ngorongoro 
+
+Coordinates : 03°22′S 36°41′E ﻿ / ﻿ 3.367°S 36.683°E ﻿ / -3.367; 36.683 Authority control WorldCat Identities VIAF : 161903102 GND : 4308635-4 (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Arusha oldid=745097890 " Categories : Arusha Populated places in the Arusha Region Cities in Tanzania Regional capitals in Tanzania 1900 establishments in German East Africa Hidden categories: All articles with unsourced statements Articles with unsourced statements from October 2012 Articles needing additional references from November 2014 All articles needing additional references Commons category with local link same as on Wikidata Coordinates on Wikidata Wikipedia articles with VIAF identifiers Wikipedia articles with GND identifiers Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Wikiquote Wikivoyage Languages Afrikaans العربية Беларуская Български Brezhoneg Català Čeština Dansk Deutsch Eesti Ελληνικά Español Esperanto Euskara فارسی Français Galego 한국어 हिन्दी Hrvatski Bahasa Indonesia Italiano עברית Kalaallisut Kiswahili Кырык мары Lietuvių Magyar Māori Nederlands 日本語 Norsk bokmål Polski Português Română Русский Scots Српски / srpski Suomi Svenska Türkçe Українська اردو Tiếng Việt Winaray Yorùbá 中文 Edit links This page was last modified on 19 October 2016, at 06:51. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.600", "walltime": "0.737", "ppvisitednodes": { "value": 5567, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 76421, "limit": 2097152 }, "templateargumentsize": { "value": 6176, "limit": 2097152 }, "expansiondepth": { "value": 19, "limit": 40 }, "expensivefunctioncount": { "value": 5, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 590.293 1 -total", " 38.74% 228.663 1 Template:Infobox_settlement", " 31.80% 187.739 2 Template:Infobox", " 15.99% 94.413 1 Template:Reflist", " 11.68% 68.957 6 Template:Cite_web", " 11.23% 66.294 3 Template:Citation_needed", " 10.23% 60.391 3 Template:Fix", " 9.27% 54.732 1 Template:Weather_box", " 5.61% 33.126 1 Template:Commons_category", " 5.27% 31.138 2 Template:Convert" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.210", "limit": "10.000" }, "limitreport-memusage": { "value": 6658673, "limit": 52428800 } }, "cachereport": { "origin": "mw1191", "timestamp": "20161019065109", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":72,"wgHostname":"mw1171"});});

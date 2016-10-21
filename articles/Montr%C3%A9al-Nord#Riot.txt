@@ -1,0 +1,859 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Montréal-Nord - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Montréal-Nord","wgTitle":"Montréal-Nord","wgCurRevisionId":732932602,"wgRevisionId":732932602,"wgArticleId":2389938,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","Articles to be expanded from February 2009","All articles to be expanded","Articles needing translation from French Wikipedia","Settlement articles requiring maintenance","Articles containing French-language text","Coordinates on Wikidata","Populated places disestablished in 2002","Former cities in Canada","Montréal-Nord"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Montréal-Nord","wgRelevantArticleId":2389938,"wgRequestId":"WAkP1gpAEK0AAB5oe4gAAAAT","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":45.6,"lon":-73.616666666667},"wgWikibaseItemId":"Q1714436","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Montr%C3%A9al-Nord"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Montr%C3%A9al-Nord"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Montréal-Nord rootpage-Montréal-Nord skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Montréal-Nord</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">"Montreal North" redirects here. For the Montreal system of cardinal directions, see <a href="/wiki/Geography_of_Montreal#Street_directions" title="Geography of Montreal">Geography of Montreal §&#160;Street directions</a>.</div>
+<table class="plainlinks metadata ambox ambox-notice" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/50px-Translation_to_english_arrow.svg.png" width="50" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/75px-Translation_to_english_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/100px-Translation_to_english_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></div>
+</td>
+<td class="mbox-text">
+<div class="NavFrame collapsed" style="border:none;">
+<div class="NavHead" style="background:transparent;text-align:center;padding-right: 3em; font-weight: normal; text-align: left"><span class="mbox-text-span">This article <b>may be expanded with text translated from the <a href="https://fr.wikipedia.org/wiki/Montr%C3%A9al-Nord" class="extiw" title="fr:Montréal-Nord">corresponding article</a> in French</b>.  <i><small>(February 2009)</small></i> <small>Click [show] for important translation instructions.</small>&#160;</span></div>
+<div class="NavContent" style="background:transparent;text-align:left;">
+<ul>
+<li><span class="mbox-text-span"><a rel="nofollow" class="external text" href="https://translate.google.com/translate?&amp;u=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FMontr%C3%A9al-Nord&amp;sl=fr&amp;tl=en&amp;prev=_t&amp;hl=en">View</a> a machine-translated version of the French article.</span></li>
+<li><span class="mbox-text-span">Google's machine translation is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the English Wikipedia.</span></li>
+<li><span class="mbox-text-span">Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article.</span></li>
+<li><span class="mbox-text-span">After translating, <code>{{Translated|fr|Montréal-Nord}}</code> must be added to the <a href="/wiki/Talk:Montr%C3%A9al-Nord" title="Talk:Montréal-Nord">talk page</a> to ensure <a href="/wiki/Wikipedia:Copying_within_Wikipedia" title="Wikipedia:Copying within Wikipedia">copyright compliance</a>.</span></li>
+<li><span class="mbox-text-span">For more guidance, see <a href="/wiki/Wikipedia:Translation" title="Wikipedia:Translation">Wikipedia:Translation</a>.</span></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org"><i>Arrondissement de Montréal-Nord</i></span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><span class="category"><a href="/wiki/Boroughs_of_Montreal" title="Boroughs of Montreal">Borough</a> of <a href="/wiki/Montreal" title="Montreal">Montreal</a></span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding:0.7em 0.8em"><a href="/wiki/File:Montr%C3%A9al-Nord.jpg" class="image" title="Montreal North Borough Hall"><img alt="Montreal North Borough Hall" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Montr%C3%A9al-Nord.jpg/275px-Montr%C3%A9al-Nord.jpg" width="275" height="187" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Montr%C3%A9al-Nord.jpg/413px-Montr%C3%A9al-Nord.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Montr%C3%A9al-Nord.jpg/550px-Montr%C3%A9al-Nord.jpg 2x" data-file-width="3520" data-file-height="2391" /></a>
+<div><b>Montreal North Borough Hall</b></div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Logomtlnord.png" class="image" title="Official logo of Arrondissement de Montréal-Nord"><img alt="Official logo of Arrondissement de Montréal-Nord" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logomtlnord.png/175px-Logomtlnord.png" width="175" height="49" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logomtlnord.png/263px-Logomtlnord.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logomtlnord.png/350px-Logomtlnord.png 2x" data-file-width="400" data-file-height="111" /></a><br />
+<small><b>Logo</b></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Carte_localisation_Montr%C3%A9al_-_Montr%C3%A9al-Nord.svg" class="image" title="Montreal North's location on the Island of Montreal."><img alt="Montreal North's location on the Island of Montreal." src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Carte_localisation_Montr%C3%A9al_-_Montr%C3%A9al-Nord.svg/275px-Carte_localisation_Montr%C3%A9al_-_Montr%C3%A9al-Nord.svg.png" width="275" height="176" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Carte_localisation_Montr%C3%A9al_-_Montr%C3%A9al-Nord.svg/413px-Carte_localisation_Montr%C3%A9al_-_Montr%C3%A9al-Nord.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Carte_localisation_Montr%C3%A9al_-_Montr%C3%A9al-Nord.svg/550px-Carte_localisation_Montr%C3%A9al_-_Montr%C3%A9al-Nord.svg.png 2x" data-file-width="1563" data-file-height="999" /></a><br />
+<small>Montreal North's location on the Island of Montreal.</small></td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span style="white-space:nowrap"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Montr%C3%A9al-Nord&amp;params=45_36_N_73_37_W_type:city(83868)_region:CA-QC"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">45°36′N</span> <span class="longitude">73°37′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">45.600°N 73.617°W</span><span style="display:none">﻿ / <span class="geo">45.600; -73.617</span></span></span></a></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" data-file-width="1000" data-file-height="500" />&#160;</span><a href="/wiki/Canada" title="Canada">Canada</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Provinces_and_territories_of_Canada" title="Provinces and territories of Canada">Province</a></th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag_of_Quebec.svg/23px-Flag_of_Quebec.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag_of_Quebec.svg/35px-Flag_of_Quebec.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag_of_Quebec.svg/45px-Flag_of_Quebec.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Quebec" title="Quebec">Quebec</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">City</th>
+<td><a href="/wiki/Montreal" title="Montreal">Montreal</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_Quebec_regions" class="mw-redirect" title="List of Quebec regions">Region</a></th>
+<td><a href="/wiki/Montr%C3%A9al_(region)" class="mw-redirect" title="Montréal (region)">Montréal</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Incorporated</th>
+<td>1915 (from <a href="/wiki/Sault-au-R%C3%A9collet" title="Sault-au-Récollet">Sault-au-Récollet</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Merge into<br />
+Montreal</th>
+<td>January 01, 2002</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Electoral&#160;Districts<br />
+<a href="/wiki/List_of_Canadian_federal_ridings" class="mw-redirect" title="List of Canadian federal ridings">Federal</a></th>
+<td><br />
+<a href="/wiki/Bourassa_(electoral_district)" title="Bourassa (electoral district)">Bourassa</a><br />
+<a href="/wiki/Honor%C3%A9-Mercier_(electoral_district)" title="Honoré-Mercier (electoral district)">Honoré-Mercier</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/List_of_Quebec_provincial_electoral_districts" class="mw-redirect" title="List of Quebec provincial electoral districts">Provincial</a></th>
+<td><a href="/wiki/Bourassa-Sauv%C3%A9_(Quebec_provincial_electoral_district)" class="mw-redirect" title="Bourassa-Sauvé (Quebec provincial electoral district)">Bourassa-Sauvé</a><br />
+<a href="/wiki/Cr%C3%A9mazie_(electoral_district)" title="Crémazie (electoral district)">Crémazie</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government<span style="font-weight:normal"><sup id="cite_ref-AMRQ_1-0" class="reference"><a href="#cite_note-AMRQ-1">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Type</th>
+<td>Borough</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Mayor</th>
+<td><a href="/w/index.php?title=Christine_Black&amp;action=edit&amp;redlink=1" class="new" title="Christine Black (page does not exist)">Christine Black</a> <a href="/wiki/%C3%89quipe_Denis_Coderre_pour_Montr%C3%A9al" title="Équipe Denis Coderre pour Montréal">(EDC)</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Federal <a href="/wiki/House_of_Commons_of_Canada" title="House of Commons of Canada">MP</a>(s)</th>
+<td><a href="/wiki/Emmanuel_Dubourg" title="Emmanuel Dubourg">Emmanuel Dubourg</a> (<a href="/wiki/Liberal_Party_of_Canada" title="Liberal Party of Canada">LIB</a>)<br />
+<a href="/wiki/Pablo_Rodr%C3%ADguez_(Canadian_politician)" title="Pablo Rodríguez (Canadian politician)">Pablo Rodríguez</a> (<a href="/wiki/Liberal_Party_(Canada)" class="mw-redirect" title="Liberal Party (Canada)">LPC</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Quebec <a href="/wiki/National_Assembly_of_Quebec" title="National Assembly of Quebec">MNA</a></th>
+<td><a href="/wiki/Rita_de_Santis" title="Rita de Santis">Rita de Santis</a> (<a href="/wiki/Quebec_Liberal_Party" title="Quebec Liberal Party">LIB</a>)<br />
+<a href="/wiki/Marie_Montpetit" title="Marie Montpetit">Marie Montpetit</a> (<a href="/wiki/Quebec_Liberal_Party" title="Quebec Liberal Party">LIB</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area<span style="font-weight:normal"><sup id="cite_ref-SC2006_4-0" class="reference"><a href="#cite_note-SC2006-4">[4]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Land</th>
+<td>11.07&#160;km<sup>2</sup> (4.27&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(<a href="/wiki/Canada_2011_Census" title="Canada 2011 Census">2011</a>)<sup id="cite_ref-SC2006_4-1" class="reference"><a href="#cite_note-SC2006-4">[4]</a></sup><sup id="cite_ref-Montr.C3.A9alStatistique2011_5-0" class="reference"><a href="#cite_note-Montr.C3.A9alStatistique2011-5">[5]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>83,868</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>7,576.2/km<sup>2</sup> (19,622/sq&#160;mi)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Change&#160;<small>(2006-11)</small></th>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" />0.1%</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Dwellings <small>(2006)</small></th>
+<td>38,122</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Eastern_Time_Zone" title="Eastern Time Zone">Eastern</a> (EST) (<a href="/wiki/UTC%E2%88%925" class="mw-redirect" title="UTC−5">UTC−5</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><span style="white-space:nowrap">&#160;•&#160;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th>
+<td>EDT (<a href="/wiki/UTC%E2%88%924" class="mw-redirect" title="UTC−4">UTC−4</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Telephone_numbering_plan" title="Telephone numbering plan">Area code(s)</a></th>
+<td><a href="/wiki/Area_code_514/438" class="mw-redirect" title="Area code 514/438">514/438</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Access&#160;Routes<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><br />
+<img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Quebec_Autoroute_25.svg/18px-Quebec_Autoroute_25.svg.png" width="18" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Quebec_Autoroute_25.svg/27px-Quebec_Autoroute_25.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Quebec_Autoroute_25.svg/36px-Quebec_Autoroute_25.svg.png 2x" data-file-width="217" data-file-height="289" /> <span class="nowrap"><a href="/wiki/Quebec_Autoroute_25" title="Quebec Autoroute 25">A-25</a></span></th>
+<td><br />
+<img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Qc125.svg/18px-Qc125.svg.png" width="18" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Qc125.svg/27px-Qc125.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Qc125.svg/36px-Qc125.svg.png 2x" data-file-width="589" data-file-height="783" /> <span class="nowrap"><a href="/wiki/Quebec_Route_125" title="Quebec Route 125">Route 125</a></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://ville.montreal.qc.ca/portal/page?_pageid=2120,2652002&amp;_dad=portal&amp;_schema=PORTAL">www.ville.montreal.qc.ca/mtlnord</a></td>
+</tr>
+</table>
+<p><b>Montreal North</b> (<a href="/wiki/French_language" title="French language">French</a>: <span lang="fr" xml:lang="fr"><i><b>Montréal-Nord</b></i></span>) is a <a href="/wiki/Borough" title="Borough">borough</a> (<i><a href="/wiki/Arrondissement" title="Arrondissement">arrondissement</a></i>) of the city of <a href="/wiki/Montreal" title="Montreal">Montreal</a>, <a href="/wiki/Quebec" title="Quebec">Quebec</a>, <a href="/wiki/Canada" title="Canada">Canada</a>. It consists entirely of the former city of Montréal-Nord on <a href="/wiki/Island_of_Montreal" title="Island of Montreal">Island of Montreal</a> in southwestern <a href="/wiki/Quebec" title="Quebec">Quebec</a>. It was amalgamated into the City of <a href="/wiki/Montreal" title="Montreal">Montreal</a> on January 1, 2002.</p>
+<p>Montreal North has the reputation of being one of Montreal's most dangerous boroughs, along with <a href="/wiki/Hochelaga-Maisonneuve" title="Hochelaga-Maisonneuve">Hochelaga-Maisonneuve</a>. The area contains a sizable community living below the <a href="/wiki/Poverty" title="Poverty">poverty</a> line, though it also has a middle-class and upper-middle-class residents.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Politics"><span class="tocnumber">2</span> <span class="toctext">Politics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Federal_and_provincial_elections"><span class="tocnumber">2.1</span> <span class="toctext">Federal and provincial elections</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Demographics"><span class="tocnumber">3</span> <span class="toctext">Demographics</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Government"><span class="tocnumber">4</span> <span class="toctext">Government</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Borough_council"><span class="tocnumber">4.1</span> <span class="toctext">Borough council</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Riot"><span class="tocnumber">5</span> <span class="toctext">Riot</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Education"><span class="tocnumber">6</span> <span class="toctext">Education</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Primary_and_secondary_schools"><span class="tocnumber">6.1</span> <span class="toctext">Primary and secondary schools</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Public_libraries"><span class="tocnumber">6.2</span> <span class="toctext">Public libraries</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=edit&amp;section=1" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Parc_Montreal-Nord.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Parc_Montreal-Nord.jpg/220px-Parc_Montreal-Nord.jpg" width="220" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Parc_Montreal-Nord.jpg/330px-Parc_Montreal-Nord.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Parc_Montreal-Nord.jpg/440px-Parc_Montreal-Nord.jpg 2x" data-file-width="1584" data-file-height="1200" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Parc_Montreal-Nord.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Pierre_Granche" title="Pierre Granche">Pierre Granche</a>'s sculpture in park in Montréal-Nord.</div>
+</div>
+</div>
+<p>The borough is an oblong municipal division situated along the <a href="/wiki/Rivi%C3%A8re_des_Prairies" title="Rivière des Prairies">Rivière des Prairies</a>, in the northeastern part of the island.</p>
+<p>It is bordered to the west by <a href="/wiki/Ahuntsic-Cartierville" title="Ahuntsic-Cartierville">Ahuntsic-Cartierville</a>, to the southwest by <a href="/wiki/Villeray%E2%80%93Saint-Michel%E2%80%93Parc-Extension" title="Villeray–Saint-Michel–Parc-Extension">Villeray–Saint-Michel–Parc-Extension</a>, to the south by <a href="/wiki/Saint_Leonard_(Montreal)" class="mw-redirect" title="Saint Leonard (Montreal)">Saint Leonard</a>, at the southeast corner by <a href="/wiki/Anjou_(borough)" class="mw-redirect" title="Anjou (borough)">Anjou</a>, and to the east by <a href="/wiki/Rivi%C3%A8re-des-Prairies%E2%80%93Pointe-aux-Trembles" title="Rivière-des-Prairies–Pointe-aux-Trembles">Rivière-des-Prairies–Pointe-aux-Trembles</a>.</p>
+<p>Major thoroughfares in Montreal North include Saint Michel Blvd., Pie IX Blvd. (<a href="/wiki/Quebec_Autoroute_25" title="Quebec Autoroute 25">Autoroute 25</a>), Lacordaire Blvd., Langelier Blvd., Léger Blvd., and Henri Bourassa Blvd. The <a href="/wiki/Pie_IX_Bridge" title="Pie IX Bridge">Pie IX Bridge</a> connects Montreal North to the <a href="/wiki/Laval,_Quebec" title="Laval, Quebec">Laval</a> district of <a href="/wiki/Saint-Vincent-de-Paul,_Quebec" title="Saint-Vincent-de-Paul, Quebec">Saint-Vincent-de-Paul</a>.</p>
+<p>It has an area of 11.07&#160;km² and a population of 83,911.</p>
+<h2><span class="mw-headline" id="Politics">Politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=edit&amp;section=2" title="Edit section: Politics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Federal_and_provincial_elections">Federal and provincial elections</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=edit&amp;section=3" title="Edit section: Federal and provincial elections">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The borough is located almost entirely in the federal riding of <a href="/wiki/Bourassa_(electoral_district)" title="Bourassa (electoral district)">Bourassa</a>, except for a tiny southeastern corner in <a href="/wiki/Honor%C3%A9-Mercier_(electoral_district)" title="Honoré-Mercier (electoral district)">Honoré-Mercier</a>.</p>
+<p>The provincial electoral district of <a href="/wiki/Bourassa-Sauv%C3%A9_(Quebec_provincial_electoral_district)" class="mw-redirect" title="Bourassa-Sauvé (Quebec provincial electoral district)">Bourassa-Sauvé</a> is coterminous with the borough except for a northwestern section in the electoral district of <a href="/wiki/Cr%C3%A9mazie_(electoral_district)" title="Crémazie (electoral district)">Crémazie</a>.</p>
+<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=edit&amp;section=4" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" style="width:15em;border-spacing: 0;float:right;clear:right;margin:0 0 1em 1em;">
+<tr>
+<th class="navbox-title" colspan="3" style="padding:0.25em;font-size:110%">Historical populations</th>
+</tr>
+<tr style="font-size:95%">
+<th style="border-bottom:1px solid black;padding:1px;width:3em">Year</th>
+<th style="border-bottom:1px solid black;padding:1px 2px;text-align:right"><abbr title="Population">Pop.</abbr></th>
+<th style="border-bottom:1px solid black;padding:1px;text-align:right"><abbr title="Percent change">±%</abbr></th>
+</tr>
+<tr>
+<th style="text-align:center;padding:1px">1966</th>
+<td style="text-align:right;padding:1px">67,806</td>
+<td style="text-align:right;padding:1px">—&#160;&#160;&#160;&#160;</td>
+</tr>
+<tr>
+<th style="text-align:center;padding:1px">1971</th>
+<td style="text-align:right;padding:1px">89,140</td>
+<td style="text-align:right;padding:1px">+31.5%</td>
+</tr>
+<tr>
+<th style="text-align:center;padding:1px">1976</th>
+<td style="text-align:right;padding:1px">97,250</td>
+<td style="text-align:right;padding:1px">+9.1%</td>
+</tr>
+<tr>
+<th style="text-align:center;padding:1px">1981</th>
+<td style="text-align:right;padding:1px">94,914</td>
+<td style="text-align:right;padding:1px">−2.4%</td>
+</tr>
+<tr>
+<th style="text-align:center;padding:1px;border-bottom:1px solid #bbbbbb">1986</th>
+<td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">90,303</td>
+<td style="text-align:right;padding:1px;border-bottom:1px solid #bbbbbb">−4.9%</td>
+</tr>
+<tr>
+<th style="text-align:center;padding:1px">1991</th>
+<td style="text-align:right;padding:1px">85,516</td>
+<td style="text-align:right;padding:1px">−5.3%</td>
+</tr>
+<tr>
+<th style="text-align:center;padding:1px"><a href="/wiki/Canada_1996_Census" title="Canada 1996 Census">1996</a></th>
+<td style="text-align:right;padding:1px">81,581</td>
+<td style="text-align:right;padding:1px">−4.6%</td>
+</tr>
+<tr>
+<th style="text-align:center;padding:1px"><a href="/wiki/Canada_2001_Census" title="Canada 2001 Census">2001</a></th>
+<td style="text-align:right;padding:1px">83,600</td>
+<td style="text-align:right;padding:1px">+2.5%</td>
+</tr>
+<tr>
+<th style="text-align:center;padding:1px"><a href="/wiki/Canada_2006_Census" title="Canada 2006 Census">2006</a></th>
+<td style="text-align:right;padding:1px">83,911</td>
+<td style="text-align:right;padding:1px">+0.4%</td>
+</tr>
+<tr>
+<th style="text-align:center;padding:1px"><a href="/wiki/Canada_2011_Census" title="Canada 2011 Census">2011</a></th>
+<td style="text-align:right;padding:1px">83,868</td>
+<td style="text-align:right;padding:1px">−0.1%</td>
+</tr>
+<tr>
+<td colspan="3" style="border-top:1px solid black;font-size:85%;text-align:left"><sup id="cite_ref-sociodemo_7-0" class="reference"><a href="#cite_note-sociodemo-7">[7]</a></sup></td>
+</tr>
+</table>
+<table class="wikitable">
+<caption><b>Home language</b> (<a href="/wiki/Canada_2011_Census" title="Canada 2011 Census">2011</a>) <sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></caption>
+<tr>
+<th>Language</th>
+<th>Population</th>
+<th>Percentage (%)</th>
+</tr>
+<tr>
+<td><a href="/wiki/French_language" title="French language">French</a></td>
+<td>48,265</td>
+<td>66%</td>
+</tr>
+<tr>
+<td><a href="/wiki/English_language" title="English language">English</a></td>
+<td>5,735</td>
+<td>8%</td>
+</tr>
+<tr>
+<td>Other languages</td>
+<td>19,170</td>
+<td>26%</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Government">Government</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=edit&amp;section=5" title="Edit section: Government">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Borough_council">Borough council</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=edit&amp;section=6" title="Edit section: Borough council">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As of the November 3, 2013 <a href="/wiki/Montreal_municipal_election,_2013" title="Montreal municipal election, 2013">Montreal municipal election</a>, the current borough council consists of the following councillors:</p>
+<table class="wikitable" border="1">
+<tr>
+<th>District</th>
+<th>Position</th>
+<th>Name</th>
+<th width="30px">&#160;</th>
+<th>Party</th>
+</tr>
+<tr>
+<td>—</td>
+<td>Borough mayor<br />
+<a href="/wiki/Montreal_City_Council" title="Montreal City Council">City councillor</a></td>
+<td><a href="/w/index.php?title=Christine_Black&amp;action=edit&amp;redlink=1" class="new" title="Christine Black (page does not exist)">Christine Black</a></td>
+<td bgcolor="#20B2AA">&#160;</td>
+<td><a href="/wiki/%C3%89quipe_Denis_Coderre_pour_Montr%C3%A9al" title="Équipe Denis Coderre pour Montréal">Équipe Coderre</a></td>
+</tr>
+<tr>
+<td rowspan="2">Marie-Clarac</td>
+<td>City councillor</td>
+<td><a href="/wiki/Chantal_Rossi" title="Chantal Rossi">Chantal Rossi</a></td>
+<td bgcolor="#20B2AA">&#160;</td>
+<td><a href="/wiki/%C3%89quipe_Denis_Coderre_pour_Montr%C3%A9al" title="Équipe Denis Coderre pour Montréal">Équipe Coderre</a></td>
+</tr>
+<tr>
+<td>Borough councillor</td>
+<td>Monica Ricourt</td>
+<td bgcolor="#20B2AA">&#160;</td>
+<td><a href="/wiki/%C3%89quipe_Denis_Coderre_pour_Montr%C3%A9al" title="Équipe Denis Coderre pour Montréal">Équipe Coderre</a></td>
+</tr>
+<tr>
+<td rowspan="2">Ovide-Clermont</td>
+<td>City councillor</td>
+<td><a href="/w/index.php?title=Jean-Marc_Gibeau&amp;action=edit&amp;redlink=1" class="new" title="Jean-Marc Gibeau (page does not exist)">Jean-Marc Gibeau</a></td>
+<td bgcolor="#20B2AA">&#160;</td>
+<td><a href="/wiki/%C3%89quipe_Denis_Coderre_pour_Montr%C3%A9al" title="Équipe Denis Coderre pour Montréal">Équipe Coderre</a></td>
+</tr>
+<tr>
+<td>Borough councillor</td>
+<td>Sylvia Lo Bianco</td>
+<td bgcolor="#20B2AA">&#160;</td>
+<td><a href="/wiki/%C3%89quipe_Denis_Coderre_pour_Montr%C3%A9al" title="Équipe Denis Coderre pour Montréal">Équipe Coderre</a></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Riot">Riot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=edit&amp;section=7" title="Edit section: Riot">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For yet undisclosed reasons on August 9, 2008 officers of the <a href="/wiki/Service_de_police_de_la_Ville_de_Montr%C3%A9al" title="Service de police de la Ville de Montréal">Service de police de la Ville de Montréal</a> shot and killed Honduran immigrant <a href="/wiki/Fredy_Alberto_Villanueva" class="mw-redirect" title="Fredy Alberto Villanueva">Fredy Alberto Villanueva</a>.<sup id="cite_ref-cbc.ca_9-0" class="reference"><a href="#cite_note-cbc.ca-9">[9]</a></sup> This served to set off the tensions that had already been simmering in this multi-ethnic borough, and riots erupted the next evening, after an otherwise peaceful protest march in the afternoon. Rioters looted neighborhood stores, several cars and garbage cans were set on fire, one paramedic and two police officers were wounded and one female police officer shot.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Firetrucks and firefighters arriving to put out the fires were then targeted by the rioters.<sup id="cite_ref-cbc.ca_9-1" class="reference"><a href="#cite_note-cbc.ca-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=edit&amp;section=8" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Primary_and_secondary_schools">Primary and secondary schools</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=edit&amp;section=9" title="Edit section: Primary and secondary schools">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Commission_scolaire_de_la_Pointe-de-l%27%C3%8Ele" title="Commission scolaire de la Pointe-de-l'Île">Commission scolaire de la Pointe-de-l'Île</a> (CSPÎ) operates French-language public schools. The secondary schools in the arrondissement are <a href="/wiki/%C3%89cole_secondaire_Calixa-Lavall%C3%A9e" title="École secondaire Calixa-Lavallée">École secondaire Calixa-Lavallée</a> and <a href="/wiki/%C3%89cole_Secondaire_Henri-Bourassa" title="École Secondaire Henri-Bourassa">École Secondaire Henri-Bourassa</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> There is also the <i>Le Prélude</i> program.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> There are 14 Francophone primary schools in Montréal-Nord.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<p>The <a href="/wiki/English_Montreal_School_Board" title="English Montreal School Board">English Montreal School Board</a> operates Anglophone public schools:</p>
+<ul>
+<li>Galileo Adult Education Centre (<i>Centre d'éducation des adultes Galileo</i>)<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></li>
+<li><a href="/wiki/Lester_B._Pearson_High_School_(Montreal)" title="Lester B. Pearson High School (Montreal)">Lester B Pearson High School</a></li>
+<li>Gerald McShane School<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></li>
+</ul>
+<p>Prior to 1998 it was in the <a href="/wiki/Montreal_Catholic_School_Commission" title="Montreal Catholic School Commission">Montreal Catholic School Commission</a> (CECM) and the <a href="/wiki/Protestant_School_Board_of_Greater_Montreal" title="Protestant School Board of Greater Montreal">Protestant School Board of Greater Montreal</a>, as at that time public schools were by religious denomination instead of on linguistic lines. In 1998 some schools in the eastern portion of CECM were transferred to the former area of <a href="/wiki/Commission_scolaire_J%C3%A9r%C3%B4me-Le_Royer" title="Commission scolaire Jérôme-Le Royer">Commission scolaire Jérôme-Le Royer</a>, which at that time became the territory of the CSPÎ.<sup id="cite_ref-Lagac.C3.A9Over40years_17-0" class="reference"><a href="#cite_note-Lagac.C3.A9Over40years-17">[17]</a></sup></p>
+<h3><span class="mw-headline" id="Public_libraries">Public libraries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=edit&amp;section=10" title="Edit section: Public libraries">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The borough has four libraries of the <a href="/wiki/Montreal_Public_Libraries_Network" title="Montreal Public Libraries Network">Montreal Public Libraries Network</a>: Belleville, Bibliothèque de la Maison culturelle et communautaire, Charleroi, and Henri-Bourassa.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Boroughs_of_Montreal#List_of_Montreal_boroughs" title="Boroughs of Montreal">Boroughs of Montreal</a></li>
+<li><a href="/wiki/Districts_of_Montreal" class="mw-redirect" title="Districts of Montreal">Districts of Montreal</a></li>
+<li><a href="/wiki/Municipal_reorganization_in_Quebec" class="mw-redirect" title="Municipal reorganization in Quebec">Municipal reorganization in Quebec</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-AMRQ-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-AMRQ_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mamrot.gouv.qc.ca/repertoire-des-municipalites/fiche/arrondissement/REM16/">Ministère des Affaires Municipales et Régions: Montréal-Nord</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www2.parl.gc.ca/Sites/LOP/HFER/hfer.asp?Language=E&amp;Search=Det&amp;Include=Y&amp;rid=57">Parliament of Canada Federal Riding History: BOURASSA (Quebec)</a><br />
+<a rel="nofollow" class="external text" href="http://www2.parl.gc.ca/Sites/LOP/HFER/hfer.asp?Language=E&amp;Search=Det&amp;Include=Y&amp;rid=1396">Parliament of Canada Federal Riding History: HONORÉ-MERCIER (Quebec)</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.electionsquebec.qc.ca/en/resultats_gen.asp?bsq=Bourassa-Sauv%E9&amp;section=resultats_gen&amp;even=%272008%27&amp;mode=%27n3%27#resul">Chief Electoral Officer of Québec - 40th General Election Riding Results: BOURASSA-SAUVÉ</a><br />
+<a rel="nofollow" class="external text" href="http://www.electionsquebec.qc.ca/en/resultats_gen.asp?bsq=Cr%E9mazie&amp;section=resultats_gen&amp;even=%272008%27&amp;mode=%27n3%27#resul">Chief Electoral Officer of Québec - 40th General Election Riding Results: CRÉMAZIE</a></span></li>
+<li id="cite_note-SC2006-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-SC2006_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SC2006_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www12.statcan.gc.ca/census-recensement/2006/dp-pd/prof/92-591/details/page.cfm?Lang=E&amp;Geo1=CSD&amp;Code1=2466020&amp;Geo2=PR&amp;Code2=24&amp;Data=Count&amp;SearchText=Montreal-Nord&amp;SearchType=Begins&amp;SearchPR=24&amp;B1=Custom&amp;Custom=1000">2006 Statistics Canada Community Profile: Montréal-Nord, Quebec</a></span></li>
+<li id="cite_note-Montr.C3.A9alStatistique2011-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Montr.C3.A9alStatistique2011_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ville.montreal.qc.ca/pls/portal/docs/PAGE/MTL_STATS_FR/MEDIA/DOCUMENTS/01_POPULATION_DENSIT%C9_2011.PDF">"Population totale en 2006 et en 2011 - Variation&#160;— Densité"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/Canada_2011_Census" title="Canada 2011 Census">Canada 2011 Census</a></i> (in French). Ville de Montréal. 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">5 June</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMontr%C3%A9al-Nord&amp;rft.atitle=Population+totale+en+2006+et+en+2011+-+Variation+%94+Densit%C3%A9&amp;rft.date=2012&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fville.montreal.qc.ca%2Fpls%2Fportal%2Fdocs%2FPAGE%2FMTL_STATS_FR%2FMEDIA%2FDOCUMENTS%2F01_POPULATION_DENSIT%25C9_2011.PDF&amp;rft.jtitle=Canada+2011+Census&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.quebec511.gouv.qc.ca/fr/carte_routiere/">Official Transport Quebec Road Map</a></span></li>
+<li id="cite_note-sociodemo-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-sociodemo_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://ville.montreal.qc.ca/pls/portal/docs/PAGE/MTL_STATS_FR/MEDIA/DOCUMENTS/PROFIL_SOCIOD%C9MO_MONTREALNORD.PDF">"Profil sociodéographique: Arrondissement de Montréal-Nord"</a> <span style="font-size:85%;">(PDF)</span> (in French). Ville de Montréal. 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">28 October</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMontr%C3%A9al-Nord&amp;rft.btitle=Profil+sociod%C3%A9ographique%3A+Arrondissement+de+Montr%C3%A9al-Nord&amp;rft.date=2013&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fville.montreal.qc.ca%2Fpls%2Fportal%2Fdocs%2FPAGE%2FMTL_STATS_FR%2FMEDIA%2FDOCUMENTS%2FPROFIL_SOCIOD%25C9MO_MONTREALNORD.PDF&amp;rft.pub=Ville+de+Montr%C3%A9al&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://ville.montreal.qc.ca/portal/page?_pageid=6897,68087658&amp;_dad=portal&amp;_schema=PORTAL">http://ville.montreal.qc.ca/portal/page?_pageid=6897,68087658&amp;_dad=portal&amp;_schema=PORTAL</a></span></li>
+<li id="cite_note-cbc.ca-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-cbc.ca_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cbc.ca_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.cbc.ca/canada/montreal/story/2008/08/15/mtl-villanuevashooting0815.html">"Family 'destroyed' by death of Montreal man shot by police"</a>. <i>CBC News</i>. 15 August 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMontr%C3%A9al-Nord&amp;rft.atitle=Family+%27destroyed%27+by+death+of+Montreal+man+shot+by+police&amp;rft.date=2008-08-15&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.cbc.ca%2Fcanada%2Fmontreal%2Fstory%2F2008%2F08%2F15%2Fmtl-villanuevashooting0815.html&amp;rft.jtitle=CBC+News&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.canada.com/calgaryherald/news/story.html?id=9ec92305-9cb6-493a-9271-dd569f0c50bd">http://www.canada.com/calgaryherald/news/story.html?id=9ec92305-9cb6-493a-9271-dd569f0c50bd</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.cspi.qc.ca/index.php?option=com_docman&amp;task=doc_download&amp;gid=13&amp;Itemid=47">LÂCHE PAS! Tu vas réussir toute une expérience.</a>" <a href="/wiki/Commission_scolaire_de_la_Pointe-de-l%27%C3%8Ele" title="Commission scolaire de la Pointe-de-l'Île">Commission scolaire de la Pointe-de-l'Île</a>. Retrieved on December 8, 2014. PDF p. 22/24.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.cspi.qc.ca/index.php?option=com_mtree&amp;task=listcats&amp;cat_id=45&amp;Itemid=13">Secondaire</a>." <a href="/wiki/Commission_scolaire_de_la_Pointe-de-l%27%C3%8Ele" title="Commission scolaire de la Pointe-de-l'Île">Commission scolaire de la Pointe-de-l'Île</a>. Retrieved on December 8, 2014.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.cspi.qc.ca/index.php?option=com_mtree&amp;task=listcats&amp;cat_id=44&amp;Itemid=13">Primaire</a>." <a href="/wiki/Commission_scolaire_de_la_Pointe-de-l%27%C3%8Ele" title="Commission scolaire de la Pointe-de-l'Île">Commission scolaire de la Pointe-de-l'Île</a>. Retrieved on December 8, 2014.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.emsb.qc.ca/fr/adults_fr/pages/adultacademic.asp?id=86">http://www.emsb.qc.ca/fr/adults_fr/pages/adultacademic.asp?id=86</a> - <a rel="nofollow" class="external free" href="http://www.emsb.qc.ca/en/adults_en/pages/adultacademic.asp?id=86">http://www.emsb.qc.ca/en/adults_en/pages/adultacademic.asp?id=86</a></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.emsb.qc.ca/geraldmcshane/about.asp">About Our School</a>." Gerald McShane School. Retrieved on December 8, 2014.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.emsb.qc.ca/en/schools_en/pages/elementary.asp?id=17">http://www.emsb.qc.ca/en/schools_en/pages/elementary.asp?id=17</a></span></li>
+<li id="cite_note-Lagac.C3.A9Over40years-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lagac.C3.A9Over40years_17-0">^</a></b></span> <span class="reference-text">Lagacé, Roger. "<a rel="nofollow" class="external text" href="http://journalmetro.com/local/montreal-nord/actualites/638654/lecole-calixa-lavallee-depuis-plus-de-40-ans-a-montreal-nord/">L’école Calixa Lavallée: depuis plus de 40 ans à Montréal-Nord</a>." <i><a href="/wiki/M%C3%A9tro_(Canadian_newspaper)" title="Métro (Canadian newspaper)">Métro</a></i> (Canadian newspaper). 14 January 2015. Retrieved on 4 August 2016.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://ville.montreal.qc.ca/portal/page?_pageid=4276,6695558&amp;_dad=portal&amp;_schema=PORTAL">Les bibliothèques par arrondissement</a>." <a href="/wiki/Montreal_Public_Libraries_Network" title="Montreal Public Libraries Network">Montreal Public Libraries Network</a>. Retrieved on December 7, 2014.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://ville.montreal.qc.ca/pls/portal/url/page/arr_mon_fr/accueil">Borough website</a> (in <a href="/wiki/French_language" title="French language">French</a>)</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Urban_agglomeration_of_Montreal" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Montreal_neighbourhoods" title="Template:Montreal neighbourhoods"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Montreal_neighbourhoods" title="Template talk:Montreal neighbourhoods"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Montreal_neighbourhoods&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Urban_agglomeration_of_Montreal" style="font-size:114%"><a href="/wiki/Urban_agglomeration_of_Montreal" title="Urban agglomeration of Montreal">Urban agglomeration of Montreal</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div><b><a href="/wiki/Greater_Montreal" title="Greater Montreal">Greater Montreal</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Municipalities</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/C%C3%B4te-Saint-Luc" title="Côte-Saint-Luc">Côte-Saint-Luc</a></li>
+<li><a href="/wiki/Hampstead,_Quebec" title="Hampstead, Quebec">Hampstead</a></li>
+<li><b><a href="/wiki/Montreal" title="Montreal">Montreal</a></b></li>
+<li><a href="/wiki/Montr%C3%A9al-Est,_Quebec" title="Montréal-Est, Quebec">Montréal-Est</a></li>
+<li><a href="/wiki/Montreal_West,_Quebec" title="Montreal West, Quebec">Montreal West</a></li>
+<li><a href="/wiki/Mount_Royal,_Quebec" title="Mount Royal, Quebec">Mount Royal</a></li>
+<li><a href="/wiki/Westmount,_Quebec" title="Westmount, Quebec">Westmount</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Flag_of_Montreal.svg" class="image" title="Montreal Flag"><img alt="Montreal Flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Montreal.svg/80px-Flag_of_Montreal.svg.png" width="80" height="40" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Montreal.svg/120px-Flag_of_Montreal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Montreal.svg/160px-Flag_of_Montreal.svg.png 2x" data-file-width="440" data-file-height="220" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/West_Island" title="West Island">West Island municipalities</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Baie-D%27Urf%C3%A9" title="Baie-D'Urfé">Baie-D'Urfé</a></li>
+<li><a href="/wiki/Beaconsfield,_Quebec" title="Beaconsfield, Quebec">Beaconsfield</a></li>
+<li><a href="/wiki/Dollard-des-Ormeaux" title="Dollard-des-Ormeaux">Dollard-des-Ormeaux</a></li>
+<li><a href="/wiki/Dorval" title="Dorval">Dorval</a></li>
+<li><a href="/wiki/Kirkland,_Quebec" title="Kirkland, Quebec">Kirkland</a></li>
+<li><a href="/wiki/L%27%C3%8Ele-Dorval,_Quebec" title="L'Île-Dorval, Quebec">L'Île-Dorval</a></li>
+<li><a href="/wiki/Pointe-Claire" title="Pointe-Claire">Pointe-Claire</a></li>
+<li><a href="/wiki/Sainte-Anne-de-Bellevue,_Quebec" title="Sainte-Anne-de-Bellevue, Quebec">Sainte-Anne-de-Bellevue</a></li>
+<li><a href="/wiki/Senneville,_Quebec" title="Senneville, Quebec">Senneville</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Boroughs_of_Montreal" title="Boroughs of Montreal">Boroughs of Montreal</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ahuntsic-Cartierville" title="Ahuntsic-Cartierville">Ahuntsic-Cartierville</a></li>
+<li><a href="/wiki/Anjou,_Quebec" title="Anjou, Quebec">Anjou</a></li>
+<li><a href="/wiki/C%C3%B4te-des-Neiges%E2%80%93Notre-Dame-de-Gr%C3%A2ce" title="Côte-des-Neiges–Notre-Dame-de-Grâce">Côte-des-Neiges–Notre-Dame-de-Grâce</a></li>
+<li><a href="/wiki/L%27%C3%8Ele-Bizard%E2%80%93Sainte-Genevi%C3%A8ve" title="L'Île-Bizard–Sainte-Geneviève">L'Île-Bizard–Sainte-Geneviève</a></li>
+<li><a href="/wiki/Lachine,_Quebec" title="Lachine, Quebec">Lachine</a></li>
+<li><a href="/wiki/LaSalle,_Quebec" title="LaSalle, Quebec">LaSalle</a></li>
+<li><a href="/wiki/Mercier%E2%80%93Hochelaga-Maisonneuve" title="Mercier–Hochelaga-Maisonneuve">Mercier–Hochelaga-Maisonneuve</a></li>
+<li><strong class="selflink">Montréal-Nord</strong></li>
+<li><a href="/wiki/Outremont,_Quebec" title="Outremont, Quebec">Outremont</a></li>
+<li><a href="/wiki/Pierrefonds-Roxboro" title="Pierrefonds-Roxboro">Pierrefonds-Roxboro</a></li>
+<li><a href="/wiki/Le_Plateau-Mont-Royal" title="Le Plateau-Mont-Royal">Le Plateau-Mont-Royal</a></li>
+<li><a href="/wiki/Rivi%C3%A8re-des-Prairies%E2%80%93Pointe-aux-Trembles" title="Rivière-des-Prairies–Pointe-aux-Trembles">Rivière-des-Prairies–Pointe-aux-Trembles</a></li>
+<li><a href="/wiki/Rosemont%E2%80%93La_Petite-Patrie" title="Rosemont–La Petite-Patrie">Rosemont–La Petite-Patrie</a></li>
+<li><a href="/wiki/Le_Sud-Ouest" title="Le Sud-Ouest">Le Sud-Ouest</a></li>
+<li><a href="/wiki/Saint-Laurent,_Quebec" title="Saint-Laurent, Quebec">Saint-Laurent</a></li>
+<li><a href="/wiki/St._Leonard,_Quebec" title="St. Leonard, Quebec">Saint-Léonard</a></li>
+<li><a href="/wiki/Verdun,_Quebec" title="Verdun, Quebec">Verdun</a></li>
+<li><a href="/wiki/Ville-Marie,_Montreal" title="Ville-Marie, Montreal">Ville-Marie</a></li>
+<li><a href="/wiki/Villeray%E2%80%93Saint-Michel%E2%80%93Parc-Extension" title="Villeray–Saint-Michel–Parc-Extension">Villeray–Saint-Michel–Parc-Extension</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_neighbourhoods_in_Montreal" title="List of neighbourhoods in Montreal">Neighbourhoods of Montreal</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ahuntsic" title="Ahuntsic">Ahuntsic</a></li>
+<li><a href="/wiki/Benny_Farm" title="Benny Farm">Benny Farm</a></li>
+<li><a href="/wiki/Bois-Franc" title="Bois-Franc">Bois-Franc</a></li>
+<li><a href="/wiki/Cartierville" title="Cartierville">Cartierville</a></li>
+<li><a href="/wiki/Centre-Sud" title="Centre-Sud">Centre-Sud</a></li>
+<li><a href="/wiki/Chinatown,_Montreal" title="Chinatown, Montreal">Chinatown</a></li>
+<li><a href="/wiki/Cit%C3%A9_du_Havre" title="Cité du Havre">Cité du Havre</a></li>
+<li><a href="/wiki/Cit%C3%A9_du_Multim%C3%A9dia" title="Cité du Multimédia">Cité Multimédia</a></li>
+<li><a href="/wiki/C%C3%B4te-des-Neiges" title="Côte-des-Neiges">Côte-des-Neiges</a></li>
+<li><a href="/wiki/C%C3%B4te-Saint-Paul" title="Côte-Saint-Paul">Côte-Saint-Paul</a></li>
+<li><a href="/w/index.php?title=Darlington,_Montreal&amp;action=edit&amp;redlink=1" class="new" title="Darlington, Montreal (page does not exist)">Darlington</a></li>
+<li><a href="/wiki/Downtown_Montreal" title="Downtown Montreal">Downtown</a></li>
+<li><a href="/wiki/Faubourg_%C3%A0_m%27lasse" title="Faubourg à m'lasse">Faubourg à m'lasse</a></li>
+<li><a href="/w/index.php?title=Faubourg_Saint-Laurent&amp;action=edit&amp;redlink=1" class="new" title="Faubourg Saint-Laurent (page does not exist)">Faubourg Saint-Laurent</a></li>
+<li><a href="/wiki/Garment_District,_Montreal" title="Garment District, Montreal">Garment District</a></li>
+<li><a href="/wiki/Gay_Village,_Montreal" title="Gay Village, Montreal">Gay Village</a></li>
+<li><a href="/wiki/Glenmount,_Montreal" title="Glenmount, Montreal">Glenmount</a></li>
+<li><a href="/wiki/Golden_Square_Mile" title="Golden Square Mile">Golden Square Mile</a></li>
+<li><a href="/wiki/Goose_Village" title="Goose Village">Goose Village</a></li>
+<li><a href="/wiki/Greektown,_Montreal" class="mw-redirect" title="Greektown, Montreal">Greektown</a></li>
+<li><a href="/wiki/Griffintown" title="Griffintown">Griffintown</a></li>
+<li><a href="/wiki/Habitations_Jeanne-Mance" title="Habitations Jeanne-Mance">Habitations Jeanne-Mance</a></li>
+<li><a href="/wiki/Historic_Jewish_Quarter,_Montreal" class="mw-redirect" title="Historic Jewish Quarter, Montreal">Historic Jewish Quarter</a></li>
+<li><a href="/wiki/Hochelaga-Maisonneuve" title="Hochelaga-Maisonneuve">Hochelaga-Maisonneuve</a></li>
+<li><a href="/wiki/La_Petite-Patrie" title="La Petite-Patrie">La Petite-Patrie</a></li>
+<li><a href="/wiki/L%27%C3%8Ele-Bizard,_Quebec" title="L'Île-Bizard, Quebec">L'Île-Bizard</a></li>
+<li><a href="/wiki/%C3%8Elot-Trafalgar-Gleneagles" title="Îlot-Trafalgar-Gleneagles">Îlot-Trafalgar-Gleneagles</a></li>
+<li><a href="/wiki/Little_Burgundy" title="Little Burgundy">Little Burgundy</a></li>
+<li><a href="/wiki/Little_Italy,_Montreal" title="Little Italy, Montreal">Little Italy</a></li>
+<li><a href="/wiki/Little_Maghreb" title="Little Maghreb">Little Maghreb</a></li>
+<li><a href="/wiki/Little_Portugal,_Montreal" title="Little Portugal, Montreal">Little Portugal</a></li>
+<li><a href="/wiki/Mercier-Est" title="Mercier-Est">Mercier-Est</a> (Tétreaultville)</li>
+<li><a href="/wiki/Mercier-Ouest" title="Mercier-Ouest">Mercier-Ouest</a> (Longue-Pointe)</li>
+<li><a href="/wiki/Mile_End,_Montreal" title="Mile End, Montreal">Mile End</a></li>
+<li><a href="/wiki/Milton_Park,_Montreal" class="mw-redirect" title="Milton Park, Montreal">Milton Park</a></li>
+<li><a href="/wiki/Monkland_Village" title="Monkland Village">Monkland Village</a></li>
+<li><a href="/wiki/Notre-Dame-de-Gr%C3%A2ce" title="Notre-Dame-de-Grâce">Notre-Dame-de-Grâce</a></li>
+<li><a href="/wiki/Nouveau-Bordeaux" title="Nouveau-Bordeaux">Nouveau-Bordeaux</a></li>
+<li><a href="/wiki/Nuns%27_Island" title="Nuns' Island">Nuns' Island</a></li>
+<li><a href="/wiki/Old_Montreal" title="Old Montreal">Old Montreal</a></li>
+<li><a href="/wiki/Olympic_Park,_Montreal" title="Olympic Park, Montreal">Olympic Park</a></li>
+<li><a href="/wiki/Overdale,_Montreal" class="mw-redirect" title="Overdale, Montreal">Overdale</a></li>
+<li><a href="/wiki/Park_Extension" title="Park Extension">Park Extension</a></li>
+<li><a href="/wiki/Pierrefonds,_Quebec" title="Pierrefonds, Quebec">Pierrefonds</a></li>
+<li><a href="/wiki/Pointe-Saint-Charles" title="Pointe-Saint-Charles">Pointe-Saint-Charles</a></li>
+<li><a href="/wiki/Pointe-aux-Trembles" title="Pointe-aux-Trembles">Pointe-aux-Trembles</a></li>
+<li><a href="/wiki/Quad_Windsor" title="Quad Windsor">Quad Windsor</a></li>
+<li><a href="/w/index.php?title=Quartier_Bonaventure&amp;action=edit&amp;redlink=1" class="new" title="Quartier Bonaventure (page does not exist)">Quartier Bonaventure</a></li>
+<li><a href="/wiki/Quartier_Concordia" title="Quartier Concordia">Quartier Concordia</a></li>
+<li><a href="/wiki/Quartier_international_de_Montr%C3%A9al" title="Quartier international de Montréal">Quartier International</a></li>
+<li><a href="/wiki/Quartier_Latin,_Montreal" title="Quartier Latin, Montreal">Quartier Latin</a></li>
+<li><a href="/wiki/Golden_Square_Mile#Quartier_du_Mus.C3.A9e" title="Golden Square Mile">Quartier du Musée</a></li>
+<li><a href="/wiki/Quartier_des_spectacles" title="Quartier des spectacles">Quartier des spectacles</a></li>
+<li><a href="/wiki/Red-Light_District,_Montreal" title="Red-Light District, Montreal">Red-Light District</a></li>
+<li><a href="/wiki/Rivi%C3%A8re-des-Prairies,_Quebec" title="Rivière-des-Prairies, Quebec">Rivière-des-Prairies</a></li>
+<li><a href="/wiki/Rosemont,_Montreal" class="mw-redirect" title="Rosemont, Montreal">Rosemont</a></li>
+<li><a href="/wiki/Roxboro,_Quebec" title="Roxboro, Quebec">Roxboro</a></li>
+<li><a href="/wiki/Saint-Henri,_Montreal" title="Saint-Henri, Montreal">Saint-Henri</a></li>
+<li><a href="/wiki/Sainte-Marie,_Montreal" title="Sainte-Marie, Montreal">Sainte-Marie</a></li>
+<li><a href="/wiki/Saint-Michel,_Montreal" title="Saint-Michel, Montreal">Saint-Michel</a></li>
+<li><a href="/wiki/Sainte-Genevi%C3%A8ve,_Quebec" title="Sainte-Geneviève, Quebec">Sainte-Geneviève</a></li>
+<li><a href="/wiki/Saraguay,_Montreal" class="mw-redirect" title="Saraguay, Montreal">Saraguay</a></li>
+<li><a href="/wiki/Sault-au-R%C3%A9collet" title="Sault-au-Récollet">Sault-au-Récollet</a></li>
+<li><a href="/wiki/Shaughnessy_Village" title="Shaughnessy Village">Shaughnessy Village</a></li>
+<li><a href="/wiki/Snowdon,_Montreal" title="Snowdon, Montreal">Snowdon</a></li>
+<li><a href="/wiki/Montreal_Technoparc" title="Montreal Technoparc">Technoparc</a></li>
+<li><a href="/wiki/Le_Triangle" title="Le Triangle">Le Triangle</a></li>
+<li><a href="/wiki/Viauville" title="Viauville">Viauville</a></li>
+<li><a href="/wiki/Ville-%C3%89mard" title="Ville-Émard">Ville-Émard</a></li>
+<li><a href="/wiki/Ville_Saint-Pierre" title="Ville Saint-Pierre">Ville Saint-Pierre</a></li>
+<li><a href="/wiki/Villeray,_Montreal" title="Villeray, Montreal">Villeray</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">
+<div style="padding:0.1em 0;line-height:1.2em;">Former municipalities<br />
+of Montreal Island</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cartierville" title="Cartierville">Cartierville</a></li>
+<li><a href="/wiki/Longue-Pointe" title="Longue-Pointe">Longue-Pointe</a></li>
+<li><a href="/wiki/Mercier,_Montreal" title="Mercier, Montreal">Mercier</a></li>
+<li><a href="/wiki/New_Bordeaux" class="mw-redirect" title="New Bordeaux">New Bordeaux</a></li>
+<li><a href="/wiki/Pierrefonds,_Quebec" title="Pierrefonds, Quebec">Pierrefonds</a></li>
+<li><a href="/wiki/Roxboro,_Quebec" title="Roxboro, Quebec">Roxboro</a></li>
+<li><a href="/wiki/Saint-Laurent,_Quebec" title="Saint-Laurent, Quebec">Saint-Laurent</a></li>
+<li><a href="/wiki/T%C3%A9treaultville" class="mw-redirect" title="Tétreaultville">Tétreaultville</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><b><a href="/wiki/Administrative_divisions_of_Quebec" title="Administrative divisions of Quebec">Administrative subdivisions of Quebec</a></b></li>
+<li><a href="/wiki/Urban_agglomerations_of_Quebec" class="mw-redirect" title="Urban agglomerations of Quebec">Urban agglomerations of Quebec</a></li>
+<li><a href="/wiki/2000%E2%80%9306_municipal_reorganization_in_Quebec" title="2000–06 municipal reorganization in Quebec">Municipal reorganization in Quebec</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Montr%C3%A9al-Nord&amp;params=45_36_N_73_37_W_region:CA-QC_type:city_source:GNS-enwiki&amp;title=Nontreal-Nord"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">45°36′N</span> <span class="longitude">73°37′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">45.600°N 73.617°W</span><span style="display:none">﻿ / <span class="geo">45.600; -73.617</span></span><span style="display:none">﻿ (<span class="fn org">Nontreal-Nord</span>)</span></span></span></a></span></span></span></p>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2389938-0!*!0!!en!4!* and timestamp 20161014024130 and revision id 732932602
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Montréal-Nord&amp;oldid=732932602">https://en.wikipedia.org/w/index.php?title=Montréal-Nord&amp;oldid=732932602</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Populated_places_disestablished_in_2002" title="Category:Populated places disestablished in 2002">Populated places disestablished in 2002</a></li><li><a href="/wiki/Category:Former_cities_in_Canada" title="Category:Former cities in Canada">Former cities in Canada</a></li><li><a href="/wiki/Category:Montr%C3%A9al-Nord" title="Category:Montréal-Nord">Montréal-Nord</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_February_2009" title="Category:Articles to be expanded from February 2009">Articles to be expanded from February 2009</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_needing_translation_from_French_Wikipedia" title="Category:Articles needing translation from French Wikipedia">Articles needing translation from French Wikipedia</a></li><li><a href="/wiki/Category:Settlement_articles_requiring_maintenance" title="Category:Settlement articles requiring maintenance">Settlement articles requiring maintenance</a></li><li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Montr%C3%A9al-Nord" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Montr%C3%A9al-Nord" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Montr%C3%A9al-Nord"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Montr%C3%A9al-Nord"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Montr%C3%A9al-Nord" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Montr%C3%A9al-Nord" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Montr%C3%A9al-Nord" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;oldid=732932602" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1714436" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Montr%C3%A9al-Nord&amp;id=732932602" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Montr%C3%A9al-Nord">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Montr%C3%A9al-Nord&amp;returnto=Montr%C3%A9al-Nord&amp;oldid=732932602&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Montr%C3%A9al-Nord&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Montr%C3%A9al-Nord" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Montr%C3%A9al-Nord" title="Montréal-Nord – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Montr%C3%A9al-Nord" title="Montréal-Nord – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Montr%C3%A9al-Nord" title="Montréal-Nord – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Montr%C3%A9al-Nord" title="Montréal-Nord – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Montr%C3%A9al-Nord" title="Montréal-Nord – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Montr%C3%A9al-Nord" title="Montréal-Nord – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D1%82%D1%80%D0%B5%D0%B0%D0%BB-%D0%A1%D0%B5%D0%B2%D0%B5%D1%80" title="Монтреал-Север – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1714436#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 4 August 2016, at 06:43.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Montr%C3%A9al-Nord&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.504",
+            "walltime": "0.623",
+            "ppvisitednodes": {
+                "value": 4058,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 79135,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 8596,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 23,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 9,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  534.660      1 -total",
+                " 53.34%  285.190      1 Template:Infobox_settlement",
+                " 44.15%  236.035      2 Template:Infobox",
+                " 15.64%   83.597      1 Template:Expand_French",
+                " 14.41%   77.052      1 Template:Expand_language",
+                " 12.79%   68.364      1 Template:Reflist",
+                "  9.35%   49.983      1 Template:Ambox",
+                "  8.57%   45.807      2 Template:Cite_web",
+                "  6.36%   34.001      2 Template:Jct",
+                "  4.63%   24.752      1 Template:Infobox_settlement/areadisp"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.165",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4311280,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1176",
+            "timestamp": "20161014024131",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1218"});});</script>
+	</body>
+</html>

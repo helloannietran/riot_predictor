@@ -1,0 +1,209 @@
+Issaquah, Washington - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Issaquah,_Washington","wgTitle":"Issaquah, Washington","wgCurRevisionId":744411089,"wgRevisionId":744411089,"wgArticleId":138003,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages containing links to subscription-only content","Coordinates on Wikidata","Pages using weather box with unknown parameters","Pages using Weather box with unsupported parameters","All articles with unsourced statements","Articles with unsourced statements from September 2015","Articles needing cleanup from August 2015","All pages needing cleanup","Wikipedia list cleanup from August 2015","Commons category with local link same as on Wikidata","Articles with DMOZ links","Cities in the Seattle metropolitan area","Populated places established in 1892","Issaquah, Washington"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Issaquah,_Washington","wgRelevantArticleId":138003,"wgRequestId":"WAoqbwpAIDEAADJYwQEAAABV","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":47.535555555556,"lon":-122.04333333333},"wgWikibaseItemId":"Q40251","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Issaquah, Washington From Wikipedia, the free encyclopedia Jump to: navigation , search For the ferries, see MV Issaquah and Issaquah (steam ferry) . Issaquah, Washington City Sunset Way, downtown Issaquah 
+
+Location of Issaquah, Washington Coordinates: 47°32′8″N 122°2′36″W ﻿ / ﻿ 47.53556°N 122.04333°W ﻿ / 47.53556; -122.04333 Coordinates : 47°32′8″N 122°2′36″W ﻿ / ﻿ 47.53556°N 122.04333°W ﻿ / 47.53556; -122.04333 Country United States State Washington County King Government [1] • Type Mayor-Council • Mayor Fred Butler Area [2] • Total 11.40 sq mi (29.53 km 2 ) • Land 11.38 sq mi (29.47 km 2 ) • Water 0.02 sq mi (0.05 km 2 ) Elevation 108 ft (33 m) Population ( 2010 ) [3] • Total 30,434 • Estimate (2015) [4] 36,081 • Density 2,674.3/sq mi (1,032.6/km 2 ) Time zone Pacific (PST) ( UTC-8 ) • Summer ( DST ) PDT ( UTC-7 ) ZIP codes 98027, 98029, 98075 Area code(s) 425 FIPS code 53-33805 GNIS feature ID 1512327 [5] Website issaquahwa .gov 
+
+Issaquah ( / ˈ ɪ s ə k w ɑː / US dict: ĭs′·ə·kwâ ) is a city in King County , Washington , United States . The population was 30,434 at the 2010 census . 
+
+According to the Washington State Office of Financial Management, Issaquah ranked 6th of 279 eligible incorporated communities in population growth between 2000 and 2005. [6] Forbes.com ranked Issaquah the 2nd fastest-growing suburb in the state, and the 89th in the nation. [7] 
+
+Contents 1 History 2 Geography 2.1 Weather 2.2 Surrounding Cities 3 Demographics 3.1 2010 census 3.2 2000 census 4 Transportation 4.1 Highways and roads 4.2 Public transportation 5 Local attractions 5.1 Issaquah Valley Trolley 5.2 Village Theatre 5.3 Salmon Days Festival 5.4 Cougar Mountain Zoo 5.5 Issaquah Salmon Hatchery 5.6 Gilman Village 5.7 Flight 6 Healthcare 7 Notable people 8 Issaquah School District 9 Sister cities 10 References 11 External links 
+
+History [ edit ] Coal miners' homes in Issaquah, 1913. 
+
+"Issaquah" is an anglicized word for a local Native American name, meaning either "the sound of birds", "snake", or "little stream". "Squak Valley", an older name for the area, also derives from this same Native-American name. [8] [9] 
+
+In 1885, the then unincorporated area was the scene of an attack on Chinese laborers who had come to pick hops from local fields. The city itself was officially incorporated on April 29, 1892. Initially a small mining town, this town has changed noticeably both in its appearance and economic focus. Issaquah was originally developed to service the mining industry on nearby Squak and Cougar mountain, and began as the town of Gilman, Washington. As the mining deposits neared depletion in the late 1890s, other companies started to realize Issaquah's potential to support a lucrative lumber business. These companies exported timber from Issaquah and other small, local towns to Seattle and larger, rapidly growing communities throughout western Washington. These early boom industries, however, faded into a period of relative quiet by the time of the Great Depression . The town remained fairly placid through the succeeding decades, with The Boeing Company providing the majority of employment in the area. Microsoft and other technological industries moved into Redmond, Washington and other cities in the area, and later established operations in Issaquah itself. Both Boeing and Microsoft have significantly affected Issaquah's history, cultural development, and diverse population through their active community participation and attraction of outside residents. In June 1996, Costco moved its global headquarters to Issaquah from nearby Kirkland, Washington . 
+
+Other Issaquah employers include Siemens Medical Solutions ' Ultrasound Group, GoldSim Technology Group , Overtime Technologies, Boehm's Candies, and Darigold . Geography [ edit ] 
+
+Issaquah is located at 47°32′8″N 122°2′36″W ﻿ / ﻿ 47.53556°N 122.04333°W ﻿ / 47.53556; -122.04333 (47.535573, −122.043298), [10] at the south end of Lake Sammamish . Neighboring cities include Bellevue , and Redmond , both a short 8 miles (13 km) away, and downtown Seattle 17 miles (27 km) to the West. Issaquah resides within the Mountains to Sound Greenway . 
+
+According to the United States Census Bureau , the city has a total area of 11.40 square miles (29.53 km 2 ), of which, 11.38 square miles (29.47 km 2 ) is land and 0.02 square miles (0.05 km 2 ) is water. [2] 
+
+Issaquah is surrounded on three sides by the Issaquah Alps : Cougar Mountain on the west, Squak Mountain to the south, and Tiger Mountain to the east. To the north of Issaquah is Lake Sammamish . Cougar and Squak Mountains are home to sizable neighborhoods, though the bulk of all three mountains are preserved in public ownership as Squak Mountain State Park , [11] Cougar Mountain Regional Wildland Park , [12] West Tiger Mountain NRCA, [13] and Tiger Mountain State Forest . [14] Geologists have noted the chemical and geological content of these three mountains to be much different than that of the Cascade Range , simply because they are not volcanic in origin, while the entire Cascade Range is postulated to have formed from volcanic action. They believe that these three mountains are the remains of a much older mountain range long since eroded by earthquakes, volcanic action, and shifting plates. Weather [ edit ] Climate data for Issaquah, Washington Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Record high °F (°C) 61 
+
+(16) 67 
+
+(19) 76 
+
+(24) 86 
+
+(30) 96 
+
+(36) 95 
+
+(35) 98 
+
+(37) 98 
+
+(37) 101 
+
+(38) 89 
+
+(32) 73 
+
+(23) 60 
+
+(16) 101 
+
+(38) Average high °F (°C) 40 
+
+(4) 44 
+
+(7) 48 
+
+(9) 54 
+
+(12) 60 
+
+(16) 65 
+
+(18) 72 
+
+(22) 73 
+
+(23) 67 
+
+(19) 57 
+
+(14) 46 
+
+(8) 40 
+
+(4) 55.5 
+
+(13) Average low °F (°C) 28 
+
+(−2) 32 
+
+(0) 33 
+
+(1) 36 
+
+(2) 41 
+
+(5) 46 
+
+(8) 50 
+
+(10) 50 
+
+(10) 46 
+
+(8) 40 
+
+(4) 35 
+
+(2) 30 
+
+(−1) 38.9 
+
+(3.9) Record low °F (°C) −11 
+
+(−24) 0 
+
+(−18) 8 
+
+(−13) 24 
+
+(−4) 28 
+
+(−2) 32 
+
+(0) 37 
+
+(3) 35 
+
+(2) 29 
+
+(−2) 20 
+
+(−7) 2 
+
+(−17) −3 
+
+(−19) −11 
+
+(−24) Average precipitation inches (mm) 7.44 
+
+(189) 6.09 
+
+(154.7) 5.59 
+
+(142) 4.49 
+
+(114) 3.63 
+
+(92.2) 3.11 
+
+(79) 1.69 
+
+(42.9) 1.58 
+
+(40.1) 2.70 
+
+(68.6) 4.70 
+
+(119.4) 8.47 
+
+(215.1) 7.63 
+
+(193.8) 57.12 
+
+(1,450.8) Source: Weather.com [15] The parameter "imperial first" is not recognized by Template:Weather box Surrounding Cities [ edit ] Bellevue Sammamish Fall City Newcastle Preston Issaquah Renton Maple Valley Hobart Demographics [ edit ] Historical population Census Pop. %± 1900 700 — 1910 628 −10.3% 1920 791 26.0% 1930 763 −3.5% 1940 812 6.4% 1950 955 17.6% 1960 1,870 95.8% 1970 4,313 130.6% 1980 5,536 28.4% 1990 7,786 40.6% 2000 11,212 44.0% 2010 30,434 171.4% Est. 2015 36,081 [16] 18.6% Source: [17] U.S. Decennial Census [18] 
+
+2015 Estimate [4] 
+
+According to a 2012 estimate, the median income for a household in the city was $87,074, and the median income for a family was $115,814. The per capita income for the city was $47,949. 2010 census [ edit ] 
+
+As of the census [3] of 2010, there were 30,434 people, 12,841 households, and 8,018 families residing in the city. The population density was 2,674.3 inhabitants per square mile (1,032.6/km 2 ). There were 13,914 housing units at an average density of 1,222.7 per square mile (472.1/km 2 ). The racial makeup of the city was 74.7% White , 1.4% African American , 0.4% Native American , 17.5% Asian , 0.1% Pacific Islander , 1.8% from other races , and 4.1% from two or more races. Hispanic or Latino of any race were 5.8% of the population. 
+
+There were 12,841 households of which 33.0% had children under the age of 18 living with them, 51.9% were married couples living together, 7.9% had a female householder with no husband present, 2.7% had a male householder with no wife present, and 37.6% were non-families. 30.1% of all households were made up of individuals and 10.9% had someone living alone who was 65 years of age or older. The average household size was 2.34 and the average family size was 2.95. 
+
+The median age in the city was 36.8 years. 23.7% of residents were under the age of 18; 5.5% were between the ages of 18 and 24; 35.5% were from 25 to 44; 22.6% were from 45 to 64; and 12.7% were 65 years of age or older. The gender makeup of the city was 47.7% male and 52.3% female. 2000 census [ edit ] 
+
+As of the census of 2000, there were 11,212 people, 4,840 households, and 2,908 families residing in the city. The population density was 1,330.9 people per square mile (514.1/km 2 ). There were 5,195 housing units at an average density of 616.7 per square mile (238.2/km 2 ). The racial makeup of the city was 87.95% White , 0.88% African American , 0.63% Native American , 6.04% Asian , 0.11% Pacific Islander , 1.46% from other races , and 2.93% from two or more races. Hispanic or Latino of any race made up 4.95% of the population. 
+
+There were 4,840 households out of which 29.5% had children under the age of 18 living with them, 47.3% were married couples living together, 9.6% had a female householder with no husband present, and 39.9% were non-families. 31.0% of all households were made up of individuals and 7.8% had someone living alone who was 65 years of age or older. The average household size was 2.27 and the average family size was 2.87. 
+
+In the city the population was spread out with 22.2% under the age of 18, 7.3% from 18 to 24, 36.5% from 25 to 44, 24.0% from 45 to 64, and 10.0% who were 65 years of age or older. The median age was 37 years. For every 100 females there were 91.9 males. For every 100 females age 18 and over, there were 88.1 males. 
+
+The median income for a household in the city was $57,892, and the median income for a family was $77,274. Males had a median income of $55,049 versus $36,670 for females. The per capita income for the city was $34,222. About 3.4% of families and 4.8% of the population were below the poverty line , including 5.5% of those under age 18 and 4.7% of those age 65 or over. Transportation [ edit ] Highways and roads [ edit ] 
+
+Issaquah is bisected by Interstate 90 , which runs from Seattle to Boston , and Washington State Route 900 , which connects the city to neighboring Renton . There is a chronic traffic congestion problem on Front Street, which traverses the historic downtown. Proposals had been made to create a bypass, but opponents argued that this will only result in more sprawl in the area beyond downtown and thus bring in more traffic and pollution. In fact, the Issaquah City Council voted in 2008 to cancel the 15-year-running SE Bypass project. In addition, King County has no funding in its seven-year capital plan to improve Issaquah-Hobart Road, the southern terminus of the proposed bypass. Public transportation [ edit ] See also: King County Metro and Sound Transit 
+
+Bus service in Issaquah is provided by King County Metro as well as regional Sound Transit routes to Seattle and Bellevue . There are two primary park-and-rides in the city, at Issaquah Transit Center and Issaquah Highlands Park Ride, which have a total of 1,999 parking spaces. [19] [20] 
+
+Since August 1995, the city and King County Metro provided a free circulator bus (route 200) between business districts and community centers in Issaquah as a form of traffic congestion relief. [21] 
+
+As part of the expansion of Sound Transit services, a Link light rail line to Issaquah from Bellevue is proposed to begin service by 2041. [22] Local attractions [ edit ] Village Theatre's First Stage, Issaquah 
+
+The neighboring highlands are called the Issaquah Alps and feature hiking trails and outdoor activity throughout the three mountains surrounding Issaquah: Tiger Mountain , Cougar Mountain , and Squak Mountain . There are also many cultural and historical activities to be found in the town of Issaquah itself. Issaquah Valley Trolley [ edit ] Main article: Issaquah Valley Trolley Issaquah Valley Trolley car. This is an ex- Milan, Italy , interurban car and is not the trolley being used for service. 
+
+The Issaquah Valley Trolley is a project of the Issaquah Historical Society with the aim of starting a regular heritage trolley service on the remaining section of railroad track in downtown Issaquah. A trial operation took place in 2001–02, giving public rides in a trolley car borrowed from Yakima Valley Trolleys . By 2010, the Issaquah Historical Society had acquired three trolleys of its own, but the planned service had not yet begun operation, as two of the cars were narrow gauge , making them incompatible with the standard gauge rails left in Issaquah, and all three were not in operating condition. A federal transportation grant was obtained, providing funds for track evaluation and repairs, and in 2012 one of the two narrow gauge cars was sent to the Gomaco Trolley Company to be refurbished and regauged to standard gauge. [23] The overhauled trolley car, ex- Lisbon 519, returned to Issaquah in August 2012, and regular public rides began in October 2012. [24] Operation is expected to be seasonal and on weekends only. 
+
+Some proponents of the Trolley Project hope to see trolley service extended to a northern re-extension of removed track to the southern tip of Lake Sammamish. Such service would add to the charm of the historical downtown area and make it easier for visitors and residents to get around and avoid the area's notorious traffic congestion. A onetime goal had been to extend trolley service all the way to downtown Redmond by reinstalling the track along the eastern shore of Lake Sammamish that the county removed several years ago. The opening of the East Lake Sammamish Trail in March 2006 along that proposed line ended the possibility of Issaquah-Redmond service. Village Theatre [ edit ] 
+
+The Village Theatre has presented live stage plays on its main stage in downtown Issaquah since 1979. [25] It is an Equity theater. [26] Salmon Days Festival [ edit ] 
+
+Issaquah Salmon Days is a two-day award-winning festival held in Issaquah on the first full weekend of October every year. It is initiated by a parade, celebrates the return of the salmon to their birth waters, and praises Issaquah's history, culture, and ethnic diversity. This free festival encompasses several arts and crafts conventions, attracting many Northwest artists; these artisans feature wood, glass, jewelry, paintings, pottery and metal artworks for sale in booths spread all across the downtown and historic area. There are four stages for entertainment such as live music. Sporting events include 5 km/10 km runs (and a 3 km run for children), a fencing invitational, bike rides, and a golf tournament. Memorial Field, adjacent to the city hall, hosts a "Field of Fun" providing free entertainment for children of all ages, thanks to the many festival sponsors. Visitors are encouraged to visit the newly restored Salmon Hatchery to view the returning salmon in close detail. In 2005, the register revealed over 400,000 people attended the Salmon Days Festival. Cougar Mountain Zoo [ edit ] View of Lake Sammamish from the zoo 
+
+The Cougar Mountain Zoo is located on the north slope of Cougar Mountain , just to the west of Issaquah. This 8-acre (32,000 m 2 ) zoo offers a glimpse at many endangered species from across the globe, including many endangered birds from around the world and small lemurs from Madagascar. The highlight of the zoo for many observers is the cougar , named Nashi. Nashi is provided enrichment on a near-daily basis, which consists of a stimulant to keep him active mentally and physically. The zoo currently specializes in eight "worlds" of animals: cougars, lemurs, cranes, reindeer, macaws, wallabies, ratites, camelids. On June 16, 2007, another world was added to the list, when the zoo welcomed its newest members, two male tiger cubs. Named Taj and Almos, they are the only Bengal tigers in Washington state. The Zoo is open for general admission Wednesday through Sunday, 9 a.m. to 5 p.m. (excluding the month of December). Each December the Zoo also offers a special Reindeer Festival, during which people may come view, and feed Santa's Reindeer, and visit the "big guy" in person. Issaquah Salmon Hatchery [ edit ] 
+
+The Issaquah Salmon Hatchery was built in 1936 under the federal Works Project Administration . It is located on the Issaquah Creek within the city limits of Issaquah. The hatchery is owned and operated by the Washington State Department of Fish and Wildlife. [27] It annually raises about 4 million Chinook (King) and Coho (Silver) salmon which then migrate from the Issaquah Creek to Puget sound and on to the North Pacific. Friends of the Issaquah Salmon Hatchery (FISH) is a non-profit organization that trains volunteer guides who lead free educational tours of the hatchery and advocates retaining and improving the historic hatchery. Local elementary schools often raise small numbers of salmon eggs that are spawned in the hatchery and release them into the creeks as part of their science curriculum on the salmon life cycle. The Issaquah Salmon Hatchery is located in the cultural and geographical heart of Issaquah and is the Department of Fish and Wildlife's most visited hatchery, with an estimated 350,000 visitors a year. [28] Gilman Village [ edit ] Issaquah, Washington XXX Root Beer restaurant, one of two remaining 
+
+Gilman Village is a specialty shopping center created from rescued buildings dating back to the origins of the Issaquah community. Gilman Village was founded in 1972, when developers Marvin and Ruth Mohl started saving old, unwanted farming and mining buildings, as well as pioneer homes, from around Issaquah. They moved, renovated and combined them into an attractive retail area in a park-like setting. Their goal was to create a haven for independent shops and restaurants. In saving the buildings, the intent was to honor the character and ambiance of the old community rather than to create a museum. Still, the buildings that house the shops and restaurants of Gilman Village represent a significant portion of Issaquah's history. 
+
+The 40-plus shops and restaurants that make up Gilman Village became one of Puget Sound's best known [ citation needed ] and most distinctive shopping destinations. In its initial decades, Gilman Village was a destination while Issaquah was still a somewhat rural area. Over time, Gilman Village began to compete with other local shopping centers for tenants serving the Issaquah population. [29] 
+
+Designers of Gilman Village have included the Baylis Architects, Richard Haag Associates and landscape architect Stephen G. Ray. Their combined efforts have won official recognition by the King County Board of Realtors in 1976 and the Issaquah Design Commission in 1977 for quality of design and landscaping. In 1985, The Bellevue Chamber of Commerce presented the Eastside Quality of Life Award to Gilman Village for "the pleasures it gives through its rich discoveries of space and forms." Flight [ edit ] 
+
+Paragliders and hang gliders launch from Tiger Mountain in Issaquah. [30] Healthcare [ edit ] 
+
+Swedish Medical Center opened a full service hospital and healthcare facility in the Issaquah Highlands with a capacity of 175 inpatient beds and a 24-hour emergency room in 2012. [31] Notable people [ edit ] This section contains embedded lists that may be poorly defined, unverified or indiscriminate . Please help to clean it up to meet Wikipedia's quality standards. Where appropriate, incorporate items into the main body of the article. (August 2015) Ray Allen , basketball player [32] Brian Basset , comic strip artist [32] Isaac Brock , lead singer, guitarist, banjoist and songwriter for Modest Mouse [33] Jay Buhner , former Seattle Mariners baseball player from Kentucky. Nicknamed "Bone" [34] David Call , actor Deb Caletti , author [32] Colin Curtis , former member of the New York Yankees . [35] Cynthia Geary , American actress from Mississippi [36] Ken Griffey, Jr. , former Seattle Mariners player [37] Phil Lucas , documentary filmmaker [38] Jeff Nelson , baseball player [39] Chris Pirillo , Founder and Maintainer of Lockergnome and host of Gnomedex and VloggerFair. [40] [41] J. J. Putz , baseball player [42] Rick Rizzs , Seattle Mariners sportscaster [43] Mark Rosewater , Magic: the Gathering Head Designer Detlef Schrempf , basketball player [32] Paul Sorrento , former Seattle Mariners player [32] Mel Stottlemyre , Seattle Mariners pitching coach from Missouri [44] Dave Valle , baseball player, fill-in sportscaster for the Seattle Mariners [32] Omar Vizquel , Venezuelan baseball player [45] Brian Yorkey , Tony Award- and Pulitzer Prize-winning playwright, lyricist, and theatre director. [32] Issaquah School District [ edit ] Main article: Issaquah School District 
+
+Issaquah public schools are under the jurisdiction of the Issaquah School District . Including schools outside of Issaquah, the Issaquah School District is home to 23 different schools. Sister cities [ edit ] Sunndal , Norway ( source ) Chefchaouen , Morocco ( source ) References [ edit ] ^ "City of Issaquah - City Council Homepage" . Retrieved November 14, 2010 . ^ a b "US Gazetteer files 2010" . United States Census Bureau . Retrieved December 19, 2012 . ^ a b "American FactFinder" . United States Census Bureau . Retrieved December 19, 2012 . ^ a b "Population Estimates" . United States Census Bureau . Retrieved June 15, 2016 . ^ "Issaquah" . Geographic Names Information System . United States Geological Survey . ^ "Official April 1, 2007 Population Estimates" . State of Washington Office of Financial Management. 2007-06-27 . Retrieved August 7, 2007 . ^ Woolsey, Matt (2007-07-16). "America's Fastest-Growing Suburbs" . Forbes.com. p. 2. Archived from the original on October 31, 2008 . Retrieved August 7, 2007 . ^ "A Diverse And Colorful History" . Issaquah Chamber of Commerce . Retrieved June 24, 2007 . ^ Stein, Alan J. (2003-06-16). "Gilman (later Issaquah) incorporates on April 29, 1892." . HistoryLink . Retrieved June 21, 2011 . ^ "US Gazetteer files: 2010, 2000, and 1990" . United States Census Bureau . 2011-02-12 . Retrieved 2011-04-23 . ^ "Squak Mountain" . Washington State Parks . Retrieved January 30, 2013 . ^ "COUGAR MOUNTAIN REGIONAL WILDLAND PARK" . King County Parks . Retrieved January 30, 2013 . ^ "West Tiger Mountain NRCA" . WA DNR . Retrieved January 30, 2013 . ^ "Tiger Mountain State Forest" . WA State Parks . Retrieved January 30, 2013 . ^ "Monthly Averages for Issaquah, WA" . The Weather Channel . Retrieved September 2, 2009 . ^ "Annual Estimates of the Resident Population for Incorporated Places: April 1, 2010 to July 1, 2015" . Retrieved July 2, 2016 . ^ Moffatt, Riley. Population History of Western U.S. Cities Towns, 1850–1990 . Lanham : Scarecrow, 1996, 323. ^ United States Census Bureau . "Census of Population and Housing" . Retrieved July 31, 2013 . ^ "Park Ride Information" . King County Metro . Retrieved April 30, 2016 . ^ Metro Transit System: Northeast Area (PDF) (Map). King County Metro. March 2016 . Retrieved April 30, 2016 . ^ Lopez Williams, Sarah (August 1, 1995). "Issaquah Shuttle -- Free `Decongestant' Off And Running" . The Seattle Times . Retrieved April 30, 2016 . ^ Lindblom, Mike (March 24, 2016). "$50B Sound Transit proposal: big taxes, big spending, big plan" . The Seattle Times . Retrieved April 30, 2016 . ^ Kagarise, Warren (August 28, 2012). "Trolley returns, and supporters prepare for rides to start in October" . Issaquah Press . Retrieved January 28, 2013 . ^ Issaquah Press Staff (October 16, 2012). "All aboard, Issaquah, as downtown trolley starts service" . Issaquah Press . Retrieved January 28, 2013 . ^ Production History , Village Theatre. Accessed online 2014-03-08. ^ Theatres: Equity Theatre , The Actors Handbook, A Directory for Stage, Film and Commercial Actors in Seattle. Accessed online 2014-03-08. ^ "History of the Issaquah Salmon Hatchery" . FISH — Friends of Issaquah Salmon Hatchery . Retrieved 2015-10-29 . ^ "FISH: Mission" . Retrieved 2015-08-22 . ^ "It's Time to Give Gilman Village Another Look" . Blue Jacket. April 1, 2013 . Retrieved June 25, 2013 . ^ "Tiger Mountain site guide." . Northwest Paragliding Club . Retrieved September 9, 2008 . ^ Swedish Medical Center Seattle - Issaquah Campus . Swedish.org. Retrieved on 2013-08-25. ^ a b c d e f g Pfarr, Tim (July 6, 2010). "Is that a famous person? Quick, get the camera!" . Issaquah Press . The Seattle Times Company . Retrieved June 21, 2011 . ^ Reeves, Mosi (February 12, 2004). "Perfect Disguise Modest Mouse Leader Isaac Brock Waxes on the Moon and Speedo" . New Times Broward-Palm Beach . The Village Voice . Associated Press . Retrieved January 1, 2011 . ^ "Jay Buhner Announces Retirement" . Ellensburg Daily Record . Pioneers Newspapers Inc. December 18, 2001 . Retrieved January 1, 2011 . ^ "Baseball's Colin Curtis Named to 2006 Wallace Award Watch List" . CBS College Sports Network . CBS Corporation . November 21, 2005 . Retrieved January 1, 2011 . ^ "Chilling Out" . People . Time Inc. 56 (26). December 24, 2001. ISSN 0093-7673 . Retrieved January 1, 2011 . ^ Johns, Greg (June 21, 2007). "Buhner Relishes Old Pal Griffey's Return" . Seattle Post-Intelligencer . Hearst Corporation . Retrieved January 1, 2011 . ^ Savelle, Jon (February 14, 2007). "Phil Lucas, 'the biggest heart,' Dies" . Issaquah Press . The Seattle Times Company . Retrieved January 1, 2011 . ^ "Nelson Happy Anywhere but Minor Leagues" . The Spokesman-Review . Spokane, WA : Cowles Publishing Company . Tacoma News Tribune . July 17, 1994 . Retrieved January 1, 2011 . ^ "How's Vista? Analysts Say Fine; Users Annoyed" . Park City Daily News . Bowling Green, KY . Associated Press. July 15, 2007 . Retrieved January 1, 2011 . ^ VloggerFair ^ Cyphers, Luke. "Joseph Jason Putz Has Slowly Become one of the best Closers in the MLB" . ESPN The Magazine . ESPN Inc. ISSN 1097-1998 . Retrieved January 1, 2011 . ^ "Rizzs' Renewal the Fan's Choice" . Tacoma News Tribune . The McClatchy Company . November 8, 1997 . Retrieved January 1, 2011 . ^ Carpenter, Les (April 11, 2000). " ' One of a Kind' -- Mel Stottlemyre Didn't Even Bother old YVCC Coach With Cancer News" . Yakima Herald-Republic . via NewsBank . pp. 1D–2 . Retrieved January 1, 2011 . (subscription required ( help )) . ^ "Notebook: Vizquel, Giants Agree to Terms" . The Seattle Times . Associated Press, New York Daily News . November 15, 2004 . Retrieved January 1, 2011 . External links [ edit ] Wikimedia Commons has media related to Issaquah, Washington . Issaquah travel guide from Wikivoyage City of Issaquah Official Website Issaquah Historical Society Issaquah, Washington at DMOZ v t e Municipalities and communities of King County, Washington , United States County seat : Seattle Cities Algona Auburn ‡ Bellevue Black Diamond Bothell ‡ Burien Carnation Clyde Hill Covington Des Moines Duvall Enumclaw ‡ Federal Way Issaquah Kenmore Kent Kirkland Lake Forest Park Maple Valley Medina Mercer Island Milton ‡ Newcastle Normandy Park North Bend Pacific ‡ Redmond Renton Sammamish SeaTac Seattle Shoreline Snoqualmie Tanner Tukwila Woodinville Towns Beaux Arts Village Hunts Point Skykomish Yarrow Point CDPs Ames Lake Baring Boulevard Park Bryn Mawr-Skyway Cottage Lake East Renton Highlands Fairwood Fall City Hobart Klahanie Lake Holm Lake Marcel-Stillwater Lake Morton-Berrydale Lakeland North Lakeland South Maple Heights-Lake Desire Mirrormont Ravensdale Riverbend Riverton Shadow Lake Snoqualmie Pass ‡ Union Hill-Novelty Hill Vashon White Center Wilderness Rim Unincorporated 
+
+communities Bayne Cumberland Edgewick Ernie's Grove Grotto High Point Kanaskat Kangley Krain Lisabeula Magnolia Beach Osceola Palmer Preston Raeco Selleck Stillwater Veazie White Indian reservation Muckleshoot Reservation ‡ Ghost towns Barneston Hot Springs Kerriston Lester Nagrom Page Rockdale Sheridan Taylor Wellington Weston Footnotes ‡This populated place also has portions in an adjacent county or counties v t e State of Washington Olympia (capital) Topics Cities Towns Census-designated places Federal lands Indian reservations History Geography Earthquakes People Music Parks Highways Symbols Visitor attractions Society Culture Crime Demographics Economy Education Politics Politics Government Law Governors Legislature Legislative districts Senate House Legislative initiatives Popular initiatives Congressional delegation Congressional districts City governments State agencies Agriculture Archaeology and Historic Preservation Commerce Corrections Early Learning Ecology Employment Security Enterprise Services Financial Institutions Fish and Wildlife Health Higher Education Coordinating Board Information Services Labor and Industries Licensing Military Natural Resources Parks Institute for Public Policy Public Stadium Authority Public Disclosure Commission Retirement Systems Revenue Services for the Blind Social and Health Services Transportation Utilities and Transportation Regions Western Kitsap Peninsula Long Beach Peninsula Olympic Peninsula Puget Sound San Juan Islands Skagit Valley Eastern / Inland Central Washington Columbia Plateau Methow Valley Okanogan Country Palouse Yakima Valley Shared Cascade Range Columbia Gorge Columbia River Largest 
+
+cities Seattle Spokane Tacoma Vancouver Bellevue Kent Everett Renton Yakima Federal Way Spokane Valley Kirkland Bellingham Kennewick Auburn Pasco Marysville Lakewood Redmond Shoreline Richland Metropolitan areas Greater Seattle Greater Spokane Tri-Cities Wenatchee metropolitan area Greater Portland and Vancouver Counties Adams Asotin Benton Chelan Clallam Clark Columbia Cowlitz Douglas Ferry Franklin Garfield Grant Grays Harbor Island Jefferson King Kitsap Kittitas Klickitat Lewis Lincoln Mason Okanogan Pacific Pend Oreille Pierce San Juan Skagit Skamania Snohomish Spokane Stevens Thurston Wahkiakum Walla Walla Whatcom Whitman Yakima (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Issaquah,_Washington oldid=744411089 " Categories : Cities in the Seattle metropolitan area Populated places established in 1892 Issaquah, Washington Hidden categories: Pages containing links to subscription-only content Coordinates on Wikidata Pages using weather box with unknown parameters Pages using Weather box with unsupported parameters All articles with unsourced statements Articles with unsourced statements from September 2015 Articles needing cleanup from August 2015 All pages needing cleanup Wikipedia list cleanup from August 2015 Commons category with local link same as on Wikidata Articles with DMOZ links Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Wikivoyage Languages العربية Bân-lâm-gú Български Català Deutsch Español Esperanto فارسی Français Frysk 한국어 Hrvatski Italiano Kreyòl ayisyen Nederlands 日本語 Oʻzbekcha/ўзбекча Português Simple English Српски / srpski Srpskohrvatski / српскохрватски Svenska Türkçe Tiếng Việt Volapük Winaray 中文 Edit links This page was last modified on 15 October 2016, at 01:38. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.696", "walltime": "0.825", "ppvisitednodes": { "value": 7435, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 226219, "limit": 2097152 }, "templateargumentsize": { "value": 19283, "limit": 2097152 }, "expansiondepth": { "value": 14, "limit": 40 }, "expensivefunctioncount": { "value": 3, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 658.149 1 -total", " 30.75% 202.383 1 Template:Reflist", " 21.62% 142.281 1 Template:Infobox_settlement", " 15.88% 104.540 2 Template:Infobox", " 12.88% 84.800 21 Template:Cite_web", " 8.68% 57.103 1 Template:Weather_box", " 8.24% 54.234 16 Template:Cite_news", " 6.48% 42.643 1 Template:Citation_needed", " 5.97% 39.272 1 Template:Fix", " 4.94% 32.536 8 Template:Convert" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.269", "limit": "10.000" }, "limitreport-memusage": { "value": 10108865, "limit": 52428800 } }, "cachereport": { "origin": "mw1253", "timestamp": "20161021083639", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1179"});});

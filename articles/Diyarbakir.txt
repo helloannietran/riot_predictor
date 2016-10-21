@@ -1,0 +1,1408 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Diyarbakır - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Diyarbakır","wgTitle":"Diyarbakır","wgCurRevisionId":745019327,"wgRevisionId":745019327,"wgArticleId":642286,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Turkish-language sources (tr)","Settlement articles requiring maintenance","Articles containing Kurdish-language text","Articles containing Armenian-language text","Articles containing Ancient Greek-language text","Articles containing Ottoman Turkish-language text","Articles containing Syriac-language text","Articles containing Turkish-language text","All articles with unsourced statements","Articles with unsourced statements from June 2007","Articles with Turkish-language external links","Coordinates on Wikidata","World Heritage Sites in Turkey","Use dmy dates from May 2011","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Diyarbakır","Cities in Turkey","Districts of Diyarbakır Province","Populated places in Diyarbakır Province","Turkish Kurdistan","Upper Mesopotamia","Kurdish settlements","Assyrian communities in Turkey","Tur Abdin"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Diyarbakır","wgRelevantArticleId":642286,"wgRequestId":"WApElgpAMFoAALMtNRcAAABT","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Diyarbakir","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgInternalRedirectTargetUrl":"/wiki/Diyarbak%C4%B1r","wgCoordinates":{"lat":37.91,"lon":40.24},"wgWikibaseItemId":"Q83387","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Diyarbak%C4%B1r"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Diyarbak%C4%B1r"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Diyarbakır rootpage-Diyarbakır skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Diyarbakır</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Diyarbakir&amp;redirect=no" class="mw-redirect" title="Diyarbakir">Diyarbakir</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">"Amid" redirects here. For other places, see <a href="/wiki/Amid_(disambiguation)" class="mw-disambig" title="Amid (disambiguation)">Amid (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org">Diyarbakır</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><span class="category">City</span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding:0.7em 0.8em"><a href="/wiki/File:City_of_Diyarbak%C4%B1r.jpg" class="image" title="Top left: Ali Pasha Mosque, Top right: Nebi Mosque, 2nd: Seyrangeha Park, 3rd left: Dört Ayakli Minare Mosque, 3rd upper right: Deriyê Çiyê, 3rd lower right: On Gözlü Bridge (or Silvan Bridge), over Tigris River, Bottom left: Diyarbakır City Wall, Bottom right: Gazi Köşkü (Veterans Pavilion)"><img alt="Top left: Ali Pasha Mosque, Top right: Nebi Mosque, 2nd: Seyrangeha Park, 3rd left: Dört Ayakli Minare Mosque, 3rd upper right: Deriyê Çiyê, 3rd lower right: On Gözlü Bridge (or Silvan Bridge), over Tigris River, Bottom left: Diyarbakır City Wall, Bottom right: Gazi Köşkü (Veterans Pavilion)" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/City_of_Diyarbak%C4%B1r.jpg/260px-City_of_Diyarbak%C4%B1r.jpg" width="260" height="416" srcset="//upload.wikimedia.org/wikipedia/commons/a/ae/City_of_Diyarbak%C4%B1r.jpg 1.5x" data-file-width="360" data-file-height="576" /></a>
+<div><b>Top left:</b> Ali Pasha Mosque, <b>Top right:</b> Nebi Mosque, <b>2nd:</b> Seyrangeha Park, <b>3rd left:</b> Dört Ayakli Minare Mosque, <b>3rd upper right:</b> Deriyê Çiyê, <b>3rd lower right:</b> On Gözlü Bridge (or Silvan Bridge), over Tigris River, <b>Bottom left:</b> Diyarbakır City Wall, <b>Bottom right:</b> Gazi Köşkü (Veterans Pavilion)</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:250px;padding:0">
+<div style="position:relative;width:250px"><a href="/wiki/File:Turkey_adm_location_map.svg" class="image" title="Diyarbakır is located in Turkey"><img alt="Diyarbakır is located in Turkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Turkey_adm_location_map.svg/250px-Turkey_adm_location_map.svg.png" width="250" height="114" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Turkey_adm_location_map.svg/375px-Turkey_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Turkey_adm_location_map.svg/500px-Turkey_adm_location_map.svg.png 2x" data-file-width="1578" data-file-height="721" /></a>
+<div style="position:absolute;top:65.571%;left:75.714%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Diyarbakır" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Diyarbakır" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:4px;text-align:right"><span style="padding:1px;float:right">Diyarbakır</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<small>Location of Diyarbakır within Turkey.</small></td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span style="white-space:nowrap"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Diyarbak%C4%B1r&amp;params=37.91_N_40.24_E_type:city(930266)_region:TR"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">37°55′N</span> <span class="longitude">40°14′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">37.91°N 40.24°E</span><span style="display:none">﻿ / <span class="geo">37.91; 40.24</span></span></span></a></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Turkey" title="Turkey">Turkey</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regions_of_Turkey" class="mw-redirect" title="Regions of Turkey">Region</a></th>
+<td><a href="/wiki/Southeastern_Anatolia_Region" title="Southeastern Anatolia Region">Southeastern Anatolia</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Provinces_of_Turkey" title="Provinces of Turkey">Province</a></th>
+<td><a href="/wiki/Diyarbak%C4%B1r_Province" title="Diyarbakır Province">Diyarbakır</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Mayor" title="Mayor">Mayor</a></th>
+<td>Gültan Kışanak (<a href="/wiki/Peace_and_Democracy_Party" class="mw-redirect" title="Peace and Democracy Party">BDP</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>675&#160;m (2,215&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2013)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;City</th>
+<td>930,266</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Metropolitan_area" title="Metropolitan area">Metro</a></th>
+<td>1,300,000</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/Eastern_European_Time" title="Eastern European Time">EET</a> (<a href="/wiki/UTC%2B2" class="mw-redirect" title="UTC+2">UTC+2</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><span style="white-space:nowrap">&#160;•&#160;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th>
+<td><a href="/wiki/Eastern_European_Summer_Time" title="Eastern European Summer Time">EEST</a><sup id="cite_ref-globalsecurity1_2-0" class="reference"><a href="#cite_note-globalsecurity1-2">[2]</a></sup> (<a href="/wiki/UTC%2B3" class="mw-redirect" title="UTC+3">UTC+3</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Postal_code" title="Postal code">Postal code</a></th>
+<td class="adr"><span class="postal-code">21x xx</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Telephone_numbering_plan" title="Telephone numbering plan">Area code(s)</a></th>
+<td>(0090)+ 412</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Turkish_car_number_plates" class="mw-redirect" title="Turkish car number plates">Licence&#160;plate</a></th>
+<td>21</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.diyarbakir-bld.gov.tr/">www.diyarbakir-bld.gov.tr</a></td>
+</tr>
+</table>
+<p><b>Diyarbakır</b> (<a href="/wiki/Kurdish_language" class="mw-redirect" title="Kurdish language">Kurdish</a>: <span lang="ku" dir="rtl" xml:lang="ku">Amed</span>‎)<sup id="cite_ref-Gunter_3-0" class="reference"><a href="#cite_note-Gunter-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> is one of the largest <a href="/wiki/City" title="City">cities</a> in southeastern <a href="/wiki/Turkey" title="Turkey">Turkey</a>. Situated on the banks of the <a href="/wiki/Tigris" title="Tigris">Tigris</a> River, it is the administrative capital of the <a href="/wiki/Diyarbak%C4%B1r_Province" title="Diyarbakır Province">Diyarbakır Province</a>. With a population of about 930,000 it is the second largest city in Turkey's <a href="/wiki/Southeastern_Anatolia_Region,_Turkey" class="mw-redirect" title="Southeastern Anatolia Region, Turkey">south-eastern Anatolia</a> region, after <a href="/wiki/Gaziantep" title="Gaziantep">Gaziantep</a>.</p>
+<p>Diyarbakir is considered the unofficial capital of <a href="/wiki/Turkish_Kurdistan" title="Turkish Kurdistan">Turkish Kurdistan</a>.<sup id="cite_ref-Gunter_3-1" class="reference"><a href="#cite_note-Gunter-3">[3]</a></sup><sup id="cite_ref-Jr.2015_6-0" class="reference"><a href="#cite_note-Jr.2015-6">[6]</a></sup><sup id="cite_ref-Hamelink2016_7-0" class="reference"><a href="#cite_note-Hamelink2016-7">[7]</a></sup><sup id="cite_ref-AyersQuinn2009_8-0" class="reference"><a href="#cite_note-AyersQuinn2009-8">[8]</a></sup><sup id="cite_ref-MassicardWatts2012_9-0" class="reference"><a href="#cite_note-MassicardWatts2012-9">[9]</a></sup><sup id="cite_ref-LaberWhitman1988_10-0" class="reference"><a href="#cite_note-LaberWhitman1988-10">[10]</a></sup> As such, it has been a focal point for <a href="/wiki/Kurdish%E2%80%93Turkish_conflict_(1978%E2%80%93present)" title="Kurdish–Turkish conflict (1978–present)">conflict</a> between Turkey's government and <a href="/wiki/Kurdish_people" class="mw-redirect" title="Kurdish people">Kurdish</a> insurgent groups.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Names_and_etymology"><span class="tocnumber">1</span> <span class="toctext">Names and etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Antiquity"><span class="tocnumber">2.1</span> <span class="toctext">Antiquity</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Christian_bishopric"><span class="tocnumber">2.2</span> <span class="toctext">Christian bishopric</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Middle_Ages"><span class="tocnumber">2.3</span> <span class="toctext">Middle Ages</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Safavids_and_Ottomans"><span class="tocnumber">2.4</span> <span class="toctext">Safavids and Ottomans</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Republic_of_Turkey"><span class="tocnumber">2.5</span> <span class="toctext">Republic of Turkey</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Economy"><span class="tocnumber">3</span> <span class="toctext">Economy</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Demographics"><span class="tocnumber">4</span> <span class="toctext">Demographics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Demographic_history"><span class="tocnumber">4.1</span> <span class="toctext">Demographic history</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Culture"><span class="tocnumber">5</span> <span class="toctext">Culture</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Cuisine"><span class="tocnumber">5.1</span> <span class="toctext">Cuisine</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Main_sights"><span class="tocnumber">6</span> <span class="toctext">Main sights</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Climate"><span class="tocnumber">7</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Notable_people_born_in_the_city"><span class="tocnumber">8</span> <span class="toctext">Notable people born in the city</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Names_and_etymology"><span id="Names_and_etymology"></span>Names and etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=1" title="Edit section: Names and etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/Names_of_Diyarbak%C4%B1r_in_different_languages" class="mw-redirect" title="Names of Diyarbakır in different languages">Names of Diyarbakır in different languages</a></div>
+<p>The name Diyarbakir (<a href="/wiki/Arabic" title="Arabic">Arabic</a> دیار بکر "Diyaru Bakr which means the land of Bakir; <a href="/wiki/Armenian_language" title="Armenian language">Armenian</a>: <span lang="hy" xml:lang="hy">Տիգրանակերտ</span> <i><a href="/wiki/Tigranocerta" title="Tigranocerta">Tigranakert</a></i>;<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> <a href="/wiki/Ancient_Greek" title="Ancient Greek">Ancient&#160;Greek</a>: <span lang="grc" xml:lang="grc">Άμιδα, <i><a href="/wiki/Amida_(Mesopotamia)" title="Amida (Mesopotamia)">Amida</a></i></span>; <a href="/wiki/Ottoman_Turkish_language" title="Ottoman Turkish language">Ottoman Turkish</a>: <span lang="ota-Arab" dir="rtl" xml:lang="ota-Arab">دیاربکر</span>‎ <i>Diyâr-ı Bekr</i>; <a href="/wiki/Syriac_language" title="Syriac language">Syriac</a>: <span lang="syr" dir="rtl" xml:lang="syr">ܐܡܝܕ</span>‎) is inscribed as <i>Amid</i> on the sheath of a sword from the <a href="/wiki/Assyria" title="Assyria">Assyrian</a> period, and the same name was used in other contemporary Syriac and Arabic works.<sup id="cite_ref-airlines_12-0" class="reference"><a href="#cite_note-airlines-12">[12]</a></sup> The Romans and Byzantines called the city <i><a href="/wiki/Amida_(Roman_city)" class="mw-redirect" title="Amida (Roman city)">Amida</a></i>.<sup id="cite_ref-airlines_12-1" class="reference"><a href="#cite_note-airlines-12">[12]</a></sup> Among the <a href="/wiki/Artukid" class="mw-redirect" title="Artukid">Artukid</a> and <a href="/wiki/Akkoyunlu" class="mw-redirect" title="Akkoyunlu">Akkoyunlu</a> it was known as "Black Amid" (<i>Kara Amid</i>) for the dark color of its walls, while in the <i>Zafername</i>, or eulogies in praise of military victories, it is called "Black Fortress" (<i>Kara Kale</i>).<sup id="cite_ref-airlines_12-2" class="reference"><a href="#cite_note-airlines-12">[12]</a></sup> In the <a href="/wiki/Book_of_Dede_Korkut" title="Book of Dede Korkut">Book of Dede Korkut</a> and some other Turkish works it appears as <i>Kara Hamid</i>.<sup id="cite_ref-airlines_12-3" class="reference"><a href="#cite_note-airlines-12">[12]</a></sup></p>
+<p>Following the <a href="/wiki/Arab_conquest" class="mw-redirect" title="Arab conquest">Arab conquests</a> in the seventh century, the Arab <a href="/wiki/Banu_Bakr" title="Banu Bakr">Bakr tribe</a> settled in this region,<sup id="cite_ref-airlines_12-4" class="reference"><a href="#cite_note-airlines-12">[12]</a></sup> which became known as the <i><a href="/wiki/Diyar_Bakr" title="Diyar Bakr">Diyar Bakr</a></i> ("<a href="/wiki/Real_Estate" class="mw-redirect" title="Real Estate">landholdings</a> of the Bakr tribe", in Arabic: ديار بكر <i>Diyar Bakr</i>).<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> In 1937, <a href="/wiki/Atat%C3%BCrk" class="mw-redirect" title="Atatürk">Atatürk</a> visited Diyarbekir and, after expressing uncertainty on the exact etymology of the city, ordered that it be renamed "Diyarbakır", which means "land of copper" in Turkish after the abundant resources of <a href="/wiki/Copper" title="Copper">copper</a> around the city.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The earliest reference to the city comes from Assyrian records which identify it as being the capital of the <a href="/wiki/Arameans" title="Arameans">Aramean</a> kingdom of Bit-Zamani (ca. 1300 BC). In the ninth century BC, the city joined a rebellion against the Assyrian king <a href="/wiki/Shalmaneser_III" title="Shalmaneser III">Shalmaneser III</a>. The city was later reduced to being a province of the <a href="/wiki/Neo-Assyrian_Empire" title="Neo-Assyrian Empire">Neo-Assyrian Empire</a>.</p>
+<p>From 189 BCE to 384 CE, the region to the east and south of present Diyarbakır came under the rule of the Hellenistic kingdom of <a href="/wiki/Corduene" title="Corduene">Corduene</a>.</p>
+<p>Later, the Romans colonized the city and named it <a href="/wiki/Amida_(Roman_city)" class="mw-redirect" title="Amida (Roman city)">Amida</a>, after the earlier Assyrian name <a href="/wiki/Amid" class="mw-redirect" title="Amid">Amid</a>. During the Roman rule, the first city walls were constructed (297 AD) and later, the greater walls were built as per the command of the Roman emperor <a href="/wiki/Constantius_II" title="Constantius II">Constantius II</a>. After the Romans, the Persians came to power and were succeeded by the Muslim Arabs. It was the leader of the Arab Bekr tribe, Bekr Bin Vail, who named the city Diyar Bakr, meaning "the country of Bakr", i.e. Arabs. Much later, in the Republican era, the city got its current name Diyarbakır, which was derived from the abundance of copper ore that exists here.</p>
+<p>After a few centuries, Diyarbakır came under the Ottoman Empire and earned the status of the capital of <a href="/wiki/Diyarbekir_Eyalet" title="Diyarbekir Eyalet">a large province</a>. The city became the base of army troops who guarded the region against Persian invasion. Diyarbakır faced turbulence in the 20th century, particularly with the onset of <a href="/wiki/World_War_I" title="World War I">World War I</a>. The majority of the city's Syriac and Armenian population were massacred and deported during the <a href="/wiki/Armenian_Genocide" title="Armenian Genocide">Armenian Genocide</a> in 1915. In 1925, the Kurdish population rose in the <a href="/wiki/Sheikh_Said_rebellion" title="Sheikh Said rebellion">Sheikh Said rebellion</a> against the newly established government of the Republic of Turkey, which was crushed by Turkish forces.</p>
+<h3><span class="mw-headline" id="Antiquity">Antiquity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=3" title="Edit section: Antiquity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The area around Diyarbakır has been inhabited by humans from the stone age with tools from that period having been discovered in the nearby Hilar cave complex. The pre-pottery neolothic B settlement of Çayönü dates to over 10,000 years ago and its excavated remains are on display at the <a href="/wiki/Diyarbak%C4%B1r_Museum" class="mw-redirect" title="Diyarbakır Museum">Diyarbakır Museum</a>. Another important site is Girikihaciyan Tumulus in <a href="/wiki/E%C4%9Fil" title="Eğil">Eğil</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></p>
+<p>The first major civilization to establish themselves in the region of what is now Diyarbakır were the <a href="/wiki/Hurrians" title="Hurrians">Hurrian</a> kingdom of the Mitanni. The city was first mentioned by Assyrian texts as the capital of a Semitic kingdom. It was then ruled by a succession of nearly every polity that controlled Upper Mesopotamia such as the <a href="/wiki/Aramean" class="mw-redirect" title="Aramean">Aramean</a>, <a href="/wiki/Assyrian_Empire" class="mw-redirect" title="Assyrian Empire">Assyrians</a>, <a href="/wiki/Urartu" title="Urartu">Urartu</a>, <a href="/wiki/Armenians" title="Armenians">Armenians</a>, <a href="/wiki/Achaemenid_Empire" title="Achaemenid Empire">Achaemenid Persians</a>, <a href="/wiki/Medes" title="Medes">Medes</a>, <a href="/wiki/Seleucid_Empire" title="Seleucid Empire">Seleucids</a>, and <a href="/wiki/Parthians" class="mw-redirect" title="Parthians">Parthians</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> The <a href="/wiki/Roman_Republic" title="Roman Republic">Roman Republic</a> gained control of the city in 66 BC by when it was named "Amida".<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> In 359, <a href="/wiki/Shapur_II_of_Persia" class="mw-redirect" title="Shapur II of Persia">Shapur II of Persia</a> <a href="/wiki/Siege_of_Amida" title="Siege of Amida">captured Amida</a> after a siege of 73 days which is vividly described by the Roman historian <a href="/wiki/Ammianus_Marcellinus" title="Ammianus Marcellinus">Ammianus Marcellinus</a>.<sup id="cite_ref-Command.2C_Kimberly_Kagan_p23_19-0" class="reference"><a href="#cite_note-Command.2C_Kimberly_Kagan_p23-19">[19]</a></sup></p>
+<h3><span class="mw-headline" id="Christian_bishopric">Christian bishopric</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=4" title="Edit section: Christian bishopric">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Syriac_Christianity" title="Syriac Christianity">Syriac Christianity</a> took hold in the region between the 1st and 4th centuries AD, particularly amongst the Semitic <a href="/wiki/Assyrian_people" title="Assyrian people">Assyrians</a> of the city. The earliest documented bishop of Amida was Simeon of the <a href="/wiki/Church_of_the_East" title="Church of the East">Church of the East</a>, who took part in the <a href="/wiki/First_Council_of_Nicaea" title="First Council of Nicaea">First Council of Nicaea</a> in 325, on behalf of the city's <a href="/wiki/Assyrian_people" title="Assyrian people">Assyrian</a> and <a href="/wiki/Aramean" class="mw-redirect" title="Aramean">Aramean</a> Christians. Maras was at the <a href="/wiki/First_Council_of_Constantinople" title="First Council of Constantinople">First Council of Constantinople</a> in 381. In the next century, Saint <a href="/wiki/Acacius_of_Amida" title="Acacius of Amida">Acacius of Amida</a> (who died in 425, and is included in the <a href="/wiki/Roman_Martyrology" title="Roman Martyrology">Roman Martyrology</a><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>) was noted for having sold the church's gold and silver vessels to ransom and assist Persian prisoners of war.</p>
+<p><a href="/wiki/Byzantine_Emperor" class="mw-redirect" title="Byzantine Emperor">Byzantine Emperor</a> <a href="/wiki/Theodosius_II" title="Theodosius II">Theodosius II</a> (408–450) divided the <a href="/wiki/Roman_province" title="Roman province">Roman province</a> of <a href="/wiki/Mesopotamia_(Roman_province)" title="Mesopotamia (Roman province)">Mesopotamia</a> into two, and made Amida the capital of Mesopotamia Prima, and thereby also the <a href="/wiki/Metropolitan_see" class="mw-redirect" title="Metropolitan see">metropolitan see</a> for all the province's <a href="/wiki/Bishopric" class="mw-redirect" title="Bishopric">bishoprics</a>. A 6th-century <i><a href="/wiki/Notitia_Episcopatuum" class="mw-redirect" title="Notitia Episcopatuum">Notitia Episcopatuum</a></i> indicates as <a href="/wiki/Suffragan" class="mw-redirect" title="Suffragan">suffragans</a> of Amida the sees of <a href="/wiki/Silvan,_Diyarbak%C4%B1r" title="Silvan, Diyarbakır">Martyropolis</a>, <a href="/wiki/Mesopotamia_(Roman_province)#Episcopal_sees" title="Mesopotamia (Roman province)">Ingila</a>, <a href="/wiki/Mesopotamia_(Roman_province)#Episcopal_sees" title="Mesopotamia (Roman province)">Belabitene</a>, <a href="/wiki/Mesopotamia_(Roman_province)#Episcopal_sees" title="Mesopotamia (Roman province)">Arsamosata</a>, <a href="/wiki/Sophene" title="Sophene">Sophene</a>, Kitharis, <a href="/wiki/Mesopotamia_(Roman_province)#Episcopal_sees" title="Mesopotamia (Roman province)">Cefa</a>, and <a href="/wiki/Mesopotamia_(Roman_province)#Episcopal_sees" title="Mesopotamia (Roman province)">Zeugma</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup> The <i><a href="/wiki/Annuario_Pontificio" title="Annuario Pontificio">Annuario Pontificio</a></i> adds <a href="/wiki/Cizre" title="Cizre">Bethzabda</a> and <a href="/wiki/Mesopotamia_(Roman_province)#Episcopal_sees" title="Mesopotamia (Roman province)">Dadima</a>.</p>
+<p>The names of several of the successors of Acacius are known, but their orthodoxy is unclear. The last whose orthodoxy is certain is Cyriacus, a participant in the <a href="/wiki/Second_Council_of_Constantinople" title="Second Council of Constantinople">Second Council of Constantinople</a> (553). Many bishops of the Byzantine Empire fled in the face of the Persian invasion of the early 7th century, with a resultant spread of the <a href="/wiki/Jacobite_Church" class="mw-redirect" title="Jacobite Church">Jacobite Church</a>, <a href="/wiki/Michael_the_Syrian" title="Michael the Syrian">Michael the Syrian</a> gives a list of Jacobite bishops of Amida down to the 13th century.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup></p>
+<p>At some stage, Amida became a see of the Armenian Christians. The bishops who held the see in 1650 and 1681 were in communion with the Holy See, and in 1727 Peter Derboghossian sent his profession of faith to Rome. He was succeeded by two more Catholic Armenians, Eugenius and Ioannes of Smyrna, the latter of whom died in <a href="/wiki/Constantinople" title="Constantinople">Constantinople</a> in 1785. After a long vacancy, three more bishops followed. The diocese had some 5,000 Armenian Catholics in 1903,<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> but it lost most of its population in the <a href="/wiki/Armenian_Genocide" title="Armenian Genocide">Armenian Genocide</a>. The last <a href="/wiki/Diocesan_bishop" title="Diocesan bishop">diocesan bishop</a> of the see, Andreas Elias Celebian, was killed with some 600 of his faithful in the summer of 1915.<sup id="cite_ref-Gams1_24-0" class="reference"><a href="#cite_note-Gams1-24">[24]</a></sup><sup id="cite_ref-Gams2_25-0" class="reference"><a href="#cite_note-Gams2-25">[25]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup></p>
+<p>An eparchy for the local members of the <a href="/wiki/Syriac_Catholic_Church" title="Syriac Catholic Church">Syriac Catholic Church</a> was established in 1862. <a href="/wiki/Ignatius_Philip_I_Arkus" title="Ignatius Philip I Arkus">Ignatius Philip I Arkus</a>, who was its first bishop, was elected patriarch in 1866, he kept the governance of the see of Amida, which he exercised through a patriarchal vicar. The eparchy was united to that of <a href="/wiki/Mardin" title="Mardin">Mardin</a> in 1888. Persecution in Turkey during the First World War brought an end to the existence of both these Syrian residential sees.<sup id="cite_ref-Gams1_24-1" class="reference"><a href="#cite_note-Gams1-24">[24]</a></sup><sup id="cite_ref-Gams2_25-1" class="reference"><a href="#cite_note-Gams2-25">[25]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> However, in 1966 a <a href="/wiki/Chaldean_Catholic_Archeparchy_of_Amida" title="Chaldean Catholic Archeparchy of Amida">Chaldean Catholic Archeparchy</a> with jurisdiction over all Chaldean Catholic Turks was revived in Diyarbakir, with the city being both the episcopal see and location of the dioceses <a href="/wiki/St._Mary_Church,_Diyarbak%C4%B1r" title="St. Mary Church, Diyarbakır">main Cathedral</a>.</p>
+<p>As of 2015, there are two Assyrian Churches, and 3 Armenian churches in at least periodic operation. three other churches are in ruins, all Armenian. one outside Sur district, one in it, and one in the citadel that is now part of a museum complex.</p>
+<p>No longer a residential bishopric, Amida is today listed by the <a href="/wiki/Catholic_Church" title="Catholic Church">Catholic Church</a> as a <a href="/wiki/Titular_see" title="Titular see">titular see</a>.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup></p>
+<h3><span class="mw-headline" id="Middle_Ages">Middle Ages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=5" title="Edit section: Middle Ages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">See also: <a href="/wiki/Diyar_Bakr" title="Diyar Bakr">Diyar Bakr</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Diyarbakir_P1050751_20080427135832.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Diyarbakir_P1050751_20080427135832.JPG/220px-Diyarbakir_P1050751_20080427135832.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Diyarbakir_P1050751_20080427135832.JPG/330px-Diyarbakir_P1050751_20080427135832.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Diyarbakir_P1050751_20080427135832.JPG/440px-Diyarbakir_P1050751_20080427135832.JPG 2x" data-file-width="3072" data-file-height="2304" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Diyarbakir_P1050751_20080427135832.JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Great_Mosque_of_Diyarbak%C4%B1r" title="Great Mosque of Diyarbakır">Great Mosque of Diyarbakır</a></div>
+</div>
+</div>
+<p>In 639, the city was captured by the <a href="/wiki/Muslim_conquests" class="mw-redirect" title="Muslim conquests">Muslim conquests</a>, and introduced to the religion of <a href="/wiki/Islam" title="Islam">Islam</a>. The city passed under <a href="/wiki/Umayyad" class="mw-redirect" title="Umayyad">Umayyad</a> and then <a href="/wiki/Abbasid" class="mw-redirect" title="Abbasid">Abbasid</a> control, but with the progressive fragmentation of the Abbasid Caliphate from the late 9th century, it periodically came under the rule of autonomous dynasties. <a href="/wiki/Isa_ibn_al-Shaykh_al-Shaybani" title="Isa ibn al-Shaykh al-Shaybani">Isa ibn al-Shaykh al-Shaybani</a> and his descendants ruled the city and the wider <a href="/wiki/Diyar_Bakr" title="Diyar Bakr">Diyar Bakr</a> from 871 until 899, when Caliph <a href="/wiki/Al-Mu%27tadid" title="Al-Mu'tadid">al-Mu'tadid</a> restored Abbasid control, but the area soon passed to another local dynasty, the <a href="/wiki/Hamdanids" class="mw-redirect" title="Hamdanids">Hamdanids</a>. The latter were displaced by the <a href="/wiki/Buyids" class="mw-redirect" title="Buyids">Buyids</a> in 978, who were in turn followed by the <a href="/wiki/Marwanids" title="Marwanids">Marwanids</a> a few years later. The Marwanids ruled until after the <a href="/wiki/Battle_of_Manzikert" title="Battle of Manzikert">Battle of Manzikert</a> in 1071, when the city came under the rule of the <a href="/wiki/Mardin" title="Mardin">Mardin</a> branch of the <a href="/wiki/Oghuz_Turks" title="Oghuz Turks">Oghuz Turks</a> and then the <a href="/wiki/Anatolian_beylik" class="mw-redirect" title="Anatolian beylik">Anatolian beylik</a> of the <a href="/wiki/Artuqids" title="Artuqids">Artuqids</a>. The whole area was then disputed between the <a href="/wiki/Ilkhanate" title="Ilkhanate">Ilkhanate</a> and <a href="/wiki/Ayyubid" class="mw-redirect" title="Ayyubid">Ayyubid</a> dynasties for a century, after which it was taken over by the competing Turkic federations of the <a href="/wiki/Kara_Koyunlu" title="Kara Koyunlu">Kara Koyunlu</a> (the Black Sheep) first and then the <a href="/wiki/Aq_Qoyunlu" class="mw-redirect" title="Aq Qoyunlu">Aq Qoyunlu (White Sheep Turkomans)</a> until the rise of the Persian <a href="/wiki/Safavids" class="mw-redirect" title="Safavids">Safavids</a>, who naturally took over the city and the wider region.</p>
+<h3><span class="mw-headline" id="Safavids_and_Ottomans">Safavids and Ottomans</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=6" title="Edit section: Safavids and Ottomans">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">See also: <a href="/wiki/Diyarbekir_Eyalet" title="Diyarbekir Eyalet">Diyarbekir Eyalet</a> and <a href="/wiki/Diyarbekir_Vilayet" title="Diyarbekir Vilayet">Diyarbekir Vilayet</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:1671_Diyarbak%C4%B1r_from_Ottoman_map_of_Tigris_and_Euphrates_2012_Kur%C5%9Fun_Z_Fig2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/1671_Diyarbak%C4%B1r_from_Ottoman_map_of_Tigris_and_Euphrates_2012_Kur%C5%9Fun_Z_Fig2.jpg/220px-1671_Diyarbak%C4%B1r_from_Ottoman_map_of_Tigris_and_Euphrates_2012_Kur%C5%9Fun_Z_Fig2.jpg" width="220" height="135" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/1671_Diyarbak%C4%B1r_from_Ottoman_map_of_Tigris_and_Euphrates_2012_Kur%C5%9Fun_Z_Fig2.jpg/330px-1671_Diyarbak%C4%B1r_from_Ottoman_map_of_Tigris_and_Euphrates_2012_Kur%C5%9Fun_Z_Fig2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/6/67/1671_Diyarbak%C4%B1r_from_Ottoman_map_of_Tigris_and_Euphrates_2012_Kur%C5%9Fun_Z_Fig2.jpg 2x" data-file-width="389" data-file-height="239" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:1671_Diyarbak%C4%B1r_from_Ottoman_map_of_Tigris_and_Euphrates_2012_Kur%C5%9Fun_Z_Fig2.jpg" class="internal" title="Enlarge"></a></div>
+This 17th-century map detail shows Diyarbakır (west at top). From a 17th-century Ottoman map of the Tigris and Euphrates that may have been created by Evliya Çelebi.</div>
+</div>
+</div>
+<p>Between the early 16th century and mid-to late 17th century the city and the much wider Eastern Anatolia region (comprising <a href="/wiki/Eastern_Anatolia" class="mw-redirect" title="Eastern Anatolia">Eastern Anatolia</a> and <a href="/wiki/Southeastern_Anatolia" class="mw-redirect" title="Southeastern Anatolia">Southeastern Anatolia</a>) was being heavily competed between the rivalling Persian <a href="/wiki/Safavids" class="mw-redirect" title="Safavids">Safavids</a> and the Ottoman Turks, being passed on numerous times between the two arch rivals. When it was firstly conquered by the <a href="/wiki/Ottoman_Turks" class="mw-redirect" title="Ottoman Turks">Ottoman Turks</a> in the 16th century by the campaigns of Bıyıklı Mehmet Paşa under the rule of Sultan <a href="/wiki/Selim_I" title="Selim I">Selim I</a> following the <a href="/wiki/Battle_of_Chaldiran" title="Battle of Chaldiran">Battle of Chaldiran</a>, they established an <a href="/wiki/Eyelet" class="mw-redirect" title="Eyelet">eyelet</a> with its centre in Diyarbakır. The Ottoman eyelet of Diyarbakır corresponded to Turkey's southeastern provinces today, a rectangular area between the <a href="/wiki/Lake_Urmia" title="Lake Urmia">Lake Urmia</a> to <a href="/wiki/Palu_(District),_Elaz%C4%B1%C4%9F" class="mw-redirect" title="Palu (District), Elazığ">Palu</a> and from the southern shores of <a href="/wiki/Lake_Van" title="Lake Van">Lake Van</a> to <a href="/wiki/Cizre" title="Cizre">Cizre</a> and the beginnings of the <a href="/wiki/Syrian_desert" class="mw-redirect" title="Syrian desert">Syrian desert</a>, although its borders saw some changes over time. The city was an important military base for controlling this region and at the same time a thriving city noted for its craftsmen, producing glass and metalwork. For example, the doors of <a href="/wiki/Mevlana" class="mw-redirect" title="Mevlana">Mevlana</a>'s tomb in <a href="/wiki/Konya" title="Konya">Konya</a> were made in Diyarbakır, as were the gold and silver decorated doors of the tomb of <a href="/wiki/Ebu_Hanife" class="mw-redirect" title="Ebu Hanife">Imam-i Azam Ebu Hanife</a> in <a href="/wiki/Baghdad" title="Baghdad">Baghdad</a>. Ottoman rule was confirmed by the <a href="/wiki/Peace_of_Amasya" title="Peace of Amasya">Peace of Amasya</a> of 1555 which followed after the <a href="/wiki/Ottoman%E2%80%93Safavid_War_(1532%E2%80%9355)" title="Ottoman–Safavid War (1532–55)">Ottoman–Safavid War (1532–55)</a>. However, a recapture of the city followed by Safavid Persia, ruled by shah <a href="/wiki/Abbas_I_of_Persia" title="Abbas I of Persia">Abbas I</a>, during the <a href="/wiki/Ottoman-Safavid_War_(1603-1618)" class="mw-redirect" title="Ottoman-Safavid War (1603-1618)">Ottoman-Safavid War (1603-1618)</a>.</p>
+<p>In 1895 an estimated 25,000 <a href="/wiki/Armenian_people" class="mw-redirect" title="Armenian people">Armenians</a> and Syriac Christians ("<a href="/wiki/Assyrian_people" title="Assyrian people">Assyrians</a>") were <a href="/wiki/Massacres_of_Diyarbakir_(1895)" class="mw-redirect" title="Massacres of Diyarbakir (1895)">massacred</a> in Diyarbakır vilayet, including the city.<sup id="cite_ref-gunter_31-0" class="reference"><a href="#cite_note-gunter-31">[31]</a></sup> At the turn of the 19th century, the Christian population of the city was mainly made up of Armenians and <a href="/wiki/Syriac_Orthodox_Christians_(Middle_East)" title="Syriac Orthodox Christians (Middle East)">Syriac Orthodox Christians</a>.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup> The city was also a site of <a href="/wiki/Armenian_genocide" class="mw-redirect" title="Armenian genocide">ethnic cleansing</a> of Armenians and Assyrians in 1915; nearly 150,000 were deported from the city.<sup id="cite_ref-mdumper_33-0" class="reference"><a href="#cite_note-mdumper-33">[33]</a></sup></p>
+<h3><span class="mw-headline" id="Republic_of_Turkey">Republic of Turkey</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=7" title="Edit section: Republic of Turkey">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Diyarbakir_P1050709_20080427133413.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Diyarbakir_P1050709_20080427133413.JPG/220px-Diyarbakir_P1050709_20080427133413.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Diyarbakir_P1050709_20080427133413.JPG/330px-Diyarbakir_P1050709_20080427133413.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Diyarbakir_P1050709_20080427133413.JPG/440px-Diyarbakir_P1050709_20080427133413.JPG 2x" data-file-width="3072" data-file-height="2304" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Diyarbakir_P1050709_20080427133413.JPG" class="internal" title="Enlarge"></a></div>
+A typical example of Diyarbakır's historic architectural style, with masonry tiles built of the city's indigenous type of dark basalt stone.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Diyarbakir_walls.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Diyarbakir_walls.JPG/220px-Diyarbakir_walls.JPG" width="220" height="139" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Diyarbakir_walls.JPG/330px-Diyarbakir_walls.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Diyarbakir_walls.JPG/440px-Diyarbakir_walls.JPG 2x" data-file-width="2834" data-file-height="1796" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Diyarbakir_walls.JPG" class="internal" title="Enlarge"></a></div>
+Diyarbakır's city walls, built by <a href="/wiki/Constantius_II" title="Constantius II">Constantius II</a> and extended by <a href="/wiki/Valentinian_I" title="Valentinian I">Valentinian I</a> between 367 and 375, stretch almost unbroken for about 6 kilometres.</div>
+</div>
+</div>
+<p>In the reorganization of the provinces, Diyarbakır was made administrative capital of the <a href="/wiki/Diyarbak%C4%B1r_Province" title="Diyarbakır Province">Diyarbakır Province</a>. During the 1980s and 1990s, at the peak of the <a href="/wiki/Kurdistan_Workers%27_Party" title="Kurdistan Workers' Party">Kurdistan Workers' Party</a> (PKK) insurgency, the population of the city grew dramatically as villagers from remote areas where fighting was serious left or were forced to leave for the relative security of the city. After the cessation of hostilities between the PKK and the Turkish army, a large degree of normality returned to the city, with the Turkish government declaring an end to the 15-year period of emergency rule on 30 November 2002. Diyarbakır grew from a population of 30,000 in the 1930s to 65,000 by 1956, to 140,000 by 1970, to 400,000 by 1990,<sup id="cite_ref-McDowall2004_34-0" class="reference"><a href="#cite_note-McDowall2004-34">[34]</a></sup> and eventually swelled to about 1.5 million by 1997.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup></p>
+<p>The 41-year-old American-Turkish <a href="/wiki/Pirin%C3%A7lik" class="mw-redirect" title="Pirinçlik">Pirinçlik</a> Air Force Base near Diyarbakır, known as NATO's frontier post for monitoring the former Soviet Union and the Middle East, closed on 30 September 1997. This closure was the result of the general drawdown of US bases in Europe and the improvement in space surveillance technology. The base housed sensitive electronic intelligence-gathering systems that monitored the Middle East, the Caucasus, and Russia.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup></p>
+<p>According to a November 2006 survey by the <a href="/w/index.php?title=Sur,_Turkey&amp;action=edit&amp;redlink=1" class="new" title="Sur, Turkey (page does not exist)">Sur</a> Municipality, one of Diyarbakır's metropolitan municipalities, 72% of the inhabitants of the municipality use <a href="/wiki/Kurdish_language" class="mw-redirect" title="Kurdish language">Kurdish</a> most often in their daily speech, followed by <a href="/wiki/Turkish_language" title="Turkish language">Turkish</a>,<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> with small minorities of <a href="/wiki/Assyrian_people" title="Assyrian people">Assyrians</a>, <a href="/wiki/Armenian_people" class="mw-redirect" title="Armenian people">Armenians</a> and <a href="/wiki/Yezidi" class="mw-redirect" title="Yezidi">Yezidis</a> still resident. After World War II, as the Kurdish population moved to urban centres, Diyarbakir gradually became predominantly Kurdish.<sup id="cite_ref-HeperSayari2013_38-0" class="reference"><a href="#cite_note-HeperSayari2013-38">[38]</a></sup></p>
+<p>Diyarbakır has been the victim of terror attacks in recent years. In 2008, a <a href="/wiki/2008_Diyarbak%C4%B1r_bombing" title="2008 Diyarbakır bombing">car bomb exploded</a> in the city, killing five people, a blast for which nobody claimed responsibility. In 2015, <a href="/wiki/2015_Diyarbak%C4%B1r_rally_bombings" title="2015 Diyarbakır rally bombings">a political rally</a> of the <a href="/wiki/Peoples%27_Democratic_Party_(Turkey)" title="Peoples' Democratic Party (Turkey)">People's Democratic Party</a> was targeted by <a href="/wiki/ISIL" class="mw-redirect" title="ISIL">ISIL</a>, killing four people and injuring over 100. And in 2016, <a href="/wiki/2016_Diyarbak%C4%B1r_bombing" class="mw-redirect" title="2016 Diyarbakır bombing">two separate attacks</a> in February and March, each killing six people.</p>
+<p>Between November 8, 2015 and May 15, 2016 large parts of Sur were destroyed in fighting between the Turkish military and the PKK.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup></p>
+<h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=8" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Historically, Diyarbakır produced <a href="/wiki/Wheat" title="Wheat">wheat</a> and <a href="/wiki/Sesame" title="Sesame">sesame</a>.<sup id="cite_ref-Prothero60_40-0" class="reference"><a href="#cite_note-Prothero60-40">[40]</a></sup><sup id="cite_ref-Prothero62_41-0" class="reference"><a href="#cite_note-Prothero62-41">[41]</a></sup> They would preserve the wheat in <a href="/wiki/Warehouse" title="Warehouse">warehouses</a>, with coverings of <a href="/wiki/Straw" title="Straw">straw</a> and twigs from <a href="/wiki/Licorice" class="mw-redirect" title="Licorice">licorice</a> trees. This system would allow the wheat to be preserved for up to ten years.<sup id="cite_ref-Prothero60_40-1" class="reference"><a href="#cite_note-Prothero60-40">[40]</a></sup> In the late 19th and early 20th century, Diyarbakır exported <a href="/wiki/Raisin" title="Raisin">raisins</a>, <a href="/wiki/Almond" title="Almond">almonds</a>, and <a href="/wiki/Apricot" title="Apricot">apricots</a> to Europe.<sup id="cite_ref-Prothero62_41-1" class="reference"><a href="#cite_note-Prothero62-41">[41]</a></sup> <a href="/wiki/Angora_goat" title="Angora goat">Angora goats</a> were raised, and wool and <a href="/wiki/Mohair" title="Mohair">mohair</a> was exported from Diyarbakır. Merchants would also come from <a href="/wiki/Egypt" title="Egypt">Egypt</a>, <a href="/wiki/Istanbul" title="Istanbul">Istanbul</a>, and <a href="/wiki/Syria" title="Syria">Syria</a>, to purchase goats and <a href="/wiki/Sheep" title="Sheep">sheep</a>.<sup id="cite_ref-Prothero63_42-0" class="reference"><a href="#cite_note-Prothero63-42">[42]</a></sup> <a href="/wiki/Honey" title="Honey">Honey</a> was also produced, but not so much exported, but used by locals. <a href="/wiki/Sericulture" title="Sericulture">Sericulture</a> was observed in the area, too.<sup id="cite_ref-Prothero64_43-0" class="reference"><a href="#cite_note-Prothero64-43">[43]</a></sup></p>
+<p>Prior to World War I, Diyarbakır had an active <a href="/wiki/Copper" title="Copper">copper</a> industry, with six mines. Three were active, with two being owned by locals and the third being owned by the Turkish government. <a href="/wiki/Tenorite" title="Tenorite">Tenorite</a> was the primary type of copper mined. It was mined by hand by Kurds. A large portion of the ore was exported to England. The region also produced <a href="/wiki/Iron" title="Iron">iron</a>, <a href="/wiki/Gypsum" title="Gypsum">gypsum</a>, <a href="/wiki/Coal" title="Coal">coal</a>, <a href="/wiki/Chalk" title="Chalk">chalk</a>, <a href="/wiki/Lime_(material)" title="Lime (material)">lime</a>, <a href="/wiki/Jet_(lignite)" title="Jet (lignite)">jet</a>, and <a href="/wiki/Quartz" title="Quartz">quartz</a>, but primarily for local use.<sup id="cite_ref-Prothero70_44-0" class="reference"><a href="#cite_note-Prothero70-44">[44]</a></sup></p>
+<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=9" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Demographic_history">Demographic history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=10" title="Edit section: Demographic history">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At the turn of the 19th century, the Christian population of the city was mainly made up of Armenians and <a href="/wiki/Syriac_Orthodox_Christians_(Middle_East)" title="Syriac Orthodox Christians (Middle East)">Syriac Orthodox Christians</a>.<sup id="cite_ref-JV20_45-0" class="reference"><a href="#cite_note-JV20-45">[45]</a></sup> Armenians had inhabited the town since the 8th century, while the Syriacs were probably descendants of surviving <a href="/wiki/Arameans" title="Arameans">Arameans</a>.<sup id="cite_ref-JV20_45-1" class="reference"><a href="#cite_note-JV20-45">[45]</a></sup></p>
+<h2><span class="mw-headline" id="Culture">Culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=11" title="Edit section: Culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some jewelry making and other craftwork continues today although the fame of the Diyarbakır's craftsmen has long passed. Folk dancing to the drum and <a href="/wiki/Zurna" title="Zurna">zurna</a> (pipe) are a part of weddings and celebrations in the area.</p>
+<h3><span class="mw-headline" id="Cuisine">Cuisine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=12" title="Edit section: Cuisine">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Diyarbakır is known for rich dishes of lamb which use spices such as <a href="/wiki/Black_pepper" title="Black pepper">black pepper</a>, <a href="/wiki/Sumac" title="Sumac">sumac</a> and <a href="/wiki/Coriander" title="Coriander">coriander</a>; rice, <a href="/wiki/Bulgur" title="Bulgur">bulgur</a> and butter. The most famous specialty dish from Diyarbakır is Meftune which is made up of lamb meat and vegetable laced with garlic and sumac. Another known dish is Kaburga Dolması which is a baked lamb's ribs stuffed with rice and many spices. Diyarbakır is also famous for its watermelons which are exported internationally; one of the largest events in the city is the annually held Watermelon Festival.</p>
+<h2><span class="mw-headline" id="Main_sights">Main sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=13" title="Edit section: Main sights">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Minareya_%C3%87arling_Amed_2010.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Minareya_%C3%87arling_Amed_2010.JPG/220px-Minareya_%C3%87arling_Amed_2010.JPG" width="220" height="331" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Minareya_%C3%87arling_Amed_2010.JPG/330px-Minareya_%C3%87arling_Amed_2010.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Minareya_%C3%87arling_Amed_2010.JPG/440px-Minareya_%C3%87arling_Amed_2010.JPG 2x" data-file-width="3056" data-file-height="4592" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Minareya_%C3%87arling_Amed_2010.JPG" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Sheikh_Matar_Mosque" title="Sheikh Matar Mosque">Sheikh Matar Mosque</a> with its Four-legged Minaret</div>
+</div>
+</div>
+<p>Diyarbakır is surrounded by an almost intact, dramatic set of high walls of black basalt forming a 5.5&#160;km (3.4&#160;mi) circle around the old city. There are four gates into the old city and 82 watch-towers on the walls, which were built in antiquity, restored and extended by the <a href="/wiki/Roman_emperor" title="Roman emperor">Roman emperor</a> <a href="/wiki/Constantius_II" title="Constantius II">Constantius II</a> in 349.</p>
+<p>Medieval <a href="/wiki/Mosques" class="mw-redirect" title="Mosques">mosques</a> and <a href="/wiki/Medrese" class="mw-redirect" title="Medrese">medreses</a> include:</p>
+<ul>
+<li><a href="/wiki/Great_Mosque_of_Diyarbak%C4%B1r" title="Great Mosque of Diyarbakır">Great Mosque of Diyarbakır</a> built by the <a href="/wiki/Seljuk_Turk" class="mw-redirect" title="Seljuk Turk">Seljuk Turkish</a> Sultan <a href="/wiki/Malik_Shah_I" class="mw-redirect" title="Malik Shah I">Malik Shah</a> in the 11th century. The mosque, one of the oldest in Turkey, is constructed in alternating bands of black basalt and white limestone (The same patterning is used in the 16th century Deliler Han Madrassah, which is now a hotel). The adjoining <i>Mesudiye Medresesi</i>/<i>Medreseya Mesûdiyeyê</i> was built at the same time, as was another prayer-school in the city, <i>Zinciriye Medresesi</i>/<i>Medreseya Zincîriyeyê</i>.</li>
+<li><i>Beharampaşa Camii</i>/<i>Mizgefta Behram Paşa</i> – an <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a> mosque built in 1572 by the governor of Diyarbakır, Behram <a href="/wiki/Pasha" title="Pasha">Pasha</a>, noted for the well-constructed arches at the entrance.</li>
+<li><a href="/wiki/Sheikh_Matar_Mosque" title="Sheikh Matar Mosque">Sheikh Matar Mosque</a> with <i>Dört Ayaklı Minare</i>/<i>Mizgefta Çarling</i> (<i>the Four-legged Minaret</i>) – built by Kasim Khan of the <a href="/wiki/Aq_Qoyunlu" class="mw-redirect" title="Aq Qoyunlu">Aq Qoyunlu</a>.</li>
+<li><i>Fatihpaşa Camii</i>/<i>Mizgefta Fetih Paşa</i> – built in 1520 by Diyarbakır's first <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a> governor, Bıyıklı Mehmet Paşa ("the moustachioed Mehmet pasha"). The city's earliest Ottoman building, it is decorated with fine tilework.</li>
+<li><i>Hazreti Süleyman Camii</i>/<i>Mizgefta Hezretî Silêman</i> – 1155–1169 – Süleyman son of <a href="/wiki/Khalid_ibn_al-Walid" title="Khalid ibn al-Walid">Halid Bin Velid</a>, who died capturing the city from the Arabs, is buried here along with his companions.</li>
+<li><i>Hüsrevpaşa Camii</i>/<i>Mizgefta Husrev Paşa</i> – the mosque of the second Ottoman governor, 1512–1528. Originally the building was intended to be a school (<i>medrese</i>)</li>
+<li><i>İskender Paşa Camii</i>/<i>Mizgefta Îskender Paşa</i> – a mosque of an Ottoman governor, an attractive building in black and white stone, built in 1551.</li>
+<li><i>Melek Ahmet Camii</i>/<i>Melek Ahmed Paşa</i> a 16th-century mosque noted for its tiled prayer-niche and for the double stairway up the minaret.</li>
+<li><i>Nebii Camii</i>/<i>Mizgefta Pêxember</i> – an <a href="/wiki/Aq_Qoyunlu" class="mw-redirect" title="Aq Qoyunlu">Aq Qoyunlu</a> mosque, a single-domed stone construction from the 16th century. <i>Nebi Camii</i> means "the mosque of the prophet" and is so-named because of the number of inscriptions in honour of the prophet on its <a href="/wiki/Minaret" title="Minaret">minaret</a>.</li>
+<li><i>Safa Camii</i>/<i>Mizgefta Palo</i> – built in 1532 by the <a href="/wiki/Aq_Qoyunlu" class="mw-redirect" title="Aq Qoyunlu">Aq Qoyunlu (White Sheep Turkomans)</a> tribe.</li>
+</ul>
+<p>Churches include:</p>
+<ul>
+<li><a href="/wiki/St._Giragos_Armenian_Church_(Diyarbak%C4%B1r)" class="mw-redirect" title="St. Giragos Armenian Church (Diyarbakır)">St. Giragos Armenian Church</a> – first built in 1519, the current structure is from 1883, and was recently restored after a long period of disuse.<sup id="cite_ref-romeartlover.tripod.com_46-0" class="reference"><a href="#cite_note-romeartlover.tripod.com-46">[46]</a></sup></li>
+<li>The <a href="/wiki/Syriac_Orthodox" class="mw-redirect" title="Syriac Orthodox">Syriac Orthodox</a> <a href="/wiki/St._Mary_Church,_Diyarbak%C4%B1r" title="St. Mary Church, Diyarbakır">Church of Our Lady</a> (<a href="/wiki/Syriac_language" title="Syriac language">Syriac</a>: <span lang="syr" dir="rtl" xml:lang="syr">ܐ ܕܝܠܕܬ ܐܠܗܐ</span>‎ `<i>Idto d-Yolda<u>t</u> Aloho</i>, <a href="/wiki/Turkish_language" title="Turkish language">Turkish</a>: <span lang="tr" xml:lang="tr"><i>Meryemana kilisesi</i></span>), was first constructed as a pagan temple in the 1st century BCE. The current construction dates back to the 3rd century, has been restored many times, and is still in use as a place of worship today.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2007)">citation needed</span></a></i>]</sup></li>
+<li>Mar Petyun (St. Anthony) Catholic Chaldean Church, built in 1681.<sup id="cite_ref-romeartlover.tripod.com_46-1" class="reference"><a href="#cite_note-romeartlover.tripod.com-46">[46]</a></sup></li>
+<li>There are a few other churches in the city</li>
+</ul>
+<dl>
+<dt>Museums</dt>
+</dl>
+<ul>
+<li>The <i>Archaeological Museum</i> contains artifacts from the <a href="/wiki/Neolithic" title="Neolithic">neolithic</a> period, through the <a href="/wiki/Early_Bronze_Age" class="mw-redirect" title="Early Bronze Age">Early Bronze Age</a>, <a href="/wiki/Assyria" title="Assyria">Assyrian</a>, <a href="/wiki/Urartu" title="Urartu">Urartu</a>, <a href="/wiki/Ancient_Rome" title="Ancient Rome">Roman</a>, <a href="/wiki/Byzantine" class="mw-redirect" title="Byzantine">Byzantine</a>, <a href="/wiki/Artuqids" title="Artuqids">Artuqids</a>, <a href="/wiki/Seljuk_Turk" class="mw-redirect" title="Seljuk Turk">Seljuk Turk</a>, <a href="/wiki/Aq_Qoyunlu" class="mw-redirect" title="Aq Qoyunlu">Aq Qoyunlu</a>, and <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman Empire</a> periods.</li>
+<li><a href="/wiki/Cahit_S%C4%B1tk%C4%B1_Taranc%C4%B1" title="Cahit Sıtkı Tarancı">Cahit Sıtkı Tarancı</a> Museum – the home of the late poet and a classic example of a traditional Diyarbakır home.</li>
+<li>The birthplace of poet <a href="/wiki/Ziya_G%C3%B6kalp" title="Ziya Gökalp">Ziya Gökalp</a> – preserved as a museum to his life and works.</li>
+<li><a href="/wiki/Ahmet_Arif_Literature_Museum_Library" title="Ahmet Arif Literature Museum Library">Ahmet Arif Literature Museum Library</a>.</li>
+</ul>
+<dl>
+<dt>Historic bridges</dt>
+</dl>
+<ul>
+<li>The <a href="/wiki/Dicle_Bridge" title="Dicle Bridge">Dicle Bridge</a>, an 11th-century bridge with ten arches</li>
+</ul>
+<h2><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=14" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Diyarbakır has a borderline <a href="/wiki/Mediterranean_climate" title="Mediterranean climate">Mediterranean climate</a> (<a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Köppen climate classification</a> <i>Csa</i>) and hot dry-summer <a href="/wiki/Continental_climate" title="Continental climate">continental climate</a> (<a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Köppen climate classification</a> <i>Dsa</i>). Summer are very hot and very dry, due to its location on the Mesopotamian plain which is subject to hot winds from the deserts of <a href="/wiki/Syria" title="Syria">Syria</a> and <a href="/wiki/Iraq" title="Iraq">Iraq</a> to the south. The highest recorded temperature was 44.8&#160;°C (112.64&#160;°F) on 28 August 1998. Winters are cold and wet and with frosty nights. Snowfall is quite common between the months of December and March, snowing for a week or two. The lowest recorded temperature was −23.4&#160;°C (−10.12&#160;°F) on 30 December 2006.</p>
+<table class="wikitable collapsible" style="width:90%; text-align:center; font-size:90%; line-height: 1.2em; margin:auto;">
+<tr>
+<th colspan="14">Climate data for Diyarbakır (1960-2012)</th>
+</tr>
+<tr>
+<th>Month</th>
+<th>Jan</th>
+<th>Feb</th>
+<th>Mar</th>
+<th>Apr</th>
+<th>May</th>
+<th>Jun</th>
+<th>Jul</th>
+<th>Aug</th>
+<th>Sep</th>
+<th>Oct</th>
+<th>Nov</th>
+<th>Dec</th>
+<th style="border-left-width:medium">Year</th>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average high °C (°F)</th>
+<td style="background: #FFEFE0; color:#000000;">6.7<br />
+(44.1)</td>
+<td style="background: #FFE0C2; color:#000000;">8.9<br />
+(48)</td>
+<td style="background: #FFBA75; color:#000000;">14.5<br />
+(58.1)</td>
+<td style="background: #FF9226; color:#000000;">20.2<br />
+(68.4)</td>
+<td style="background: #FF6700; color:#000000;">26.5<br />
+(79.7)</td>
+<td style="background: #FF3500; color:#000000;">33.7<br />
+(92.7)</td>
+<td style="background: #FF1500; color:#FFFFFF;">38.4<br />
+(101.1)</td>
+<td style="background: #FF1700; color:#FFFFFF;">38.1<br />
+(100.6)</td>
+<td style="background: #FF3900; color:#000000;">33.2<br />
+(91.8)</td>
+<td style="background: #FF7000; color:#000000;">25.2<br />
+(77.4)</td>
+<td style="background: #FFAF5F; color:#000000;">16.1<br />
+(61)</td>
+<td style="background: #FFDEBE; color:#000000;">9.2<br />
+(48.6)</td>
+<td style="background: #FF8206; color:#000000; border-left-width:medium">22.56<br />
+(72.63)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Daily mean °C (°F)</th>
+<td style="background: #F0F0FF; color:#000000;">1.8<br />
+(35.2)</td>
+<td style="background: #F9F9FF; color:#000000;">3.5<br />
+(38.3)</td>
+<td style="background: #FFE3C7; color:#000000;">8.5<br />
+(47.3)</td>
+<td style="background: #FFBE7E; color:#000000;">13.8<br />
+(56.8)</td>
+<td style="background: #FF9932; color:#000000;">19.3<br />
+(66.7)</td>
+<td style="background: #FF6800; color:#000000;">26.3<br />
+(79.3)</td>
+<td style="background: #FF4600; color:#000000;">31.2<br />
+(88.2)</td>
+<td style="background: #FF4D00; color:#000000;">30.3<br />
+(86.5)</td>
+<td style="background: #FF7300; color:#000000;">24.8<br />
+(76.6)</td>
+<td style="background: #FFA74F; color:#000000;">17.2<br />
+(63)</td>
+<td style="background: #FFDEBE; color:#000000;">9.2<br />
+(48.6)</td>
+<td style="background: #FCFCFF; color:#000000;">4.0<br />
+(39.2)</td>
+<td style="background: #FFB062; color:#000000; border-left-width:medium">15.83<br />
+(60.48)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average low °C (°F)</th>
+<td style="background: #DADAFF; color:#000000;">−2.3<br />
+(27.9)</td>
+<td style="background: #E0E0FF; color:#000000;">−1.1<br />
+(30)</td>
+<td style="background: #F5F5FF; color:#000000;">2.7<br />
+(36.9)</td>
+<td style="background: #FFEDDB; color:#000000;">7.1<br />
+(44.8)</td>
+<td style="background: #FFCF9F; color:#000000;">11.4<br />
+(52.5)</td>
+<td style="background: #FFA852; color:#000000;">17.0<br />
+(62.6)</td>
+<td style="background: #FF8710; color:#000000;">21.8<br />
+(71.2)</td>
+<td style="background: #FF8C1A; color:#000000;">21.1<br />
+(70)</td>
+<td style="background: #FFAF5F; color:#000000;">16.1<br />
+(61)</td>
+<td style="background: #FFD7B0; color:#000000;">10.2<br />
+(50.4)</td>
+<td style="background: #FBFBFF; color:#000000;">3.9<br />
+(39)</td>
+<td style="background: #E6E6FF; color:#000000;">−0.1<br />
+(31.8)</td>
+<td style="background: #FFE0C1; color:#000000; border-left-width:medium">8.98<br />
+(48.17)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> mm (inches)</th>
+<td style="background: #9999FF; color:#000000;">68.0<br />
+(2.677)</td>
+<td style="background: #8D8DFF; color:#000000;">68.8<br />
+(2.709)</td>
+<td style="background: #9A9AFF; color:#000000;">67.3<br />
+(2.65)</td>
+<td style="background: #9595FF; color:#000000;">68.7<br />
+(2.705)</td>
+<td style="background: #C1C1FF; color:#000000;">41.3<br />
+(1.626)</td>
+<td style="background: #F2F2FF; color:#000000;">7.9<br />
+(0.311)</td>
+<td style="background: #FEFEFF; color:#000000;">0.5<br />
+(0.02)</td>
+<td style="background: #FEFEFF; color:#000000;">0.4<br />
+(0.016)</td>
+<td style="background: #F8F8FF; color:#000000;">4.1<br />
+(0.161)</td>
+<td style="background: #CBCBFF; color:#000000;">34.7<br />
+(1.366)</td>
+<td style="background: #AFAFFF; color:#000000;">51.8<br />
+(2.039)</td>
+<td style="background: #9494FF; color:#000000;">71.4<br />
+(2.811)</td>
+<td style="background: #C1C1FF; color:#000000; border-left-width:medium">484.9<br />
+(19.091)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average rainy days</th>
+<td style="background: #6868FF; color:#000000;">12.2</td>
+<td style="background: #5D5DFF; color:#FFFFFF;">11.8</td>
+<td style="background: #6D6DFF; color:#000000;">11.8</td>
+<td style="background: #6666FF; color:#FFFFFF;">12.0</td>
+<td style="background: #9191FF; color:#000000;">8.9</td>
+<td style="background: #DADAFF; color:#000000;">2.9</td>
+<td style="background: #F8F8FF; color:#000000;">0.5</td>
+<td style="background: #FBFBFF; color:#000000;">0.3</td>
+<td style="background: #EFEFFF; color:#000000;">1.2</td>
+<td style="background: #B3B3FF; color:#000000;">6.1</td>
+<td style="background: #9999FF; color:#000000;">8.0</td>
+<td style="background: #7171FF; color:#000000;">11.5</td>
+<td style="background: #A3A3FF; color:#000000; border-left-width:medium">87.2</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average <a href="/wiki/Relative_humidity" title="Relative humidity">relative humidity</a> (%)</th>
+<td style="background: #0000DF; color:#FFFFFF;">75</td>
+<td style="background: #0000EA; color:#FFFFFF;">72</td>
+<td style="background: #0000FD; color:#FFFFFF;">67</td>
+<td style="background: #0606FF; color:#FFFFFF;">65</td>
+<td style="background: #1D1DFF; color:#FFFFFF;">59</td>
+<td style="background: #5A5AFF; color:#FFFFFF;">43</td>
+<td style="background: #8888FF; color:#000000;">31</td>
+<td style="background: #8888FF; color:#000000;">31</td>
+<td style="background: #7979FF; color:#000000;">35</td>
+<td style="background: #3B3BFF; color:#FFFFFF;">51</td>
+<td style="background: #0000F6; color:#FFFFFF;">69</td>
+<td style="background: #0000DF; color:#FFFFFF;">75</td>
+<td style="background: #2828FF; color:#FFFFFF; border-left-width:medium">56.1</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Mean monthly <a href="/wiki/Sunshine_duration" title="Sunshine duration">sunshine hours</a></th>
+<td style="background: #B6B65D; color:#000000;">120.9</td>
+<td style="background: #C3C311; color:#000000;">134.4</td>
+<td style="background: #CECE00; color:#000000;">173.6</td>
+<td style="background: #DADA00; color:#000000;">207.0</td>
+<td style="background: #EEEE0B; color:#000000;">300.7</td>
+<td style="background: #FFFF36; color:#000000;">366.0</td>
+<td style="background: #FFFF3B; color:#000000;">387.5</td>
+<td style="background: #FCFC2D; color:#000000;">362.7</td>
+<td style="background: #F0F00F; color:#000000;">297.0</td>
+<td style="background: #DEDE00; color:#000000;">229.4</td>
+<td style="background: #CCCC00; color:#000000;">162.0</td>
+<td style="background: #B5B566; color:#000000;">117.8</td>
+<td style="background: #E1E100; color:#000000; border-left-width:medium">2,859</td>
+</tr>
+<tr>
+<td colspan="14" style="text-align:center;font-size:95%;">Source #1: Devlet Meteoroloji İşleri Genel Müdürlüğü <a rel="nofollow" class="external autonumber" href="http://www.dmi.gov.tr/veridegerlendirme/il-ve-ilceler-istatistik.aspx?m=DIYARBAKIR">[1]</a></td>
+</tr>
+<tr>
+<td colspan="14" style="text-align:center; font-size:95%;">Source #2: Weatherbase<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">[47]</a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Notable_people_born_in_the_city">Notable people born in the city</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=15" title="Edit section: Notable people born in the city">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/A%C3%ABtius_of_Amida" title="Aëtius of Amida">Aëtius of Amida</a>, (5th century to mid-6th century) a <a href="/wiki/Byzantine_Greeks" title="Byzantine Greeks">Greek</a> physician and medical writer native to Diyarbakır<sup id="cite_ref-Plant_2004_48-0" class="reference"><a href="#cite_note-Plant_2004-48">[48]</a></sup><sup id="cite_ref-Meade_1968_49-0" class="reference"><a href="#cite_note-Meade_1968-49">[49]</a></sup></li>
+<li><a href="/wiki/Abd%C3%BClkadir_Aksu" title="Abdülkadir Aksu">Abdülkadir Aksu</a>, former interior minister</li>
+<li><a href="/wiki/Ahmed_Arif" title="Ahmed Arif">Ahmed Arif</a>, poet</li>
+<li><a href="/wiki/Aziz_Y%C4%B1ld%C4%B1r%C4%B1m" title="Aziz Yıldırım">Aziz Yıldırım</a>, President of <a href="/wiki/Fenerbah%C3%A7e_S.K." title="Fenerbahçe S.K.">Fenerbahçe S.K.</a> sports club</li>
+<li><a href="/wiki/Cahit_S%C4%B1tk%C4%B1_Taranc%C4%B1" title="Cahit Sıtkı Tarancı">Cahit Sıtkı Tarancı</a>, poet</li>
+<li><a href="/wiki/Cihan_Haspolatl%C4%B1" title="Cihan Haspolatlı">Cihan Haspolatlı</a>, footballer for <a href="/wiki/Galatasaray_S.K._(football_team)" class="mw-redirect" title="Galatasaray S.K. (football team)">Galatasaray S.K.</a></li>
+<li><a href="/wiki/Gazi_Ya%C5%9Fargil" title="Gazi Yaşargil">Gazi Yaşargil</a>, medical scientist and neurosurgeon</li>
+<li><a href="/wiki/Hesen%C3%AA_Met%C3%AA" title="Hesenê Metê">Hesenê Metê</a>, writer</li>
+<li><a href="/wiki/Hovsep_Pushman" title="Hovsep Pushman">Hovsep Pushman</a>, Armenian-American painter</li>
+<li><a href="/wiki/Hikmet_%C3%87etin" title="Hikmet Çetin">Hikmet Çetin</a>, former foreign minister and former <a href="/wiki/NATO" title="NATO">NATO</a> Senior Civilian Representative in <a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a></li>
+<li><a href="/wiki/Leyla_Zana" title="Leyla Zana">Leyla Zana</a>, politician</li>
+<li><a href="/wiki/Lokman_Polat" title="Lokman Polat">Lokman Polat</a>, writer</li>
+<li><a href="/wiki/Agop_Handanyan" title="Agop Handanyan">Agop Handanyan</a>, physician and writer</li>
+<li><a href="/wiki/Mehmed_Emin_Bozarslan" class="mw-redirect" title="Mehmed Emin Bozarslan">Mehmed Emin Bozarslan</a>, writer</li>
+<li><a href="/wiki/Mehmet_Polat" title="Mehmet Polat">Mehmet Polat</a>, actor</li>
+<li><a href="/wiki/Kevork_Malikyan" title="Kevork Malikyan">Kevork Malikyan</a>, actor</li>
+<li><a href="/wiki/Naum_Faiq" title="Naum Faiq">Naum Faiq</a>, writer</li>
+<li><a href="/wiki/Osman_Baydemir" title="Osman Baydemir">Osman Baydemir</a>: politician</li>
+<li><a href="/wiki/Rupen_Zartarian" title="Rupen Zartarian">Rupen Zartarian</a>, Armenian writer</li>
+<li><a href="/wiki/Rojen_Barnas" title="Rojen Barnas">Rojen Barnas</a>, writer</li>
+<li><a href="/wiki/Song%C3%BCl_%C3%96den" title="Songül Öden">Songül Öden</a>, actress</li>
+<li><a href="/wiki/S%C3%BCleyman_Nazif" title="Süleyman Nazif">Süleyman Nazif</a>, poet</li>
+<li><a href="/wiki/Ziya_G%C3%B6kalp" title="Ziya Gökalp">Ziya Gökalp</a>, sociologist and writer (the Ziyagökalp district of the city is named after him, as well as many streets and schools)</li>
+<li><a href="/wiki/M%C4%B1g%C4%B1rdi%C3%A7_Margosyan" title="Mıgırdiç Margosyan">Mıgırdiç Margosyan</a>, writer</li>
+<li><a href="/wiki/Co%C5%9Fkun_Sabah" title="Coşkun Sabah">Coşkun Sabah</a>, musician</li>
+<li><a href="/wiki/Sayf_al-Din_al-Amidi" title="Sayf al-Din al-Amidi">Sayf al-Din al-Amidi</a>, Islamic theologian and legal scholar of the Shafi'i school</li>
+<li><a href="/wiki/Zabelle_C._Boyajian" title="Zabelle C. Boyajian">Zabelle C. Boyajian</a>, Armenian painter and writer</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=16" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Amid_(Chaldean_Diocese)" class="mw-redirect" title="Amid (Chaldean Diocese)">Amid (Chaldean Diocese)</a></li>
+<li><a href="/wiki/Dicle_University" title="Dicle University">Dicle University</a></li>
+<li><a href="/wiki/Diyarbak%C4%B1rspor" title="Diyarbakırspor">Diyarbakırspor</a></li>
+<li><a href="/wiki/Diyarbak%C4%B1r_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyespor" class="mw-redirect" title="Diyarbakır Büyükşehir Belediyespor">Diyarbakır Büyükşehir Belediyespor</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=17" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://citypopulation.de/Turkey-C20.html">"Turkey: Major cities and provinces"</a>. citypopulation.de<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-02-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.btitle=Turkey%3A+Major+cities+and+provinces&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcitypopulation.de%2FTurkey-C20.html&amp;rft.pub=citypopulation.de&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-globalsecurity1-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-globalsecurity1_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.globalsecurity.org/military/world/war/images/dist-kurdish.gif">Distribution of Kurdish People</a>. As some have noted, Turkey's road to the EU lies through Diyarbakır</span></li>
+<li id="cite_note-Gunter-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gunter_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gunter_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Michael_M._Gunter" title="Michael M. Gunter">Gunter, Michael M.</a> (2010). <i>Historical Dictionary of the Kurds</i>. Scarecrow Press. p.&#160;<a rel="nofollow" class="external text" href="https://books.google.am/books?id=DoNSXwb8D9EC&amp;pg=PA86&amp;dq=Diyarbakır+kurdish+amed">86</a>. <q>Diyarbakir is often called the unofficial capital of Turkish Kurdistan. Its Kurdish name is Amed.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.aufirst=Michael+M.&amp;rft.aulast=Gunter&amp;rft.btitle=Historical+Dictionary+of+the+Kurds&amp;rft.date=2010&amp;rft.genre=book&amp;rft.pages=86&amp;rft.pub=Scarecrow+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">King, Diane E. (2013). <i>Kurdistan on the Global Stage: Kinship, Land, and Community in Iraq</i>. Rutgers University Press. p.&#160;<a rel="nofollow" class="external text" href="https://books.google.am/books?id=HNcyAgAAQBAJ&amp;pg=PA233&amp;dq=Diyarbakır+kurdish+amed">233</a>. <q>Diyarbakir's Kurdish name is “Amed.”</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.aufirst=Diane+E.&amp;rft.aulast=King&amp;rft.btitle=Kurdistan+on+the+Global+Stage%3A+Kinship%2C+Land%2C+and+Community+in+Iraq&amp;rft.date=2013&amp;rft.genre=book&amp;rft.pages=233&amp;rft.pub=Rutgers+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">Akyol, Mustafa (2007). <a rel="nofollow" class="external text" href="http://www.hurriyet.com.tr/english/domestic/11318806.asp?scr=1">"Pro-Kurdish DTP sweeps Diyarbakir"</a>. <i><a href="/wiki/H%C3%BCrriyet" title="Hürriyet">Hürriyet</a></i>. <q>Amed is the ancient name given to Diyarbakir in the Kurdish language.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.atitle=Pro-Kurdish+DTP+sweeps+Diyarbakir&amp;rft.aufirst=Mustafa&amp;rft.aulast=Akyol&amp;rft.date=2007&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.hurriyet.com.tr%2Fenglish%2Fdomestic%2F11318806.asp%3Fscr%3D1&amp;rft.jtitle=H%C3%BCrriyet&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Jr.2015-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jr.2015_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Joseph R. Rudolph Jr. (7 December 2015). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=OjkVCwAAQBAJ&amp;pg=PA484"><i>Encyclopedia of Modern Ethnic Conflicts, 2nd Edition [2 volumes]</i></a>. ABC-CLIO. p.&#160;484. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-61069-553-4" title="Special:BookSources/978-1-61069-553-4">978-1-61069-553-4</a>. <q>As some have noted, Turkey's road to the EU lies through Diyarbakir, the unofficial capital of Turkish Kurdistan.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.au=Joseph+R.+Rudolph+Jr.&amp;rft.btitle=Encyclopedia+of+Modern+Ethnic+Conflicts%2C+2nd+Edition+%26%2391%3B2+volumes%26%2393%3B&amp;rft.date=2015-12-07&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DOjkVCwAAQBAJ%26pg%3DPA484&amp;rft.isbn=978-1-61069-553-4&amp;rft.pages=484&amp;rft.pub=ABC-CLIO&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hamelink2016-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hamelink2016_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Wendelmoet Hamelink (6 April 2016). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=kH8JDAAAQBAJ&amp;pg=PA307"><i>The Sung Home. Narrative, Morality, and the Kurdish Nation</i></a>. BRILL. p.&#160;307. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-04-31482-5" title="Special:BookSources/978-90-04-31482-5">978-90-04-31482-5</a>. <q>This is also related to the unique position of Diyarbakır as the unofficial capital city of Turkish Kurdistan, as such ...</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.au=Wendelmoet+Hamelink&amp;rft.btitle=The+Sung+Home.+Narrative%2C+Morality%2C+and+the+Kurdish+Nation&amp;rft.date=2016-04-06&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DkH8JDAAAQBAJ%26pg%3DPA307&amp;rft.isbn=978-90-04-31482-5&amp;rft.pages=307&amp;rft.pub=BRILL&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AyersQuinn2009-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-AyersQuinn2009_8-0">^</a></b></span> <span class="reference-text"><cite class="citation book">William Ayers; Therese M. Quinn; David Stovall (2 June 2009). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=oZaNAgAAQBAJ&amp;pg=PA187"><i>Handbook of Social Justice in Education</i></a>. Routledge. p.&#160;187. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-135-59614-9" title="Special:BookSources/978-1-135-59614-9">978-1-135-59614-9</a>. <q>The unofficial capital of North Kurdistan (Turkish Kurdistan) is Diyarbakir in Turkish, but Amed in Kurdish.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.au=David+Stovall&amp;rft.au=Therese+M.+Quinn&amp;rft.au=William+Ayers&amp;rft.btitle=Handbook+of+Social+Justice+in+Education&amp;rft.date=2009-06-02&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DoZaNAgAAQBAJ%26pg%3DPA187&amp;rft.isbn=978-1-135-59614-9&amp;rft.pages=187&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-MassicardWatts2012-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-MassicardWatts2012_9-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Elise Massicard; Nicole Watts (12 December 2012). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=TT4VIY31obEC&amp;pg=PA99"><i>Negotiating Political Power in Turkey: Breaking up the Party</i></a>. Routledge. p.&#160;99. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-135-13687-1" title="Special:BookSources/978-1-135-13687-1">978-1-135-13687-1</a>. <q>This chapter explores these questions through an analysis of pro-Kurdish parties1 and their social footing in the city of Diyarbakır, one of the largest cities in Turkey's mostly Kurdish southeast and often viewed as the unofficial capital of the country's Kurdish region.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.au=Elise+Massicard&amp;rft.au=Nicole+Watts&amp;rft.btitle=Negotiating+Political+Power+in+Turkey%3A+Breaking+up+the+Party&amp;rft.date=2012-12-12&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DTT4VIY31obEC%26pg%3DPA99&amp;rft.isbn=978-1-135-13687-1&amp;rft.pages=99&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-LaberWhitman1988-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-LaberWhitman1988_10-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Jeri Laber; Lois Whitman (1 January 1988). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=SECQ3EaQuXgC&amp;pg=PP8"><i>Destroying Ethnic Identity: The Kurds of Turkey</i></a>. Human Rights Watch. p.&#160;8. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-938579-41-0" title="Special:BookSources/978-0-938579-41-0">978-0-938579-41-0</a>. <q>It began in Diyarbakir, the unofficial capital of Turkish Kurdistan,</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.au=Jeri+Laber&amp;rft.au=Lois+Whitman&amp;rft.btitle=Destroying+Ethnic+Identity%3A+The+Kurds+of+Turkey&amp;rft.date=1988-01-01&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DSECQ3EaQuXgC%26pg%3DPP8&amp;rft.isbn=978-0-938579-41-0&amp;rft.pages=8&amp;rft.pub=Human+Rights+Watch&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a href="/wiki/Western_Armenian" title="Western Armenian">Western Armenian</a> pronunciation: <i>Dikranagerd</i>; <cite class="citation book"><a href="/wiki/Richard_G._Hovannisian" title="Richard G. Hovannisian">Hovannisian, Richard G.</a> (2006). <i>Armenian Tigranakert/Diarbekir and Edessa/Urfa</i>. Costa Mesa, California: Mazda Publishers. p.&#160;2. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781568591537" title="Special:BookSources/9781568591537">9781568591537</a>. <q>The city that later generations of Armenians would call Dikranagerd was actually ancient Amid or Amida (now Diarbekir or Diyarbakir), a great walled city with seventy-two towers...</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.aufirst=Richard+G.&amp;rft.aulast=Hovannisian&amp;rft.btitle=Armenian+Tigranakert%2FDiarbekir+and+Edessa%2FUrfa&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=9781568591537&amp;rft.pages=2&amp;rft.place=Costa+Mesa%2C+California&amp;rft.pub=Mazda+Publishers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-airlines-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-airlines_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-airlines_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-airlines_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-airlines_12-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-airlines_12-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.turkishairlines.com/fi-FI/skylife/2005/november/articles/diyarbakir.aspx">Diyarbakır</a>. Turkish Airlines. Retrieved on 2012-05-13.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Abdul- Rahman Mizouri <a rel="nofollow" class="external text" href="http://web.archive.org/web/20090324201623/http://www.lalishduhok.org/lalish/27/L%2027%20E/L%2027%20E.3.pdf">Taj Al- Arifeen: Udday bin Musafir Al- Kurdy Al- Hakary Is not an Umayyad. Part Two</a>. College of Arts/ Dohuk University (2001)</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book">Verity Campbell (1 April 2007). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=jstw7Sxkp4gC&amp;pg=PA621"><i>Turkey</i></a>. Lonely Planet. pp.&#160;621–. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-74104-556-7" title="Special:BookSources/978-1-74104-556-7">978-1-74104-556-7</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 May</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.au=Verity+Campbell&amp;rft.btitle=Turkey&amp;rft.date=2007-04-01&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Djstw7Sxkp4gC%26pg%3DPA621&amp;rft.isbn=978-1-74104-556-7&amp;rft.pages=621-&amp;rft.pub=Lonely+Planet&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">See <a href="/wiki/U%C4%9Fur_%C3%9Cmit_%C3%9Cng%C3%B6r" class="mw-redirect" title="Uğur Ümit Üngör">Üngör, Uğur</a> (2011), <i>The Making of Modern Turkey: Nation and State in Eastern Anatolia, 1913-1950</i>. Oxford: Oxford University Press, p. 244. <a href="/wiki/Special:BookSources/019960360X" class="internal mw-magiclink-isbn">ISBN 0-19-960360-X</a>.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Charles Gates, [<i>Ancient Cities</i>], 2011, <a rel="nofollow" class="external text" href="https://books.google.lk/books?id=nT70dCn-I9kC&amp;pg=PA19&amp;lpg=PA19#v=onepage&amp;q&amp;f=false">p.19</a></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a href="/wiki/Trevor_Bryce" class="mw-redirect" title="Trevor Bryce">Trevor Bryce</a>, <i>The Kingdom of the Hittites</i>, 1999 p. 137</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://italian.classic-literature.co.uk/history-of-rome/05-the-establishment-of-the-military-monarchy/ebook-page-24.asp">Theodor Mommsen History of Rome, The Establishment of the Military Monarchy</a>. Italian.classic-literature.co.uk. Retrieved on 2012-05-13.</span></li>
+<li id="cite_note-Command.2C_Kimberly_Kagan_p23-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-Command.2C_Kimberly_Kagan_p23_19-0">^</a></b></span> <span class="reference-text"><i>The Eye of Command</i>, <a href="/wiki/Kimberly_Kagan" title="Kimberly Kagan">Kimberly Kagan</a>, p. 23</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><i>Martyrologium Romanum</i> (Vatican Press 2001 <a href="/wiki/Special:BookSources/9788820972103" class="internal mw-magiclink-isbn">ISBN 978-88-209-7210-3</a>), under 9 April</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://archive.org/stream/echosdorient10pariuoft#page/n101/mode/2up"><i>Echos d'Orient</i> X, 1907</a>, pp. 96 and 145.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Michel Lequien, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=86weAemI-e4C&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false"><i>Oriens christianus in quatuor Patriarchatus digestus</i></a>, Paris 1740, Vol. II, coll. 989-996</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://gallica.bnf.fr/ark:/12148/bpt6k5492744n/f173">Annuaire Pontifical Catholique</a>, 1903, p. 173.</span></li>
+<li id="cite_note-Gams1-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gams1_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gams1_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Pius Bonifacius Gams, <a rel="nofollow" class="external text" href="http://www.wbc.poznan.pl/dlibra/docmetadata?id=65154&amp;showContent=true"><i>Series episcoporum Ecclesiae Catholicae</i></a>, Leipzig 1931, p.&#160;456</span></li>
+<li id="cite_note-Gams2-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gams2_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gams2_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Pius Bonifacius Gams, <a rel="nofollow" class="external text" href="http://www.wbc.poznan.pl/dlibra/docmetadata?id=65155&amp;showContent=true"><i>Series episcoporum Ecclesiae Catholicae</i></a>, Complementi, Leipzig 1931, p.&#160;93</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">F. Tournebize, v. <i>Amid ou Amida</i>, in <a rel="nofollow" class="external text" href="http://gallica.bnf.fr/ark:/12148/bpt6k6561037d/f647.image"><i>Dictionnaire d'Histoire et de Géographie ecclésiastiques</i></a>, vol. XII, Paris 1953, coll. 1246-1247</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Hovhannes J. Tcholakian, <i>L'église arménienne catholique en Turquie</i>, 1998</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">S. Vailhé, <i>Antioche. Patriarcat syrien-catholique</i>, in Dictionnaire de Théologie Catholique, Vol. I, Paris 1903, coll. 1433</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">O. Werner, <a rel="nofollow" class="external text" href="https://archive.org/stream/orbisterrarumcat00wern#page/164/mode/2up"><i>Orbis terrarum catholicus</i></a>, Freiburg 1890, p. 164</span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><i>Annuario Pontificio 2013</i> (Libreria Editrice Vaticana 2013 <a href="/wiki/Special:BookSources/9788820990701" class="internal mw-magiclink-isbn">ISBN 978-88-209-9070-1</a>), p. 831</span></li>
+<li id="cite_note-gunter-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-gunter_31-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Gunter, Michael. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=fToRZfDdt4IC&amp;pg=PA8"><i>The Kurdish Predicament in Iraq: A Political Analysis</i></a>. p.&#160;8.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.aufirst=Michael&amp;rft.aulast=Gunter&amp;rft.btitle=The+Kurdish+Predicament+in+Iraq%3A+A+Political+Analysis&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DfToRZfDdt4IC%26pg%3DPA8&amp;rft.pages=8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation book">Joost Jongerden; Jelle Verheij (2012). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=X_LmnA75Dt8C&amp;pg=PA20"><i>Social Relations in Ottoman Diyarbekir, 1870-1915</i></a>. BRILL. p.&#160;20. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/90-04-22518-8" title="Special:BookSources/90-04-22518-8">90-04-22518-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.au=Jelle+Verheij&amp;rft.au=Joost+Jongerden&amp;rft.btitle=Social+Relations+in+Ottoman+Diyarbekir%2C+1870-1915&amp;rft.date=2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DX_LmnA75Dt8C%26pg%3DPA20&amp;rft.isbn=90-04-22518-8&amp;rft.pages=20&amp;rft.pub=BRILL&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-mdumper-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-mdumper_33-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Dumper, Michael. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=3SapTk5iGDkC&amp;pg=PA130"><i>Cities of The Middle East and North Africa: A Historical Encyclopedia</i></a>. p.&#160;130.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.aufirst=Michael&amp;rft.aulast=Dumper&amp;rft.btitle=Cities+of+The+Middle+East+and+North+Africa%3A+A+Historical+Encyclopedia&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D3SapTk5iGDkC%26pg%3DPA130&amp;rft.pages=130&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-McDowall2004-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-McDowall2004_34-0">^</a></b></span> <span class="reference-text"><cite class="citation book">McDowall, David (2004). 3E, ed. <a rel="nofollow" class="external text" href="https://books.google.com/?id=dgDi9qFT41oC&amp;pg=PA403&amp;vq=30,000"><i>A Modern History of the Kurds</i></a>. IB Tauris. p.&#160;403. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-85043-416-0" title="Special:BookSources/978-1-85043-416-0">978-1-85043-416-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.au=McDowall%2C+David&amp;rft.btitle=A+Modern+History+of+the+Kurds&amp;rft.date=2004&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DdgDi9qFT41oC%26pg%3DPA403%26vq%3D30%2C000&amp;rft.isbn=978-1-85043-416-0&amp;rft.pages=403&amp;rft.pub=IB+Tauris&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Kemal_Kiri%C5%9Fci" title="Kemal Kirişci">Kirişci, Kemal</a> (June 1998). "Turkey". In Janie Hampton. <i>Internally Displaced People: A Global Survey</i>. London: Earthscan Publications Ltd. pp.&#160;198, 199.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.atitle=Turkey&amp;rft.au=Kiri%C5%9Fci%2C+Kemal&amp;rft.btitle=Internally+Displaced+People%3A+A+Global+Survey&amp;rft.date=1998-06&amp;rft.genre=bookitem&amp;rft.pages=198%2C+199&amp;rft.place=London&amp;rft.pub=Earthscan+Publications+Ltd&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.globalsecurity.org/space/facility/pirinclik.htm">Globalsecurity.org</a></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.radikal.com.tr/haber.php?haberno=205469">"Belediye Diyarbakırlıyı tanıdı: Kürtçe konuşuyor"</a>. <i><a href="/wiki/Radikal" title="Radikal">Radikal</a></i> (in Turkish). Dogan News Agency. 2006-11-24<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.atitle=Belediye+Diyarbak%C4%B1rl%C4%B1y%C4%B1+tan%C4%B1d%C4%B1%3A+K%C3%BCrt%C3%A7e+konu%C5%9Fuyor&amp;rft.date=2006-11-24&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.radikal.com.tr%2Fhaber.php%3Fhaberno%3D205469&amp;rft.jtitle=Radikal&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-HeperSayari2013-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-HeperSayari2013_38-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Metin Heper; Sabri Sayari (7 May 2013). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=3i4FPE1s9aYC&amp;pg=PA247"><i>The Routledge Handbook of Modern Turkey</i></a>. Routledge. p.&#160;247. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-136-30964-9" title="Special:BookSources/978-1-136-30964-9">978-1-136-30964-9</a>. <q>It was thus only in recent times that Diyarbakır, the unofficial capital of Turkey's Kurdish area, became a predominantly Kurdish town.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.au=Metin+Heper&amp;rft.au=Sabri+Sayari&amp;rft.btitle=The+Routledge+Handbook+of+Modern+Turkey&amp;rft.date=2013-05-07&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D3i4FPE1s9aYC%26pg%3DPA247&amp;rft.isbn=978-1-136-30964-9&amp;rft.pages=247&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://nos.nl/artikel/2107647-vernietiging-turkse-steden-veel-groter-dan-gedacht.html">Vernietiging Turkse steden veel groter dan gedacht (Dutch, NOS 2016-05-27)</a></span></li>
+<li id="cite_note-Prothero60-40"><span class="mw-cite-backlink">^ <a href="#cite_ref-Prothero60_40-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Prothero60_40-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Prothero, W.G. (1920). <a rel="nofollow" class="external text" href="http://www.wdl.org/en/item/11768/view/1/60/"><i>Armenia and Kurdistan</i></a>. London: H.M. Stationery Office. p.&#160;60.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.aufirst=W.G.&amp;rft.aulast=Prothero&amp;rft.btitle=Armenia+and+Kurdistan&amp;rft.date=1920&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.wdl.org%2Fen%2Fitem%2F11768%2Fview%2F1%2F60%2F&amp;rft.pages=60&amp;rft.place=London&amp;rft.pub=H.M.+Stationery+Office&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Prothero62-41"><span class="mw-cite-backlink">^ <a href="#cite_ref-Prothero62_41-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Prothero62_41-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Prothero, W.G. (1920). <a rel="nofollow" class="external text" href="http://www.wdl.org/en/item/11768/view/1/62/"><i>Armenia and Kurdistan</i></a>. London: H.M. Stationery Office. p.&#160;62.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.aufirst=W.G.&amp;rft.aulast=Prothero&amp;rft.btitle=Armenia+and+Kurdistan&amp;rft.date=1920&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.wdl.org%2Fen%2Fitem%2F11768%2Fview%2F1%2F62%2F&amp;rft.pages=62&amp;rft.place=London&amp;rft.pub=H.M.+Stationery+Office&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Prothero63-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-Prothero63_42-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Prothero, W.G. (1920). <a rel="nofollow" class="external text" href="http://www.wdl.org/en/item/11768/view/1/63/"><i>Armenia and Kurdistan</i></a>. London: H.M. Stationery Office. p.&#160;63.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.aufirst=W.G.&amp;rft.aulast=Prothero&amp;rft.btitle=Armenia+and+Kurdistan&amp;rft.date=1920&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.wdl.org%2Fen%2Fitem%2F11768%2Fview%2F1%2F63%2F&amp;rft.pages=63&amp;rft.place=London&amp;rft.pub=H.M.+Stationery+Office&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Prothero64-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-Prothero64_43-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Prothero, W.G. (1920). <a rel="nofollow" class="external text" href="http://www.wdl.org/en/item/11768/view/1/64/"><i>Armenia and Kurdistan</i></a>. London: H.M. Stationery Office. p.&#160;64.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.aufirst=W.G.&amp;rft.aulast=Prothero&amp;rft.btitle=Armenia+and+Kurdistan&amp;rft.date=1920&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.wdl.org%2Fen%2Fitem%2F11768%2Fview%2F1%2F64%2F&amp;rft.pages=64&amp;rft.place=London&amp;rft.pub=H.M.+Stationery+Office&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Prothero70-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-Prothero70_44-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Prothero, W.G. (1920). <a rel="nofollow" class="external text" href="http://www.wdl.org/en/item/11768/view/1/70/"><i>Armenia and Kurdistan</i></a>. London: H.M. Stationery Office. p.&#160;70.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.aufirst=W.G.&amp;rft.aulast=Prothero&amp;rft.btitle=Armenia+and+Kurdistan&amp;rft.date=1920&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.wdl.org%2Fen%2Fitem%2F11768%2Fview%2F1%2F70%2F&amp;rft.pages=70&amp;rft.place=London&amp;rft.pub=H.M.+Stationery+Office&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-JV20-45"><span class="mw-cite-backlink">^ <a href="#cite_ref-JV20_45-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-JV20_45-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Joost Jongerden; Jelle Verheij (2012). <a rel="nofollow" class="external text" href="http://books.google.com/books?id=X_LmnA75Dt8C&amp;pg=PA20"><i>Social Relations in Ottoman Diyarbekir, 1870-1915</i></a>. BRILL. p.&#160;20. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/90-04-22518-8" title="Special:BookSources/90-04-22518-8">90-04-22518-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.au=Jelle+Verheij&amp;rft.au=Joost+Jongerden&amp;rft.btitle=Social+Relations+in+Ottoman+Diyarbekir%2C+1870-1915&amp;rft.date=2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DX_LmnA75Dt8C%26pg%3DPA20&amp;rft.isbn=90-04-22518-8&amp;rft.pages=20&amp;rft.pub=BRILL&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-romeartlover.tripod.com-46"><span class="mw-cite-backlink">^ <a href="#cite_ref-romeartlover.tripod.com_46-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-romeartlover.tripod.com_46-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://romeartlover.tripod.com/Turmag25.html">http://romeartlover.tripod.com/Turmag25.html</a></span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.weatherbase.com/weather/weatherall.php3?s=8271&amp;refer=&amp;units=metric&amp;cityname=Diyarbakir-Turkey">Historical Weather for Diyarbakir, Turkey – Travel, Vacation, Forecast and Reference Information</a>. Weatherbase. Retrieved on 2012-05-13.</span></li>
+<li id="cite_note-Plant_2004-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-Plant_2004_48-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Plant, Ian Michael (2004). <i>Women Writers of Ancient Greece and Rome: An Anthology</i>. University of Oklahoma Press. p.&#160;229. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780806136219" title="Special:BookSources/9780806136219">9780806136219</a>. <q>Aetius: A Greek from Amida (in Mesopotamia), who wrote on philosophy in the mid- sixth century AD in Alexandria.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.aufirst=Ian+Michael&amp;rft.aulast=Plant&amp;rft.btitle=Women+Writers+of+Ancient+Greece+and+Rome%3A+An+Anthology&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=9780806136219&amp;rft.pages=229&amp;rft.pub=University+of+Oklahoma+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Meade_1968-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-Meade_1968_49-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Meade, Richard Hardaway (1968). <i>An introduction to the history of general surgery</i>. Saunders. p.&#160;108. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/438114">438114</a>. <q>Aetius of Amida, who lived in the sixth century A.D. and was the first Greek physician who was a Christian, had a chapter on aneurysms in his book on surgery.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADiyarbak%C4%B1r&amp;rft.aufirst=Richard+Hardaway&amp;rft.aulast=Meade&amp;rft.btitle=An+introduction+to+the+history+of+general+surgery&amp;rft.date=1968&amp;rft.genre=book&amp;rft_id=info%3Aoclcnum%2F438114&amp;rft.pages=108&amp;rft.pub=Saunders&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit&amp;section=18" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Diyarbak%C4%B1r" class="extiw" title="commons:Diyarbakır">Diyarbakır</a></b></i>.</td>
+</tr>
+</table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/Diyarbakir" class="extiw" title="wikivoyage:Diyarbakir">Diyarbakir</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Turkish)</span> <a rel="nofollow" class="external text" href="http://www.diyarbakir.gov.tr/default_B0.aspx">Governorship of Diyarbakır</a></li>
+<li><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Turkish)</span> <a rel="nofollow" class="external text" href="http://www.diyarbakirspor.org/">Diyarbakırspor funs, news, informarmation</a></li>
+<li><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Turkish)</span> <a rel="nofollow" class="external text" href="http://www.otelcenneti.com/oteller/diyarbakir/">Diyarbakir otelleri</a></li>
+<li><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Turkish)</span> <a rel="nofollow" class="external text" href="http://www.yerelnet.org.tr/belediyeler/index.php?belediyeid=128892">local info</a></li>
+<li><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Turkish)</span> <a rel="nofollow" class="external text" href="http://www.diyarbekir.com/">Information on Diyarbakır</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.turkeyforecast.com/weather/diyarbakir/">Diyarbakır Weather Forecast Information</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.pbase.com/dosseman/diyarbakir">Over 1000 well-organized pictures of major sights</a></li>
+</ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Diyarbak%C4%B1r&amp;params=37.91_N_40.24_E_type:city"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">37°55′N</span> <span class="longitude">40°14′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">37.91°N 40.24°E</span><span style="display:none">﻿ / <span class="geo">37.91; 40.24</span></span></span></a></span></span></span></p>
+<div role="navigation" class="navbox" aria-labelledby="Diyarbak.C4.B1r_in_Diyarbak.C4.B1r_Province_of_Turkey" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Districts_of_Turkey" title="Template:Districts of Turkey"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Districts_of_Turkey" title="Template talk:Districts of Turkey"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Districts_of_Turkey&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Diyarbak.C4.B1r_in_Diyarbak.C4.B1r_Province_of_Turkey" style="font-size:114%">Diyarbakır in <a href="/wiki/Diyarbak%C4%B1r_Province" title="Diyarbakır Province">Diyarbakır Province</a> of <a href="/wiki/Turkey" title="Turkey">Turkey</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Districts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Ba%C4%9Flar,_Diyarbak%C4%B1r&amp;action=edit&amp;redlink=1" class="new" title="Bağlar, Diyarbakır (page does not exist)">Bağlar</a></li>
+<li><a href="/wiki/Bismil" title="Bismil">Bismil</a></li>
+<li><a href="/wiki/%C3%87ermik" title="Çermik">Çermik</a></li>
+<li><a href="/wiki/%C3%87%C4%B1nar,_Diyarbak%C4%B1r" title="Çınar, Diyarbakır">Çınar</a></li>
+<li><a href="/wiki/%C3%87%C3%BCng%C3%BC%C5%9F" title="Çüngüş">Çüngüş</a></li>
+<li><a href="/wiki/Dicle" title="Dicle">Dicle</a></li>
+<li><a href="/wiki/E%C4%9Fil" title="Eğil">Eğil</a></li>
+<li><a href="/wiki/Ergani" title="Ergani">Ergani</a></li>
+<li><a href="/wiki/Hani,_Turkey" title="Hani, Turkey">Hani</a></li>
+<li><a href="/wiki/Hazro,_Diyarbak%C4%B1r_Province" class="mw-redirect" title="Hazro, Diyarbakır Province">Hazro</a></li>
+<li><a href="/w/index.php?title=Kayap%C4%B1nar&amp;action=edit&amp;redlink=1" class="new" title="Kayapınar (page does not exist)">Kayapınar</a></li>
+<li><a href="/wiki/Kocak%C3%B6y" title="Kocaköy">Kocaköy</a></li>
+<li><a href="/wiki/Kulp,_Turkey" title="Kulp, Turkey">Kulp</a></li>
+<li><a href="/wiki/Lice,_Turkey" title="Lice, Turkey">Lice</a></li>
+<li><a href="/wiki/Silvan,_Turkey" class="mw-redirect" title="Silvan, Turkey">Silvan</a></li>
+<li><a href="/w/index.php?title=Sur,_Turkey&amp;action=edit&amp;redlink=1" class="new" title="Sur, Turkey (page does not exist)">Sur</a></li>
+<li><a href="/w/index.php?title=Yeni%C5%9Fehir,_Diyarbak%C4%B1r&amp;action=edit&amp;redlink=1" class="new" title="Yenişehir, Diyarbakır (page does not exist)">Yenişehir</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="3" style="width:0%;padding:0px 0px 0px 2px">
+<div>
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:NUTS_Map_of_Turkey.png" class="image"><img alt="NUTS Map of Turkey.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/NUTS_Map_of_Turkey.png/100px-NUTS_Map_of_Turkey.png" width="100" height="49" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/NUTS_Map_of_Turkey.png/150px-NUTS_Map_of_Turkey.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/NUTS_Map_of_Turkey.png/200px-NUTS_Map_of_Turkey.png 2x" data-file-width="1024" data-file-height="500" /></a></div>
+</div>
+<br />
+<br />
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Diyarbak%C4%B1r_districts.png" class="image" title="Districts of Diyarbakır"><img alt="Districts of Diyarbakır" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Diyarbak%C4%B1r_districts.png/100px-Diyarbak%C4%B1r_districts.png" width="100" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Diyarbak%C4%B1r_districts.png/150px-Diyarbak%C4%B1r_districts.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Diyarbak%C4%B1r_districts.png/200px-Diyarbak%C4%B1r_districts.png 2x" data-file-width="1001" data-file-height="792" /></a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><b>List of <a href="/wiki/Provinces_of_Turkey" title="Provinces of Turkey">Provinces</a> by <a href="/wiki/NUTS_of_Turkey" class="mw-redirect" title="NUTS of Turkey">Region</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Istanbul_Region_(statistical)" title="Istanbul Region (statistical)">Istanbul</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Istanbul_Province" title="Istanbul Province">Istanbul</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/West_Marmara_Region_(statistical)" title="West Marmara Region (statistical)">West Marmara</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Bal%C4%B1kesir_Province" title="Balıkesir Province">Balıkesir</a></b></li>
+<li><a href="/wiki/%C3%87anakkale_Province" title="Çanakkale Province">Çanakkale</a></li>
+<li><a href="/wiki/Edirne_Province" title="Edirne Province">Edirne</a></li>
+<li><a href="/wiki/K%C4%B1rklareli_Province" title="Kırklareli Province">Kırklareli</a></li>
+<li><b><a href="/wiki/Tekirda%C4%9F_Province" title="Tekirdağ Province">Tekirdağ</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Aegean_Region_(statistical)" title="Aegean Region (statistical)">Aegean</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Afyonkarahisar_Province" title="Afyonkarahisar Province">Afyonkarahisar</a></li>
+<li><b><a href="/wiki/Ayd%C4%B1n_Province" title="Aydın Province">Aydın</a></b></li>
+<li><b><a href="/wiki/Denizli_Province" title="Denizli Province">Denizli</a></b></li>
+<li><b><a href="/wiki/%C4%B0zmir_Province" title="İzmir Province">İzmir</a></b></li>
+<li><a href="/wiki/K%C3%BCtahya_Province" title="Kütahya Province">Kütahya</a></li>
+<li><b><a href="/wiki/Manisa_Province" title="Manisa Province">Manisa</a></b></li>
+<li><b><a href="/wiki/Mu%C4%9Fla_Province" title="Muğla Province">Muğla</a></b></li>
+<li><a href="/wiki/U%C5%9Fak_Province" title="Uşak Province">Uşak</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/East_Marmara_Region_(statistical)" title="East Marmara Region (statistical)">East Marmara</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bilecik_Province" title="Bilecik Province">Bilecik</a></li>
+<li><a href="/wiki/Bolu_Province" title="Bolu Province">Bolu</a></li>
+<li><b><a href="/wiki/Bursa_Province" title="Bursa Province">Bursa</a></b></li>
+<li><a href="/wiki/D%C3%BCzce_Province" title="Düzce Province">Düzce</a></li>
+<li><b><a href="/wiki/Eski%C5%9Fehir_Province" title="Eskişehir Province">Eskişehir</a></b></li>
+<li><b><a href="/wiki/Kocaeli_Province" title="Kocaeli Province">Kocaeli</a></b></li>
+<li><b><a href="/wiki/Sakarya_Province" title="Sakarya Province">Sakarya</a></b></li>
+<li><a href="/wiki/Yalova_Province" title="Yalova Province">Yalova</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/West_Anatolia_Region_(statistical)" title="West Anatolia Region (statistical)">West Anatolia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Ankara_Province" title="Ankara Province">Ankara</a></b></li>
+<li><a href="/wiki/Karaman_Province" title="Karaman Province">Karaman</a></li>
+<li><b><a href="/wiki/Konya_Province" title="Konya Province">Konya</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Mediterranean_Region_(statistical)" title="Mediterranean Region (statistical)">Mediterranean</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Adana_Province" title="Adana Province">Adana</a></b></li>
+<li><b><a href="/wiki/Antalya_Province" title="Antalya Province">Antalya</a></b></li>
+<li><a href="/wiki/Burdur_Province" title="Burdur Province">Burdur</a></li>
+<li><b><a href="/wiki/Hatay_Province" title="Hatay Province">Hatay</a></b></li>
+<li><a href="/wiki/Isparta_Province" title="Isparta Province">Isparta</a></li>
+<li><b><a href="/wiki/Kahramanmara%C5%9F_Province" title="Kahramanmaraş Province">Kahramanmaraş</a></b></li>
+<li><b><a href="/wiki/Mersin_Province" title="Mersin Province">Mersin</a></b></li>
+<li><a href="/wiki/Osmaniye_Province" title="Osmaniye Province">Osmaniye</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Central_Anatolia_Region_(statistical)" title="Central Anatolia Region (statistical)">Central Anatolia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aksaray_Province" title="Aksaray Province">Aksaray</a></li>
+<li><b><a href="/wiki/Kayseri_Province" title="Kayseri Province">Kayseri</a></b></li>
+<li><a href="/wiki/K%C4%B1r%C4%B1kkale_Province" title="Kırıkkale Province">Kırıkkale</a></li>
+<li><a href="/wiki/K%C4%B1r%C5%9Fehir_Province" title="Kırşehir Province">Kırşehir</a></li>
+<li><a href="/wiki/Nev%C5%9Fehir_Province" title="Nevşehir Province">Nevşehir</a></li>
+<li><a href="/wiki/Ni%C4%9Fde_Province" title="Niğde Province">Niğde</a></li>
+<li><a href="/wiki/Sivas_Province" title="Sivas Province">Sivas</a></li>
+<li><a href="/wiki/Yozgat_Province" title="Yozgat Province">Yozgat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/West_Black_Sea_Region_(statistical)" title="West Black Sea Region (statistical)">West Black Sea</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amasya_Province" title="Amasya Province">Amasya</a></li>
+<li><a href="/wiki/Bart%C4%B1n_Province" title="Bartın Province">Bartın</a></li>
+<li><a href="/wiki/%C3%87ank%C4%B1r%C4%B1_Province" title="Çankırı Province">Çankırı</a></li>
+<li><a href="/wiki/%C3%87orum_Province" title="Çorum Province">Çorum</a></li>
+<li><a href="/wiki/Karab%C3%BCk_Province" title="Karabük Province">Karabük</a></li>
+<li><a href="/wiki/Kastamonu_Province" title="Kastamonu Province">Kastamonu</a></li>
+<li><b><a href="/wiki/Samsun_Province" title="Samsun Province">Samsun</a></b></li>
+<li><a href="/wiki/Sinop_Province" title="Sinop Province">Sinop</a></li>
+<li><a href="/wiki/Tokat_Province" title="Tokat Province">Tokat</a></li>
+<li><a href="/wiki/Zonguldak_Province" title="Zonguldak Province">Zonguldak</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/East_Black_Sea_Region_(statistical)" title="East Black Sea Region (statistical)">East Black Sea</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Artvin_Province" title="Artvin Province">Artvin</a></li>
+<li><a href="/wiki/Giresun_Province" title="Giresun Province">Giresun</a></li>
+<li><a href="/wiki/G%C3%BCm%C3%BC%C5%9Fhane_Province" title="Gümüşhane Province">Gümüşhane</a></li>
+<li><b><a href="/wiki/Ordu_Province" title="Ordu Province">Ordu</a></b></li>
+<li><a href="/wiki/Rize_Province" title="Rize Province">Rize</a></li>
+<li><b><a href="/wiki/Trabzon_Province" title="Trabzon Province">Trabzon</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Northeast_Anatolia_Region_(statistical)" title="Northeast Anatolia Region (statistical)">Northeast Anatolia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/A%C4%9Fr%C4%B1_Province" title="Ağrı Province">Ağrı</a></li>
+<li><a href="/wiki/Ardahan_Province" title="Ardahan Province">Ardahan</a></li>
+<li><a href="/wiki/Bayburt_Province" title="Bayburt Province">Bayburt</a></li>
+<li><a href="/wiki/Erzincan_Province" title="Erzincan Province">Erzincan</a></li>
+<li><b><a href="/wiki/Erzurum_Province" title="Erzurum Province">Erzurum</a></b></li>
+<li><a href="/wiki/I%C4%9Fd%C4%B1r_Province" title="Iğdır Province">Iğdır</a></li>
+<li><a href="/wiki/Kars_Province" title="Kars Province">Kars</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Central_East_Anatolia_Region_(statistical)" title="Central East Anatolia Region (statistical)">Central East Anatolia</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bing%C3%B6l_Province" title="Bingöl Province">Bingöl</a></li>
+<li><a href="/wiki/Bitlis_Province" title="Bitlis Province">Bitlis</a></li>
+<li><a href="/wiki/Elaz%C4%B1%C4%9F_Province" title="Elazığ Province">Elazığ</a></li>
+<li><a href="/wiki/Hakk%C3%A2ri_Province" title="Hakkâri Province">Hakkâri</a></li>
+<li><b><a href="/wiki/Malatya_Province" title="Malatya Province">Malatya</a></b></li>
+<li><a href="/wiki/Mu%C5%9F_Province" title="Muş Province">Muş</a></li>
+<li><a href="/wiki/Tunceli_Province" title="Tunceli Province">Tunceli</a></li>
+<li><b><a href="/wiki/Van_Province" title="Van Province">Van</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Southeast_Anatolia_Region_(statistical)" title="Southeast Anatolia Region (statistical)">Southeast Anatolia</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ad%C4%B1yaman_Province" title="Adıyaman Province">Adıyaman</a></li>
+<li><a href="/wiki/Batman_Province" title="Batman Province">Batman</a></li>
+<li><b><a href="/wiki/Diyarbak%C4%B1r_Province" title="Diyarbakır Province">Diyarbakır</a></b></li>
+<li><b><a href="/wiki/Gaziantep_Province" title="Gaziantep Province">Gaziantep</a></b></li>
+<li><a href="/wiki/Kilis_Province" title="Kilis Province">Kilis</a></li>
+<li><b><a href="/wiki/Mardin_Province" title="Mardin Province">Mardin</a></b></li>
+<li><a href="/wiki/Siirt_Province" title="Siirt Province">Siirt</a></li>
+<li><b><a href="/wiki/%C5%9Eanl%C4%B1urfa_Province" title="Şanlıurfa Province">Şanlıurfa</a></b></li>
+<li><a href="/wiki/%C5%9E%C4%B1rnak_Province" title="Şırnak Province">Şırnak</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div><small><a href="/wiki/Metropolitan_municipalities_in_Turkey" title="Metropolitan municipalities in Turkey">Metropolitan municipalities</a> are bolded.</small></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Metropolitan_municipalities_in_Turkey" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Metropolitan_municipalities_in_Turkey" title="Template:Metropolitan municipalities in Turkey"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Metropolitan_municipalities_in_Turkey" title="Template talk:Metropolitan municipalities in Turkey"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Metropolitan_municipalities_in_Turkey&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Metropolitan_municipalities_in_Turkey" style="font-size:114%"><a href="/wiki/Metropolitan_municipalities_in_Turkey" title="Metropolitan municipalities in Turkey">Metropolitan municipalities in Turkey</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adana_Province" title="Adana Province">Adana</a></li>
+<li><a href="/wiki/Ankara_Province" title="Ankara Province">Ankara</a></li>
+<li><a href="/wiki/Antalya_Province" title="Antalya Province">Antalya</a></li>
+<li><a href="/wiki/Ayd%C4%B1n_Province" title="Aydın Province">Aydın</a></li>
+<li><a href="/wiki/Bal%C4%B1kesir_Province" title="Balıkesir Province">Balıkesir</a></li>
+<li><a href="/wiki/Bursa_Province" title="Bursa Province">Bursa</a></li>
+<li><a href="/wiki/Denizli_Province" title="Denizli Province">Denizli</a></li>
+<li><a href="/wiki/Diyarbak%C4%B1r_Province" title="Diyarbakır Province">Diyarbakır</a></li>
+<li><a href="/wiki/Erzurum_Province" title="Erzurum Province">Erzurum</a></li>
+<li><a href="/wiki/Eski%C5%9Fehir_Province" title="Eskişehir Province">Eskişehir</a></li>
+<li><a href="/wiki/Gaziantep_Province" title="Gaziantep Province">Gaziantep</a></li>
+<li><a href="/wiki/Hatay_Province" title="Hatay Province">Hatay</a></li>
+<li><a href="/wiki/%C4%B0stanbul_Province" class="mw-redirect" title="İstanbul Province">İstanbul</a></li>
+<li><a href="/wiki/%C4%B0zmir_Province" title="İzmir Province">İzmir</a></li>
+<li><a href="/wiki/Kayseri_Province" title="Kayseri Province">Kayseri</a></li>
+<li><a href="/wiki/Kocaeli_Province" title="Kocaeli Province">Kocaeli</a></li>
+<li><a href="/wiki/Konya_Province" title="Konya Province">Konya</a></li>
+<li><a href="/wiki/Kahramanmara%C5%9F_Province" title="Kahramanmaraş Province">Kahramanmaraş</a></li>
+<li><a href="/wiki/Malatya_Province" title="Malatya Province">Malatya</a></li>
+<li><a href="/wiki/Manisa_Province" title="Manisa Province">Manisa</a></li>
+<li><a href="/wiki/Mardin_Province" title="Mardin Province">Mardin</a></li>
+<li><a href="/wiki/Mersin_Province" title="Mersin Province">Mersin</a></li>
+<li><a href="/wiki/Mu%C4%9Fla_Province" title="Muğla Province">Muğla</a></li>
+<li><a href="/wiki/Ordu_Province" title="Ordu Province">Ordu</a></li>
+<li><a href="/wiki/Sakarya_Province" title="Sakarya Province">Sakarya</a></li>
+<li><a href="/wiki/Samsun_Province" title="Samsun Province">Samsun</a></li>
+<li><a href="/wiki/%C5%9Eanl%C4%B1urfa_Province" title="Şanlıurfa Province">Şanlıurfa</a></li>
+<li><a href="/wiki/Tekirda%C4%9F_Province" title="Tekirdağ Province">Tekirdağ</a></li>
+<li><a href="/wiki/Trabzon_Province" title="Trabzon Province">Trabzon</a></li>
+<li><a href="/wiki/Van_Province" title="Van Province">Van</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="UNESCO_World_Heritage_Sites_in_Turkey" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:World_Heritage_Sites_in_Turkey" title="Template:World Heritage Sites in Turkey"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:World_Heritage_Sites_in_Turkey" title="Template talk:World Heritage Sites in Turkey"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:World_Heritage_Sites_in_Turkey&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="UNESCO_World_Heritage_Sites_in_Turkey" style="font-size:114%"><a href="/wiki/UNESCO" title="UNESCO">UNESCO</a> <a href="/wiki/World_Heritage_Site" title="World Heritage Site">World Heritage Sites</a> in <a href="/wiki/Turkey" title="Turkey">Turkey</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Aegean_Region_(geographical)" class="mw-redirect" title="Aegean Region (geographical)">Aegean</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;width:90%;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ephesus" title="Ephesus">Ephesus</a></li>
+<li><a href="/wiki/Hierapolis" title="Hierapolis">Hierapolis</a> / <a href="/wiki/Pamukkale" title="Pamukkale">Pamukkale</a></li>
+<li><a href="/wiki/Pergamon" title="Pergamon">Pergamon</a></li>
+<li>Xanthos / <a href="/wiki/Letoon" title="Letoon">Letoon</a><sup><small>1</small></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Black_Sea_Region" title="Black Sea Region">Black Sea</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><small>Hittite Capital of</small> <a href="/wiki/Hattusa" title="Hattusa">Hattusa</a></li>
+<li><a href="/wiki/Safranbolu" title="Safranbolu">Safranbolu</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Central_Anatolia_Region_(geographical)" class="mw-redirect" title="Central Anatolia Region (geographical)">Central Anatolia</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/G%C3%B6reme" title="Göreme">Göreme</a> <small>and Rock Sites of</small> <a href="/wiki/Cappadocia" title="Cappadocia">Cappadocia</a></li>
+<li><small>Neolithic Site of</small> <a href="/wiki/%C3%87atalh%C3%B6y%C3%BCk" title="Çatalhöyük">Çatalhöyük</a></li>
+<li><a href="/wiki/Divri%C4%9Fi_Great_Mosque_and_Hospital" title="Divriği Great Mosque and Hospital">Divriği Great Mosque and Hospital</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Eastern_Anatolia_Region" title="Eastern Anatolia Region">East Anatolia</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><small>Historic city of</small> <a href="/wiki/Ani" title="Ani">Ani</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Marmara_Region" title="Marmara Region">Marmara</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><small>Archaeological Site of</small> <a href="/wiki/Troy" title="Troy">Troy</a></li>
+<li><a href="/wiki/Bursa" title="Bursa">Bursa</a> <small>and</small> <a href="/wiki/Cumal%C4%B1k%C4%B1z%C4%B1k" title="Cumalıkızık">Cumalıkızık</a></li>
+<li><a href="/wiki/Historic_Areas_of_Istanbul" title="Historic Areas of Istanbul">Historic Areas of Istanbul</a></li>
+<li><a href="/wiki/Selimiye_Mosque" title="Selimiye Mosque">Selimiye Mosque and its Social Complex</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Mediterranean_Region,_Turkey" title="Mediterranean Region, Turkey">Mediterranean</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Xanthos" title="Xanthos">Xanthos</a> / Letoon<sup><small>1</small></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Southeastern_Anatolia_Region" title="Southeastern Anatolia Region">Southeastern Anatolia</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mount_Nemrut" title="Mount Nemrut">Mount Nemrut</a> <small>in Commagene</small></li>
+<li><a href="/wiki/Diyarbak%C4%B1r_Fortress" title="Diyarbakır Fortress">Diyarbakır <small>Fortress</small></a> <small>and <a href="/wiki/Hevsel_Gardens" title="Hevsel Gardens">Hevsel Gardens</a></small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><sup>1</sup> Shared with other <a href="/wiki/List_of_regions_of_Turkey" class="mw-redirect" title="List of regions of Turkey">regions</a></div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="The_Tigris" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Tigris" title="Template:Tigris"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Tigris" title="Template talk:Tigris"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Tigris&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="The_Tigris" style="font-size:114%"><a href="/wiki/Tigris" title="Tigris">The Tigris</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Countries</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Geography_of_Turkey" title="Geography of Turkey">Turkey</a> (523 km)</li>
+<li><a href="/wiki/Geography_of_Syria" title="Geography of Syria">Syria</a> (40 km)</li>
+<li><a href="/wiki/Geography_of_Iraq" title="Geography of Iraq">Iraq</a> (1,377 km)</li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Tigr-euph.png" class="image" title="Map indicating the Tigris"><img alt="Map indicating the Tigris" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tigr-euph.png/120px-Tigr-euph.png" width="120" height="121" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tigr-euph.png/180px-Tigr-euph.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tigr-euph.png/240px-Tigr-euph.png 2x" data-file-width="1000" data-file-height="1005" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Cities</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><strong class="selflink">Diyarbakır</strong></li>
+<li><a href="/wiki/Bismil" title="Bismil">Bismil</a></li>
+<li><a href="/wiki/Hasankeyf" title="Hasankeyf">Hasankeyf</a></li>
+<li><a href="/wiki/Cizre" title="Cizre">Cizre</a></li>
+<li><a href="/wiki/Mosul" title="Mosul">Mosul</a></li>
+<li><a href="/wiki/Tikrit" title="Tikrit">Tikrit</a></li>
+<li><a href="/wiki/Samarra" title="Samarra">Samarra</a></li>
+<li><a href="/wiki/Kadhimiya" title="Kadhimiya">Kadhimiya</a></li>
+<li><a href="/wiki/Baghdad" title="Baghdad">Baghdad</a></li>
+<li><a href="/wiki/Amarah" title="Amarah">Amarah</a></li>
+<li><a href="/wiki/Kut" title="Kut">Al-Kūt</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_tributaries_of_the_Tigris" title="List of tributaries of the Tigris">Tributaries</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>Ambar</li>
+<li>Kuru</li>
+<li>Pamuk</li>
+<li>Hazro</li>
+<li><a href="/wiki/Batman_River" title="Batman River">Batman</a></li>
+<li>Garzan</li>
+<li>Göksu</li>
+<li>Savur</li>
+<li><a href="/wiki/Botan_River" title="Botan River">Botan</a></li>
+<li><a href="/wiki/Khabur_(Tigris)" title="Khabur (Tigris)">Little Khabur</a></li>
+<li><a href="/wiki/Great_Zab" title="Great Zab">Great Zab</a></li>
+<li><a href="/wiki/Little_Zab" title="Little Zab">Little Zab</a></li>
+<li><a href="/wiki/%27Adhaim" class="mw-redirect" title="'Adhaim">'Adhaim</a></li>
+<li><a href="/wiki/Diyala_River" title="Diyala River">Diyala</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Dams</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dicle_Dam" title="Dicle Dam">Dicle</a></li>
+<li><a href="/wiki/Il%C4%B1su_Dam" title="Ilısu Dam">Ilısu</a></li>
+<li><a href="/wiki/Cizre_Dam" title="Cizre Dam">Cizre</a></li>
+<li><a href="/wiki/Mosul_Dam" title="Mosul Dam">Mosul</a></li>
+<li><a href="/wiki/Badush_Dam" title="Badush Dam">Badush</a></li>
+<li><a href="/wiki/Samarra_Barrage" title="Samarra Barrage">Samarra</a></li>
+<li><a href="/wiki/Kut_Barrage" title="Kut Barrage">Kut</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/containsVIAFID/148996542">WorldCat Identities</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/148996542">148996542</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n85272750">n85272750</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4091063-5">4091063-5</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:642286-0!*!0!!en!4!* and timestamp 20161021044531 and revision id 745019327
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Diyarbakır&amp;oldid=745019327">https://en.wikipedia.org/w/index.php?title=Diyarbakır&amp;oldid=745019327</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:World_Heritage_Sites_in_Turkey" title="Category:World Heritage Sites in Turkey">World Heritage Sites in Turkey</a></li><li><a href="/wiki/Category:Diyarbak%C4%B1r" title="Category:Diyarbakır">Diyarbakır</a></li><li><a href="/wiki/Category:Cities_in_Turkey" title="Category:Cities in Turkey">Cities in Turkey</a></li><li><a href="/wiki/Category:Districts_of_Diyarbak%C4%B1r_Province" title="Category:Districts of Diyarbakır Province">Districts of Diyarbakır Province</a></li><li><a href="/wiki/Category:Populated_places_in_Diyarbak%C4%B1r_Province" title="Category:Populated places in Diyarbakır Province">Populated places in Diyarbakır Province</a></li><li><a href="/wiki/Category:Turkish_Kurdistan" title="Category:Turkish Kurdistan">Turkish Kurdistan</a></li><li><a href="/wiki/Category:Upper_Mesopotamia" title="Category:Upper Mesopotamia">Upper Mesopotamia</a></li><li><a href="/wiki/Category:Kurdish_settlements" title="Category:Kurdish settlements">Kurdish settlements</a></li><li><a href="/wiki/Category:Assyrian_communities_in_Turkey" title="Category:Assyrian communities in Turkey">Assyrian communities in Turkey</a></li><li><a href="/wiki/Category:Tur_Abdin" title="Category:Tur Abdin">Tur Abdin</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Turkish-language_sources_(tr)" title="Category:CS1 Turkish-language sources (tr)">CS1 Turkish-language sources (tr)</a></li><li><a href="/wiki/Category:Settlement_articles_requiring_maintenance" title="Category:Settlement articles requiring maintenance">Settlement articles requiring maintenance</a></li><li><a href="/wiki/Category:Articles_containing_Kurdish-language_text" title="Category:Articles containing Kurdish-language text">Articles containing Kurdish-language text</a></li><li><a href="/wiki/Category:Articles_containing_Armenian-language_text" title="Category:Articles containing Armenian-language text">Articles containing Armenian-language text</a></li><li><a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">Articles containing Ancient Greek-language text</a></li><li><a href="/wiki/Category:Articles_containing_Ottoman_Turkish-language_text" title="Category:Articles containing Ottoman Turkish-language text">Articles containing Ottoman Turkish-language text</a></li><li><a href="/wiki/Category:Articles_containing_Syriac-language_text" title="Category:Articles containing Syriac-language text">Articles containing Syriac-language text</a></li><li><a href="/wiki/Category:Articles_containing_Turkish-language_text" title="Category:Articles containing Turkish-language text">Articles containing Turkish-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2007" title="Category:Articles with unsourced statements from June 2007">Articles with unsourced statements from June 2007</a></li><li><a href="/wiki/Category:Articles_with_Turkish-language_external_links" title="Category:Articles with Turkish-language external links">Articles with Turkish-language external links</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_May_2011" title="Category:Use dmy dates from May 2011">Use dmy dates from May 2011</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Diyarbak%C4%B1r" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Diyarbak%C4%B1r" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Diyarbak%C4%B1r"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Diyarbak%C4%B1r"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Diyarbak%C4%B1r" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Diyarbak%C4%B1r" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Diyarbak%C4%B1r" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;oldid=745019327" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q83387" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Diyarbak%C4%B1r&amp;id=745019327" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Diyarbak%C4%B1r">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Diyarbak%C4%B1r&amp;returnto=Diyarbak%C4%B1r&amp;oldid=745019327&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Diyarbak%C4%B1r&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Diyarbak%C4%B1r" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Diyarbakir" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AF%D9%8A%D8%A7%D8%B1_%D8%A8%D9%83%D8%B1" title="ديار بكر – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Diyarb%C9%99kir" title="Diyarbəkir – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B0%D0%B4_%D0%94%D1%8B%D1%8F%D1%80%D0%B1%D0%B0%D0%BA%D1%8B%D1%80" title="Горад Дыярбакыр – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%94%D1%8B%D1%8F%D1%80%D0%B1%D0%B0%D0%BA%D1%8B%D1%80" title="Дыярбакыр – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D1%80%D0%B1%D0%B5%D0%BA%D0%B8%D1%80" title="Диарбекир – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9D%CF%84%CE%B9%CE%B3%CE%B9%CE%B1%CF%81%CE%BC%CF%80%CE%B1%CE%BA%CE%AF%CF%81" title="Ντιγιαρμπακίρ – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Dijarbakiro" title="Dijarbakiro – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%DB%8C%D8%A7%D8%B1%D8%A8%DA%A9%D8%B1" title="دیاربکر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Gagauz" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%94%94%EC%95%BC%EB%A5%B4%EB%B0%94%ED%82%A4%EB%A5%B4" title="디야르바키르 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B4%D5%AB%D5%A1%D6%80%D5%A2%D5%A5%D6%84%D5%AB%D6%80" title="Դիարբեքիր – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%A6%E0%A4%BF%E0%A4%AF%E0%A4%BE%E0%A4%B0%E0%A4%AC%E0%A4%BE%E0%A4%95%E0%A4%BF%E0%A4%B0" title="दियारबाकिर – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%94%D0%B8%D1%8F%D1%80%D0%B1%D0%B0%D0%BA%D1%8B%D1%80" title="Диярбакыр – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%93%D7%99%D7%90%D7%A8%D7%91%D7%A7%D7%99%D7%A8" title="דיארבקיר – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%93%E1%83%98%E1%83%90%E1%83%A0%E1%83%91%E1%83%90%E1%83%A5%E1%83%98%E1%83%A0%E1%83%98" title="დიარბაქირი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%94%D0%B8%D1%8F%D1%80%D0%B1%D0%B0%D2%9B%D1%8B%D1%80" title="Диярбақыр – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-rw"><a href="https://rw.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Kinyarwanda" lang="rw" hreflang="rw" class="interlanguage-link-target">Kinyarwanda</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Amed" title="Amed – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%94%D0%B8%D1%8F%D1%80%D0%B1%D0%B0%D0%BA%D1%8B%D1%80" title="Диярбакыр – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li><li class="interlanguage-link interwiki-lrc"><a href="https://lrc.wikipedia.org/wiki/%D8%AF%DB%8C%D8%A7%D8%B1%D8%A8%DA%A9%D8%B1" title="دیاربکر – Northern Luri" lang="lrc" hreflang="lrc" class="interlanguage-link-target">لۊری شومالی</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Amida" title="Amida – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Dijarbakira" title="Dijarbakira – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Dijarbakyras" title="Dijarbakyras – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Diyarbak%C4%B1r_(telep%C3%BCl%C3%A9s)" title="Diyarbakır (település) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%94%D0%B8%D1%98%D0%B0%D1%80%D0%B1%D0%B0%D0%BA%D0%B8%D1%80" title="Дијарбакир – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D8%AF%DB%8C%D8%A7%D8%B1%D8%A8%DA%A9%D8%B1" title="دیاربکر – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Baso Minangkabau</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Diyarbak%C4%B1r_(stad)" title="Diyarbakır (stad) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%A4%E3%83%AB%E3%83%90%E3%82%AF%E3%83%AB" title="ディヤルバクル – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%AF%DB%8C%D8%A7%D8%B1%D8%A8%DA%A9%D8%B1" title="دیاربکر – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Diarbaquir" title="Diarbaquir – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%8F%D1%80%D0%B1%D0%B0%D0%BA%D1%8B%D1%80" title="Диярбакыр – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%A6%D8%A7%D9%85%DB%95%D8%AF" title="ئامەد – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%94%D0%B8%D1%98%D0%B0%D1%80%D0%B1%D0%B0%D0%BA%D0%B8%D1%80" title="Дијарбакир – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%94%D0%B8%D1%8F%D1%80%D0%B1%D0%B0%D0%BA%D1%8B%D1%80" title="Диярбакыр – Udmurt" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%94%D1%96%D1%8F%D1%80%D0%B1%D0%B0%D0%BA%D0%B8%D1%80" title="Діярбакир – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%AF%DB%8C%D8%A7%D8%B1_%D8%A8%D8%A7%D9%82%D8%B1" title="دیار باقر – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Diyarbak%C4%B1r" title="Diyarbakır – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Diyarbek%C4%B1r" title="Diyarbekır – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%BF%AA%E4%BA%9A%E5%B7%B4%E5%85%8B%E5%B0%94" title="迪亚巴克尔 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q83387#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 18 October 2016, at 21:00.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Diyarbak%C4%B1r&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.908",
+            "walltime": "1.059",
+            "ppvisitednodes": {
+                "value": 6836,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 173083,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 5566,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 19,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 16,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  844.153      1 -total",
+                " 23.71%  200.175      1 Template:Infobox_settlement",
+                " 22.46%  189.616      1 Template:Reflist",
+                " 17.57%  148.315      2 Template:Infobox",
+                " 12.68%  107.017      1 Template:Weather_box",
+                " 11.05%   93.288     23 Template:Cite_book",
+                "  5.81%   49.042     10 Template:Category_handler",
+                "  5.35%   45.162      7 Template:Lang",
+                "  5.35%   45.149      5 Template:Navbox",
+                "  4.94%   41.672      1 Template:Convert"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.326",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 9611078,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1167",
+            "timestamp": "20161021044532",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw1255"});});</script>
+	</body>
+</html>

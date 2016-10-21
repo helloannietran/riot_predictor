@@ -1,0 +1,1234 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nukuʻalofa - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nukuʻalofa","wgTitle":"Nukuʻalofa","wgCurRevisionId":738149480,"wgRevisionId":738149480,"wgArticleId":57356,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Articles needing additional references from August 2015","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from January 2011","Commons category with local link same as on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Nukuʻalofa","Populated places in Tonga","Capitals in Oceania","Port cities in Oceania"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nukuʻalofa","wgRelevantArticleId":57356,"wgRequestId":"WApo3QpAIDYAADq6JfUAAAAF","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Nuku'alofa","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgInternalRedirectTargetUrl":"/wiki/Nuku%CA%BBalofa","wgCoordinates":{"lat":-21.133333333333,"lon":-175.2},"wgWikibaseItemId":"Q38834","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nuku%CA%BBalofa"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Nuku%CA%BBalofa"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Nukuʻalofa rootpage-Nukuʻalofa skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Nukuʻalofa</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a href="/w/index.php?title=Nuku%27alofa&amp;redirect=no" class="mw-redirect" title="Nuku'alofa">Nuku&#039;alofa</a>)</span></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org">Nukuʻalofa</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding:0.7em 0.8em"><a href="/wiki/File:Downtown_Nuku%27alofa.jpg" class="image" title="Downtown Nuku'alofa"><img alt="Downtown Nuku'alofa" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Downtown_Nuku%27alofa.jpg/250px-Downtown_Nuku%27alofa.jpg" width="250" height="186" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Downtown_Nuku%27alofa.jpg/375px-Downtown_Nuku%27alofa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Downtown_Nuku%27alofa.jpg/500px-Downtown_Nuku%27alofa.jpg 2x" data-file-width="2080" data-file-height="1544" /></a>
+<div>Downtown Nuku'alofa</div>
+</td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Tonga_sm04.gif" class="image"><img alt="Tonga sm04.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tonga_sm04.gif/250px-Tonga_sm04.gif" width="250" height="269" srcset="//upload.wikimedia.org/wikipedia/commons/9/9b/Tonga_sm04.gif 1.5x" data-file-width="364" data-file-height="391" /></a></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto">
+<div style="width:250px;padding:0">
+<div style="position:relative;width:250px"><a href="/wiki/File:Tonga_relief_location_map.jpg" class="image" title="Nukuʻalofa is located in Tonga"><img alt="Nukuʻalofa is located in Tonga" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tonga_relief_location_map.jpg/250px-Tonga_relief_location_map.jpg" width="250" height="647" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tonga_relief_location_map.jpg/375px-Tonga_relief_location_map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Tonga_relief_location_map.jpg/500px-Tonga_relief_location_map.jpg 2x" data-file-width="677" data-file-height="1753" /></a>
+<div style="position:absolute;top:80.751%;left:41.379%">
+<div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Nukuʻalofa" src="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" title="Nukuʻalofa" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div>
+<div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><span style="padding:1px;float:left">Nukuʻalofa</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr class="mergedbottomrow">
+<td colspan="2" style="text-align:center">Coordinates: <span style="white-space:nowrap"><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Nuku%CA%BBalofa&amp;params=21_8_0_S_175_12_0_W_type:city(23658)_region:TO"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">21°8′0″S</span> <span class="longitude">175°12′0″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">21.13333°S 175.20000°W</span><span style="display:none">﻿ / <span class="geo">-21.13333; -175.20000</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Nuku%CA%BBalofa&amp;params=21_8_0_S_175_12_0_W_type:city(23658)_region:TO"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">21°8′0″S</span> <span class="longitude">175°12′0″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">21.13333°S 175.20000°W</span><span style="display:none">﻿ / <span class="geo">-21.13333; -175.20000</span></span></span></a></span></span></span></span></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/23px-Flag_of_Tonga.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/35px-Flag_of_Tonga.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/46px-Flag_of_Tonga.svg.png 2x" data-file-width="960" data-file-height="480" />&#160;</span><a href="/wiki/Tonga" title="Tonga">Tonga</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Island</th>
+<td><a href="/wiki/Tongatapu" title="Tongatapu">Tongatapu</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>3&#160;m (10&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Highest&#160;elevation</th>
+<td>6&#160;m (20&#160;ft)</td>
+</tr>
+<tr class="mergedbottomrow">
+<th scope="row">Lowest&#160;elevation</th>
+<td>0&#160;m (0&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2006)</span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>23,658</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Estimate&#160;<span style="font-weight:normal">(2012)</span></th>
+<td>24,571</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td>– (<a href="/wiki/UTC%2B13" class="mw-redirect" title="UTC+13">UTC+13</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><span style="white-space:nowrap">&#160;•&#160;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th>
+<td>– (<a href="/wiki/UTC%2B13" class="mw-redirect" title="UTC+13">UTC+13</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Telephone_numbering_plan" title="Telephone numbering plan">Area code(s)</a></th>
+<td>676</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Climate</a></th>
+<td><a href="/wiki/Tropical_rainforest_climate" title="Tropical rainforest climate">Af</a></td>
+</tr>
+</table>
+<p><b>Nuku<span class="unicode">ʻ</span>alofa</b> is the capital of the <a href="/wiki/Kingdom_of_Tonga" class="mw-redirect" title="Kingdom of Tonga">Kingdom of Tonga</a>. It is located on the north coast of the island of <a href="/wiki/Tongatapu" title="Tongatapu">Tongatapu</a>, in the southernmost island group of Tonga.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Mythological_origins"><span class="tocnumber">1.1</span> <span class="toctext">Mythological origins</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#First_western_records_of_Nuku.CA.BBalofa"><span class="tocnumber">1.2</span> <span class="toctext">First western records of Nuku<span>ʻ</span>alofa</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Capital_of_the_Kingdom_of_Tonga_.281875_and_later.29"><span class="tocnumber">1.3</span> <span class="toctext">Capital of the Kingdom of Tonga (1875 and later)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Government"><span class="tocnumber">2</span> <span class="toctext">Government</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Climate"><span class="tocnumber">3</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Economy"><span class="tocnumber">4</span> <span class="toctext">Economy</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Transport"><span class="tocnumber">5</span> <span class="toctext">Transport</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#2015_island_creation"><span class="tocnumber">6</span> <span class="toctext">2015 island creation</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Twin_towns.2FSister_cities"><span class="tocnumber">7</span> <span class="toctext">Twin towns/Sister cities</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Endnotes"><span class="tocnumber">8</span> <span class="toctext">Endnotes</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Mythological_origins">Mythological origins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=edit&amp;section=2" title="Edit section: Mythological origins">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help improve this section by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(August 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>In the Tongan myth of the origin of Nuku<span class="unicode">ʻ</span>alofa, it was said that the meaning of Nuku<span class="unicode">ʻ</span>alofa is: nuku meaning abode, <span class="unicode">ʻ</span>alofa meaning love.</p>
+<p>The name is said to have originated when Mo<span class="unicode">ʻ</span>ungatonga, the 6th Tu<span class="unicode">ʻ</span>i Ha<span class="unicode">ʻ</span>atakalaua (King who governs the daily business of Tonga on behalf of the Tu<span class="unicode">ʻ</span>i Tonga or Sacred King of Tonga) sent his youngest son, Ngata (later to be 1st Tu<span class="unicode">ʻ</span>i Kanokupolu) as governor to Hihifo (Western side of Tongatapu). It was a difficult decision for Ngata as the Tu’i Tonga and Tu’i Ha’atakalaua have been unable to control Hihifo. Ngata had many reasons to fear for his life as his predecessors had been killed by the chiefs and people of Hihifo.</p>
+<p>When Ngata left Mu<span class="unicode">ʻ</span>a, the old capital and residence of the Tu<span class="unicode">ʻ</span>i Tonga and Tu<span class="unicode">ʻ</span>i Ha'atakalaua, he was escorted by Nuku (an uncle) and Niukapu (an older cousin), chiefly relatives of his father. They sailed their canoes with all their followers from Mu<span class="unicode">ʻ</span>a and debated abandoning Tonga and sailing directly to Samoa, the homeland of Ngata’s mother. It was decided not to abandon Tonga, but to pull their canoes up into the swamp area halfway between Mu<span class="unicode">ʻ</span>a and Hihifo in order to plan and prepare for their landing at Hihifo.</p>
+<p>Ngata, Nuku and Niukapu decided to wrap their combined bodies under a large mat and land in Hihifo, giving the impression of a large man with three heads. This is the origin of the <span class="unicode">ʻ</span>Ulutolu (Three Head Story) and of the Ha<span class="unicode">ʻ</span>a Tu<span class="unicode">ʻ</span>i Kanokupolu, third lineage King of Tonga. They named the swampy area as Nuku (Abode) <span class="unicode">ʻ</span>Alofa (Love) or the Abode of Love, thus Nuku<span class="unicode">ʻ</span>alofa.</p>
+<h3><span class="mw-headline" id="First_western_records_of_Nuku.CA.BBalofa">First western records of Nuku<span class="unicode">ʻ</span>alofa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=edit&amp;section=3" title="Edit section: First western records of Nukuʻalofa">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 10 June 1777, British captain <a href="/wiki/James_Cook" title="James Cook">James Cook</a> wrote of his arrival at their anchorage place. His description of the place confirmed, with his map, that this was the bay of Nuku<span class="unicode">ʻ</span>alofa.</p>
+<dl>
+<dd>
+<dl>
+<dd>At length, about two in the afternoon, we arrived at our intended station. It was a very snug place, formed by the shore of Tongataboo on the South East, and two small islands on the East and North East. Here we anchored in ten fathoms water, over a bottom of oozy sand; distant from the shore one-third of a mile [500&#160;m]."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></dd>
+</dl>
+</dd>
+</dl>
+<p>Cook never used the name Nukualofa or any other spelling for the reports of this voyage, but he mentioned the island of Pangaimodoo (<a href="/wiki/Pangaimotu_(Tongatapu)" title="Pangaimotu (Tongatapu)">Pangaimotu</a>) which was to the east of his anchorage position. Captain Cook also wrote that he travelled by canoes to visit Mooa (<a href="/wiki/Mu%27a_(Tongatapu)" class="mw-redirect" title="Mu'a (Tongatapu)">Mu<span class="unicode">ʻ</span>a</a>) where Paulaho and other great men lived. The house that Paulaho provided was on the beach 500 metres (<span class="frac nowrap"><sup>1</sup>⁄<sub>3</sub></span>&#160;mi) from the ship. Reference to his map shows that he must have landed and stayed in the Siesia area, the eastern part of modern Nuku<span class="unicode">ʻ</span>alofa. Cook also drafted the first map of the bay of Nuku'alofa.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:Sketch_of_Tongataboo_Harbour_1777.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sketch_of_Tongataboo_Harbour_1777.PNG/300px-Sketch_of_Tongataboo_Harbour_1777.PNG" width="300" height="433" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sketch_of_Tongataboo_Harbour_1777.PNG/450px-Sketch_of_Tongataboo_Harbour_1777.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/f/fb/Sketch_of_Tongataboo_Harbour_1777.PNG 2x" data-file-width="458" data-file-height="661" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sketch_of_Tongataboo_Harbour_1777.PNG" class="internal" title="Enlarge"></a></div>
+The first recorded Map of Tongataboo Harbour as sketched by Captain Cook in 1777. The map clearly shows the Bay of Nuku'alofa and his anchored position near Pangaimotu. Small islands of Nuku'alofa were named with phonetic spelling, including Atata, Pangaimotu, Makaha'a, and Fetoa.</div>
+</div>
+</div>
+<p>The first written record for Nuku'alofa is stated in the first dedicated book for Tonga by George Vason which was published in 1810. George Vason was an English missionary from the <a href="/wiki/London_Missionary_Society" title="London Missionary Society">London Missionary Society</a>, who arrived in Tonga in 1797. George Vason wrote of their arrival that:</p>
+<dl>
+<dd>
+<dl>
+<dd>Before we could well come to an anchor, the ship was surrounded by the natives, who flocked to us from every adjacent Island. The place, before which we anchored, was called <b>Noogollefa</b>: it was near an Island, named Bonghy-moddoo; on which former navigators pitched their tents, as a convenient spot, on account of its separation from the main Island, to preserve themselves from being too much incommoded by the natives.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> That was the first mention of Nuku'alofa, spelled as Noogoollefa. Pangaimotu was spelled as Bongy-Moddoo by George Vason since Tongan writing and alphabet would be developed in 1826-27.</dd>
+</dl>
+</dd>
+</dl>
+<p>The second oldest book dedicated to Tonga was by William Mariner, adopted son of <a href="/wiki/Finau_%27Ulukalala" class="mw-redirect" title="Finau 'Ulukalala">Finau 'Ulukalala</a>, which was published in 1817. Mariner described his experiences during the years he was the adopted son of 'Ulukalala (1806–1810). He described the civil war and the siege of the Fort of Nuku'alofa, which fell to 'Ulukalala and his warriors.</p>
+<p>The third attempt of Christian missionaries were recorded in April 1826, when two Tahitian London Missionaries were detained by Tupou the chief of Nuku'alofa.</p>
+<dl>
+<dd>
+<dl>
+<dd>In March 1826, the four men left Tahiti in the Minerva, their destination Fiji. But at Nuku’alofa, Tonga, their plans were disrupted by the high chief <a href="/wiki/George_Tupou_I" title="George Tupou I">Tupou</a> (Aleamotu’a). From Davies’ perspective the Tahitian were placed under detention at Tongatapu: “The chief called Tupou would not let them proceed. He had been himself a resident in Lageba and calls himself the friend of Tuineau, the chief of Lageba and as such he took possession of the present intended for the Fijian chief".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></dd>
+</dl>
+</dd>
+</dl>
+<p>The arrival of the Methodist missionaries in Nuku'alofa in 1827 reinforced the Christian faith. The persecution suffered by Christians in Hihifo and Hahake forced a lot of people to seek refuge in Nuku'alofa. Thanks to the encouragement of Tupou, the King of Nuku'alofa, this was the beginning of the expanding of Nuku'alofa to become the major center of Christianity in Tonga.</p>
+<p>The final phase of the arrival of Christianity in Tonga was the arrival of Father Chevron, or Patele Sevelo, in 1842. He wrote that he arrived in Nuku'alofa in 1842 and met the Tu'i Kanokupolu Aleamotu'a who was baptised by the Wesleyan as Sosaia.</p>
+<p>In conclusion, these arrival turned Nuku'alofa from a small village and fort into the center of Tonga during the arrival of Christianity.</p>
+<p>From the earliest record for Nuku'alofa, the early writer always refer to the settlement as Noogollefa (1797), Nioocalofa (1806), Nukualofa (1826 by Methodist) and Noukou-Alofa (1842 by French Catholic Priest). There was no other mention of any other name of the settlement but only of the settlement or fort of Nuku'alofa.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Taumoepeau_Building.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Taumoepeau_Building.jpg/200px-Taumoepeau_Building.jpg" width="200" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Taumoepeau_Building.jpg/300px-Taumoepeau_Building.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Taumoepeau_Building.jpg/400px-Taumoepeau_Building.jpg 2x" data-file-width="2048" data-file-height="1536" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Taumoepeau_Building.jpg" class="internal" title="Enlarge"></a></div>
+Taumoepeau Building</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Capital_of_the_Kingdom_of_Tonga_.281875_and_later.29">Capital of the Kingdom of Tonga (1875 and later)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=edit&amp;section=4" title="Edit section: Capital of the Kingdom of Tonga (1875 and later)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Declaration of the Constitution of Tonga in 1875 formalised Nuku'alofa as the Capital of Tonga. King George Taufa'ahau Tupou I issued the Constitution of Tonga on 4 November 1875, in Nuku'alofa. The Constitution also stated (Article 38) that the Parliament will meet in Nuku'alofa except in time of war.</p>
+<p>Since Nuku'alofa have been expanding from when it became the center of Christianity in Tonga in the 19th century, it became essential that it was reorganised for effective administration of the capital. The reorganisation of Nuku'alofa divided up Nuku'alofa into three major district areas:</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Tonga_Royal_Palace_Oct_08.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tonga_Royal_Palace_Oct_08.jpg/220px-Tonga_Royal_Palace_Oct_08.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tonga_Royal_Palace_Oct_08.jpg/330px-Tonga_Royal_Palace_Oct_08.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tonga_Royal_Palace_Oct_08.jpg/440px-Tonga_Royal_Palace_Oct_08.jpg 2x" data-file-width="1840" data-file-height="1380" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Tonga_Royal_Palace_Oct_08.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Royal_Palace,_Tonga" title="Royal Palace, Tonga">Royal Palace of Tonga</a></div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Kolomotu%27a" class="mw-redirect" title="Kolomotu'a">Kolomotu'a</a> (<i>Kolo</i> meaning "town" or "settlement", <i>motu'a</i> meaning "old"), encompassing the city's original settlement at the old fort of Nukualofa, including the area of Tavatu'utolu (Longolongo), Sopu 'o Vave (now Sopu 'o Taufa'ahau), Tongata'eapa, Tufuenga, Kapeta and all the western area where it was the traditional settlement of the Tu'i Kanokupolu from Mumui the 13th Tu'i Kanokupolu to Aleamotu'a the 18th Tu'i Kanokupolu.</li>
+<li><a href="/wiki/Kolofo%27ou" class="mw-redirect" title="Kolofo'ou">Kolofo'ou</a> (<i>fo'ou</i> meaning "new"). This area started from the Vaha'akolo Road and all the eastern side to Ma'ufanga which include the Palace of King George Taufa'ahau Tupou I and seat of Government, as well as all the new settlement of Fasi moe Afi 'a Tungi, Malie Taha (One Mile), Ngele'ia was an old settlement during the civil wars and Taufa'ahau and his warriors destroy this settlement. Taufa'ahau settled in his kau To'a Tautahi (Sea-Warlords) in Nuku'alofa for his protection and security from enemies and named the area Kolofo'ou (Newtown or Newsettling). This happened after the burn down and fall of Takai's fortress of Pea in the command of his son Moeakiola in 1852. About the same time Taufa'ahau moved his capital to Kolofo'ou, Nuku'alofa after he ruled and reigned from Pangai, Ha'apai since 1845.</li>
+<li>Ma'ufanga, on the eastern side of Nuku'alofa. Ma'ufanga was an old village of the Ha'a Takalaua, which is the Estate of the Chief Fakafanua. George Vason mentioned that Ma'ufanga was a refugees area during the civil war, where people could take shelter in time of hardship. Ma'ufanga is the area facing Pangaimotu, where James Cook anchored, and where Paulaho built him a house on the beach, about 500 meters from the ship.</li>
+</ul>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Parliament_Nuku%27alofa.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Parliament_Nuku%27alofa.jpg/220px-Parliament_Nuku%27alofa.jpg" width="220" height="163" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Parliament_Nuku%27alofa.jpg/330px-Parliament_Nuku%27alofa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Parliament_Nuku%27alofa.jpg/440px-Parliament_Nuku%27alofa.jpg 2x" data-file-width="2080" data-file-height="1544" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Parliament_Nuku%27alofa.jpg" class="internal" title="Enlarge"></a></div>
+Prime Minister's Office</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Government">Government</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=edit&amp;section=5" title="Edit section: Government">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The national government is based in Nuku<span class="unicode">ʻ</span>alofa. The parliament of Tonga meets there, and the Royal Palace is located near the city.</p>
+<h2><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=edit&amp;section=6" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tropical marine climate.</p>
+<table class="infobox" style="width: 19.5em; float: right; clear: none; text-align: center; border: solid 1px silver" cellspacing="0" cellpadding="0">
+<tr>
+<th>Nuku'alofa</th>
+</tr>
+<tr>
+<th style="font-size: 90%">Climate chart (<a href="/wiki/Template:Climate_chart/How_to_read_a_climate_chart" title="Template:Climate chart/How to read a climate chart">explanation</a>)</th>
+</tr>
+<tr>
+<td>
+<table class="infobox" style="width: 100%; margin: 0; float: right; clear: none; text-align: center; border: none; font-size: 90%" cellspacing="0" cellpadding="0">
+<tr>
+<td>J</td>
+<td>F</td>
+<td>M</td>
+<td>A</td>
+<td>M</td>
+<td>J</td>
+<td>J</td>
+<td>A</td>
+<td>S</td>
+<td>O</td>
+<td>N</td>
+<td>D</td>
+</tr>
+<tr>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2.6em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">130</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.4em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.6em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">28</span></div>
+<div style="color:red;position:absolute;bottom:10.9em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">22</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:3.8em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">190</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.4em;height:1.4em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.8em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">29</span></div>
+<div style="color:red;position:absolute;bottom:10.9em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">22</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:4.2em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">210</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.4em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.6em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">28</span></div>
+<div style="color:red;position:absolute;bottom:10.9em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">22</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2.4em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">120</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.2em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.4em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">27</span></div>
+<div style="color:red;position:absolute;bottom:10.7em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">21</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2.6em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">130</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.2em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">26</span></div>
+<div style="color:red;position:absolute;bottom:10.5em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">20</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">100</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:11.6em;height:1.4em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">25</span></div>
+<div style="color:red;position:absolute;bottom:10.1em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">18</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">100</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:11.4em;height:1.6em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">25</span></div>
+<div style="color:red;position:absolute;bottom:9.9em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">17</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2.6em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">130</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:11.6em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:12.8em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">24</span></div>
+<div style="color:red;position:absolute;bottom:10.1em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">18</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2.2em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">110</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:11.4em;height:1.6em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">25</span></div>
+<div style="color:red;position:absolute;bottom:9.9em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">17</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:1.8em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">90</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:11.8em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">25</span></div>
+<div style="color:red;position:absolute;bottom:10.3em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">19</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">100</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12em;height:1.4em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.4em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">27</span></div>
+<div style="color:red;position:absolute;bottom:10.5em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">20</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2.4em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">120</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12em;height:1.4em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.4em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">27</span></div>
+<div style="color:red;position:absolute;bottom:10.5em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">20</span></div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="12" style="padding: 2px; text-align: left; line-height: 1.5em; color: red">Average max. and min. temperatures in °C</td>
+</tr>
+<tr>
+<td colspan="12" style="padding: 2px; text-align: left; line-height: 1.5em; color: blue">Precipitation totals in mm</td>
+</tr>
+<tr>
+<td colspan="12" style="padding: 2px; text-align: left; line-height: 1.5em"><i>Source: <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></i></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="infobox collapsible collapsed" style="width: 100%; margin: 0; float: right; clear: none; text-align: center; border: none; font-size: 90%" cellspacing="0" cellpadding="0">
+<tr>
+<th colspan="12">Imperial conversion</th>
+</tr>
+<tr>
+<td>J</td>
+<td>F</td>
+<td>M</td>
+<td>A</td>
+<td>M</td>
+<td>J</td>
+<td>J</td>
+<td>A</td>
+<td>S</td>
+<td>O</td>
+<td>N</td>
+<td>D</td>
+</tr>
+<tr>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2.6em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">5.1</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.4em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.6em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">82</span></div>
+<div style="color:red;position:absolute;bottom:10.9em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">72</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:3.8em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">7.5</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.4em;height:1.4em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.8em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">84</span></div>
+<div style="color:red;position:absolute;bottom:10.9em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">72</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:4.2em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">8.3</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.4em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.6em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">82</span></div>
+<div style="color:red;position:absolute;bottom:10.9em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">72</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2.4em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">4.7</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.2em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.4em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">81</span></div>
+<div style="color:red;position:absolute;bottom:10.7em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">70</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2.6em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">5.1</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.2em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">79</span></div>
+<div style="color:red;position:absolute;bottom:10.5em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">68</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">3.9</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:11.6em;height:1.4em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">77</span></div>
+<div style="color:red;position:absolute;bottom:10.1em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">64</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">3.9</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:11.4em;height:1.6em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">77</span></div>
+<div style="color:red;position:absolute;bottom:9.9em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">63</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2.6em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">5.1</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:11.6em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:12.8em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">75</span></div>
+<div style="color:red;position:absolute;bottom:10.1em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">64</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2.2em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">4.3</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:11.4em;height:1.6em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">77</span></div>
+<div style="color:red;position:absolute;bottom:9.9em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">63</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:1.8em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">3.5</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:11.8em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">77</span></div>
+<div style="color:red;position:absolute;bottom:10.3em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">66</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">3.9</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12em;height:1.4em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.4em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">81</span></div>
+<div style="color:red;position:absolute;bottom:10.5em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">68</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2.4em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">4.7</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12em;height:1.4em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.4em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">81</span></div>
+<div style="color:red;position:absolute;bottom:10.5em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">68</span></div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="12" style="padding: 2px; text-align: left; line-height: 1.5em; color: red">Average max. and min. temperatures in °F</td>
+</tr>
+<tr>
+<td colspan="12" style="padding: 2px; text-align: left; line-height: 1.5em; color: blue">Precipitation totals in inches</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="wikitable collapsible" style="width:90%; text-align:center; font-size:90%; line-height: 1.2em; margin:auto;">
+<tr>
+<th colspan="14">Climate data for Nukuʻalofa (Elevation: 2m)</th>
+</tr>
+<tr>
+<th>Month</th>
+<th>Jan</th>
+<th>Feb</th>
+<th>Mar</th>
+<th>Apr</th>
+<th>May</th>
+<th>Jun</th>
+<th>Jul</th>
+<th>Aug</th>
+<th>Sep</th>
+<th>Oct</th>
+<th>Nov</th>
+<th>Dec</th>
+<th style="border-left-width:medium">Year</th>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Record high °C (°F)</th>
+<td style="background: #FF4100; color:#000000;">32<br />
+(90)</td>
+<td style="background: #FF4100; color:#000000;">32<br />
+(90)</td>
+<td style="background: #FF4800; color:#000000;">31<br />
+(88)</td>
+<td style="background: #FF4F00; color:#000000;">30<br />
+(86)</td>
+<td style="background: #FF4F00; color:#000000;">30<br />
+(86)</td>
+<td style="background: #FF5D00; color:#000000;">28<br />
+(82)</td>
+<td style="background: #FF5D00; color:#000000;">28<br />
+(82)</td>
+<td style="background: #FF5D00; color:#000000;">28<br />
+(82)</td>
+<td style="background: #FF5D00; color:#000000;">28<br />
+(82)</td>
+<td style="background: #FF5600; color:#000000;">29<br />
+(84)</td>
+<td style="background: #FF4F00; color:#000000;">30<br />
+(86)</td>
+<td style="background: #FF4800; color:#000000;">31<br />
+(88)</td>
+<td style="background: #FF4100; color:#000000; border-left-width:medium">32<br />
+(90)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average high °C (°F)</th>
+<td style="background: #FF5300; color:#000000;">29.4<br />
+(84.9)</td>
+<td style="background: #FF4F00; color:#000000;">29.9<br />
+(85.8)</td>
+<td style="background: #FF5200; color:#000000;">29.6<br />
+(85.3)</td>
+<td style="background: #FF5900; color:#000000;">28.5<br />
+(83.3)</td>
+<td style="background: #FF6500; color:#000000;">26.8<br />
+(80.2)</td>
+<td style="background: #FF6C00; color:#000000;">25.8<br />
+(78.4)</td>
+<td style="background: #FF7200; color:#000000;">24.9<br />
+(76.8)</td>
+<td style="background: #FF7300; color:#000000;">24.8<br />
+(76.6)</td>
+<td style="background: #FF6F00; color:#000000;">25.3<br />
+(77.5)</td>
+<td style="background: #FF6800; color:#000000;">26.4<br />
+(79.5)</td>
+<td style="background: #FF5F00; color:#000000;">27.6<br />
+(81.7)</td>
+<td style="background: #FF5800; color:#000000;">28.7<br />
+(83.7)</td>
+<td style="background: #FF6100; color:#000000; border-left-width:medium">27.3<br />
+(81.1)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Daily mean °C (°F)</th>
+<td style="background: #FF6800; color:#000000;">26.4<br />
+(79.5)</td>
+<td style="background: #FF6500; color:#000000;">26.8<br />
+(80.2)</td>
+<td style="background: #FF6600; color:#000000;">26.6<br />
+(79.9)</td>
+<td style="background: #FF6F00; color:#000000;">25.3<br />
+(77.5)</td>
+<td style="background: #FF7B00; color:#000000;">23.6<br />
+(74.5)</td>
+<td style="background: #FF8104; color:#000000;">22.7<br />
+(72.9)</td>
+<td style="background: #FF8914; color:#000000;">21.5<br />
+(70.7)</td>
+<td style="background: #FF8914; color:#000000;">21.5<br />
+(70.7)</td>
+<td style="background: #FF860D; color:#000000;">22.0<br />
+(71.6)</td>
+<td style="background: #FF7E00; color:#000000;">23.1<br />
+(73.6)</td>
+<td style="background: #FF7500; color:#000000;">24.4<br />
+(75.9)</td>
+<td style="background: #FF6D00; color:#000000;">25.6<br />
+(78.1)</td>
+<td style="background: #FF7700; color:#000000; border-left-width:medium">24.1<br />
+(75.4)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average low °C (°F)</th>
+<td style="background: #FF7C00; color:#000000;">23.4<br />
+(74.1)</td>
+<td style="background: #FF7A00; color:#000000;">23.7<br />
+(74.7)</td>
+<td style="background: #FF7B00; color:#000000;">23.6<br />
+(74.5)</td>
+<td style="background: #FF850C; color:#000000;">22.1<br />
+(71.8)</td>
+<td style="background: #FF9225; color:#000000;">20.3<br />
+(68.5)</td>
+<td style="background: #FF9730; color:#000000;">19.5<br />
+(67.1)</td>
+<td style="background: #FFA143; color:#000000;">18.1<br />
+(64.6)</td>
+<td style="background: #FFA042; color:#000000;">18.2<br />
+(64.8)</td>
+<td style="background: #FF9D3C; color:#000000;">18.6<br />
+(65.5)</td>
+<td style="background: #FF962D; color:#000000;">19.7<br />
+(67.5)</td>
+<td style="background: #FF8C1A; color:#000000;">21.1<br />
+(70)</td>
+<td style="background: #FF8206; color:#000000;">22.5<br />
+(72.5)</td>
+<td style="background: #FF8D1C; color:#000000; border-left-width:medium">20.9<br />
+(69.6)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Record low °C (°F)</th>
+<td style="background: #FFAF60; color:#000000;">16<br />
+(61)</td>
+<td style="background: #FFA852; color:#000000;">17<br />
+(63)</td>
+<td style="background: #FFB66E; color:#000000;">15<br />
+(59)</td>
+<td style="background: #FFB66E; color:#000000;">15<br />
+(59)</td>
+<td style="background: #FFC489; color:#000000;">13<br />
+(55)</td>
+<td style="background: #FFD2A5; color:#000000;">11<br />
+(52)</td>
+<td style="background: #FFD9B3; color:#000000;">10<br />
+(50)</td>
+<td style="background: #FFD2A5; color:#000000;">11<br />
+(52)</td>
+<td style="background: #FFD2A5; color:#000000;">11<br />
+(52)</td>
+<td style="background: #FFCB97; color:#000000;">12<br />
+(54)</td>
+<td style="background: #FFC489; color:#000000;">13<br />
+(55)</td>
+<td style="background: #FFAF60; color:#000000;">16<br />
+(61)</td>
+<td style="background: #FFD9B3; color:#000000; border-left-width:medium">10<br />
+(50)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average rainfall mm (inches)</th>
+<td style="background: #00FA00; color:#000000;">174<br />
+(6.85)</td>
+<td style="background: #00A300; color:#FFFFFF;">210<br />
+(8.27)</td>
+<td style="background: #00CB00; color:#000000;">206<br />
+(8.11)</td>
+<td style="background: #00FF00; color:#000000;">165<br />
+(6.5)</td>
+<td style="background: #59FF59; color:#000000;">111<br />
+(4.37)</td>
+<td style="background: #6CFF6C; color:#000000;">95<br />
+(3.74)</td>
+<td style="background: #71FF71; color:#000000;">95<br />
+(3.74)</td>
+<td style="background: #50FF50; color:#000000;">117<br />
+(4.61)</td>
+<td style="background: #43FF43; color:#000000;">122<br />
+(4.8)</td>
+<td style="background: #40FF40; color:#000000;">128<br />
+(5.04)</td>
+<td style="background: #41FF41; color:#000000;">123<br />
+(4.84)</td>
+<td style="background: #00F900; color:#000000;">175<br />
+(6.89)</td>
+<td style="background: #25FF25; color:#000000; border-left-width:medium">1,721<br />
+(67.76)</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average rainy days</th>
+<td style="background: #2D2DFF; color:#FFFFFF;">17</td>
+<td style="background: #0000FA; color:#FFFFFF;">19</td>
+<td style="background: #1414FF; color:#FFFFFF;">19</td>
+<td style="background: #2626FF; color:#FFFFFF;">17</td>
+<td style="background: #4545FF; color:#FFFFFF;">15</td>
+<td style="background: #4C4CFF; color:#FFFFFF;">14</td>
+<td style="background: #4545FF; color:#FFFFFF;">15</td>
+<td style="background: #5E5EFF; color:#FFFFFF;">13</td>
+<td style="background: #5959FF; color:#FFFFFF;">13</td>
+<td style="background: #7777FF; color:#000000;">11</td>
+<td style="background: #6666FF; color:#FFFFFF;">12</td>
+<td style="background: #4545FF; color:#FFFFFF;">15</td>
+<td style="background: #4242FF; color:#FFFFFF; border-left-width:medium">180</td>
+</tr>
+<tr style="text-align: center;">
+<th style="height: 16px;">Average <a href="/wiki/Relative_humidity" title="Relative humidity">relative humidity</a> (%)</th>
+<td style="background: #0000D7; color:#FFFFFF;">77</td>
+<td style="background: #0000D3; color:#FFFFFF;">78</td>
+<td style="background: #0000CF; color:#FFFFFF;">79</td>
+<td style="background: #0000DB; color:#FFFFFF;">76</td>
+<td style="background: #0000D3; color:#FFFFFF;">78</td>
+<td style="background: #0000D7; color:#FFFFFF;">77</td>
+<td style="background: #0000DF; color:#FFFFFF;">75</td>
+<td style="background: #0000DF; color:#FFFFFF;">75</td>
+<td style="background: #0000E2; color:#FFFFFF;">74</td>
+<td style="background: #0000E2; color:#FFFFFF;">74</td>
+<td style="background: #0000E6; color:#FFFFFF;">73</td>
+<td style="background: #0000DF; color:#FFFFFF;">75</td>
+<td style="background: #0000DB; color:#FFFFFF; border-left-width:medium">76</td>
+</tr>
+<tr>
+<td colspan="14" style="text-align:center;font-size:95%;">Source: Weatherbase<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=edit&amp;section=7" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Talamahu.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Talamahu.jpg/220px-Talamahu.jpg" width="220" height="116" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Talamahu.jpg/330px-Talamahu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Talamahu.jpg/440px-Talamahu.jpg 2x" data-file-width="1137" data-file-height="597" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Talamahu.jpg" class="internal" title="Enlarge"></a></div>
+Talamahu Market</div>
+</div>
+</div>
+<p>Nuku<span class="unicode">ʻ</span>alofa is the economic hub of the country.</p>
+<p><a href="/wiki/Peau_Vava%CA%BBu" title="Peau Vavaʻu">Peau Vavaʻu</a>, an airline, had its head office in the Pacific Royale Hotel in Nukuʻalofa.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> The former <a href="/wiki/Royal_Tongan_Airlines" title="Royal Tongan Airlines">Royal Tongan Airlines</a> had its head office in the Royco Building in Nuku<span class="unicode">ʻ</span>alofa.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<p>The city has markets and a central business district. Much of the central business district was destroyed during the <a href="/wiki/2006_Nuku%E2%80%98alofa_riots" title="2006 Nuku‘alofa riots">2006 Nuku‘alofa riots</a>, but it is being rebuilt.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2011)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Transport">Transport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=edit&amp;section=8" title="Edit section: Transport">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Fua%27amoto_International_Airport_Entrance.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fua%27amoto_International_Airport_Entrance.jpg/200px-Fua%27amoto_International_Airport_Entrance.jpg" width="200" height="112" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fua%27amoto_International_Airport_Entrance.jpg/300px-Fua%27amoto_International_Airport_Entrance.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Fua%27amoto_International_Airport_Entrance.jpg/400px-Fua%27amoto_International_Airport_Entrance.jpg 2x" data-file-width="2397" data-file-height="1339" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Fua%27amoto_International_Airport_Entrance.jpg" class="internal" title="Enlarge"></a></div>
+Fua'amotu International Airport, near Nuku'alofa</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:The_Free_Church_of_Tonga_2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_Free_Church_of_Tonga_2.jpg/200px-The_Free_Church_of_Tonga_2.jpg" width="200" height="159" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_Free_Church_of_Tonga_2.jpg/300px-The_Free_Church_of_Tonga_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_Free_Church_of_Tonga_2.jpg/400px-The_Free_Church_of_Tonga_2.jpg 2x" data-file-width="800" data-file-height="636" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:The_Free_Church_of_Tonga_2.jpg" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/Free_Church_of_Tonga" title="Free Church of Tonga">Free Church of Tonga</a></div>
+</div>
+</div>
+<p>Nuku<span class="unicode">ʻ</span>alofa is the central hub for transport in Tonga.</p>
+<p>Buses arrive and depart from the central bus station along Vuna Road close to the centre of town. Bus services are privately operated, and their drivers are free to set their own schedules. Fares are fixed by the government, with reduced rates for school children. The buses are usually filled to capacity. In addition, some schools and large hotels provide their own buses.</p>
+<p>There are numerous taxis, also privately owned. Many people who own a car earn extra money by providing taxi services in their spare time. Taxi fares are also set by the government. Most families have their own car; few residents ride bicycles. There are no operational railways or trams in Tonga, although there was once a narrow-gauge railway from the lagoon to the wharf, which gave its name to Railway Road.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></p>
+<p>Nuku<span class="unicode">ʻ</span>alofa harbour is the only deep-water harbour of the island, which determined its selection as the site for the capital. For many years Vuna Wharf was the international harbour until it was destroyed by an earthquake in 1977. A new, much larger wharf was built towards Ma<span class="unicode">ʻ</span>ufanga, named after Queen Sālote. Between these two wharves is the wharf numbered '42', used by fishermen and inter-island ferries. It is the central hub for boats to the outer islands. There are usually two boats to <a href="/wiki/%CA%BBEua" title="ʻEua">ʻEua</a> each day and two to <a href="/wiki/Ha%CA%BBapai" title="Haʻapai">Haʻapai</a> and <a href="/wiki/Vava%CA%BBu" title="Vavaʻu">Vavaʻu</a> each week. In addition to these regular services by shipping companies, private boat owners provide less regular services to smaller islands such as <a href="/wiki/Nomuka" title="Nomuka">Nomuka</a> and <a href="/w/index.php?title=%27Eueiki&amp;action=edit&amp;redlink=1" class="new" title="'Eueiki (page does not exist)"><span class="unicode">ʻ</span>Eueiki</a>.</p>
+<p>Air transport is provided by <a href="/wiki/Fua%CA%BBamotu_International_Airport" title="Fuaʻamotu International Airport">Fua<span class="unicode">ʻ</span>amotu International Airport</a> on the south side of Tongatapu, 35 kilometres from Nuku<span class="unicode">ʻ</span>alofa.</p>
+<h2><span class="mw-headline" id="2015_island_creation">2015 island creation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=edit&amp;section=9" title="Edit section: 2015 island creation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In January 2015, a new island of about 1&#160;km diameter was reported to be created by a volcanic eruption. The newly formed island is situated about 65 kilometers (40 miles) northwest of the capital city.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Twin_towns.2FSister_cities">Twin towns/Sister cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=edit&amp;section=10" title="Edit section: Twin towns/Sister cities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Nukuʻalofa is <a href="/wiki/Twin_towns_and_sister_cities" title="Twin towns and sister cities">twinned</a> with:</p>
+<ul>
+<li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Whitby" title="Whitby">Whitby</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></li>
+<li><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Hazleton,_Pennsylvania" title="Hazleton, Pennsylvania">Hazleton</a>, <a href="/wiki/United_States" title="United States">United States</a></li>
+</ul>
+<h2><span class="mw-headline" id="Endnotes">Endnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=edit&amp;section=11" title="Edit section: Endnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Cook, 1783, pg 277</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Vason, 1810,p 68</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Munro and Thornley, p. 94</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.weatherbase.com/weather/weather.php3?s=26719&amp;refer=&amp;units=metric">www.weatherbase.com</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.weatherbase.com/weather/weather.php3?s=88719&amp;cityname=Nuku'alofa-Tonga">"Nuku'alofa Climate Info"</a>. Weatherbase<span class="reference-accessdate">. Retrieved <span class="nowrap">4 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANuku%CA%BBalofa&amp;rft.btitle=Nuku%27alofa+Climate+Info&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.weatherbase.com%2Fweather%2Fweather.php3%3Fs%3D88719%26cityname%3DNuku%27alofa-Tonga&amp;rft.pub=Weatherbase&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://web.archive.org/web/20070612110829/www.peauvavau.to/contact.html">Contact Information for Peau Vavaʻu</a>." Peau Vavaʻu. June 12, 2007. Retrieved on January 20, 2011. "Peau Vava'u Limited Pacific Royale Hotel Taufa'ahau Road Nuku'alofa Kingdom of Tonga"</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">"World Airline Directory." <i>Flight International</i>. 30 March – 5 April 2004. <a rel="nofollow" class="external text" href="http://www.flightglobal.com/pdfarchive/view/2004/2004-09%20-%200303.html">61</a>.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://web.archive.org/web/20040606140002/royaltonganairlines.com/contact/contact.html">Contact Information</a>." <a href="/wiki/Royal_Tongan_Airlines" title="Royal Tongan Airlines">Royal Tongan Airlines</a>. 6 June 2004. Retrieved on 23 October 2009.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.industrialdean.co.uk/world/apacificgallery.htm">"Transport and Industry – The Leftovers&#160;:: The Photo Galleries"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-11-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANuku%CA%BBalofa&amp;rft.btitle=Transport+and+Industry+%93+The+Leftovers+%3A%3A+The+Photo+Galleries&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.industrialdean.co.uk%2Fworld%2Fapacificgallery.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.discovery.com/earth/weather-extreme-events/tongan-volcano-creates-new-island-150117.htm">"D news"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 21,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANuku%CA%BBalofa&amp;rft.btitle=D+news&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnews.discovery.com%2Fearth%2Fweather-extreme-events%2Ftongan-volcano-creates-new-island-150117.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.abc.net.au/news/2015-01-16/tonga-volcano-creates-large-new-land-mass/6022094">"ABC News"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 21,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANuku%CA%BBalofa&amp;rft.btitle=ABC+News&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.abc.net.au%2Fnews%2F2015-01-16%2Ftonga-volcano-creates-large-new-land-mass%2F6022094&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<ul>
+<li>Transport and Industry: <a rel="nofollow" class="external free" href="http://www.industrialdean.co.uk/wpacific/apacificgallery.htm">http://www.industrialdean.co.uk/wpacific/apacificgallery.htm</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul>
+<li>Vason G, <i>An authentic of narrative of four years residence at one of the Friendly Islands</i>, 1810</li>
+<li><a href="/wiki/John_Martin_(meteorologist)" title="John Martin (meteorologist)">Martin J</a>, <i>An account of the natives of the Tonga Islands, in the south pacific ocean. with an original grammar and vocabulary of their language. Compiled and arranged from the extensive communication of Mr William Mariner, several years resident in those islands</i>, 1817</li>
+<li>Munro and Thornley, <i>The convant makers: Islanders missionaries in the Pacific</i>, 1996.</li>
+<li>Findlay and Holdworth, <i>History of the Wesleyan Methodist Missionary Society</i> Vol III, 1921</li>
+<li>Monfat A, <i>Les Tonga; ou, Archipel des Amis et le R. P. Joseph Chevron de la Société de Marie</i>, 1893</li>
+<li>Rowe Stringer G. <i>A Pioneer, A Memoir of The Rev. John Thomas</i> (1885)</li>
+<li>Farmer, Sarah Stock, <i>Tonga and the Friendly Islands: With A Sketch of the Mission History</i>, 1885</li>
+<li>Schütz, Albert J, <i>The diaries and correspondence of David Cargill</i>, by David Cargill, 1832–1843; 1937</li>
+<li>Garret John, <i>To Live Among the Stars; Origin of Christianity in Oceania</i>, 1982</li>
+<li><a href="/wiki/Elijah_Hoole" title="Elijah Hoole">Elijah Hoole</a> (ed.), <i>Friendly and Feejee Islands: a missionary visit to various stations in them</i>; by <a href="/w/index.php?title=Walter_Lawry&amp;action=edit&amp;redlink=1" class="new" title="Walter Lawry (page does not exist)">Walter Lawry</a>, 1857</li>
+<li>Campbell, I.C. <i>Island Kingdom: Tonga Ancient and Modern</i>. Christchurch, 1992</li>
+<li>Gifford, Edward Winslow, <i>Tongan Places Name</i>, 1923</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Nuku%27alofa" class="extiw" title="commons:Category:Nuku'alofa">Nuku'alofa</a> at Wikimedia Commons</p>
+<div role="navigation" class="navbox" aria-labelledby="Capitals_of_Oceania" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:List_of_Oceanian_capitals_by_region" title="Template:List of Oceanian capitals by region"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:List_of_Oceanian_capitals_by_region" title="Template talk:List of Oceanian capitals by region"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:List_of_Oceanian_capitals_by_region&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Capitals_of_Oceania" style="font-size:114%"><a href="/wiki/Capital_city" title="Capital city">Capitals</a> of Oceania</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><a href="/wiki/Dependent_territory" title="Dependent territory">Dependent territories</a> are in italics</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px;background:transparent;color:inherit;">
+<div style="padding:0px;">
+<table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:auto; margin-left:auto; margin-right:auto;"></table>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Australasia" title="Australasia">Australasia</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Canberra" title="Canberra">Canberra</a></b>, <a href="/wiki/Australia" title="Australia">Australia</a></li>
+<li><b><a href="/wiki/Flying_Fish_Cove" title="Flying Fish Cove">Flying Fish Cove</a></b>, <i><a href="/wiki/Christmas_Island" title="Christmas Island">Christmas Island</a></i><sup><small>1 3</small></sup></li>
+<li><b><a href="/wiki/Kingston,_Norfolk_Island" title="Kingston, Norfolk Island">Kingston</a></b>, <i><a href="/wiki/Norfolk_Island" title="Norfolk Island">Norfolk Island</a></i><sup><small>1 2</small></sup></li>
+<li><b><a href="/wiki/Wellington" title="Wellington">Wellington</a></b>, <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a><sup><small>2</small></sup></li>
+<li><b><a href="/wiki/West_Island,_Cocos_(Keeling)_Islands" title="West Island, Cocos (Keeling) Islands">West Island</a></b>, <i><a href="/wiki/Cocos_(Keeling)_Islands" title="Cocos (Keeling) Islands">Cocos (Keeling) Islands</a></i><sup><small>1 3</small></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Melanesia" title="Melanesia">Melanesia</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Dili" title="Dili">Dili</a></b>, <a href="/wiki/East_Timor" title="East Timor">East Timor</a><sup><small>3</small></sup></li>
+<li><b><a href="/wiki/Honiara" title="Honiara">Honiara</a></b>, <a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a></li>
+<li><b><a href="/wiki/Noum%C3%A9a" title="Nouméa">Nouméa</a></b>, <i><a href="/wiki/New_Caledonia" title="New Caledonia">New Caledonia</a></i><sup><small>4</small></sup></li>
+<li><b><a href="/wiki/Port_Moresby" title="Port Moresby">Port Moresby</a></b>, <a href="/wiki/Papua_New_Guinea" title="Papua New Guinea">Papua New Guinea</a><sup><small>5</small></sup></li>
+<li><b><a href="/wiki/Port_Vila" title="Port Vila">Port Vila</a></b>, <a href="/wiki/Vanuatu" title="Vanuatu">Vanuatu</a></li>
+<li><b><a href="/wiki/Suva" title="Suva">Suva</a></b>, <a href="/wiki/Fiji" title="Fiji">Fiji</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Micronesia" title="Micronesia">Micronesia</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Hag%C3%A5t%C3%B1a,_Guam" title="Hagåtña, Guam">Hagåtña</a></b>, <i><a href="/wiki/Guam" title="Guam">Guam</a></i><sup><small>6</small></sup></li>
+<li><b><a href="/wiki/Majuro" title="Majuro">Majuro</a></b>, <a href="/wiki/Marshall_Islands" title="Marshall Islands">Marshall Islands</a><sup><small>12</small></sup></li>
+<li><b><a href="/wiki/Ngerulmud" title="Ngerulmud">Ngerulmud</a></b>, <a href="/wiki/Palau" title="Palau">Palau</a><sup><small>12</small></sup></li>
+<li><b><a href="/wiki/Palikir" title="Palikir">Palikir</a></b>, <a href="/wiki/Federated_States_of_Micronesia" title="Federated States of Micronesia">Federated States of Micronesia</a><sup><small>12</small></sup></li>
+<li><b><a href="/wiki/Saipan" title="Saipan">Saipan</a></b>, <i><a href="/wiki/Northern_Mariana_Islands" title="Northern Mariana Islands">Northern Mariana Islands</a></i><sup><small>6</small></sup></li>
+<li><b><a href="/wiki/South_Tarawa" title="South Tarawa">South Tarawa</a>/<a href="/wiki/Bairiki" title="Bairiki">Bairiki</a></b>, <a href="/wiki/Kiribati" title="Kiribati">Kiribati</a></li>
+<li><b><a href="/wiki/Yaren_District" title="Yaren District">Yaren</a></b>, <a href="/wiki/Nauru" title="Nauru">Nauru</a> <small>(de facto)</small></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Polynesia" title="Polynesia">Polynesia</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Adamstown,_Pitcairn_Islands" title="Adamstown, Pitcairn Islands">Adamstown</a></b>, <i><a href="/wiki/Pitcairn_Islands" title="Pitcairn Islands">Pitcairn Islands</a></i><sup><small>7</small></sup></li>
+<li><b><a href="/wiki/Alofi" class="mw-redirect" title="Alofi">Alofi</a></b>, <i><a href="/wiki/Niue" title="Niue">Niue</a></i><sup><small>9</small></sup></li>
+<li><b><a href="/wiki/Apia" title="Apia">Apia</a></b>, <a href="/wiki/Samoa" title="Samoa">Samoa</a></li>
+<li><b><a href="/wiki/Avarua" title="Avarua">Avarua</a></b>, <i><a href="/wiki/Cook_Islands" title="Cook Islands">Cook Islands</a></i><sup><small>9</small></sup></li>
+<li><b><a href="/wiki/Fakaofo" title="Fakaofo">Fakaofo</a></b>, <i><a href="/wiki/Tokelau" title="Tokelau">Tokelau</a></i><sup><small>9</small></sup></li>
+<li><b><a href="/wiki/Funafuti" title="Funafuti">Funafuti</a></b>, <a href="/wiki/Tuvalu" title="Tuvalu">Tuvalu</a></li>
+<li><b><a href="/wiki/Hanga_Roa" title="Hanga Roa">Hanga Roa</a></b>, <i><a href="/wiki/Easter_Island" title="Easter Island">Easter Island</a></i><sup><small>10</small></sup></li>
+<li><b><a href="/wiki/Honolulu" title="Honolulu">Honolulu</a></b>, <i><a href="/wiki/Hawaii" title="Hawaii">Hawaii</a></i><sup><small>11</small></sup></li>
+<li><b><a href="/wiki/Mata-Utu" title="Mata-Utu">Mata-Utu</a></b>, <i><a href="/wiki/Wallis_and_Futuna" title="Wallis and Futuna">Wallis and Futuna</a></i><sup><small>4</small></sup></li>
+<li><b><strong class="selflink">Nukuʻalofa</strong></b>, <a href="/wiki/Tonga" title="Tonga">Tonga</a></li>
+<li><b><a href="/wiki/Pago_Pago" title="Pago Pago">Pago Pago</a></b>, <i><a href="/wiki/American_Samoa" title="American Samoa">American Samoa</a></i><sup><small>6</small></sup></li>
+<li><b><a href="/wiki/Papeete" title="Papeete">Papeete</a></b>, <i><a href="/wiki/French_Polynesia" title="French Polynesia">French Polynesia</a></i><sup><small>4</small></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><sup><small>1</small></sup> <a href="/wiki/States_and_territories_of_Australia" title="States and territories of Australia">Territory</a> of <a href="/wiki/Australia" title="Australia">Australia</a></li>
+<li><sup><small>2</small></sup> Often included in Polynesia</li>
+<li><sup><small>3</small></sup> Often included in <a href="/wiki/Southeast_Asia" title="Southeast Asia">Southeast Asia</a></li>
+<li><sup><small>4</small></sup> <a href="/wiki/Overseas_collectivity" title="Overseas collectivity">Overseas collectivity</a> of <a href="/wiki/France" title="France">France</a></li>
+<li><sup><small>5</small></sup> Often included in Australasia</li>
+<li><sup><small>6</small></sup> <a href="/wiki/Insular_area" title="Insular area">Insular area</a> of the <a href="/wiki/United_States" title="United States">United States</a></li>
+<li><sup><small>7</small></sup> <a href="/wiki/British_Overseas_Territories" title="British Overseas Territories">Overseas Territory</a> of the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></li>
+<li><sup><small>8</small></sup> In <a href="/wiki/Associated_state" title="Associated state">free association</a> with <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a></li>
+<li><sup><small>9</small></sup> <a href="/wiki/Realm_of_New_Zealand" title="Realm of New Zealand">New Zealand dependent territory</a></li>
+<li><sup><small>10</small></sup> Territory of <a href="/wiki/Chile" title="Chile">Chile</a></li>
+<li><sup><small>11</small></sup> <a href="/wiki/U.S._state" title="U.S. state">U.S. state</a></li>
+<li><sup><small>12</small></sup> In <a href="/wiki/Associated_state" title="Associated state">free association</a> with the <a href="/wiki/United_States" title="United States">United States</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-label="Navbox" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span style="white-space:nowrap;"><a rel="nofollow" class="external text" href="//www.worldcat.org/identities/containsVIAFID/126723523">WorldCat Identities</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/126723523">126723523</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/names/n84195720">n84195720</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://d-nb.info/gnd/7577344-2">7577344-2</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:57356-0!*!0!!en!4!* and timestamp 20161020162915 and revision id 738149480
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nukuʻalofa&amp;oldid=738149480">https://en.wikipedia.org/w/index.php?title=Nukuʻalofa&amp;oldid=738149480</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Nuku%CA%BBalofa" title="Category:Nukuʻalofa">Nukuʻalofa</a></li><li><a href="/wiki/Category:Populated_places_in_Tonga" title="Category:Populated places in Tonga">Populated places in Tonga</a></li><li><a href="/wiki/Category:Capitals_in_Oceania" title="Category:Capitals in Oceania">Capitals in Oceania</a></li><li><a href="/wiki/Category:Port_cities_in_Oceania" title="Category:Port cities in Oceania">Port cities in Oceania</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2015" title="Category:Articles needing additional references from August 2015">Articles needing additional references from August 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2011" title="Category:Articles with unsourced statements from January 2011">Articles with unsourced statements from January 2011</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nuku%CA%BBalofa" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nuku%CA%BBalofa" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Nuku%CA%BBalofa"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Nuku%CA%BBalofa"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Nuku%CA%BBalofa" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Nuku%CA%BBalofa" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Nuku%CA%BBalofa" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;oldid=738149480" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q38834" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nuku%CA%BBalofa&amp;id=738149480" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nuku%CA%BBalofa">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Nuku%CA%BBalofa&amp;returnto=Nuku%CA%BBalofa&amp;oldid=738149480&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Nuku%CA%BBalofa&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Nuku%27alofa" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ace"><a href="https://ace.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Achinese" lang="ace" hreflang="ace" class="interlanguage-link-target">Acèh</a></li><li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8A%91%E1%8A%A9%E1%8A%A0%E1%88%8E%E1%8D%8B" title="ኑኩአሎፋ – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%86%D9%88%D9%83%D9%88_%D8%A3%D9%84%D9%88%D9%81%D8%A7" title="نوكو ألوفا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Nukualofa" title="Nukualofa – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B0%D0%B4_%D0%9D%D1%83%D0%BA%D1%83%D0%B0%D0%BB%D0%BE%D1%84%D0%B0" title="Горад Нукуалофа – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9D%D1%83%D0%BA%D1%83%D0%B0%D0%BB%D0%BE%D1%84%D0%B0" title="Нукуалофа – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9D%D1%83%D0%BA%D1%83%D0%B0%D0%BB%D0%BE%D1%84%D0%B0" title="Нукуалофа – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%93%E0%BD%B4%E0%BC%8B%E0%BD%81%E0%BD%B4%E0%BC%8B%E0%BD%A8%E0%BC%8B%E0%BD%A3%E0%BD%BC%E0%BC%8B%E0%BD%A7%E0%BE%A5%E0%BC%8D" title="ནུ་ཁུ་ཨ་ལོ་ཧྥ། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-ny"><a href="https://ny.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Nyanja" lang="ny" hreflang="ny" class="interlanguage-link-target">Chi-Chewa</a></li><li class="interlanguage-link interwiki-sn"><a href="https://sn.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Shona" lang="sn" hreflang="sn" class="interlanguage-link-target">ChiShona</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Nuku%E2%80%98alofa" title="Nuku‘alofa – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9D%CE%BF%CF%85%CE%BA%CE%BF%CF%85%CE%B1%CE%BB%CF%8C%CF%86%CE%B1" title="Νουκουαλόφα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Nukualofa" title="Nukualofa – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Nukualofo" title="Nukualofo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%D9%88%DA%A9%D9%88%D8%A2%D9%84%D9%88%D9%81%D8%A7" title="نوکوآلوفا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-hif"><a href="https://hif.wikipedia.org/wiki/Nukualofa" title="Nukualofa – Fiji Hindi" lang="hif" hreflang="hif" class="interlanguage-link-target">Fiji Hindi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%88%84%EC%BF%A0%EC%95%8C%EB%A1%9C%ED%8C%8C" title="누쿠알로파 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%86%D5%B8%D6%82%D5%AF%D5%B8%D6%82%D5%A1%D5%AC%D5%B8%D6%86%D5%A1" title="Նուկուալոֆա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%81%E0%A4%85%E0%A4%B2%E0%A5%8B%E0%A4%AB%E0%A4%BC%E0%A4%BE" title="नुकुअलोफ़ा – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A0%D7%95%D7%A7%D7%95%D7%90%D7%9C%D7%95%D7%A4%D7%94" title="נוקואלופה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%A3%E1%83%99%E1%83%A3%E1%83%90%E1%83%9A%E1%83%9D%E1%83%A4%E1%83%90" title="ნუკუალოფა – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Noukou%27alofa" title="Noukou'alofa – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9D%D1%83%D0%BA%D1%83%D0%B0%D0%BB%D0%BE%D1%84%D0%B0" title="Нукуалофа – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%9D%D1%83%D0%BA%D1%83%D0%B0%D0%BB%D0%BE%D1%84%D0%B0" title="Нукуалофа – Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Nukualofa" title="Nukualofa – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Nukualofa" title="Nukualofa – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Nukualofa" title="Nukualofa – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9D%D1%83%D0%BA%D1%83%D0%B0%D0%BB%D0%BE%D1%84%D0%B0" title="Нукуалофа – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%A8%E0%A5%81%E0%A4%95%E0%A5%81-%E0%A4%85%E0%A4%B2%E0%A5%8B%E0%A4%AB%E0%A4%BE" title="नुकु-अलोफा – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-mzn"><a href="https://mzn.wikipedia.org/wiki/%D9%86%D9%88%DA%A9%D9%88%D8%A2%D9%84%D9%88%D9%81%D8%A7" title="نوکوآلوفا – Mazanderani" lang="mzn" hreflang="mzn" class="interlanguage-link-target">مازِرونی</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8C%E3%82%AF%E3%82%A2%E3%83%AD%E3%83%95%E3%82%A1" title="ヌクアロファ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%A8%E0%A9%81%E0%A8%95%E0%A9%82_%E0%A8%85%E0%A8%B2%E0%A9%8B%E0%A8%AB%E0%A8%BC%E0%A8%BE" title="ਨੁਕੂ ਅਲੋਫ਼ਾ – Punjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ty"><a href="https://ty.wikipedia.org/wiki/Nuku%E2%80%99alofa" title="Nuku’alofa – Tahitian" lang="ty" hreflang="ty" class="interlanguage-link-target">Reo tahiti</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D1%83%D0%BA%D1%83%D0%B0%D0%BB%D0%BE%D1%84%D0%B0" title="Нукуалофа – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-se"><a href="https://se.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Northern Sami" lang="se" hreflang="se" class="interlanguage-link-target">Sámegiella</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Nuku%E2%80%99alofa" title="Nuku’alofa – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9D%D1%83%D0%BA%D1%83%D0%B0%D0%BB%D0%BE%D1%84%D0%B0" title="Нукуалофа – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Nukualofa" title="Nukualofa – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%27%E0%AE%85%E0%AE%B2%E0%AF%8B%E0%AE%AA%E0%AE%BE" title="நுக்கு'அலோபா – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%99%E0%B8%B9%E0%B8%81%E0%B8%B9%E0%B8%AD%E0%B8%B0%E0%B9%82%E0%B8%A5%E0%B8%9F%E0%B8%B2" title="นูกูอะโลฟา – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-to"><a href="https://to.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Tongan" lang="to" hreflang="to" class="interlanguage-link-target">Lea faka-Tonga</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D1%83%D0%BA%D1%83%D0%B0%D0%BB%D0%BE%D1%84%D0%B0" title="Нукуалофа – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%86%D9%88%DA%A9%D9%88%D8%A7%D9%84%D9%88%D9%81%D8%A7" title="نوکوالوفا – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Nuku%27alofa" title="Nuku'alofa – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/Nuku%CA%BBalofa" title="Nukuʻalofa – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E5%8A%AA%E5%BA%AB%E9%98%BF%E6%B4%9B%E6%B3%95" title="努庫阿洛法 – Cantonese" lang="zh-yue" hreflang="zh-yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%8A%AA%E5%BA%93%E9%98%BF%E6%B4%9B%E6%B3%95" title="努库阿洛法 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q38834#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 September 2016, at 05:58.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Nuku%CA%BBalofa&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.464",
+            "walltime": "0.557",
+            "ppvisitednodes": {
+                "value": 6729,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 171858,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 7483,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 14,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 4,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  439.148      1 -total",
+                " 36.06%  158.359      1 Template:Infobox_settlement",
+                " 28.12%  123.474      2 Template:Infobox",
+                " 14.45%   63.466      1 Template:Weather_box",
+                " 10.77%   47.318      1 Template:Reflist",
+                "  8.43%   37.035      4 Template:Cite_web",
+                "  6.21%   27.258      1 Template:Unreferenced_section",
+                "  6.20%   27.225      1 Template:Convert",
+                "  5.79%   25.423      1 Template:Climate_chart",
+                "  5.76%   25.315      1 Template:Citation_needed"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.138",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 5249549,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1172",
+            "timestamp": "20161020162915",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1184"});});</script>
+	</body>
+</html>

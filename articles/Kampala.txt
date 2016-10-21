@@ -1,0 +1,213 @@
+Kampala - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kampala","wgTitle":"Kampala","wgCurRevisionId":745096628,"wgRevisionId":745096628,"wgArticleId":56689,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles to be merged from August 2015","All articles to be merged","Settlement articles requiring maintenance","All articles with unsourced statements","Articles with unsourced statements from July 2015","Articles with unsourced statements from August 2016","Articles containing potentially dated statements from December 2011","All articles containing potentially dated statements","Commons category with page title same as on Wikidata","Official website different in Wikidata and Wikipedia","Coordinates on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Kampala","Capitals in Africa","Cities in the Great Rift Valley","Populated places in Uganda","Populated places on Lake Victoria"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Kampala","wgRelevantArticleId":56689,"wgRequestId":"WAoZ3QpAIC8AAEX30KUAAABC","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":0.31361111111111,"lon":32.581111111111},"wgWikibaseItemId":"Q3894","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Kampala From Wikipedia, the free encyclopedia Jump to: navigation , search This article is about the city of Kampala. For Old Kampala, see Kampala Hill . It has been suggested that Kampala District be merged into this article. ( Discuss ) Proposed since August 2015. Kampala From left to right: Kampala skyline, Bahá'í House of Worship on Kikaaya Hill , Uganda National Mosque , Makerere University main building, skyscraper in central business district, and view over Victoria Lake Kampala Map of Uganda showing the location of Kampala. Coordinates: 00°18′49″N 32°34′52″E ﻿ / ﻿ 0.31361°N 32.58111°E ﻿ / 0.31361; 32.58111 Country Uganda District Kampala Government • Lord Mayor Erias Lukwago Area • Total 189 km 2 (73 sq mi) • Land 176 km 2 (68 sq mi) • Water 13 km 2 (5 sq mi) Elevation 1,190 m (3,900 ft) Population (2011 Estimate) • Total 1,659,600 • Density 9,429.6/km 2 (24,423/sq mi) Demonym(s) Kampalan, Kampalese Time zone EAT ( UTC+3 ) Website Homepage 
+
+Kampala is the capital and largest city of Uganda . The city is divided into five boroughs that oversee local planning: Kampala Central Division , Kawempe Division , Makindye Division , Nakawa Division , and Lubaga Division . The city is coterminous with Kampala District . Surrounding Kampala is the rapidly growing Wakiso District , whose population more than doubled between 2002 and 2014 and now stands at over 2 million. [2] 
+
+Kampala was named the 13th fastest growing city on the planet, with an annual population growth rate of 4.03% [3] by City Mayors. Kampala was ranked the best city to live in East Africa [4] ahead of Nairobi and Kigali by Mercer, a global development consulting agency based in New York City , U.S. 
+
+Contents 1 Etymology 2 History 3 Features 4 Transport 5 Climate 6 Demographics 7 Economy 8 Notable people 9 See also 10 References 11 External links 
+
+Etymology [ edit ] 
+
+Before the arrival of the British colonists, the Kabaka of Buganda had chosen the zone that would become Kampala as a hunting reserve. The area, composed of rolling hills with grassy wetlands in the valleys, was home to several species of antelope, particularly impala . When the British arrived, they called it "Hills of the Impala". The language of the Buganda , Luganda , adopted many English words because of their interactions with the British. The Buganda translated "Hill of the Impala" as Akasozi ke'Empala - "Kasozi" meaning "hill", "ke" meaning "of", and "empala" the plural of "impala". In Luganda, the words "ka'mpala" mean "that is of the impala", in reference to a hill, and the single word "Kampala" was adopted as the name for the city that grew out of the Kabaka's hills. [5] History [ edit ] Main article: Timeline of Kampala 
+
+The city grew as the capital of the Buganda kingdom, from which several buildings survive, including the Kasubi Tombs (built in 1881), the Lubiri Palace, the Buganda Parliament and the Buganda Court of Justice. Severely damaged during the late-1970s Uganda–Tanzania War , the city has since then been rebuilt with constructions of new construction of hotels, banks, shopping malls, educational institutions, and hospitals and the improvement of war torn buildings and infrastructure. Traditionally, Kampala was a city of seven hills, but over time it has come to have a lot more. [6] Features [ edit ] The Kasubi Tombs 
+
+The main campus of Makerere University is in the Makerere Hill area of the city. 
+
+Kampala also hosts the headquarters of the East African Development Bank on Nakasero Hill and the Uganda Local Governments Association on Entebbe Road. 
+
+Kampala was originally built on seven hills , but as its size has increased, it has expanded to more hills than seven. The original seven hills are: The first hill in historical importance is Kasubi Hill , which is where the Kasubi Tombs of the previous Kabaka of Buganda are located. [ citation needed ] The second is Mengo Hill where the present Lubiri (Kabaka's Palace) is and the headquarters of the Buganda Court of Justice and of the Lukiiko, Bugand's Parliament ( Bulange ). [ citation needed ] The third is Kibuli Hill , which is home to the Kibuli Mosque . The fourth is Namirembe Hill , home to the Namirembe Anglican Cathedral . The fifth is Lubaga Hill , the site of the Rubaga Catholic Cathedral. The sixth is Nsambya Hill and was the headquarters of the Mill Hill Mission. [ citation needed ] The seventh is Kampala Hill (Old Kampala). A mosque was built with monetary assistance from Libya on the hill in 2003, with a seating capacity of 15,000 people. The completed mosque was opened officially in June 2007. [7] Gaddafi National Mosque . A view of suburban Kampala 
+
+The city has spread to Nakasero Hill , where there are some hotels, including the Grand Imperial Hotel , the Kampala Hilton Hotel , the Kampala Intercontinental Hotel , the Imperial Royale Hotel , the Kampala Serena Hotel , the Kampala Sheraton Hotel , and the Kampala Speke Hotel . 
+
+There are also Tank Hill and Mulago Hill . The city is expanding rapidly to include Makindye Hill and Konge Hill. 
+
+Other features of the city include the Uganda Museum , the Ugandan National Theatre , Nakasero Market , and St. Balikuddembe Market (formerly Owino Market). Kampala is also known for its nightlife , [8] which includes several casinos, notably Casino Simba in the Garden City shopping centre, Kampala Casino, and Mayfair Casino. Port Bell on the shores of Lake Victoria is 10 kilometres (6.2 mi) away. 
+
+Kampala hosts a Bahá'í House of Worship known as the Mother Temple of Africa and is situated on Kikaya Hill on the outskirts of the city. The temple was inaugurated in January 1961. [9] 
+
+The Ahmadiyya Central Mosque in Kampala is the central mosque of the Ahmadiyya Muslim Community , which has six minarets and can hold up to 9,000 worshippers. [10] 
+
+While more than 30% of Kampala's citizens practice urban agriculture , the city of Kampala donated 32 acres to promote urban agriculture in the northeastern parish of Kyanga. [11] Transport [ edit ] Uganda House, Kampala Road, Kampala 
+
+Kampala is served by Entebbe International Airport , which is the largest airport in Uganda. 
+
+Boda-bodas (local motorbike transport) are a popular mode of transport that gives access to many areas within and outside the city. Standard fees for these range from USh:1,000 to 2,000 or more. Boda-bodas are useful for passing through rush-hour traffic, although many are poorly maintained and dangerous. [12] 
+
+In early 2007, it was announced that Kampala would remove commuter taxis from its streets and replace them with a comprehensive city bus service. (In Kampala, the term "taxi" refers to a 15-seater minibus used as public transport.) The bus service was expected to cover the greater Kampala metropolitan area including Mukono , Mpigi , Bombo , Entebbe , Wakiso and Gayaza . As of December 2011 [update] the service had not yet started. [13] Having successfully completed the Northern Bypass, the government, in collaboration with its stakeholders, now plans to introduce the Bus Rapid Transit (BRT) system in Kampala by 2014. On 12 March 2012, Pioneer Easy Bus Company, a private transport company, started public bus service in Kampala with an estimated 100 buses each with a 60-passenger capacity (30 seated and 30 standing), acquired from China . Another 422 buses were expected in the country in 2012 to complement the current fleet. The buses operate 24 hours daily. The company has a concession to provide public transport in the city for the next five years. [14] [15] The buses were impounded for back taxes in December 2013. The company expected to resume operation in February 2015. [16] 
+
+In 2014, Uganda's President Yoweri Museveni and a China transportation company signed a Memorandum of Understanding, that they would at some point begin embarking on building a light rail system in Kampala, similar to the one recently completed in Addis Ababa , Ethiopia . 
+
+On 11 April 2011, the pressure group Activists for Change (A4C) held its first Walk to Work protest near Kampala, in response to a comment by President Museveni on the increased cost of fuel, which had risen by 50 percent between January and April 2011. He said: "What I call on the public to do is to use fuel sparingly. Don't drive to bars." [17] [18] The protest, which called on workers to walk to work to highlight the increased cost of transport in Uganda, [17] was disrupted by police, who fired tear gas and arrested three-time presidential candidate Kizza Besigye and Democratic Party leader Norbert Mao . [19] In the course of the protest, Besigye was shot in the right arm by a rubber bullet. The government blamed the violence on protesters. [18] Climate [ edit ] 
+
+Kampala has a tropical rainforest climate (Af) under the Köppen-Geiger climate classification system . [20] 
+
+Another facet of Kampala’s weather is that it features two annual wet seasons . There is a long rainy season from August to December and a short rainy season from February to June. However, the shorter rainy season sees substantially heavier rainfall per month, with April typically seeing the heaviest amount of precipitation at an average of around 169 millimetres (6.7 in) of rain. Kampala has been frequently mentioned as one of the most thunderous places on Earth. Climate data for Kampala Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Record high °C (°F) 33 
+
+(91) 36 
+
+(97) 33 
+
+(91) 33 
+
+(91) 29 
+
+(84) 29 
+
+(84) 29 
+
+(84) 29 
+
+(84) 31 
+
+(88) 32 
+
+(90) 32 
+
+(90) 32 
+
+(90) 36 
+
+(97) Average high °C (°F) 28.6 
+
+(83.5) 29.3 
+
+(84.7) 28.7 
+
+(83.7) 27.7 
+
+(81.9) 27.3 
+
+(81.1) 27.1 
+
+(80.8) 26.9 
+
+(80.4) 27.2 
+
+(81) 27.9 
+
+(82.2) 27.7 
+
+(81.9) 27.4 
+
+(81.3) 27.9 
+
+(82.2) 27.8 
+
+(82) Daily mean °C (°F) 23.2 
+
+(73.8) 23.7 
+
+(74.7) 23.4 
+
+(74.1) 22.9 
+
+(73.2) 22.6 
+
+(72.7) 22.4 
+
+(72.3) 22.0 
+
+(71.6) 22.2 
+
+(72) 22.6 
+
+(72.7) 22.6 
+
+(72.7) 22.5 
+
+(72.5) 22.7 
+
+(72.9) 22.73 
+
+(72.93) Average low °C (°F) 17.7 
+
+(63.9) 18.0 
+
+(64.4) 18.1 
+
+(64.6) 18.0 
+
+(64.4) 17.9 
+
+(64.2) 17.6 
+
+(63.7) 17.1 
+
+(62.8) 17.1 
+
+(62.8) 17.2 
+
+(63) 17.4 
+
+(63.3) 17.5 
+
+(63.5) 17.5 
+
+(63.5) 17.6 
+
+(63.7) Record low °C (°F) 12 
+
+(54) 14 
+
+(57) 13 
+
+(55) 14 
+
+(57) 15 
+
+(59) 12 
+
+(54) 12 
+
+(54) 12 
+
+(54) 13 
+
+(55) 13 
+
+(55) 14 
+
+(57) 12 
+
+(54) 12 
+
+(54) Average rainfall mm (inches) 68.4 
+
+(2.693) 63.0 
+
+(2.48) 131.5 
+
+(5.177) 169.3 
+
+(6.665) 117.5 
+
+(4.626) 69.2 
+
+(2.724) 63.1 
+
+(2.484) 95.7 
+
+(3.768) 108.4 
+
+(4.268) 138.0 
+
+(5.433) 148.7 
+
+(5.854) 91.5 
+
+(3.602) 1,264.3 
+
+(49.774) Average rainy days (≥ 1.0 mm) 4.8 5.1 9.5 12.2 10.9 6.3 4.7 6.7 8.6 9.1 8.4 7.4 93.7 Average relative humidity (%) 66 68.5 73 78.5 80.5 78.5 77.5 77.5 75.5 73.5 73 71.5 74.5 Mean monthly sunshine hours 155 170 155 120 124 180 186 155 150 155 150 124 1,824 Source #1: World Meteorological Organization , [21] Climate-Data.org for mean temperatures [20] Source #2: BBC Weather [22] Demographics [ edit ] Location map Kampala View of Kampala from space See also: Demographics of Uganda 
+
+The national population census in 2002 estimated the population of the city at 1,189,150. The Uganda Bureau of Statistics (UBOS) estimated the population at 1,597,900 in 2010. In 2011, UBOS estimated the mid-year population at 1,659,600. [23] 
+
+Kampala has a diverse ethnic population. The city's ethnic makeup has been defined by political and economic factors. A large number of western Ugandans, particularly the Banyankole , moved to the capital in the new government of Yoweri Museveni . [24] 
+
+Inter-tribal marriage in Uganda is still uncommon outside large urban centers. Although many Kampala residents have been born and brought up in the city, they still define themselves by their tribal roots and speak their ancestral languages. This is more evident in the suburbs, where tribal languages are spoken widely alongside English , Swahili , and Luganda . In addition to the Baganda and Banyankole, other large ethnic groups include the Basoga , Bafumbira , Batoro , Bakiga , Alur , Bagisu , Banyoro , Iteso , Langi , and Acholi . [25] Economy [ edit ] 
+
+Efforts are underway to relocate heavy industry to the Kampala Business and Industrial Park , located in Namanve , Mukono District , approximately 14 kilometres (8.7 mi) east of the city's central business district, [26] thereby cutting down on city traffic congestion. Some of the businesses that maintain their headquarters in the city center include all of the 25 commercial banks licensed in Uganda; the New Vision Group , the leading news media conglomerate and majority owned by the government; and the Daily Monitor publication, a member of the Kenya-based Nation Media Group . Air Uganda maintained its headquarters in an office complex on Kololo Hill in Kampala. [27] Crown Beverages Limited, the sole Pepsi-Cola franchise bottler in the country, is situated in Nakawa , a division of Kampala, about 5 kilometres (3 mi), east of the city centre. [28] Notable people [ edit ] John Mugabi , world champion boxer [29] Aamito Lagum , fashion model, winner of the first season of Africa's Next Top Model See also [ edit ] Uganda portal List of tallest buildings in Kampala List of banks in Uganda Kampala Capital City Authority References [ edit ] ^ Vision, Reporter (19 April 2011). "Kampala Executive Director Takes Office" . New Vision . Retrieved 11 June 2014 . ^ "Uganda: Administrative Division" . Retrieved 4 July 2015 . ^ http://www.citymayors.com/statistics/urban_growth1.html Fastest growing cities in the world ^ http://www.newvision.co.ug/new_vision/news/1418082/kampala-ranked-city-east-africa Kampala Best city to live in, East Africa ^ "Kampala: Origin of The Name" . Myetymology.com . Retrieved 11 June 2014 . ^ "History of the City of Kampala" . Ugandatravelguide.com . Retrieved 7 July 2012 . ^ Madinah Tebajjukira, and Charles Ariko (9 June 2007). "Libyans Open Old Kampala Mosque" . New Vision . Retrieved 25 July 2015 . ^ A Night Out in Kampala, the City That (Really) Never Sleeps ^ Fifty years on, Uganda's Baha'i temple stands as a symbol of unity and progress ^ Ahmadiyya Muslim Mosques Around the World, pg. 112 ^ Wolfe, J. M., McCans, S. (2009). DESIGNING FOR URBAN AGRICULTURE IN AN AFRICAN CITY: KAMPALA, UGANDA. Open House International, 34 ^ Francis Kagolo, and Joseph Kariuki (24 August 2008). "Deadly Ride: Boda Bodas Leading Cause of Hospital Casualties" . New Vision . Retrieved 11 June 2014 . ^ "Pioneer Easy buses to offer 24-hour service" . Retrieved 25 May 2015 . ^ Muhairwe, Priscilla (5 April 2011). "Pioneer Easy Bus Set to Introduce Electronic Pay Buses" . The Independent (Uganda) . Retrieved 11 June 2014 . ^ "Pioneer Buses Start Service, Taxi Strike Flops" . Welcometokampala.com. 12 March 2012 . Retrieved 11 June 2014 . ^ Pioneer buses back: what has changed? ^ a b "Deadly Crackdown on Uganda's Walk-to-Work Protests" . TIME.com . 23 April 2011 . Retrieved 25 May 2015 . ^ a b Musaazi Namiti. "Uganda walk-to-work protests kick up dust" . Retrieved 25 May 2015 . ^ "Kizza Besigye held over Uganda 'Walk to Work' protest" . BBC News . 12 April 2011 . Retrieved 25 May 2015 . ^ a b "Climate: Kampala - Climate graph, Temperature graph, Climate table" . Climate-Data.org . Retrieved 3 July 2015 . ^ "World Weather Information Service - Kampala" . World Meteorological Organization . Retrieved 30 March 2016 . ^ "Average Conditions Kampala, Uganda" . BBC Weather . Retrieved 11 June 2014 . ^ UBOS. "Estimated Population of Kampala In 2002, 2010 2011" (PDF) . Uganda Bureau of Statistics (UBOS) . Retrieved 11 June 2014 . ^ Jones, Ben (2 April 2009). "Museveni's Rule Has Divided Uganda" . London: The Guardian . Retrieved 11 June 2014 . ^ "Ethnic Groups of Uganda" . Cia.gov . Retrieved 11 June 2014 . ^ GFC (3 February 2016). "Distance between Kampala Road, Kampala, Central Region, Uganda and Namanve Industrial Park, Mukono, Central Region, Uganda" . Globefeed.com (GFC) . Retrieved 3 February 2016 . ^ Vision Reporter (23 February 2009). "Air Uganda Increases Flights to Dar" . Kampala: New Vision . Retrieved 11 June 2014 . ^ Administrator (14 October 2013). "Two decades of positive growth for Crown Beverages" . The Independent (Uganda) . Kampala . Retrieved 3 February 2016 . ^ BRC (3 February 2016). "John Mugabi: Biography" . Boxrec.com (BRC) . Retrieved 3 February 2016 . External links [ edit ] Wikivoyage has a travel guide for Kampala . Wikimedia Commons has media related to Kampala . Official website Kampala now mapping its historical buildings Google Map of Kampala (not the district) v t e Kampala District Capital: Kampala Divisions Kampala Central Division Kawempe Division Lubaga Division Makindye Division Nakawa Division Neighborhoods Banda Bugoloobi Bukoto Busega Butabika Bwaise Ggaba Kabalagala Kamwookya Kansanga Kaleerwe Kanyanya Kasubi Katwe Kawaala Kawempe Kibuli Kibuye Kigoowa Kikaaya Kisaasi Kiwaatule Kulambiro Kololo Kyambogo Kyebando Lubaga Lungujja Luzira Makerere Makindye Mbuya Mengo Mpererwe Mulago Munyonyo Muyenga Naakulabye Naguru Najjanankumbi Nakasero Nakawa Nakawa–Naguru Estates Namirembe Namungoona Namuwongo Nateete Ndeeba Nsambya Ntinda Old Kampala Port Bell Wandegeya Banking Bank of Uganda Uganda Deposit Protection Fund ABC Bank (Uganda) Barclays Bank of Uganda Bank of Africa Uganda Limited Bank of Baroda Uganda Limited Bank of India (Uganda) DFCU Group Cairo International Bank Centenary Bank Citibank Commercial Bank of Africa Crane Bank DFCU Bank Diamond Trust Bank Ecobank EFC Uganda Limited Equity Bank Exim Bank (Uganda) Finance Trust Bank Guaranty Trust Bank Housing Finance Bank KCB Bank Uganda Limited NC Bank Uganda Orient Bank PostBank Uganda Stanbic Bank Uganda Limited Standard Chartered Uganda Tropical Bank United Bank for Africa East African Development Bank Uganda Development Bank Opportunity Uganda Limited Pride Microfinance Limited EFC Uganda Limited FINCA Uganda Limited UGAFODE Microfinance Limited Exodus Savings and Credit Cooperative Society Limited Mercantile Credit Bank Letshego Microfinance Uganda Top Finance Bank Uganda Yako Microfinance Limited Industry Aya Group Cipla Quality Chemical Industries Limited FI Holdings–House of Dawda Group Mukwano Group Kiira Motors Corporation Media Daily Monitor New Vision New Vision Group The Independent (Uganda) The Observer (Uganda) Information Technology Africell Uganda Airtel Uganda MTN Uganda Uganda Communications Commission Uganda Telecom Vodafone Uganda Economy National Housing and Construction Company Tirupati Development Uganda Limited Insurance Regulatory Authority of Uganda National Food and Drug Authority National Identification and Registration Authority National Social Security Fund National Water and Sewerage Corporation Uganda Securities Exchange Uganda Investment Authority Ruparelia Group Kyagalanyi Coffee Limited Brookside Dairy Limited Jesa Farm Dairy Limited Uganda Retirement Benefits Regulatory Authority Capital Markets Authority of Uganda Uganda Coffee Development Authority ROKO Construction Transport Air Uganda Uganda Air Cargo Kampala Airport Uganda National Roads Authority Entebbe–Kampala Expressway Kampala–Jinja Expressway Kampala–Jinja Highway Kampala–Entebbe Road Kampala–Gayaza Road Kampala–Bombo Expressway Kampala–Busunju Expressway Kampala–Mpigi Expressway Kampala–Masaka Road Kampala–Mityana Road Kampala–Hoima Road Kampala Northern Bypass Highway Kampala Southern Bypass Highway Energy Umeme Electricity Regulatory Authority Uganda National Oil Company Petroleum Authority of Uganda Uganda Electricity Generation Company Limited Uganda Electricity Transmission Company Limited Uganda Energy Credit Capitalisation Company Notable 
+
+landmarks Bulange Uganda Parliament Buildings Kampala Capital City Authority Complex Hotel Africana Kampala Protea Hotel Kampala Serena Hotel Kampala Sheraton Hotel Imperial Hotels Group Imperial Royale Hotel Grand Imperial Hotel Hotel Equatoria Kampala Hilton Hotel Kampala Intercontinental Hotel Kampala Speke Hotel Mapeera House Movement House Munyonyo Commonwealth Resort Speke Resort and Conference Center Church House East African Development Bank Building Bank of Uganda Building Complex Mengo Palace Banda Kabaka's Place Namirembe Cathedral Rubaga Cathedral Makerere University Main Campus Kampala Tower Kibuli Mosque Old Kampala Mosque Uganda Museum Twed Towers Uganda National Cultural Centre Kasubi Tombs DFCU House Pension Towers JLOS House Project Roman Catholic Archdiocese of Kampala Education Aga Khan University, Kampala Cavendish University Uganda Habib Medical School Institute of Petroleum Studies Kampala International Health Sciences University International University of East Africa Kampala International School Kampala International University Kampala University Kibuli Secondary School Kitante Hill Secondary School Kololo Senior Secondary School Kyambogo University Law Development Centre Makerere College School Makerere University Makerere University Business School Mengo Senior School Nabisunsa Girls' Secondary School Rubaga Community School St. Augustine International University St. Lawrence University Uganda Management Institute Uganda Martyrs University School of Medicine Uganda National Entrepreneurship Development Institute Uganda Technology and Management University Victoria University Uganda Uganda National Council for Higher Education Health Aga Khan University Hospital, Kampala Butabika Hospital Case Medical Centre International Hospital Kampala Kadic Hospital Kampala Hospital Kampala Medical Chambers Hospital Kawempe General Hospital Kibuli Hospital Kiruddu General Hospital Lubaga Hospital Makerere University Hospital Mbuya Military Hospital Mengo Hospital Mulago Hospital Mulago Women's Referral Hospital Murchison Bay Hospital Upper Mulago Regional Referral Hospital Nakasero Hospital Naguru General Hospital Nsambya Hospital Paragon Hospital Uganda Cancer Institute Uganda Heart Institute Uganda Medical and Dental Practitioners Council Women's Hospital International and Fertility Centre Galilee Community General Jewish Hospital of Uganda International Medical Group Notable people Apolo Nsibambi Nasser Sebaggala David Serwadda Fred Ruhindi John Ssebaana Kizito Bulaimu Muwanga Kibirige Erias Lukwago Ian Clarke Jennifer Musisi Josephine Nambooze Maria Kiwanuka Laurence Sematimba Joseph Kizito Justinian Tamusuza Robert Ssejjemba Eugene Sseppuya Phillip Ssozi Sudhir Ruparelia Wasswa Serwanga Yusef Sozi Margaret Zziwa Beti Kamya-Turwomwe Moses Matovu Mohammed Hamid Hasmukh Dawda v t e Capitals of Africa Dependent territories and states with limited recognition are in italics Abuja , Nigeria Accra , Ghana Addis Ababa , Ethiopia Algiers , Algeria Antananarivo , Madagascar Asmara , Eritrea Bamako , Mali Bangui , Central African Republic Banjul , Gambia Bissau , Guinea-Bissau Brazzaville , Rep. of the Congo Bujumbura , Burundi Cairo , Egypt Conakry , Guinea Dakar , Senegal Djibouti , Djibouti Dodoma , Tanzania El Aaiún (claimed) / Tifariti (factual) , Sahrawi Arab Democratic Republic 1 Freetown , Sierra Leone Funchal , Madeira 4 Gaborone , Botswana Harare , Zimbabwe Hargeisa , Somaliland 1 Jamestown , St Helena, Ascension Tristan da Cunha 2 Juba , South Sudan Kampala , Uganda Khartoum , Sudan Kigali , Rwanda Kinshasa , D.R. Congo Libreville , Gabon Lilongwe , Malawi Lomé , Togo Luanda , Angola Lusaka , Zambia Malabo , Equatorial Guinea Mamoudzou , Mayotte 3 Maputo , Mozambique Maseru , Lesotho Mbabane ( executive ) Lobamba ( legislative ) , Swaziland Mogadishu , Somalia Monrovia , Liberia Moroni , Comoros Nairobi , Kenya N'Djamena , Chad Niamey , Niger Nouakchott , Mauritania Ouagadougou , Burkina Faso Port Louis , Mauritius Porto-Novo , Benin Praia , Cape Verde Pretoria ( executive ) • Cape Town ( legislative ) • Bloemfontein ( judicial ) , South Africa Rabat , Morocco Saint-Denis , Réunion 3 Santa Cruz de Tenerife and Las Palmas , Canary Islands 5 São Tomé , São Tomé and Príncipe Tripoli , Libya Tunis , Tunisia Victoria , Seychelles Windhoek , Namibia Yamoussoukro , (political) • Abidjan (economic) , Ivory Coast Yaoundé , Cameroon 1 An unrecognised or partially-recognised nation 2 British Overseas Territory 3 Overseas region of France 4 Autonomous region of Portugal 5 Autonomous community of Spain 
+
+Coordinates : 00°18′49″N 32°34′52″E ﻿ / ﻿ 0.31361°N 32.58111°E ﻿ / 0.31361; 32.58111 Authority control WorldCat Identities VIAF : 240372135 LCCN : n80076329 GND : 4109986-2 BNF : cb12495624v (data) (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Kampala oldid=745096628 " Categories : Kampala Capitals in Africa Cities in the Great Rift Valley Populated places in Uganda Populated places on Lake Victoria Hidden categories: Articles to be merged from August 2015 All articles to be merged Settlement articles requiring maintenance All articles with unsourced statements Articles with unsourced statements from July 2015 Articles with unsourced statements from August 2016 Articles containing potentially dated statements from December 2011 All articles containing potentially dated statements Commons category with page title same as on Wikidata Official website different in Wikidata and Wikipedia Coordinates on Wikidata Wikipedia articles with VIAF identifiers Wikipedia articles with LCCN identifiers Wikipedia articles with GND identifiers Wikipedia articles with BNF identifiers Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Wikivoyage Languages Afrikaans አማርኛ العربية Aragonés Arpetan Azərbaycanca Bân-lâm-gú Беларуская Беларуская (тарашкевіца)‎ Български བོད་ཡིག Bosanski Brezhoneg Català Чӑвашла Čeština ChiShona Cymraeg Dansk Deutsch Eesti Ελληνικά Español Esperanto Euskara فارسی Fiji Hindi Føroyskt Français Frysk Gaeilge Gàidhlig Galego 한국어 Հայերեն हिन्दी Hrvatski Ido Bahasa Indonesia Interlingue IsiXhosa Íslenska Italiano עברית Basa Jawa Kalaallisut ქართული Kiswahili Kongo Kreyòl ayisyen Kurdî Кыргызча Кырык мары Latina Latviešu Lëtzebuergesch Lietuvių Luganda Lumbaart Magyar Македонски Malagasy മലയാളം Māori मराठी مصرى Bahasa Melayu Nederlands 日本語 Нохчийн Norfuk / Pitkern Norsk bokmål Norsk nynorsk Occitan ଓଡ଼ିଆ Oʻzbekcha/ўзбекча ਪੰਜਾਬੀ پنجابی Piemontèis Plattdüütsch Polski Português Română Runa Simi Русский Scots Shqip Simple English Slovenčina Slovenščina Soomaaliga کوردیی ناوەندی Српски / srpski Srpskohrvatski / српскохрватски Suomi Svenska Tagalog தமிழ் Taqbaylit ไทย Тоҷикӣ Türkçe Удмурт Українська اردو ئۇيغۇرچە / Uyghurche Vèneto Vepsän kel’ Tiếng Việt Volapük Winaray Wolof ייִדיש Yorùbá 粵語 中文 Edit links This page was last modified on 19 October 2016, at 06:38. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.580", "walltime": "0.684", "ppvisitednodes": { "value": 7046, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 170420, "limit": 2097152 }, "templateargumentsize": { "value": 12803, "limit": 2097152 }, "expansiondepth": { "value": 23, "limit": 40 }, "expensivefunctioncount": { "value": 6, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 558.157 1 -total", " 28.41% 158.558 1 Template:Infobox_settlement", " 21.13% 117.951 2 Template:Infobox", " 19.36% 108.034 1 Template:Reflist", " 13.45% 75.074 19 Template:Cite_web", " 10.14% 56.579 1 Template:Weather_box", " 6.66% 37.146 1 Template:Merge_from", " 6.61% 36.922 3 Template:Citation_needed", " 5.81% 32.412 3 Template:Fix", " 5.24% 29.242 3 Template:Infobox_settlement/areadisp" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.218", "limit": "10.000" }, "limitreport-memusage": { "value": 10508598, "limit": 52428800 } }, "cachereport": { "origin": "mw1269", "timestamp": "20161020153734", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123,"wgHostname":"mw1177"});});

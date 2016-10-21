@@ -1,0 +1,131 @@
+Kissidougou - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kissidougou","wgTitle":"Kissidougou","wgCurRevisionId":745170392,"wgRevisionId":745170392,"wgArticleId":1587018,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Populated places in the Faranah Region","Sub-prefectures of Guinea","Kissidougou"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Kissidougou","wgRelevantArticleId":1587018,"wgRequestId":"WApq8wpAICgAAAGJWRoAAABM","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":9.1833333333333,"lon":-10.1},"wgWikibaseItemId":"Q1358885","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Kissidougou From Wikipedia, the free encyclopedia Jump to: navigation , search Kissidougou Sub-prefecture and town Kissidougou market on a quiet day. Kissidougou Coordinates: 09°11′0″N 10°6′0″W ﻿ / ﻿ 9.18333°N 10.10000°W ﻿ / 9.18333; -10.10000 Coordinates : 09°11′0″N 10°6′0″W ﻿ / ﻿ 9.18333°N 10.10000°W ﻿ / 9.18333; -10.10000 Country Guinea Region Faranah Region Prefecture Kissidougou Prefecture Population (2014 census) • Total 102,675 
+
+Kissidougou is a city in southern Guinea . It is the capital of in the Kissidougou Prefecture . Following intensified conflicts in Sierra Leone and Liberia during the fall and winter of 2000, many people from the city of Guéckédou fled to Kissidougou and stayed. As of 2014 it had a population of 102,675 people. [1] 
+
+The town is served by Kissidougou Airport . 
+
+Contents 1 Kissidougou City 2 Ethnicity 3 Climate 4 Refugee crisis 5 References 6 External links 
+
+Kissidougou City [ edit ] 
+
+Founded in the eighteenth century, the city is known for the coffee plantations and large expanses of nearby forest . Other attractions in the city include a museum , a football team and a major bridge . 
+
+Although the market is open 7 days a week, it is especially busy on Tuesdays. The word Kissidougou means a place of refuge in the language of the Kissi , the largest local ethnic group. 
+
+The musician Mory Kanté is from Kissidougou. Ethnicity [ edit ] Paul Keita , mayor of Kissidougou 
+
+Besides the dominant Kissi , there are many other ethnic groups living in Kissidougou, including the Malinké and Fula . Many Loma people live in this region as well, especially between Kissidougou and Macenta . Climate [ edit ] Climate data for Kissidougou Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Average high °C (°F) 35.0 
+
+(95) 36.7 
+
+(98.1) 36.8 
+
+(98.2) 35.7 
+
+(96.3) 34.3 
+
+(93.7) 31.7 
+
+(89.1) 30.2 
+
+(86.4) 30.5 
+
+(86.9) 31.1 
+
+(88) 31.6 
+
+(88.9) 32.4 
+
+(90.3) 33.5 
+
+(92.3) 33.3 
+
+(91.9) Daily mean °C (°F) 22.5 
+
+(72.5) 24.5 
+
+(76.1) 26.9 
+
+(80.4) 26.5 
+
+(79.7) 25.6 
+
+(78.1) 24.6 
+
+(76.3) 23.8 
+
+(74.8) 23.8 
+
+(74.8) 24.1 
+
+(75.4) 24.4 
+
+(75.9) 24.0 
+
+(75.2) 22.3 
+
+(72.1) 24.4 
+
+(75.9) Average low °C (°F) 8.5 
+
+(47.3) 10.9 
+
+(51.6) 14.6 
+
+(58.3) 18.0 
+
+(64.4) 17.9 
+
+(64.2) 17.9 
+
+(64.2) 17.9 
+
+(64.2) 18.2 
+
+(64.8) 17.6 
+
+(63.7) 16.8 
+
+(62.2) 13.6 
+
+(56.5) 9.3 
+
+(48.7) 15.1 
+
+(59.2) Average precipitation mm (inches) 7 
+
+(0.28) 26 
+
+(1.02) 46 
+
+(1.81) 129 
+
+(5.08) 206 
+
+(8.11) 257 
+
+(10.12) 264 
+
+(10.39) 339 
+
+(13.35) 328 
+
+(12.91) 244 
+
+(9.61) 77 
+
+(3.03) 16 
+
+(0.63) 1,939 
+
+(76.34) Average precipitation days (≥ 1.0 mm) 1 2 4 9 16 18 19 21 22 18 7 1 138 Average relative humidity (%) 54 55 58 69 76 80 82 83 81 79 75 62 71 Source: NOAA [2] 
+
+
+
+Refugee crisis [ edit ] 
+
+Throughout the 1990s, the government of Guinea, in cooperation with the United Nations High Commission for Refugees (UNHCR), provided international protection and assistance to Sierra Leonian and Liberian refugees residing along Guinea’s southern border. In December 2000 and January 2001, a series of cross border attacks resulted in a massive shift in refugee (and Guinean) populations. Many fled to the Kissidougou and N'Zérékoré Prefectures in the Forest Region of Guinea. In February 2001, relocation of the Gueckédou and Faranah camps began with the transfer of temporary refugee settlements to new camps in the Albadariah sub-prefecture of Kissidougou. 
+
+Throughout 2001, there were more than 400,000 refugees in Guinea, many in Kissidougou. This massive influx of Sierra Leonian refugees placed great stress on the government of Guinea as well as upon international aid organizations' ability to provide a stable, secure refuge. [3] 
+
+There were widespread accounts of sexual violence throughout the camps, despite the best efforts of the international relief organizations. [4] References [ edit ] ^ "Guinea" . Institut National de la Statistique, Guinea, accessed via Geohive . Retrieved 12 September 2014 . ^ "Kissidougou Climate Normals 1961–1990" . National Oceanic and Atmospheric Administration . Retrieved October 19, 2015 . ^ refugeesinternational.org ^ www.arcrelief.org, KAP Survey External links [ edit ] MSN Map v t e Kissidougou Prefecture Capital: Kissidougou Sub-prefectures Kissidougou-Centre Albadaria Banama Bardou Beindou Fermessadou-Pombo Firawa Gbangbadou Kondiadou Manfran Sangardo Yendé-Millimou Yombiro Authority control WorldCat Identities VIAF : 249383265 GND : 4451437-2 (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Kissidougou oldid=745170392 " Categories : Populated places in the Faranah Region Sub-prefectures of Guinea Kissidougou Hidden categories: Coordinates on Wikidata Wikipedia articles with VIAF identifiers Wikipedia articles with GND identifiers Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Languages Български Cebuano Deutsch Español Esperanto Français 한국어 Bahasa Indonesia Italiano Lietuvių Magyar Bahasa Melayu Nederlands 日本語 Polski Română Русский Suomi Svenska اردو Edit links This page was last modified on 19 October 2016, at 17:32. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.256", "walltime": "0.415", "ppvisitednodes": { "value": 3929, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 53557, "limit": 2097152 }, "templateargumentsize": { "value": 1567, "limit": 2097152 }, "expansiondepth": { "value": 16, "limit": 40 }, "expensivefunctioncount": { "value": 2, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 368.574 1 -total", " 70.36% 259.316 1 Template:Infobox_settlement", " 58.56% 215.835 2 Template:Infobox", " 37.83% 139.434 1 Template:Geobox_coor", " 16.73% 61.652 1 Template:Weather_box", " 8.92% 32.864 1 Template:Reflist", " 7.61% 28.046 2 Template:Cite_web", " 3.13% 11.524 1 Template:Location_map", " 2.02% 7.443 1 Template:Infobox_settlement/densdisp", " 1.89% 6.952 1 Template:Kissidougou_Prefecture" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.075", "limit": "10.000" }, "limitreport-memusage": { "value": 2879006, "limit": 52428800 } }, "cachereport": { "origin": "mw1277", "timestamp": "20161019173206", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw1170"});});

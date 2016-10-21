@@ -1,0 +1,1156 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1929 Palestine riots - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"1929_Palestine_riots","wgTitle":"1929 Palestine riots","wgCurRevisionId":744580764,"wgRevisionId":744580764,"wgArticleId":6358567,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Hebrew-language sources (he)","Pages using citations with accessdate and no URL","Use dmy dates from August 2012","Use British (Oxford) English from February 2012","All Wikipedia articles written in British (Oxford) English","Articles containing Hebrew-language text","Articles containing Arabic-language text","All articles with unsourced statements","Articles with unsourced statements from August 2015","Articles with unsourced statements from May 2012","Commons category with local link same as on Wikidata","Coordinates on Wikidata","1929 Palestine riots","1929 in Mandatory Palestine","Riots and civil disorder in Mandatory Palestine"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1929_Palestine_riots","wgRelevantArticleId":6358567,"wgRequestId":"WAorNwpAIDAAABj9Ki0AAAAE","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":31.776666666667,"lon":35.234166666667},"wgWikibaseItemId":"Q2281806","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/1929_Palestine_riots"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1929_Palestine_riots&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=1929_Palestine_riots&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/1929_Palestine_riots"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-1929_Palestine_riots rootpage-1929_Palestine_riots skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">1929 Palestine riots</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox vevent" style="width:22em">
+<tr>
+<th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;font-size:130%;">1929 Arab riots in Palestine</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center">Part of <a href="/wiki/Intercommunal_violence_in_Mandatory_Palestine" class="mw-redirect" title="Intercommunal violence in Mandatory Palestine">Intercommunal violence in Mandatory Palestine</a></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Jews_flee_the_Old_City_of_Jerusalem,_August_1929.jpg" class="image"><img alt="Jews flee the Old City of Jerusalem, August 1929.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Jews_flee_the_Old_City_of_Jerusalem%2C_August_1929.jpg/240px-Jews_flee_the_Old_City_of_Jerusalem%2C_August_1929.jpg" width="240" height="173" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Jews_flee_the_Old_City_of_Jerusalem%2C_August_1929.jpg/360px-Jews_flee_the_Old_City_of_Jerusalem%2C_August_1929.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Jews_flee_the_Old_City_of_Jerusalem%2C_August_1929.jpg/480px-Jews_flee_the_Old_City_of_Jerusalem%2C_August_1929.jpg 2x" data-file-width="831" data-file-height="600" /></a>
+<div>During the 1929 Palestine riots, Jewish families at Jaffa Gate fleeing from the Old City of Jerusalem</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Location</th>
+<td class="location"><a href="/wiki/Mandatory_Palestine" title="Mandatory Palestine">British Mandate of Palestine</a> (<a href="/wiki/Safed" title="Safed">Safed</a>, <a href="/wiki/Hebron" title="Hebron">Hebron</a>, <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a>, <a href="/wiki/Jaffa" title="Jaffa">Jaffa</a>)</td>
+</tr>
+<tr>
+<th scope="row">Date</th>
+<td>23–29 August 1929</td>
+</tr>
+<tr>
+<th scope="row">Deaths</th>
+<td>133 Jews<br />
+110 Arabs</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Non-fatal injuries</div>
+</th>
+<td>339 Jews<br />
+232 Arabs</td>
+</tr>
+</table>
+<div role="navigation" class="navbox" aria-labelledby="1929_Palestine_riots" style="margin:0;float:right;clear:right;width:315px;margin-bottom:0.5em;margin-left:1em;;padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background-color:#B0C4DE;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Campaignbox_1929_Palestine_riots" title="Template:Campaignbox 1929 Palestine riots"><abbr title="View this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Campaignbox_1929_Palestine_riots" title="Template talk:Campaignbox 1929 Palestine riots"><abbr title="Discuss this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Campaignbox_1929_Palestine_riots&amp;action=edit"><abbr title="Edit this template" style=";background-color:#B0C4DE;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="1929_Palestine_riots" style="font-size:114%"><span style="line-height:1.6em"><strong class="selflink">1929 Palestine riots</strong></span></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=1929_Jerusalem_riots&amp;action=edit&amp;redlink=1" class="new" title="1929 Jerusalem riots (page does not exist)">Jerusalem riots</a></li>
+<li><a href="/wiki/1929_Hebron_massacre" title="1929 Hebron massacre">Hebron massacre</a></li>
+<li><a href="/wiki/1929_Safed_massacre" class="mw-redirect" title="1929 Safed massacre">Safed massacre</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="/wiki/Shaw_Commission" title="Shaw Commission">Shaw Commission</a></li>
+<li><a href="/wiki/Hope_Simpson_Enquiry" title="Hope Simpson Enquiry">Hope Simpson Enquiry</a></li>
+<li><a href="/wiki/Passfield_white_paper" title="Passfield white paper">Passfield white paper</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p>The <b>1929 Arab riots in Palestine</b>, also known as the <b>1929 Massacres</b>, (<a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>: <span class="script-hebrew" style="font-size: 115%; font-family: Alef, 'SBL Hebrew', 'David CLM', 'Frenk Ruehl CLM', 'Hadasim CLM', Shofar, David, 'Noto Sans Hebrew', 'Ezra SIL', 'Ezra SIL SR', FreeSerif, 'Times New Roman', FreeSans, Arial;" dir="rtl">מאורעות תרפ"ט</span>, <span title="Hebrew transliteration" class="Unicode" style="white-space:normal; text-decoration: none">Meora'ot Tarpat</span>, <i>lit.</i> Events of 5689 <a href="/wiki/Anno_Mundi" title="Anno Mundi">Anno Mundi</a>), or the <b><a href="/wiki/Buraq" title="Buraq">Buraq</a> Uprising</b> (<a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a>: <span lang="ar" dir="rtl" xml:lang="ar">ثورة البراق</span>‎‎, <span title="Arabic transliteration" class="Unicode" style="white-space:normal; text-decoration: none">Thawrat al-Buraq</span>), refers to a series of demonstrations and riots in late August 1929 when a long-running dispute between <a href="/wiki/Muslim" title="Muslim">Muslims</a> and <a href="/wiki/Jews" title="Jews">Jews</a> over access to the <a href="/wiki/Western_Wall" title="Western Wall">Western Wall</a> in <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a> escalated into violence. The riots took the form, in the most part, of attacks by Arabs on Jews accompanied by destruction of Jewish property. During the week of riots from 23 to 29 August, 133 Jews were killed by Arabs and 339 others were injured, while 110 Arabs were killed and 232 were injured, the vast majority by the <a href="/wiki/British_Empire" title="British Empire">British</a> police while trying to suppress the riots.<sup id="cite_ref-BBC_1-0" class="reference"><a href="#cite_note-BBC-1">[1]</a></sup><sup id="cite_ref-Shaw65_2-0" class="reference"><a href="#cite_note-Shaw65-2">[2]</a></sup><sup id="cite_ref-Pentecoastal_Mission_3-0" class="reference"><a href="#cite_note-Pentecoastal_Mission-3">[3]</a></sup><sup id="cite_ref-AmericanJewish1929_4-0" class="reference"><a href="#cite_note-AmericanJewish1929-4">[4]</a></sup><sup id="cite_ref-Hadassah_5-0" class="reference"><a href="#cite_note-Hadassah-5">[5]</a></sup><sup id="cite_ref-Holy_War_6-0" class="reference"><a href="#cite_note-Holy_War-6">[6]</a></sup><sup id="cite_ref-Jerusalem_one_city_7-0" class="reference"><a href="#cite_note-Jerusalem_one_city-7">[7]</a></sup><sup id="cite_ref-Those_Origins_8-0" class="reference"><a href="#cite_note-Those_Origins-8">[8]</a></sup><sup id="cite_ref-Causes_.26_Consq_9-0" class="reference"><a href="#cite_note-Causes_.26_Consq-9">[9]</a></sup> During the riots, 17 Jewish communities were evacuated.<sup id="cite_ref-mishmar_10-0" class="reference"><a href="#cite_note-mishmar-10">[10]</a></sup></p>
+<p>The <a href="/wiki/Shaw_Commission" title="Shaw Commission">Shaw Commission</a> found that the fundamental cause of the violence "without which in our opinion disturbances either would not have occurred or would not have been little more than a local riot, is the Arab feeling of animosity and hostility towards the Jews consequent upon the disappointment of their political and national aspirations and fear for their economic future."<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> It also attributed the cause as being Arab fears of Jewish immigrants "not only as a menace to their livelihood but as a possible overlord of the future."<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> <a href="/wiki/Avraham_Sela" title="Avraham Sela">Avraham Sela</a> described the riots as "unprecedented in the history of the Arab-Jewish conflict in Palestine, in duration, geographical scope and direct damage to life and property."<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#The_Western_Wall_Tensions"><span class="tocnumber">1</span> <span class="toctext">The Western Wall Tensions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#March_to_the_Western_Wall_and_counter_demonstrations"><span class="tocnumber">2</span> <span class="toctext">March to the Western Wall and counter demonstrations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Escalation"><span class="tocnumber">3</span> <span class="toctext">Escalation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Outbreak_of_riots"><span class="tocnumber">4</span> <span class="toctext">Outbreak of riots</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Jerusalem_riots.2C_23_August"><span class="tocnumber">4.1</span> <span class="toctext">Jerusalem riots, 23 August</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Hebron_massacre.2C_24_August"><span class="tocnumber">4.2</span> <span class="toctext">Hebron massacre, 24 August</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Hebron_yeshiva_massacre"><span class="tocnumber">4.2.1</span> <span class="toctext">Hebron yeshiva massacre</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Hadassah_hospital_attack"><span class="tocnumber">4.2.2</span> <span class="toctext">Hadassah hospital attack</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Desecration_of_the_Nebi_Akasha_Mosque.2C_26_August"><span class="tocnumber">4.3</span> <span class="toctext">Desecration of the Nebi Akasha Mosque, 26 August</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Attack_on_Mishmar_HaEmek"><span class="tocnumber">4.4</span> <span class="toctext">Attack on Mishmar HaEmek</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Safed_massacre.2C_29_August"><span class="tocnumber">4.5</span> <span class="toctext">Safed massacre, 29 August</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Breakdown_of_the_attack_on_the_Yishuv"><span class="tocnumber">5</span> <span class="toctext">Breakdown of the attack on the Yishuv</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Casualties"><span class="tocnumber">6</span> <span class="toctext">Casualties</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Aftermath"><span class="tocnumber">7</span> <span class="toctext">Aftermath</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#British_investigations"><span class="tocnumber">8</span> <span class="toctext">British investigations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Shaw_Commission_of_Enquiry"><span class="tocnumber">8.1</span> <span class="toctext">Shaw Commission of Enquiry</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Hope_Simpson_Royal_Commission.2C_1930"><span class="tocnumber">8.2</span> <span class="toctext">Hope Simpson Royal Commission, 1930</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Notes"><span class="tocnumber">10</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="The_Western_Wall_Tensions">The Western Wall Tensions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=1" title="Edit section: The Western Wall Tensions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a href="/wiki/File:Keith-Roach.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Keith-Roach.jpg/200px-Keith-Roach.jpg" width="200" height="223" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Keith-Roach.jpg/300px-Keith-Roach.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Keith-Roach.jpg/400px-Keith-Roach.jpg 2x" data-file-width="665" data-file-height="742" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Keith-Roach.jpg" class="internal" title="Enlarge"></a></div>
+Jerusalem commissioner Edward Keith-Roach</div>
+</div>
+</div>
+<p>The Western Wall is one of the holiest of Jewish sites, sacred because it is a remnant of the ancient wall that once enclosed the Jewish <a href="/wiki/Second_Temple" title="Second Temple">Second Temple</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup> The Jews, through the practice of centuries, had established a right of access to the Wailing Wall for the purposes of their devotions. As part of the Temple Mount the Western Wall was under the control of the Muslim religious trust, the Waqf.<sup id="cite_ref-segev_16-0" class="reference"><a href="#cite_note-segev-16">[16]</a></sup> Muslims consider the wall to be part of the <a href="/wiki/Al-Aqsa_Mosque" title="Al-Aqsa Mosque">Al-Aqsa Mosque</a>, the third holiest site in Islam, and according to Islamic tradition the place where Muhammad tied his horse, <a href="/wiki/Buraq" title="Buraq">Buraq</a>, before his night journey to heaven.<sup id="cite_ref-segev_16-1" class="reference"><a href="#cite_note-segev-16">[16]</a></sup> There had been a few serious incidents resulting from these differences.<sup id="cite_ref-Shaw_report_p29_17-0" class="reference"><a href="#cite_note-Shaw_report_p29-17">[17]</a></sup></p>
+<p>As a result of an incident, which occurred in September 1925, a ruling was made which forbade the Jews to bring seats and benches to the Wall even though these were intended for worshippers who were aged and infirm.<sup id="cite_ref-Shaw_report_p29_17-1" class="reference"><a href="#cite_note-Shaw_report_p29-17">[17]</a></sup> The Muslims linked any adaptions to the site with "the Zionist project," and feared that they would be the first step in turning the site into a synagogue and taking it over.<sup id="cite_ref-segev_16-2" class="reference"><a href="#cite_note-segev-16">[16]</a></sup></p>
+<p>Several months earlier Zionist leader <a href="/wiki/Menachem_Ussishkin" title="Menachem Ussishkin">Menachem Ussishkin</a> gave a speech demanding "a Jewish state without compromises and without concessions, from Dan to Be'er Sheva, from the great sea to the desert, including Transjordan." He concluded, "Let us swear that the Jewish people will not rest and will not remain silent until its national home is built on our Mt Moriah", a reference to the Temple Mount.<sup id="cite_ref-segev_16-3" class="reference"><a href="#cite_note-segev-16">[16]</a></sup></p>
+<p>In September 1928, Jews praying at the Wall on <a href="/wiki/Yom_Kippur" title="Yom Kippur">Yom Kippur</a> placed chairs and a <a href="/wiki/Mechitza" title="Mechitza">mechitza</a>, consisting of a few wooden frames covered with cloth which separated the men and women. Jerusalem's British commissioner <a href="/wiki/Edward_Keith-Roach" title="Edward Keith-Roach">Edward Keith-Roach</a>, while visiting the Muslim religious court overlooking the prayer area, pointed out the screen, mentioning that he had never seen it at the wall before. This precipitated emotional protests and demands from the assembled sheiks that it be removed. Unless it was taken down, they said, they would not be responsible for what happened. The screen was described as violating the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a> <i><a href="/wiki/Status_quo" title="Status quo">status quo</a></i> that forbade Jews from making any "construction" at the Western Wall area and played into Muslim fears of Zionist expropriation of the site, though such screens had been put up from time to time. Keith-Roach told the beadle that the screen had to be removed because of the Arabs' demands. The beadle requested that the screen remained standing until the end of the prayer service, to which Keith-Roach agreed. When the Jewish <a href="/wiki/Beadle" title="Beadle">beadle</a> failed to remove the screen as agreed, ten armed men were sent in, urged on by Arab residents who were shouting, "Death to the Jewish dogs!" and "Strike, strike". A violent clash with worshipers took place, and it was destroyed.<sup id="cite_ref-segev_16-4" class="reference"><a href="#cite_note-segev-16">[16]</a></sup></p>
+<p>The intervention drew censure later from senior officials who judged that excessive force had been exercised without good judgement, although the British government issued a statement defending the action.<sup id="cite_ref-segev_16-5" class="reference"><a href="#cite_note-segev-16">[16]</a></sup></p>
+<p>The internal politics of both sides had been willing to adopt extreme positions and to make use of religious symbols to whip up popular support.<sup id="cite_ref-segev_16-6" class="reference"><a href="#cite_note-segev-16">[16]</a></sup></p>
+<p>Zionist literature published throughout the world used the imagery of a domed structure on the Temple Mount to symbolize their national aspirations.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2015)">citation needed</span></a></i>]</sup> Zionists had appropriated an Islamic minaret from the Ottoman period on the old city wall as a symbol for their propaganda. A Zionist flag was depicted atop of a building very reminiscent of the Dome of the Rock in one publication, which was later picked up and redistributed by Arab propagandists.<sup id="cite_ref-segev_16-7" class="reference"><a href="#cite_note-segev-16">[16]</a></sup></p>
+<p><a href="/wiki/Amin_al-Husayni" class="mw-redirect" title="Amin al-Husayni">Haj Amin al Husseini</a>, the <a href="/wiki/Grand_Mufti_of_Jerusalem" title="Grand Mufti of Jerusalem">Mufti of Jerusalem</a> distributed leaflets to Arabs in <a href="/wiki/Palestine_(region)" title="Palestine (region)">Palestine</a> and throughout the Arab world which claimed that the Jews were planning to take over the <a href="/wiki/Al-Aqsa_Mosque" title="Al-Aqsa Mosque">al-Aqsa Mosque</a>.<sup id="cite_ref-segev_16-8" class="reference"><a href="#cite_note-segev-16">[16]</a></sup> The leaflet stated that the Government was "responsible for any consequences of any measures which the Moslems may adopt for the purpose of defending the holy <a href="/wiki/Buraq" title="Buraq">Burak</a> themselves in the event of the failure of the Government...to prevent any such intrusion on the part of the Jews." A memorandum issued by the Moslem Supreme Council stated, "Having realized by bitter experience the unlimited greedy aspirations of the Jews in this respect, Moslems believe that the Jews’ aim is to take possession of the Mosque of Al-Aqsa gradually on the pretence that it is the Temple", and it advised the Jews "to stop this hostile propaganda which will naturally engender a parallel action in the whole Moslem world, the responsibility for which will rest with the Jews".<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></p>
+<p>The Shaw Commission stated that some sections of the Arabic Press had reproduced documents concerning the Wailing Wall which "were of a character likely to excite any susceptible readers." In addition, it stated that "there appeared in the Arabic Press a number of articles, which, had they been published in England or in other western countries, would unquestionably have been regarded as provocative."<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> One consequence was that Jewish worshippers frequently were subjected to beatings and stoning.<sup id="cite_ref-segev_16-9" class="reference"><a href="#cite_note-segev-16">[16]</a></sup></p>
+<p>In October 1928, the Grand Mufti organised new construction next to and above the Wall. Mules were driven through the praying area often dropping excrement, and waste water was thrown on Jews. A muezzin was appointed to perform the Islamic call to prayer directly next to the Wall, creating noise exactly when the Jews were conducting their prayers. The Jews protested at these provocations and tensions increased.<sup id="cite_ref-VI_20-0" class="reference"><a href="#cite_note-VI-20">[20]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup><sup id="cite_ref-Benvenisti_23-0" class="reference"><a href="#cite_note-Benvenisti-23">[23]</a></sup></p>
+<p>Zionists began making demands for control over the wall; some went as far as to call openly for the rebuilding of the Temple, increasing Muslim fears over Zionist intentions.<sup id="cite_ref-Morris_1999_24-0" class="reference"><a href="#cite_note-Morris_1999-24">[24]</a></sup> Ben-Gurion said the wall should be “redeemed”, predicting it could be achieved in as little as “another half a year”.<sup id="cite_ref-segev_16-10" class="reference"><a href="#cite_note-segev-16">[16]</a></sup> During the spring of 1929 the <a href="/wiki/Revisionist_Zionism" title="Revisionist Zionism">Revisionist</a> newspaper, <a href="/wiki/List_of_newspapers_in_Israel" title="List of newspapers in Israel">Doar HaYom</a> ran a long campaign claiming Jewish rights over the wall and its pavement. On 6 August the <a href="/wiki/Palestine_Police_Force" title="Palestine Police Force">British Palestine Police Force</a> established a police post beside the wall. On 14 August the <a href="/wiki/Haganah" title="Haganah">Haganah</a> and <a href="/wiki/Betar" title="Betar">Brit Trumpeldor</a> held a meeting in <a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a> attended by 6,000 people objecting to 1928 Commission's conclusion that the Wall was Muslim property.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></p>
+<h2><span class="mw-headline" id="March_to_the_Western_Wall_and_counter_demonstrations">March to the Western Wall and counter demonstrations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=2" title="Edit section: March to the Western Wall and counter demonstrations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On Thursday, 15 August 1929, during the Jewish fast of <a href="/wiki/Tisha_B%27Av" title="Tisha B'Av">Tisha B'Av</a>, several hundred members of <a href="/wiki/Joseph_Klausner" title="Joseph Klausner">Joseph Klausner</a>'s <i>Committee for the Western Wall</i>, among them members of <a href="/wiki/Vladimir_Jabotinsky" class="mw-redirect" title="Vladimir Jabotinsky">Vladimir Jabotinsky</a>'s <a href="/wiki/Revisionist_Zionism" title="Revisionist Zionism">Revisionist Zionism</a> movement Betar youth organization, under the leadership of <a href="/wiki/Jeremiah_Halpern" title="Jeremiah Halpern">Jeremiah Halpern</a>, marched to the Western Wall shouting "the Wall is ours".<sup id="cite_ref-segev_16-11" class="reference"><a href="#cite_note-segev-16">[16]</a></sup> At the Wall they raised the <a href="/wiki/Flag_of_Israel" title="Flag of Israel">Jewish national flag</a> and sang <a href="/wiki/Hatikvah" title="Hatikvah">Hatikvah</a>, the Jewish anthem. The <a href="/wiki/Shaw_report" class="mw-redirect" title="Shaw report">Shaw report</a> later concluded that the crowd was peaceful and allegations that the crowd were armed with iron bars were not correct, but that there may have been threatening cries made by some "undesirable elements" in the Jewish procession.<sup id="cite_ref-Shaw5456_26-0" class="reference"><a href="#cite_note-Shaw5456-26">[26]</a></sup> The authorities had been notified of the march in advance and provided a heavy police escort in a bid to prevent any incidents. Rumours spread that the youths had attacked local residents and had cursed the name of the Prophet <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a>.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup><sup id="cite_ref-OR_30-0" class="reference"><a href="#cite_note-OR-30">[30]</a></sup></p>
+<p>On Friday, 16 August after an inflammatory <a href="/wiki/Sermon" title="Sermon">sermon</a>, a demonstration organized by the <a href="/wiki/Supreme_Muslim_Council" title="Supreme Muslim Council">Supreme Muslim Council</a> marched to the Wall. The Acting High Commissioner summoned Mufti Haj Amin al-Husseini and informed him that he had never heard of such a demonstration being held at the Wailing Wall, and that it would be a terrible shock to the Jews who regarded the Wall as a place of special sanctity to them. At the Wall, the crowd burnt prayer books, liturgical fixtures and notes of supplication left in the Wall's cracks, and the <a href="/wiki/Beadle" title="Beadle">beadle</a> was injured. The rioting spread to the Jewish commercial area of town.<sup id="cite_ref-segev_16-12" class="reference"><a href="#cite_note-segev-16">[16]</a></sup><sup id="cite_ref-ReferenceA_31-0" class="reference"><a href="#cite_note-ReferenceA-31">[31]</a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></p>
+<p>Inflammatory articles calculated to incite disorder appeared in the Arab media and one flyer, signed by "the Committee of the Holy Warriors in Palestine" stated that the Jews had violated the honor of Islam, and declared: "Hearts are in tumult because of these barbaric deeds, and the people began to break out in shouts of 'war, Jihad ... rebellion.' ... O Arab nation, the eyes of your brothers in Palestine are upon you ... and they awaken your religious feelings and national zealotry to rise up against the enemy who violated the honor of Islam and raped the women and murdered widows and babies."<sup id="cite_ref-Morris_1999_24-1" class="reference"><a href="#cite_note-Morris_1999-24">[24]</a></sup><sup id="cite_ref-ReferenceA_31-1" class="reference"><a href="#cite_note-ReferenceA-31">[31]</a></sup></p>
+<p>On the same afternoon, the Jewish newspaper <i>Doar HaYom</i> published an inflammatory leaflet describing the Muslim march, based partially on statements by <a href="/wiki/Wolfgang_von_Weisl" title="Wolfgang von Weisl">Wolfgang von Weisl</a>, which "in material particulars was incorrect" according to the <a href="/wiki/Shaw_report" class="mw-redirect" title="Shaw report">Shaw report</a>.<sup id="cite_ref-Shaw5456_26-1" class="reference"><a href="#cite_note-Shaw5456-26">[26]</a></sup> On 18 August, <a href="/wiki/Haaretz" title="Haaretz">Haaretz</a> criticised <i>Doar HaYom</i> in an article entitled <i>"He who Sows the Wind shall Reap the Whirlwind"</i>: "The poison of propaganda was dripping from its columns daily until it poisoned the atmosphere and brought about the Thursday demonstration....and this served as a pretext to the wild demonstration of the Arabs."<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[33]</a></sup></p>
+<h2><span class="mw-headline" id="Escalation">Escalation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=3" title="Edit section: Escalation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The next day an incident which "in its origin was of a personal nature" was sparked when a young <a href="/wiki/Sephardic" class="mw-redirect" title="Sephardic">Sephardic</a> Jew named Abraham Mizrachi was fatally stabbed by an Arab at the Maccabi grounds near <a href="/wiki/Mea_Shearim" title="Mea Shearim">Mea Shearim</a>, in the <a href="/wiki/Bukharan_Jews" title="Bukharan Jews">Bukharan Quarter</a>, following a quarrel which began when he tried to retrieve his lost football from an Arab field.<sup id="cite_ref-PS_34-0" class="reference"><a href="#cite_note-PS-34">[34]</a></sup><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">[35]</a></sup> A Jewish crowd attacked and severely wounded the policeman who arrived to arrest the Arab responsible, and then attacked neighbouring Arab houses and wounded their occupants.<sup id="cite_ref-Shaw5456_26-2" class="reference"><a href="#cite_note-Shaw5456-26">[26]</a></sup></p>
+<p>Mizrachi died on 20 August and his funeral became the occasion for a serious anti-Arab demonstration. It was suppressed by the same force that had been employed in the initial incident. A late-night meeting initiated the following day by the Jewish leadership, at which acting high commissioner <a href="/wiki/Harry_Luke" title="Harry Luke">Harry Luke</a>, <a href="/wiki/Jamal_al-Husayni" title="Jamal al-Husayni">Jamal al-Husayni</a>, and <a href="/wiki/Yitzhak_Ben-Zvi" title="Yitzhak Ben-Zvi">Yitzhak Ben-Zvi</a> were present, failed to produce a call for an end to the violence.<sup id="cite_ref-segev_16-13" class="reference"><a href="#cite_note-segev-16">[16]</a></sup></p>
+<p>Over the following four days period, the Jerusalem police reported 12 separate attacks by Jews on Arabs and seven attacks by Arabs on Jews.<sup id="cite_ref-Shaw5456_26-3" class="reference"><a href="#cite_note-Shaw5456-26">[26]</a></sup><sup id="cite_ref-PS_34-1" class="reference"><a href="#cite_note-PS-34">[34]</a></sup></p>
+<p>On 21 August, the <a href="/wiki/Palestine_Zionist_Executive" class="mw-redirect" title="Palestine Zionist Executive">Palestine Zionist Executive</a> telegrammed the <a href="/wiki/Zionist_Organization" class="mw-redirect" title="Zionist Organization">Zionist Organization</a> stating describing the general excitement and the Arab fear of the Jews: "Population again very excited and false alarms caused local panics in various quarters but no further incidents course of day. Arabs also excited and afraid Jews. Desirable insist with home Government need of serious measures assuring public security. We are issuing appeal to public keep calm, refrain from demonstrations, and observe discipline, but feel embarrassed by militant attitude. Doar Hayom and also part of youth influenced by Revisionist agitation. Can you speak to Revisionist leaders?"</p>
+<h2><span class="mw-headline" id="Outbreak_of_riots">Outbreak of riots</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=4" title="Edit section: Outbreak of riots">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Jerusalem_riots.2C_23_August">Jerusalem riots, 23 August</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=5" title="Edit section: Jerusalem riots, 23 August">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Shaw report found that the "outbreak in Jerusalem on August 23 was from the beginning an attack by Arabs on Jews for which no excuse in the form of earlier murders by Jews has been established."<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">[36]</a></sup></p>
+<p>The next Friday, 23 August, thousands of Arab villagers streamed into Jerusalem from the surrounding countryside to pray on the <a href="/wiki/Temple_Mount" title="Temple Mount">Temple Mount</a>, many armed with sticks and knives. Harry Luke requested reinforcements from <a href="/wiki/Amman" title="Amman">Amman</a>. Towards 09:30 Jewish storekeepers began closing shop and at 11:00, 20–30 gunshots were heard on the Temple Mount, apparently to work up the crowd. Luke telephoned the Mufti to come and calm a mob that had gathered under his window near the <a href="/wiki/Damascus_Gate" title="Damascus Gate">Damascus Gate</a>, but the commissioner's impression was that the religious leader's presence was having the opposite effect. By midday friction had spread to the Jewish neighborhood of Mea She'arim where two or three Arabs were killed. The American consulate documented the event in detail, reported that the killings had taken place between 12:00 and 12:30.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">[37]</a></sup> The Shaw report described the excited Arab crowds and that it was clear beyond all doubt that at 12:50 large sections of these crowds were bent on mischief if not on murder. At 13:15, the Arabs began a massacre of the Jews.<sup id="cite_ref-PS_34-2" class="reference"><a href="#cite_note-PS-34">[34]</a></sup><sup id="cite_ref-38" class="reference"><a href="#cite_note-38">[38]</a></sup> Reacting to rumors that two Arabs had been murdered by Jews, Arabs started an attack on Jews in <a href="/wiki/Old_City_(Jerusalem)" title="Old City (Jerusalem)">Jerusalem's Old City</a>. The violence quickly spread to other parts of Palestine. British authorities had fewer than 100 soldiers, six armoured cars, and five or six aircraft in country; <a href="/wiki/Palestine_Police" class="mw-redirect" title="Palestine Police">Palestine Police</a> had 1,500 men, but the majority were Arab, with a small number of Jews and 175 British officers. While awaiting reinforcements, many untrained administration officials were required to attach themselves to the police, though the Jews among them were sent back to their offices. Several English theology students visiting from the <a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a> were deputized.<sup id="cite_ref-segev_16-14" class="reference"><a href="#cite_note-segev-16">[16]</a></sup> While a number of Jews were being killed at the <a href="/wiki/Jaffa_Gate" title="Jaffa Gate">Jaffa Gate</a>, British policemen did not open fire. They reasoned that if they had shot into the Arab crowd, the mob would have turned their anger on the police.<sup id="cite_ref-segev_16-15" class="reference"><a href="#cite_note-segev-16">[16]</a></sup></p>
+<p><a href="/wiki/Yemin_Moshe" title="Yemin Moshe">Yemin Moshe</a> was one of the few Jewish neighbourhoods to return fire, but most of Jerusalem's Jews did not defend themselves. At the outbreak of the violence and again in the following days, Yitzhak Ben-Zvi demanded that weapons be handed to the Jews, but was both times refused.<sup id="cite_ref-segev_16-16" class="reference"><a href="#cite_note-segev-16">[16]</a></sup> By August 24, 17 Jews were killed in the Jerusalem area. The worst killings occurred in <a href="/wiki/Hebron" title="Hebron">Hebron</a> and <a href="/wiki/Safed" title="Safed">Safed</a> while others were killed in <a href="/wiki/Motza" title="Motza">Motza</a>, <a href="/wiki/Kfar_Uria" title="Kfar Uria">Kfar Uria</a>, Jerusalem and <a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a>. There were many isolated attacks on Jewish villages, and in six cases, villages were entirely destroyed, accompanied by looting and burning. In Haifa and Jaffa, the situation deteriorated and a police officer succeeded in warding off an attack on the quarter between Jaffa and Tel Aviv by firing on an Arab crowd.</p>
+<p>The administrative director of Haddasah hospital in Jerusalem sent a cable to New York describing the casualties and that Arabs were attacking several Jewish hospitals.<sup id="cite_ref-Hadassah_5-1" class="reference"><a href="#cite_note-Hadassah-5">[5]</a></sup></p>
+<p>In a few instances, Jews attacked Arabs and destroyed Arab property. These attacks were in most cases in retaliation for wrongs already committed by Arabs in the neighbourhood in which the Jewish attacks occurred. A Police officer opened fire on an Arab crowd and succeeded in beating off an attack on the quarter which lies between Jaffa and Tel Aviv. The worst instance of a Jewish attack on Arabs occurred in this quarter, where the Imam of a mosque and six other persons were killed.<sup id="cite_ref-Shaw65_2-1" class="reference"><a href="#cite_note-Shaw65-2">[2]</a></sup></p>
+<p>According to the Shaw Report, the disturbances were not premeditated and did not occur simultaneously but spread from Jerusalem through a period of days to most outlying centres of population.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">[39]</a></sup></p>
+<p>Later on 23 August, the British authorities armed 41 Jewish <a href="/wiki/Special_constable" title="Special constable">special constables</a>, 18 Jewish ex-soldiers and a further 60 Jews were issued <a href="/wiki/Gun_(staff)" title="Gun (staff)">staves</a>, to assist in the defense of Jewish quarters in Jerusalem.<sup id="cite_ref-Shaw_Report.2C_p66-67_40-0" class="reference"><a href="#cite_note-Shaw_Report.2C_p66-67-40">[40]</a></sup> The following day, Arab notables issued a statement that "many rumours and reports of various kinds have spread to the effect that Government had enlisted and armed certain Jews, that they had enrolled Jewish ex-soldiers who had served in the Great War; and the Government forces were firing at Arabs exclusively". The Mufti of Jerusalem stated that there was a large crowd of excited Arabs in the Haram area who were also demanding arms, and that the excited crowd in the Haram area took the view that the retention of Jews as special constables carrying arms was a breach of faith by the Government. The Government initially denied the rumours, but by 27 August they were forced to disband and disarm the special constables.<sup id="cite_ref-Shaw_Report.2C_p66-67_40-1" class="reference"><a href="#cite_note-Shaw_Report.2C_p66-67-40">[40]</a></sup></p>
+<h3><span class="mw-headline" id="Hebron_massacre.2C_24_August">Hebron massacre, 24 August</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=6" title="Edit section: Hebron massacre, 24 August">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:172px;"><a href="/wiki/File:Hebron_1929.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hebron_1929.jpg/170px-Hebron_1929.jpg" width="170" height="245" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hebron_1929.jpg/255px-Hebron_1929.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/3/32/Hebron_1929.jpg 2x" data-file-width="272" data-file-height="392" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Hebron_1929.jpg" class="internal" title="Enlarge"></a></div>
+A survivor mourning in the aftermath of the massacre in <a href="/wiki/1929_Hebron_massacre" title="1929 Hebron massacre">Hebron</a>.</div>
+</div>
+</div>
+<div role="note" class="hatnote">Main article: <a href="/wiki/1929_Hebron_massacre" title="1929 Hebron massacre">1929 Hebron massacre</a></div>
+<p>On 20 August, Haganah leaders proposed to provide defence for 600 Jews of the <a href="/wiki/Yishuv" title="Yishuv">Old Yishuv</a> in <a href="/wiki/Hebron" title="Hebron">Hebron</a>, or to help them evacuate. However, the leaders of the Hebron community declined these offers, insisting that they trusted the <i>A'yan</i> (Arab notables) to protect them.</p>
+<p>On 24 August 1929 in Hebron, Arab mobs attacked the Jewish quarter killing and raping men, women and children and looting Jewish property. They killed 65–68 Jews<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">[41]</a></sup><sup id="cite_ref-forward_42-0" class="reference"><a href="#cite_note-forward-42">[42]</a></sup> and wounded 58, with some of the victims being tortured, or mutilated.<sup id="cite_ref-segev_16-17" class="reference"><a href="#cite_note-segev-16">[16]</a></sup><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[43]</a></sup><sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[44]</a></sup> Sir <a href="/wiki/John_Chancellor_(British_administrator)" title="John Chancellor (British administrator)">John Chancellor</a>, the British High Commissioner visited Hebron and later wrote to his son, "The horror of it is beyond words. In one house I visited not less than twenty-five Jews men and women were murdered in cold blood." Sir <a href="/wiki/Walter_Shaw_(judge)" title="Walter Shaw (judge)">Walter Shaw</a> concluded in The Palestine Disturbances report that "unspeakable atrocities have occurred in Hebron.<sup id="cite_ref-hebronjews_45-0" class="reference"><a href="#cite_note-hebronjews-45">[45]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:227px;"><a href="/wiki/File:Zvi_Hirsh_Heller,_Jerusalem_1929.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Zvi_Hirsh_Heller%2C_Jerusalem_1929.png/225px-Zvi_Hirsh_Heller%2C_Jerusalem_1929.png" width="225" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Zvi_Hirsh_Heller%2C_Jerusalem_1929.png/338px-Zvi_Hirsh_Heller%2C_Jerusalem_1929.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Zvi_Hirsh_Heller%2C_Jerusalem_1929.png/450px-Zvi_Hirsh_Heller%2C_Jerusalem_1929.png 2x" data-file-width="454" data-file-height="302" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Zvi_Hirsh_Heller,_Jerusalem_1929.png" class="internal" title="Enlarge"></a></div>
+Victim of the Hebron Yeshiva</div>
+</div>
+</div>
+<p>The Shaw report described the attack, "Arabs in Hebron made a most ferocious attack on the Jewish ghetto and on isolated Jewish houses lying outside the crowded quarters of the town. More than 60 Jews – including many women and children – were murdered and more than 50 were wounded. This savage attack, of which no condemnation could be too severe, was accompanied by wanton destruction and looting. Jewish synagogues were desecrated, a Jewish hospital, which had provided treatment for Arabs, was attacked and ransacked, and only the exceptional personal courage displayed by Mr. Cafferata – the one British Police Officer in the town – prevented the outbreak from developing into a general massacre of the Jews in Hebron."<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">[46]</a></sup></p>
+<p>The lone British policeman in the town, Raymond Cafferata, who, "killed as many of the murderers as he could, taking to his fists even", was overwhelmed, and the reinforcements he called for did not arrive for 5 hours–leading to severe recriminations. Hundreds of Jews were saved by their more benevolent Arab neighbours, who offered them sanctuary from the mob by hiding them in their own houses<sup id="cite_ref-segev2_47-0" class="reference"><a href="#cite_note-segev2-47">[47]</a></sup> while others survived by taking refuge in the British police station at Beit Ramon on the outskirts of the city. When the <a href="/wiki/Massacre" title="Massacre">massacre</a> ended, the surviving Jews were evacuated by the British.<sup id="cite_ref-segev_16-18" class="reference"><a href="#cite_note-segev-16">[16]</a></sup></p>
+<p>This massacre had a deep and lasting effect on the old and newer Jewish communities in Palestine.</p>
+<h4><span class="mw-headline" id="Hebron_yeshiva_massacre">Hebron yeshiva massacre</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=7" title="Edit section: Hebron yeshiva massacre">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:227px;"><a href="/wiki/File:Elhanan_Zelig_Roch,_Hebron_1929.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elhanan_Zelig_Roch%2C_Hebron_1929.jpg/225px-Elhanan_Zelig_Roch%2C_Hebron_1929.jpg" width="225" height="163" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Elhanan_Zelig_Roch%2C_Hebron_1929.jpg/338px-Elhanan_Zelig_Roch%2C_Hebron_1929.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/9/98/Elhanan_Zelig_Roch%2C_Hebron_1929.jpg 2x" data-file-width="399" data-file-height="289" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Elhanan_Zelig_Roch,_Hebron_1929.jpg" class="internal" title="Enlarge"></a></div>
+A student of the Hebron Yeshiva lost a hand during the attack</div>
+</div>
+</div>
+<p>The <a href="/wiki/Hebron_Yeshiva" title="Hebron Yeshiva">Hebron Yeshiva</a>, a branch of the famed <a href="/wiki/Yeshivas_Knesses_Yisrael_(Slabodka)" title="Yeshivas Knesses Yisrael (Slabodka)">Slobodka yeshiva</a>, was also attacked during the riots. On Friday, 23 August, an Arab crowd gathered outside it and threw stones through the windows. Only two people were inside, a student and the sexton. The student was grabbed by the Arab crowd, who stabbed him to death; the sexton survived by hiding in a well. The next day, a crowd armed with staves and axes attacked and killed two Jewish boys, one stoned to death and the other stabbed. More than 70 Jews, including the Yeshiva students, sought refuge in the house of Eliezer Dan Slonim, the son of the Rabbi of Hebron, but were massacred by an Arab mob. Survivors and reporters recounted the carnage that occurred at the Slonim residence. Moses Harbater, an 18-year-old was stabbed and two of his fingers were severed. He described at a later trial of some Arab rioters how a fellow student had been mutilated and killed. Forty-two teachers and students were murdered at the yeshiva.<sup id="cite_ref-segev_16-19" class="reference"><a href="#cite_note-segev-16">[16]</a></sup><sup id="cite_ref-hebronjews_45-1" class="reference"><a href="#cite_note-hebronjews-45">[45]</a></sup><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">[48]</a></sup><sup id="cite_ref-49" class="reference"><a href="#cite_note-49">[49]</a></sup></p>
+<h4><span class="mw-headline" id="Hadassah_hospital_attack">Hadassah hospital attack</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=8" title="Edit section: Hadassah hospital attack">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="/wiki/File:Desecrated_synagogue,_Hebron_1929.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Desecrated_synagogue%2C_Hebron_1929.jpg/180px-Desecrated_synagogue%2C_Hebron_1929.jpg" width="180" height="260" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Desecrated_synagogue%2C_Hebron_1929.jpg/270px-Desecrated_synagogue%2C_Hebron_1929.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Desecrated_synagogue%2C_Hebron_1929.jpg/360px-Desecrated_synagogue%2C_Hebron_1929.jpg 2x" data-file-width="561" data-file-height="809" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Desecrated_synagogue,_Hebron_1929.jpg" class="internal" title="Enlarge"></a></div>
+Torn sacred books and broken furniture in a synagogue desecrated by Arab rioters in Hebron, 1929</div>
+</div>
+</div>
+<p>The Hadassah Medical Organization operated an infirmary in Hebron. The <i>Beit Hadassah</i> clinic had three floors with the infirmary, the pharmacy and the synagogue on the top floor. The rioters destroyed the pharmacy and torched the synagogue and destroyed the Torah scrolls inside.<sup id="cite_ref-segev_16-20" class="reference"><a href="#cite_note-segev-16">[16]</a></sup><sup id="cite_ref-50" class="reference"><a href="#cite_note-50">[50]</a></sup></p>
+<h3><span class="mw-headline" id="Desecration_of_the_Nebi_Akasha_Mosque.2C_26_August">Desecration of the Nebi Akasha Mosque, 26 August</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=9" title="Edit section: Desecration of the Nebi Akasha Mosque, 26 August">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 26 August, the <a href="/wiki/Nebi_Akasha_Mosque" title="Nebi Akasha Mosque">Nebi Akasha Mosque</a> in Jerusalem was attacked by a group of Jews. According to the Shaw Report, the mosque was a "sacred shrine of great antiquity held in much veneration by the Moslems". The mosque was badly damaged and the tombs of the prophets which it contained were <a href="/wiki/Desecration" title="Desecration">desecrated</a>.<sup id="cite_ref-51" class="reference"><a href="#cite_note-51">[51]</a></sup></p>
+<h3><span class="mw-headline" id="Attack_on_Mishmar_HaEmek">Attack on Mishmar HaEmek</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=10" title="Edit section: Attack on Mishmar HaEmek">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Kibbutz" title="Kibbutz">kibbutz</a> of <a href="/wiki/Mishmar_HaEmek" title="Mishmar HaEmek">Mishmar HaEmek</a> was attacked on 26 August by an Arab mob, which was dispersed by the locals and British police. On the following day the British authorities ordered the kibbutz members to evacuate. On 28 August an Arab mob attacked the empty kibbutz again, burning its barn, uprooting trees and vandalizing its cemetery. The members of the Kibbutz returned on 7 September.<sup id="cite_ref-mishmar_10-1" class="reference"><a href="#cite_note-mishmar-10">[10]</a></sup></p>
+<h3><span class="mw-headline" id="Safed_massacre.2C_29_August">Safed massacre, 29 August</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=11" title="Edit section: Safed massacre, 29 August">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/1929_Safed_massacre" class="mw-redirect" title="1929 Safed massacre">1929 Safed massacre</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:182px;"><a href="/wiki/File:Jewish_houses_in_Safed_following_1929_riots.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Jewish_houses_in_Safed_following_1929_riots.JPG/180px-Jewish_houses_in_Safed_following_1929_riots.JPG" width="180" height="284" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Jewish_houses_in_Safed_following_1929_riots.JPG/270px-Jewish_houses_in_Safed_following_1929_riots.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Jewish_houses_in_Safed_following_1929_riots.JPG/360px-Jewish_houses_in_Safed_following_1929_riots.JPG 2x" data-file-width="1165" data-file-height="1839" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Jewish_houses_in_Safed_following_1929_riots.JPG" class="internal" title="Enlarge"></a></div>
+Jewish houses in <a href="/wiki/Safed" title="Safed">Safed</a> following the 1929 riots</div>
+</div>
+</div>
+<p>In Safed on 29 August 18 Jews were killed (some sources say 20) and 80 wounded. The attackers looted and set fire to houses and killed Jewish inhabitants. The main Jewish street was looted and burned. −</p>
+<p>The Shaw report stated:</p>
+<p>"At about 5:15 pm, on the 29th of August, Arab mobs attacked the Jewish ghetto in Safed…in the course of which some 45 Jews were killed or wounded, several Jewish houses and shops were set on fire, and there was a repetition of the wanton destruction which had been so prominent a feature of the attack at Hebron."</p>
+<p>An eyewitness describing the pogrom that took place in Safed, perpetrated by Arabs from Safed and local villages, armed with weapons and kerosene tins. He observed mutilated and burned bodies of victims and the burnt body of a woman tied to a window. Several people were brutally killed. A schoolteacher, wife, and mother and a lawyer, were cut to pieces with knives and the attackers entered an orphanage and smashed children's heads and cut off their hands. Another victim was stabbed repeatedly and trampled to death.<sup id="cite_ref-52" class="reference"><a href="#cite_note-52">[52]</a></sup></p>
+<p>The Safed massacre marked the end of the disturbances.<sup id="cite_ref-53" class="reference"><a href="#cite_note-53">[53]</a></sup></p>
+<h2><span class="mw-headline" id="Breakdown_of_the_attack_on_the_Yishuv">Breakdown of the attack on the Yishuv</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=12" title="Edit section: Breakdown of the attack on the Yishuv">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A list of all the Jewish communities attacked during the riots.<sup id="cite_ref-54" class="reference"><a href="#cite_note-54">[54]</a></sup></p>
+<table class="wikitable sortable">
+<tr>
+<th>Name of locality</th>
+<th>Date of attack</th>
+<th>Date of evacuation</th>
+<th>Further details</th>
+</tr>
+<tr>
+<td><a href="/wiki/Yesud_HaMa%27ala" title="Yesud HaMa'ala">Yesud HaMa'ala</a></td>
+<td>1 September</td>
+<td>1 September</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ein_Zeitim" title="Ein Zeitim">Ein Zeitim</a></td>
+<td>29 August</td>
+<td>29 August</td>
+<td>Three residents were killed and the remainder left.<sup id="cite_ref-55" class="reference"><a href="#cite_note-55">[55]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Safed" title="Safed">Safed</a></td>
+<td>29 August</td>
+<td>29 August</td>
+<td>Massacre of the Jewish population of the city, 18 Jews killed</td>
+</tr>
+<tr>
+<td><a href="/wiki/Kfar_Hittim" title="Kfar Hittim">Kfar Hittim</a></td>
+<td>2 September</td>
+<td>N/A</td>
+<td>Attack repelled</td>
+</tr>
+<tr>
+<td><a href="/wiki/Acre,_Israel" title="Acre, Israel">Acre</a></td>
+<td>29 August</td>
+<td>N/A</td>
+<td>Attack on Jews in a factory repelled by British police</td>
+</tr>
+<tr>
+<td><a href="/wiki/Haifa" title="Haifa">Haifa</a></td>
+<td>24-26 August</td>
+<td>N/A</td>
+<td>
+<ul>
+<li>24 August: Attack on Nachala neighborhood</li>
+<li>25 August: Attack on "Downtown Haifa"</li>
+<li>26 August: Riots all across the city</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Mishmar_HaEmek" title="Mishmar HaEmek">Mishmar HaEmek</a></td>
+<td>26, 28 August</td>
+<td>27 August</td>
+<td>
+<ul>
+<li>26 August: Attack on the kibbutz repelled by locals and British police</li>
+<li>27 August: Residents of the kibbutz evacuated on behalf of the British police</li>
+<li>28 August: Rioters rob and pillage the kibbutz<sup id="cite_ref-mishmar_10-2" class="reference"><a href="#cite_note-mishmar-10">[10]</a></sup></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Heftziba" title="Heftziba">Heftziba</a></td>
+<td>26 August</td>
+<td>N/A</td>
+<td>Attack repelled</td>
+</tr>
+<tr>
+<td><a href="/wiki/Beit_Alfa" title="Beit Alfa">Beit Alfa</a></td>
+<td>26 August</td>
+<td>N/A</td>
+<td>Attack repelled</td>
+</tr>
+<tr>
+<td><a href="/wiki/Beit_She%27an" title="Beit She'an">Beit She'an</a></td>
+<td>24 August</td>
+<td>24 August</td>
+<td>Jews of the town evacuated, major damage to Jewish property made</td>
+</tr>
+<tr>
+<td><a href="/wiki/Jenin" title="Jenin">Jenin</a></td>
+<td>N/A</td>
+<td>29 August</td>
+<td>Jews of Jenin evacuated on behalf of the British police</td>
+</tr>
+<tr>
+<td><a href="/wiki/Tulkarem" class="mw-redirect" title="Tulkarem">Tulkarem</a></td>
+<td>N/A</td>
+<td>29 August</td>
+<td>Jews of Tulkarem evacuated on behalf of the British police</td>
+</tr>
+<tr>
+<td><a href="/wiki/Nablus" title="Nablus">Nablus</a></td>
+<td>29 August</td>
+<td>29 August</td>
+<td>Jews of Nablus attacked by Arabs and evacuated on behalf of the British police</td>
+</tr>
+<tr>
+<td><a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a></td>
+<td>25 August</td>
+<td>N/A</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Mazkeret_Batya" title="Mazkeret Batya">Mazkeret Batya</a></td>
+<td>27 August</td>
+<td>27 August</td>
+<td>Jews of Mazkeret Batya evacuated on behalf of the British police</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hulda,_Israel" title="Hulda, Israel">Hulda</a></td>
+<td>26 August</td>
+<td>27 August</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Kfar_Uria" title="Kfar Uria">Kfar Uria</a></td>
+<td>24 August</td>
+<td>24 August</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Hartuv" title="Hartuv">Hartuv</a></td>
+<td>25 August</td>
+<td>25 August</td>
+<td>Colony completely destroyed and abandoned<sup id="cite_ref-56" class="reference"><a href="#cite_note-56">[56]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Motza" title="Motza">Motza</a></td>
+<td>24 August</td>
+<td>24 August</td>
+<td>Moshav was evacuated after being attacked by residents of <a href="/wiki/Qalunya" title="Qalunya">Qalunya</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ramat_Rachel" title="Ramat Rachel">Ramat Rachel</a></td>
+<td>23 August</td>
+<td>23 August</td>
+<td>Kibbutz destroyed after being attacked by residents of <a href="/wiki/Sur_Baher" title="Sur Baher">Sur Baher</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a></td>
+<td>23 August</td>
+<td>N/A</td>
+<td>
+<ul>
+<li><a href="/wiki/Bayit_VeGan" title="Bayit VeGan">Bayit VeGan</a> evacuated after being attacked by residents of <a href="/wiki/Malha" title="Malha">Malha</a> and <a href="/wiki/Ayn_Karim" title="Ayn Karim">Ayn Karim</a></li>
+<li><a href="/wiki/Beit_HaKerem,_Jerusalem" title="Beit HaKerem, Jerusalem">Beit HaKerem</a>, <a href="/wiki/Romema" title="Romema">Romema</a>, <a href="/wiki/Sanhedria" title="Sanhedria">Sanhedria</a> and <a href="/wiki/Giv%27at_Shaul" class="mw-redirect" title="Giv'at Shaul">Giv'at Shaul</a> attacked by residents of <a href="/wiki/Deir_Yassin" title="Deir Yassin">Deir Yassin</a> and <a href="/wiki/Lifta" title="Lifta">Lifta</a></li>
+<li><a href="/wiki/Talpiot" title="Talpiot">Talpiot</a> partially destroyed and evacuated after being attacked by residents of <a href="/wiki/Silwan" title="Silwan">Silwan</a> and <a href="/wiki/Sur_Baher" title="Sur Baher">Sur Baher</a></li>
+<li>Attack on the <a href="/wiki/Jewish_Quarter_(Jerusalem)" title="Jewish Quarter (Jerusalem)">Jewish Quarter</a> from <a href="/wiki/Silwan" title="Silwan">Silwan</a> failed; <a href="/wiki/Sha%27arei_Hesed" title="Sha'arei Hesed">Sha'arei Hesed</a> attacked by residents of <a href="/wiki/Malha" title="Malha">Malha</a></li>
+<li><a href="/wiki/Mea_She%27arim" class="mw-redirect" title="Mea She'arim">Mea She'arim</a> attacked by residents of the <a href="/wiki/Muslim_Quarter" title="Muslim Quarter">Muslim Quarter</a></li>
+<li><a href="/wiki/Mekor_Chaim" title="Mekor Chaim">Mekor Chaim</a> attacked by residents of <a href="/wiki/Beit_Safafa" title="Beit Safafa">Beit Safafa</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Atarot" title="Atarot">Atarot</a></td>
+<td>26 August</td>
+<td>N/A</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Neve_Yaakov" title="Neve Yaakov">Neve Yaakov</a></td>
+<td>26 August</td>
+<td>N/A</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Beer_Tuvia" class="mw-redirect" title="Beer Tuvia">Beer Tuvia</a></td>
+<td>26 August</td>
+<td>26 August</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/Kfar_Etzion" title="Kfar Etzion">Migdal Eder</a></td>
+<td>&#160;?</td>
+<td>24 August</td>
+<td>The residents found shelter in <a href="/wiki/Beit_Umar" class="mw-redirect" title="Beit Umar">Beit Umar</a> but Migdal Eder completely destroyed and the residents couldn't come back.<sup id="cite_ref-57" class="reference"><a href="#cite_note-57">[57]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Hebron" title="Hebron">Hebron</a></td>
+<td>24 August</td>
+<td>24 August</td>
+<td>Massacre of the Jews of the city, 67 Jews killed.</td>
+</tr>
+<tr>
+<td><a href="/wiki/Gaza_City" title="Gaza City">Gaza</a></td>
+<td>N/A</td>
+<td>25 August</td>
+<td>Jews of Gaza evaquated by train to <a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a> on behalf of the British police</td>
+</tr>
+<tr>
+<td><a href="/wiki/Kfar_Malal" title="Kfar Malal">Kfar Malal</a></td>
+<td>&#160;?</td>
+<td>&#160;?</td>
+<td>Several attacks repelled by the residents<sup id="cite_ref-58" class="reference"><a href="#cite_note-58">[58]</a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Casualties">Casualties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=13" title="Edit section: Casualties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During the week of riots from 23 to 29 August 133 Jews and 116 Arabs were killed and 198 Jews and 232 Arabs were injured.<sup id="cite_ref-Shaw65_2-2" class="reference"><a href="#cite_note-Shaw65-2">[2]</a></sup></p>
+<p>More than 60 Jews were killed at Hebron, and the British police had to open fire to prevent outrages in Nablus and Jaffa. A police officer succeeded in warding off an attack on the quarter between Jaffa and Tel Aviv by firing on an Arab crowd.<sup id="cite_ref-Shaw65_2-3" class="reference"><a href="#cite_note-Shaw65-2">[2]</a></sup> Arabs attacked the Jewish quarter in Safad, killing or wounding 45 persons. Many of the 116 reported Arab deaths were as a result of police and military activities.<sup id="cite_ref-PS_34-3" class="reference"><a href="#cite_note-PS-34">[34]</a></sup></p>
+<p>According to the Shaw Report, during the week of riots from 23 to 29 August 116 Arabs and 133 Jews were killed and 232 Arabs and 198 Jews were injured and treated in hospital.<sup id="cite_ref-Shaw65_2-4" class="reference"><a href="#cite_note-Shaw65-2">[2]</a></sup> The Jewish casualty figures were provided by the Jewish authorities. The Arab casualty figures represented only those actually admitted to hospital and did not include "a considerable number of unrecorded casualties from rifle fire that occurred amongst Arabs". The Shaw report found that, "many of the Arab casualties and possibly some of the Jewish casualties were caused by rifle fire by the police or military forces".<sup id="cite_ref-Shaw65_2-5" class="reference"><a href="#cite_note-Shaw65-2">[2]</a></sup> Arab notables accused the Government forces of firing at Arabs exclusively.<sup id="cite_ref-Shaw65_2-6" class="reference"><a href="#cite_note-Shaw65-2">[2]</a></sup><sup id="cite_ref-Shaw_Report.2C_p66-67_40-2" class="reference"><a href="#cite_note-Shaw_Report.2C_p66-67-40">[40]</a></sup></p>
+<h2><span class="mw-headline" id="Aftermath">Aftermath</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=14" title="Edit section: Aftermath">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The riots produced a large number of trials. According to the Attorney-General of Palestine, <a href="/wiki/Norman_Bentwich" title="Norman Bentwich">Norman Bentwich</a>, the following numbers of persons were charged, with the numbers convicted in parentheses.<sup id="cite_ref-Bentwich_59-0" class="reference"><a href="#cite_note-Bentwich-59">[59]</a></sup></p>
+<dl>
+<dd>
+<dl>
+<dd>
+<table class="wikitable" cellpadding="2">
+<tr>
+<th></th>
+<th align="center">Murder</th>
+<th align="center">Attempted murder</th>
+<th align="center">Looting/arson</th>
+<th align="center">Lesser offences</th>
+</tr>
+<tr>
+<th><b>Arabs</b></th>
+<td align="center">124 (55)</td>
+<td align="center">50 (17)</td>
+<td align="center">250 (150)</td>
+<td align="center">294 (219)</td>
+</tr>
+<tr>
+<th><b>Jews</b></th>
+<td align="center">70 (2)</td>
+<td align="center">39 (1)</td>
+<td align="center">31 (7)</td>
+<td align="center">21 (9)</td>
+</tr>
+</table>
+</dd>
+</dl>
+</dd>
+</dl>
+<p>Of those convicted of murder, 26 Arabs and 2 Jews were sentenced to death. The Arabs included 14 convicted for the massacre in Safed and 11 for the massacre in Hebron.<sup id="cite_ref-60" class="reference"><a href="#cite_note-60">[60]</a></sup> The Jewish policeman Simchas Hinkis was convicted for the murder of five and wounding of two when a mob broke into a house between Tel Aviv and Jaffa to avenge the murder of six Jews.<sup id="cite_ref-61" class="reference"><a href="#cite_note-61">[61]</a></sup><sup id="cite_ref-62" class="reference"><a href="#cite_note-62">[62]</a></sup> Joseph Urphali was convicted by two separate trials, and lost his appeal twice, for the shooting of two Arabs from the roof of his Jaffa house.<sup id="cite_ref-63" class="reference"><a href="#cite_note-63">[63]</a></sup></p>
+<p>Some of the Arab convictions were overturned on appeal and all the remaining death sentences were commuted to terms of imprisonment by the High Commissioner except in the case of three Arabs. Atta Ahmed el Zeer, Mohamamed Khalil Abu Jamjum and Fuad Hassab el Hejazi were hanged on 17 June 1930.<sup id="cite_ref-64" class="reference"><a href="#cite_note-64">[64]</a></sup></p>
+<p>Collective fines were imposed on the Arabs of Hebron, Safed, and some villages.<sup id="cite_ref-Bentwich_59-1" class="reference"><a href="#cite_note-Bentwich-59">[59]</a></sup> The fine on Hebron was 14,000 pounds.<sup id="cite_ref-65" class="reference"><a href="#cite_note-65">[65]</a></sup> The fines collected, and an additional one hundred thousand pounds, were distributed to the victims, 90 percent of them Jews.<sup id="cite_ref-Bentwich_59-2" class="reference"><a href="#cite_note-Bentwich-59">[59]</a></sup></p>
+<p>A few dozen families returned to Hebron in 1931 to reestablish the community, but all but one family were evacuated from Hebron at the outset of the <a href="/wiki/1936%E2%80%9339_Arab_revolt_in_Palestine" title="1936–39 Arab revolt in Palestine">1936–39 Arab revolt in Palestine</a>.<sup id="cite_ref-66" class="reference"><a href="#cite_note-66">[66]</a></sup> The last family left in 1947.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2012)">citation needed</span></a></i>]</sup></p>
+<p>The Arabs in the region, led by the <a href="/wiki/Palestine_Arab_Congress" title="Palestine Arab Congress">Palestine Arab Congress</a>,<sup id="cite_ref-67" class="reference"><a href="#cite_note-67">[67]</a></sup> imposed a boycott on Jewish-owned businesses following the riots.<sup id="cite_ref-68" class="reference"><a href="#cite_note-68">[68]</a></sup></p>
+<h2><span class="mw-headline" id="British_investigations">British investigations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=15" title="Edit section: British investigations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Shaw_Commission_of_Enquiry">Shaw Commission of Enquiry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=16" title="Edit section: Shaw Commission of Enquiry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Shaw_Commission" title="Shaw Commission">Shaw Commission</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Palestinian_delegation_1929.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Palestinian_delegation_1929.jpg/220px-Palestinian_delegation_1929.jpg" width="220" height="156" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Palestinian_delegation_1929.jpg/330px-Palestinian_delegation_1929.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Palestinian_delegation_1929.jpg/440px-Palestinian_delegation_1929.jpg 2x" data-file-width="5451" data-file-height="3854" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Palestinian_delegation_1929.jpg" class="internal" title="Enlarge"></a></div>
+An Arab "protest gathering" in session. In the Rawdat el Maaref hall. 1929</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Shaw_Commission.tif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Shaw_Commission.tif/lossy-page1-220px-Shaw_Commission.tif.jpg" width="220" height="160" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Shaw_Commission.tif/lossy-page1-330px-Shaw_Commission.tif.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Shaw_Commission.tif/lossy-page1-440px-Shaw_Commission.tif.jpg 2x" data-file-width="5509" data-file-height="4012" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Shaw_Commission.tif" class="internal" title="Enlarge"></a></div>
+The <a href="/wiki/Shaw_Commission" title="Shaw Commission">Shaw Commission</a> in 1929.</div>
+</div>
+</div>
+<p>A <a href="/wiki/Shaw_Report" class="mw-redirect" title="Shaw Report">commission of enquiry</a> led by Sir <a href="/wiki/Walter_Shaw_(judge)" title="Walter Shaw (judge)">Walter Shaw</a> took public evidence for several weeks. The main conclusions of the Commission were as follows.<sup id="cite_ref-69" class="reference"><a href="#cite_note-69">[69]</a></sup> [Material not in brackets is verbatim.]</p>
+<ul>
+<li>The fundamental cause, without which in our opinion disturbances either would not occurred or would not have been little more than a local riot, is the Arab feeling of animosity and hostility towards the Jews consequent upon the disappointment of their political and national aspirations and fear for their economic future. ... The feeling as it exists today is based on the twofold fear of the Arabs that by Jewish immigration and land purchases they may be deprived of their livelihood and in time pass under the political domination of the Jews.</li>
+<li>In our opinion the immediate causes of the outbreak were:-
+<ol>
+<li>The long series of incidents connected with the Wailing Wall... These must be regarded as a whole, but the incident among them which in our view contributed most to the outbreak was the Jewish demonstration at the Wailing Wall on the 15th of August, 1929. Next in importance we put the activities of the Society for the Protection of the Moslem Holy Places and, in a lesser degree, of the Pro-Wailing Wall Committee.</li>
+<li>Excited and intemperate articles which appeared in some Arabic papers, in one Hebrew daily paper and in a Jewish weekly paper...</li>
+<li>Propaganda among the less-educated Arab people of a character calculated to incite them.</li>
+<li>The enlargement of the Jewish Agency.</li>
+<li>The inadequacy of the military forces and of the reliable police available.</li>
+<li>The belief...that the decisions of the Palestine Government could be influenced by political considerations.</li>
+</ol>
+</li>
+<li>The outbreak in Jerusalem on the 23rd of August was from the beginning an attack by Arabs on Jews for which no excuse in the form of earlier murders by Jews has been established.</li>
+<li>The outbreak was not premeditated.</li>
+<li>[The disturbances] took the form, in the most part, of a vicious attack by Arabs on Jews accompanied by wanton destruction of Jewish property. A general massacre of the Jewish community at Hebron was narrowly averted. In a few instances, Jews attacked Arabs and destroyed Arab property. These attacks, though inexcusable, were in most cases in retaliation for wrongs already committed by Arabs in the neighbourhood in which the Jewish attacks occurred.</li>
+<li>[In his activities connected to the dispute over the Holy Places] the Mufti was influenced by the twofold desire to confront the Jews and to mobilize Moslem opinion on the issue of the Wailing Wall. He had no intention of utilizing this religious campaign as the means of inciting to disorder.</li>
+<li>...in the matter of innovations of practice [at the Wailing Wall] little blame can be attached to the Mufti in which some Jewish religious authorities also would not have to share. ...no connection has been established between the Mufti and the work of those who either are known or are thought to have engaged in agitation or incitement. ... After the disturbances had broken out the Mufti co-operated with the Government in their efforts both to restore peace and to prevent the extension of disorder.</li>
+<li>[No blame can be properly attached to the British government for failing to provide armed reinforcements, withholding of fire, and similar charges.]</li>
+</ul>
+<p>The Commission recommended that the Government reconsider its policies as to Jewish immigration and land sales to Jews. This led directly to the <a href="/wiki/Hope_Simpson_Royal_Commission" class="mw-redirect" title="Hope Simpson Royal Commission">Hope Simpson Royal Commission</a> in 1930.</p>
+<p>Commission member Henry Snell signed the report but added a Note of Reservation.<sup id="cite_ref-Snell_70-0" class="reference"><a href="#cite_note-Snell-70">[70]</a></sup> Although he was satisfied that the Mufti was not directly responsible for the violence or had connived at it, he believed the Mufti was aware of the nature of the anti-Zionist campaign and the danger of disturbances.<sup id="cite_ref-Snell_70-1" class="reference"><a href="#cite_note-Snell-70">[70]</a></sup> He therefore attributed to the Mufti a greater share of the blame than the official report had.<sup id="cite_ref-Snell_70-2" class="reference"><a href="#cite_note-Snell-70">[70]</a></sup> Snell also disagreed with the commission on matters of Jewish immigration, and did not support restrictions on Jewish land purchases.<sup id="cite_ref-Snell_70-3" class="reference"><a href="#cite_note-Snell-70">[70]</a></sup> Regarding the immediate causes of the outbreak, Snell agreed with the main findings of the commission.<sup id="cite_ref-Snell_70-4" class="reference"><a href="#cite_note-Snell-70">[70]</a></sup></p>
+<h3><span class="mw-headline" id="Hope_Simpson_Royal_Commission.2C_1930">Hope Simpson Royal Commission, 1930</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=17" title="Edit section: Hope Simpson Royal Commission, 1930">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote">Main article: <a href="/wiki/Hope_Simpson_Royal_Commission" class="mw-redirect" title="Hope Simpson Royal Commission">Hope Simpson Royal Commission</a></div>
+<p>The commission was headed by <a href="/wiki/Sir" title="Sir">Sir</a> <a href="/wiki/John_Hope_Simpson" title="John Hope Simpson">John Hope Simpson</a>, and on 21 October 1930 it produced its report, dated 1 October 1930. The report recommended to limit the <a href="/wiki/Aliyah" title="Aliyah">Jewish immigration</a> due to the lack of agricultural land to support it.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=18" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Jaffa_riots" title="Jaffa riots">Jaffa riots</a></li>
+<li><a href="/wiki/List_of_modern_conflicts_in_the_Middle_East" title="List of modern conflicts in the Middle East">List of modern conflicts in the Middle East</a></li>
+<li><a href="/wiki/Pro-Wailing_Wall_Committee" class="mw-redirect" title="Pro-Wailing Wall Committee">Pro-Wailing Wall Committee</a></li>
+<li><a href="/wiki/Riots_in_Palestine_of_1920" class="mw-redirect" title="Riots in Palestine of 1920">Riots in Palestine of 1920</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=19" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-BBC-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-BBC_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/shared/spl/hi/middle_east/03/v3_ip_timeline/html/1929_36.stm">"Arab discontent"</a>. BBC<span class="reference-accessdate">. Retrieved <span class="nowrap">17 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.btitle=Arab+discontent&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fshared%2Fspl%2Fhi%2Fmiddle_east%2F03%2Fv3_ip_timeline%2Fhtml%2F1929_36.stm&amp;rft.pub=BBC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Shaw65-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Shaw65_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Shaw65_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Shaw65_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Shaw65_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Shaw65_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Shaw65_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Shaw65_2-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text">Great Britain, 1930: Report of the Commission on the disturbances of August 1929, Command paper 3530 (Shaw Commission report), p. 65.</span></li>
+<li id="cite_note-Pentecoastal_Mission-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pentecoastal_Mission_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Newberg, Eric Nelson (2008). <i>The Pentecostal Mission in Palestine, 1906--1948: A Postcolonial Assessment of Pentecostal Zionism</i>. Proquest LLC. p.&#160;265. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0549517383" title="Special:BookSources/0549517383">0549517383</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.au=Newberg%2C+Eric+Nelson&amp;rft.btitle=The+Pentecostal+Mission+in+Palestine%2C+1906--1948%3A+A+Postcolonial+Assessment+of+Pentecostal+Zionism&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=0549517383&amp;rft.pages=265&amp;rft.pub=Proquest+LLC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AmericanJewish1929-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-AmericanJewish1929_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Kotzin, Daniel P. (2010). <i>Judah L. Magnes: An American Jewish Nonconformist</i>. Syracuse University Press. p.&#160;222. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0815651090" title="Special:BookSources/0815651090">0815651090</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.au=Kotzin%2C+Daniel+P.&amp;rft.btitle=Judah+L.+Magnes%3A+An+American+Jewish+Nonconformist&amp;rft.date=2010&amp;rft.genre=book&amp;rft.isbn=0815651090&amp;rft.pages=222&amp;rft.pub=Syracuse+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Hadassah-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hadassah_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hadassah_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Marlin Levin (Jul 2002). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=_yjDCNPmx_8C&amp;pg=PA116&amp;lpg=PA116&amp;dq=British+police+killed+110+Arabs&amp;source=bl&amp;ots=H03nt2FdBc&amp;sig=V5uMSt7_q4TZc9wnhSdDRqdMQrs&amp;hl=en&amp;sa=X&amp;ei=w2yNT7jrOYiu8APq28i4Cw&amp;sqi=2&amp;ved=0CFIQ6AEwBg#v=onepage&amp;q=British%20police%20killed%20110%20Arabs&amp;f=false"><i>It Takes a Dream: The Story of Hadassah</i></a>. Gefen Publishing House. p.&#160;116<span class="reference-accessdate">. Retrieved <span class="nowrap">17 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.au=Marlin+Levin&amp;rft.btitle=It+Takes+a+Dream%3A+The+Story+of+Hadassah&amp;rft.date=2002-07&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D_yjDCNPmx_8C%26pg%3DPA116%26lpg%3DPA116%26dq%3DBritish%2Bpolice%2Bkilled%2B110%2BArabs%26source%3Dbl%26ots%3DH03nt2FdBc%26sig%3DV5uMSt7_q4TZc9wnhSdDRqdMQrs%26hl%3Den%26sa%3DX%26ei%3Dw2yNT7jrOYiu8APq28i4Cw%26sqi%3D2%26ved%3D0CFIQ6AEwBg%23v%3Donepage%26q%3DBritish%2520police%2520killed%2520110%2520Arabs%26f%3Dfalse&amp;rft.pages=116&amp;rft.pub=Gefen+Publishing+House&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Holy_War-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Holy_War_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Armstrong, Karen (2001). <i>Holy War: The Crusades and Their Impact on Today's World</i>. Random House Digital, Inc. p.&#160;101. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0385721404" title="Special:BookSources/0385721404">0385721404</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.au=Armstrong%2C+Karen&amp;rft.btitle=Holy+War%3A+The+Crusades+and+Their+Impact+on+Today%27s+World&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0385721404&amp;rft.pages=101&amp;rft.pub=Random+House+Digital%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Jerusalem_one_city-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jerusalem_one_city_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Armstrong, Karen (2011). <i>Jerusalem: One City, Three Faiths</i>. Random House Digital, Inc. p.&#160;382. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0307798593" title="Special:BookSources/0307798593">0307798593</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.au=Armstrong%2C+Karen&amp;rft.btitle=Jerusalem%3A+One+City%2C+Three+Faiths&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=0307798593&amp;rft.pages=382&amp;rft.pub=Random+House+Digital%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Those_Origins-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Those_Origins_8-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Merry, Michael (2009). <i>Those Origins, Those Claims</i>. Lulu.com. p.&#160;94. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1411692152" title="Special:BookSources/1411692152">1411692152</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.au=Merry%2C+Michael&amp;rft.btitle=Those+Origins%2C+Those+Claims&amp;rft.date=2009&amp;rft.genre=book&amp;rft.isbn=1411692152&amp;rft.pages=94&amp;rft.pub=Lulu.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Causes_.26_Consq-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Causes_.26_Consq_9-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Ross, Stewart (2004). <i>Causes and Consequences of the Arab-Israeli Conflict</i>. Evans Brothers. p.&#160;22. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0237525852" title="Special:BookSources/0237525852">0237525852</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.au=Ross%2C+Stewart&amp;rft.btitle=Causes+and+Consequences+of+the+Arab-Israeli+Conflict&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0237525852&amp;rft.pages=22&amp;rft.pub=Evans+Brothers&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-mishmar-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-mishmar_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mishmar_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-mishmar_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://mh.kibbutz.org.il/cgi-webaxy/item?306">"אירועים ביטחוניים בתולדות משמר העמק [Security events in the history of Mishmar HaEmek]"</a>. <i>Mishmar HaEmek website</i> (in Hebrew)<span class="reference-accessdate">. Retrieved <span class="nowrap">9 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D+%D7%91%D7%99%D7%98%D7%97%D7%95%D7%A0%D7%99%D7%99%D7%9D+%D7%91%D7%AA%D7%95%D7%9C%D7%93%D7%95%D7%AA+%D7%9E%D7%A9%D7%9E%D7%A8+%D7%94%D7%A2%D7%9E%D7%A7+%5BSecurity+events+in+the+history+of+Mishmar+HaEmek%5D&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmh.kibbutz.org.il%2Fcgi-webaxy%2Fitem%3F306&amp;rft.jtitle=Mishmar+HaEmek+website&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Shaw Report, p150-157</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Shaw Report, p151.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://onlinelibrary.wiley.com/doi/10.1111/j.1478-1913.1994.tb03589.x/abstract">THE “WAILING WALL” RIOTS (1929) AS A WATERSHED IN THE PALESTINE CONFLICT, Avraham Sela, 3 Apr 2007</a></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book">Steven J. Mock (2011). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Xb-9J4KoT6EC&amp;q=western+wall#v=snippet&amp;q=western%20wall&amp;f=false"><i>Symbols of Defeat in the Construction of National Identity</i></a>. Cambridge University Press. pp.&#160;1, 2<span class="reference-accessdate">. Retrieved <span class="nowrap">19 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.au=Steven+J.+Mock&amp;rft.btitle=Symbols+of+Defeat+in+the+Construction+of+National+Identity&amp;rft.date=2011&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DXb-9J4KoT6EC%26q%3Dwestern%2Bwall%23v%3Dsnippet%26q%3Dwestern%2520wall%26f%3Dfalse&amp;rft.pages=1%2C+2&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dailymail.co.uk/sciencetech/article-2065254/Coins-Jerusalems-Western-Wall-hints-sacred-site-older-Herod.html">"Coins from 17AD found under Jerusalem's Western Wall hints sacred site NOT built by Herod"</a>. Daily Mail. 25 November 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">19 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.btitle=Coins+from+17AD+found+under+Jerusalem%27s+Western+Wall+hints+sacred+site+NOT+built+by+Herod&amp;rft.date=2011-11-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.dailymail.co.uk%2Fsciencetech%2Farticle-2065254%2FCoins-Jerusalems-Western-Wall-hints-sacred-site-older-Herod.html&amp;rft.pub=Daily+Mail&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-segev-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-segev_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-segev_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-segev_16-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-segev_16-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-segev_16-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-segev_16-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-segev_16-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-segev_16-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-segev_16-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-segev_16-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-segev_16-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-segev_16-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-segev_16-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-segev_16-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-segev_16-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-segev_16-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-segev_16-16"><sup><i><b>q</b></i></sup></a> <a href="#cite_ref-segev_16-17"><sup><i><b>r</b></i></sup></a> <a href="#cite_ref-segev_16-18"><sup><i><b>s</b></i></sup></a> <a href="#cite_ref-segev_16-19"><sup><i><b>t</b></i></sup></a> <a href="#cite_ref-segev_16-20"><sup><i><b>u</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Tom_Segev" title="Tom Segev">Segev, Tom</a> (1999). <i>One Palestine, Complete</i>. Metropolitan Books. pp.&#160;295–313. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8050-4848-0" title="Special:BookSources/0-8050-4848-0">0-8050-4848-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.aufirst=Tom&amp;rft.aulast=Segev&amp;rft.btitle=One+Palestine%2C+Complete&amp;rft.date=1999&amp;rft.genre=book&amp;rft.isbn=0-8050-4848-0&amp;rft.pages=295-313&amp;rft.pub=Metropolitan+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Shaw_report_p29-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Shaw_report_p29_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Shaw_report_p29_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Shaw report p29</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Shaw report p31</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Shaw report p41</span></li>
+<li id="cite_note-VI-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-VI_20-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Ben Dov, Meir; Naor, Mordechai; Aner, Ze'ev (1983). "VI: The Struggle for the Wall". <i>The Western Wall</i>. <a href="/wiki/Israel" title="Israel">Israel</a>: Ministry of Defence Publishing House. pp.&#160;g.123–137. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/965-05-0055-3" title="Special:BookSources/965-05-0055-3">965-05-0055-3</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=VI%3A+The+Struggle+for+the+Wall&amp;rft.au=Aner%2C+Ze%27ev&amp;rft.aufirst=Meir&amp;rft.aulast=Ben+Dov&amp;rft.au=Naor%2C+Mordechai&amp;rft.btitle=The+Western+Wall&amp;rft.date=1983&amp;rft.genre=bookitem&amp;rft.isbn=965-05-0055-3&amp;rft.pages=g.123-137&amp;rft.place=Israel&amp;rft.pub=Ministry+of+Defence+Publishing+House&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation book">Ovendale, Ritchie (2004). "The "Wailing Wall" Riots". <i>The Origins of the Arab-Israeli Wars</i>. <a href="/wiki/Pearson_Education" title="Pearson Education">Pearson Education</a>. pp.&#160;g.71. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-58282320-X" title="Special:BookSources/0-58282320-X">0-58282320-X</a>. <q>The Mufti tried to establish Muslim rights and the Jews were deliberately antagonised by building works and noise.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=The+%22Wailing+Wall%22+Riots&amp;rft.aufirst=Ritchie&amp;rft.aulast=Ovendale&amp;rft.btitle=The+Origins+of+the+Arab-Israeli+Wars&amp;rft.date=2004&amp;rft.genre=bookitem&amp;rft.isbn=0-58282320-X&amp;rft.pages=g.71&amp;rft.pub=Pearson+Education&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation book">Harman, Graham (2008). "The Mufti and the Wailing Wall". <i>A History of Palestine</i>. <a href="/wiki/Princeton_University_Press" title="Princeton University Press">Princeton University Press</a>. pp.&#160;g.230. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0691118973" title="Special:BookSources/0691118973">0691118973</a>. <q>From 1929 onward, the Supreme Muslim Council intensified construction work on the Haram al-Sharif in order to demonstrate their exclusive claims to the Temple Mount (...) Not without reason, Jewish believers felt disturbed in their prayer.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=The+Mufti+and+the+Wailing+Wall&amp;rft.aufirst=Graham&amp;rft.aulast=Harman&amp;rft.btitle=A+History+of+Palestine&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.isbn=0691118973&amp;rft.pages=g.230&amp;rft.pub=Princeton+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Benvenisti-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-Benvenisti_23-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Meron_Benvenisti" title="Meron Benvenisti">Benvenisti, Meron</a> (1996). <i>City of Stone: The Hidden History of Jerusalem</i>. Metropolitan Books. pp.&#160;80–81.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.aufirst=Meron&amp;rft.aulast=Benvenisti&amp;rft.btitle=City+of+Stone%3A+The+Hidden+History+of+Jerusalem&amp;rft.date=1996&amp;rft.genre=book&amp;rft.pages=80-81&amp;rft.pub=Metropolitan+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Morris_1999-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Morris_1999_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Morris_1999_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Benny Morris (1999). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=jGtVsBne7PgC">"Righteous Victims: A History of the Zionist-Arab Conflict"</a>. <i><a href="/wiki/Special:BookSources/9780679744757" class="internal mw-magiclink-isbn">ISBN 9780679744757</a></i>. Random House. p.&#160;113<span class="reference-accessdate">. Retrieved <span class="nowrap">17 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=Righteous+Victims%3A+A+History+of+the+Zionist-Arab+Conflict&amp;rft.au=Benny+Morris&amp;rft.date=1999&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DjGtVsBne7PgC&amp;rft.jtitle=ISBN+9780679744757&amp;rft.pages=113&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Horne, Edward (1982) "A Job Well Done. A History of the Palestine Police Force. 1920 - 1948". Anchor Press. <a href="/wiki/Special:BookSources/9781857767582" class="internal mw-magiclink-isbn">ISBN 978-1857767582</a>. Page 132. "The principle inflammatory organ of the day."</span></li>
+<li id="cite_note-Shaw5456-26"><span class="mw-cite-backlink">^ <a href="#cite_ref-Shaw5456_26-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Shaw5456_26-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Shaw5456_26-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Shaw5456_26-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Great Britain, 1930: Report of the Commission on the disturbances of August 1929, Command paper 3530 (Shaw Commission report), p. 54-56.</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Levi-Faur, Sheffer and Vogel, 1999, p. 216.</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Sicker, 2000, p. 80.</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">'The Wailing Wall In Jerusalem Another Incident', <i>The Times</i>, Monday, 19 August 1929; pg. 11; Issue 45285; col D.</span></li>
+<li id="cite_note-OR-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-OR_30-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Ovendale, Ritchie (2004). "British Paramountcy over Arabs and Zionists". <i>The Origins of the Arab-Israeli Wars</i>. Pearson Education. pp.&#160;g.71. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/058282320X" title="Special:BookSources/058282320X">058282320X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=British+Paramountcy+over+Arabs+and+Zionists&amp;rft.aufirst=Ritchie&amp;rft.aulast=Ovendale&amp;rft.btitle=The+Origins+of+the+Arab-Israeli+Wars&amp;rft.date=2004&amp;rft.genre=bookitem&amp;rft.isbn=058282320X&amp;rft.pages=g.71&amp;rft.pub=Pearson+Education&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-ReferenceA-31"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_31-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_31-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Report of the Commission on the Palestine Disturbances of August 1929, Command paper Cmd. 3530</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Martin_Gilbert" title="Martin Gilbert">Gilbert, Martin</a> (1977). "Jerusalem, Zionism and the Arab Revolt 1920-1940". <i>Jerusalem Illustrated History Atlas</i>. <a href="/wiki/London" title="London">London</a>: <a href="/wiki/Board_of_Deputies_of_British_Jews" title="Board of Deputies of British Jews">Board of Deputies of British Jews</a>. p.&#160;79. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-905648_04_8" title="Special:BookSources/0-905648 04 8">0-905648 04 8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=Jerusalem%2C+Zionism+and+the+Arab+Revolt+1920-1940&amp;rft.aufirst=Martin&amp;rft.aulast=Gilbert&amp;rft.btitle=Jerusalem+Illustrated+History+Atlas&amp;rft.date=1977&amp;rft.genre=bookitem&amp;rft.isbn=0-905648048&amp;rft.pages=79&amp;rft.place=London&amp;rft.pub=Board+of+Deputies+of+British+Jews&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">Ha’aretz, Sunday 18 August 1929.</span></li>
+<li id="cite_note-PS-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-PS_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PS_34-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-PS_34-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-PS_34-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.jewishvirtuallibrary.org/jsource/History/Anglo16.html">"APPENDIX V: Palestine: Public Security"</a>. <i>Anglo-American Committee of Inquiry</i>. 1946<span class="reference-accessdate">. Retrieved <span class="nowrap">17 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=APPENDIX+V%3A+Palestine%3A+Public+Security&amp;rft.date=1946&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.jewishvirtuallibrary.org%2Fjsource%2FHistory%2FAnglo16.html&amp;rft.jtitle=Anglo-American+Committee+of+Inquiry&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a href="/wiki/J._Bowyer_Bell" title="J. Bowyer Bell">J.Bowyer Bell</a>, <i>Terror out of Zion: The Fight for Israeli Independence</i>, Transaction ed. Prologue p.1 name</span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text">Shaw Report p63</span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation book">Segev, Tom (2001). <i>One Palestine</i>. Picador. p.&#160;315. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0805065873" title="Special:BookSources/0805065873">0805065873</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.aufirst=Tom&amp;rft.aulast=Segev&amp;rft.btitle=One+Palestine&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0805065873&amp;rft.pages=315&amp;rft.pub=Picador&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><a href="/wiki/Shaw_Report" class="mw-redirect" title="Shaw Report">Shaw Report</a></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">Shaw Report, p 158</span></li>
+<li id="cite_note-Shaw_Report.2C_p66-67-40"><span class="mw-cite-backlink">^ <a href="#cite_ref-Shaw_Report.2C_p66-67_40-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Shaw_Report.2C_p66-67_40-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Shaw_Report.2C_p66-67_40-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Shaw Report, p66-67</span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text">Norman Rose, "A Senseless, Squalid War: Voices from Palestine 1945-1948", The Bodley Head, London, 2009. (p. 35)</span></li>
+<li id="cite_note-forward-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-forward_42-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060515224516/http://www.forward.com/main/article.php?ref=staff200408181145">"Jewish News, Jewish Newspapers - Forward.com"</a>. Web.archive.org. 15 May 2006. Archived from <a rel="nofollow" class="external text" href="http://www.forward.com/main/article.php?ref=staff200408181145">the original</a> on 15 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">7 January</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.btitle=Jewish+News%2C+Jewish+Newspapers+-+Forward.com&amp;rft.date=2006-05-15&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.forward.com%2Fmain%2Farticle.php%3Fref%3Dstaff200408181145&amp;rft.pub=Web.archive.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.hrw.org/reports/2001/israel/hebron6-03.htm">"Hebron"</a>. Human Rights Watch<span class="reference-accessdate">. Retrieved <span class="nowrap">30 May</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.btitle=Hebron&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.hrw.org%2Freports%2F2001%2Fisrael%2Fhebron6-03.htm&amp;rft.pub=Human+Rights+Watch&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation web">Gudrun Krämer, Graham Harman (2008). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=tWrW_CKODdQC&amp;">"A History of Palestine: From the Ottoman Conquest to the Founding of the State of Israel"</a>. Princeton University Press. p.&#160;232<span class="reference-accessdate">. Retrieved <span class="nowrap">18 June</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.au=Gudrun+Kr%C3%A4mer%2C+Graham+Harman&amp;rft.btitle=A+History+of+Palestine%3A+From+the+Ottoman+Conquest+to+the+Founding+of+the+State+of+Israel&amp;rft.date=2008&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DtWrW_CKODdQC%26&amp;rft.pages=232&amp;rft.pub=Princeton+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-hebronjews-45"><span class="mw-cite-backlink">^ <a href="#cite_ref-hebronjews_45-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hebronjews_45-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Jerold S. Auerbach (2009). <i>Hebron Jews: Memory and Conflict in the Land of Israel</i>. Rowman &amp; Littlefield.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.au=Jerold+S.+Auerbach&amp;rft.btitle=Hebron+Jews%3A+Memory+and+Conflict+in+the+Land+of+Israel&amp;rft.date=2009&amp;rft.genre=book&amp;rft.pub=Rowman+%26+Littlefield&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text">Shaw report p64</span></li>
+<li id="cite_note-segev2-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-segev2_47-0">^</a></b></span> <span class="reference-text">Tom Segev, "One Palestine, Complete", Metropolitan Books, 1999; pp. 325-326.</span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><cite class="citation book">Lloyd P. Gartner (2011). <i>History of the Jews in Modern Times</i>. Oxford University Press. p.&#160;344.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.au=Lloyd+P.+Gartner&amp;rft.btitle=History+of+the+Jews+in+Modern+Times&amp;rft.date=2011&amp;rft.genre=book&amp;rft.pages=344&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><cite class="citation book">Naomi Wiener Cohen (1988). <i>The Year After the Riots: American Responses to the Palestine Crisis of 1929-30</i>. Wayne State University Press. p.&#160;22.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.au=Naomi+Wiener+Cohen&amp;rft.btitle=The+Year+After+the+Riots%3A+American+Responses+to+the+Palestine+Crisis+of+1929-30&amp;rft.date=1988&amp;rft.genre=book&amp;rft.pages=22&amp;rft.pub=Wayne+State+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sochen, June (Spring 2003). "Both the dove and the serpent: Hadassah's work in 1920s Palestine". <b>52</b> (1-2). New York: Judaism; a Journal of Jewish Life &amp; Thought: 71–83.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=Both+the+dove+and+the+serpent%3A+Hadassah%27s+work+in+1920s+Palestine&amp;rft.au=Sochen%2C+June&amp;rft.date=2003&amp;rft.genre=article&amp;rft.issue=1-2&amp;rft.pages=71-83&amp;rft.ssn=spring&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=52" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span> <span class="reference-text"><a href="/wiki/Shaw_report" class="mw-redirect" title="Shaw report">Shaw report</a>, page 65</span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text"><cite class="citation web">David Hacohen (1985). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=LDxPY1QvJWcC&amp;pg=PA37&amp;lpg=PA37&amp;dq=david+hacohen+safed+pogrom&amp;source=bl&amp;ots=XivAJ_Mbex&amp;sig=EOE2ksvobw6V-h1sYfHwbhFypMM&amp;hl=en&amp;sa=X&amp;ei=GvyLT73fN-mv0QWEi93UCQ&amp;ved=0CCcQ6AEwAQ#v=onepage&amp;q&amp;f=false">"Time to Tell: An Israeli Life, 1898-1984"</a>. <i><a href="/wiki/Special:BookSources/0845347896" class="internal mw-magiclink-isbn">ISBN 0845347896</a></i>. Associated University Presses. p.&#160;38<span class="reference-accessdate">. Retrieved <span class="nowrap">16 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=Time+to+Tell%3A+An+Israeli+Life%2C+1898-1984&amp;rft.au=David+Hacohen&amp;rft.date=1985&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DLDxPY1QvJWcC%26pg%3DPA37%26lpg%3DPA37%26dq%3Ddavid%2Bhacohen%2Bsafed%2Bpogrom%26source%3Dbl%26ots%3DXivAJ_Mbex%26sig%3DEOE2ksvobw6V-h1sYfHwbhFypMM%26hl%3Den%26sa%3DX%26ei%3DGvyLT73fN-mv0QWEi93UCQ%26ved%3D0CCcQ6AEwAQ%23v%3Donepage%26q%26f%3Dfalse&amp;rft.jtitle=ISBN+0845347896&amp;rft.pages=38&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><b><a href="#cite_ref-53">^</a></b></span> <span class="reference-text">Shaw Report, p65</span></li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><b><a href="#cite_ref-54">^</a></b></span> <span class="reference-text"><cite class="citation book">L. Wallach, Jehuda (1974). <i>Carta's Atlas Of Palestine - From Zionism To Statehood</i> (in Hebrew) (second revised ed.). Israel: Yerushalayim&#160;: Karṭa. p.&#160;53.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.aufirst=Jehuda&amp;rft.aulast=L.+Wallach&amp;rft.btitle=Carta%27s+Atlas+Of+Palestine+-+From+Zionism+To+Statehood&amp;rft.date=1974&amp;rft.edition=second+revised&amp;rft.genre=book&amp;rft.pages=53&amp;rft.place=Israel&amp;rft.pub=Yerushalayim+%3A+Kar%E1%B9a&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><cite class="citation news">"Three new villages in N. Palestine". <i><a href="/wiki/Palestine_Post" title="Palestine Post">Palestine Post</a></i>. 18 January 1946. p.&#160;1.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=Three+new+villages+in+N.+Palestine&amp;rft.date=1946-01-18&amp;rft.genre=article&amp;rft.jtitle=Palestine+Post&amp;rft.pages=1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-56">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://jpress.org.il/Olive/APA/NLI_Heb/SharedView.Article.aspx?parm=q5bYR28u92PO4dS7MrjBAR6C452Okh2A3lw6Y9C1NEoronBZuhXJpZ%2FiJpsKe9eZYw%3D%3D&amp;mode=image&amp;href=DAV%2f1929%2f09%2f02&amp;page=2&amp;rtl=true">"Destruction of HarTuv"</a>. <i><a href="/wiki/Davar" title="Davar">Davar</a></i>. 2 September 1929<span class="reference-accessdate">. Retrieved <span class="nowrap">21 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=Destruction+of+HarTuv&amp;rft.date=1929-09-02&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fjpress.org.il%2FOlive%2FAPA%2FNLI_Heb%2FSharedView.Article.aspx%3Fparm%3Dq5bYR28u92PO4dS7MrjBAR6C452Okh2A3lw6Y9C1NEoronBZuhXJpZ%252FiJpsKe9eZYw%253D%253D%26mode%3Dimage%26href%3DDAV%252f1929%252f09%252f02%26page%3D2%26rtl%3Dtrue&amp;rft.jtitle=Davar&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><cite class="citation web">Etkes, Dror; Friedman, Lara (November 2005). <a rel="nofollow" class="external text" href="http://peacenow.org.il/eng/content/gush-etzion">"Gush Etzion"</a>. <a href="/wiki/Peace_Now" title="Peace Now">Peace Now</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.aufirst=Dror&amp;rft.au=Friedman%2C+Lara&amp;rft.aulast=Etkes&amp;rft.btitle=Gush+Etzion&amp;rft.date=2005-11&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fpeacenow.org.il%2Feng%2Fcontent%2Fgush-etzion&amp;rft.pub=Peace+Now&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text"><cite class="citation web">Orni, Efraim (2008). <a rel="nofollow" class="external text" href="https://www.jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0012_0_10976.html">"Kefar Malal"</a>. <i>Jewish Virtual Library</i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=Kefar+Malal&amp;rft.aufirst=Efraim&amp;rft.aulast=Orni&amp;rft.date=2008&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.jewishvirtuallibrary.org%2Fjsource%2Fjudaica%2Fejud_0002_0012_0_10976.html&amp;rft.jtitle=Jewish+Virtual+Library&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-Bentwich-59"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bentwich_59-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bentwich_59-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Bentwich_59-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Norman Bentwich (1932). <i>England in Palestine</i>. London: Kegan Paul, Tench, Trubner &amp; Cp. Ltd. p.&#160;203.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.au=Norman+Bentwich&amp;rft.btitle=England+in+Palestine&amp;rft.date=1932&amp;rft.genre=book&amp;rft.pages=203&amp;rft.place=London&amp;rft.pub=Kegan+Paul%2C+Tench%2C+Trubner+%26amp%3B+Cp.+Ltd.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-60">^</a></b></span> <span class="reference-text"><cite class="citation news">"The Death Sentences in Palestine". <i>The Times</i>. 2 June 1930. p.&#160;13.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=The+Death+Sentences+in+Palestine&amp;rft.date=1930-06-02&amp;rft.genre=article&amp;rft.jtitle=The+Times&amp;rft.pages=13&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><b><a href="#cite_ref-61">^</a></b></span> <span class="reference-text"><cite class="citation news">"Telegrams in Brief". <i>The Times</i>. 7 February 1930. p.&#160;13.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=Telegrams+in+Brief&amp;rft.date=1930-02-07&amp;rft.genre=article&amp;rft.jtitle=The+Times&amp;rft.pages=13&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><b><a href="#cite_ref-62">^</a></b></span> <span class="reference-text"><cite class="citation news">"none". <i>New York Times</i>. 6 February 1930. p.&#160;9.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=none&amp;rft.date=1930-02-06&amp;rft.genre=article&amp;rft.jtitle=New+York+Times&amp;rft.pages=9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-63"><span class="mw-cite-backlink"><b><a href="#cite_ref-63">^</a></b></span> <span class="reference-text"><cite class="citation news">"Telegrams in Brief". <i>The Times</i>. 8 August 1930. p.&#160;9.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=Telegrams+in+Brief&amp;rft.date=1930-08-08&amp;rft.genre=article&amp;rft.jtitle=The+Times&amp;rft.pages=9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><b><a href="#cite_ref-64">^</a></b></span> <span class="reference-text"><cite class="citation news">"The Palestine Riots". <i>The Times</i>. 18 June 1930. p.&#160;13.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.atitle=The+Palestine+Riots&amp;rft.date=1930-06-18&amp;rft.genre=article&amp;rft.jtitle=The+Times&amp;rft.pages=13&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-65"><span class="mw-cite-backlink"><b><a href="#cite_ref-65">^</a></b></span> <span class="reference-text">Palestine Post, 15 Dec 1932.</span></li>
+<li id="cite_note-66"><span class="mw-cite-backlink"><b><a href="#cite_ref-66">^</a></b></span> <span class="reference-text">Palestine Post, 20–23 April 1936.</span></li>
+<li id="cite_note-67"><span class="mw-cite-backlink"><b><a href="#cite_ref-67">^</a></b></span> <span class="reference-text">Feiler, Gil. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=2tFnXdEuKgoC&amp;pg=PA22&amp;lpg=PA22&amp;dq=Arab+boycott+1929&amp;source=bl&amp;ots=joqm6N5udK&amp;sig=hh6heqyRg3y0ndNgvv4_8iKWHiU&amp;hl=en&amp;ei=S6aeSvKfHYX6sQPp-5Eh&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=3#v=onepage&amp;q=Arab%20boycott%201929&amp;f=false">"From boycott to economic cooperation ...."</a> <i><a href="/wiki/Google_Books" title="Google Books">Google Books</a></i>. 2 September 2009.</span></li>
+<li id="cite_note-68"><span class="mw-cite-backlink"><b><a href="#cite_ref-68">^</a></b></span> <span class="reference-text">Feiler, Gil. "Arab Boycott." <i>The Continuum Political Encyclopedia of the Middle East</i>. Ed. Avraham Sela. New York: Continuum, 2002. pp. 54-57</span></li>
+<li id="cite_note-69"><span class="mw-cite-backlink"><b><a href="#cite_ref-69">^</a></b></span> <span class="reference-text">Great Britain, 1930&#160;: Report of the Commission on the disturbances of August 1929, Command paper 3530 (Shaw Commission report).</span></li>
+<li id="cite_note-Snell-70"><span class="mw-cite-backlink">^ <a href="#cite_ref-Snell_70-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Snell_70-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Snell_70-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Snell_70-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Snell_70-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Report of the Commission on the Palestine Disturbances of August, 1929. Cmd. 3530, 1930. pp. 172–183.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=20" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Hillel_Cohen" title="Hillel Cohen">Cohen, Hillel</a> (2015) <i>Year Zero of the Arab-Israeli Conflict: 1929</i> . Brandeis. <a href="/wiki/Special:BookSources/1611688116" class="internal mw-magiclink-isbn">ISBN 1-611-68811-6</a></li>
+<li>Levi-Faur, David, Sheffer, Gabriel and Vogel, David (1999). <i>Israel: The Dynamics of Change and Continuity</i>. London: Routledge. <a href="/wiki/Special:BookSources/0714650129" class="internal mw-magiclink-isbn">ISBN 0-7146-5012-9</a>.</li>
+<li><a href="/wiki/Philip_Mattar" title="Philip Mattar">Mattar, Philip</a> (1988). "The Mufti of Jerusalem". New York: Columbia University Press. <a href="/wiki/Special:BookSources/0231064624" class="internal mw-magiclink-isbn">ISBN 0-231-06462-4</a></li>
+<li><a href="/wiki/Benny_Morris" title="Benny Morris">Morris, Benny</a> <i>Righteous Victims</i>.</li>
+<li><a href="/wiki/Anita_Shapira" title="Anita Shapira">Shapira, Anita</a> (1992) <i>Land and Power: The Zionist Resort to Force, 1881–1948</i>. New York: Oxford University Press.</li>
+<li><i>Shaw Commission</i> enquiry report</li>
+<li>Sicker, Martin (2000). <i>Pangs of the Messiah: The Troubled Birth of the Jewish State</i>. Praeger/Greenwood. <a href="/wiki/Special:BookSources/0275966380" class="internal mw-magiclink-isbn">ISBN 0-275-96638-0</a>.</li>
+<li><cite class="citation book">Sorek, Tamir (2015). <a rel="nofollow" class="external text" href="http://www.sup.org/books/title/?id=23855"><i>Palestinian Commemoration in Israel: Calendars, Monuments, and Martyrs</i></a>. Stanford, CA: Stanford University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780804795180" title="Special:BookSources/9780804795180">9780804795180</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1929+Palestine+riots&amp;rft.aufirst=Tamir&amp;rft.aulast=Sorek&amp;rft.btitle=Palestinian+Commemoration+in+Israel%3A+Calendars%2C+Monuments%2C+and+Martyrs&amp;rft.date=2015&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sup.org%2Fbooks%2Ftitle%2F%3Fid%3D23855&amp;rft.isbn=9780804795180&amp;rft.place=Stanford%2C+CA&amp;rft.pub=Stanford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a href="/wiki/Bernard_Wasserstein" title="Bernard Wasserstein">Wasserstein, Bernard</a>. <i>The British in Palestine</i>.</li>
+<li>Zertal, Idith (2005). <i>Israel's Holocaust and the Politics of Nationhood</i>. Cambridge: Cambridge University Press. <a href="/wiki/Special:BookSources/0521850967" class="internal mw-magiclink-isbn">ISBN 0-521-85096-7</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:1929_Palestine_riots" class="extiw" title="commons:Category:1929 Palestine riots">1929 Palestine riots</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.zionism-israel.com/Palestine_Massacre_riots_of_1929.htm">The Palestine Riots of 1929</a> A detailed account with additional background and history.</li>
+<li><a rel="nofollow" class="external text" href="http://www.zionism-israel.com/Hebron_Massacre1929.htm">The Hebron Massacre of 1929</a> A detailed account.</li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="List_of_modern_conflicts_in_the_Middle_East" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Middle_East_conflicts" title="Template:Middle East conflicts"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Middle_East_conflicts" title="Template talk:Middle East conflicts"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Middle_East_conflicts&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="List_of_modern_conflicts_in_the_Middle_East" style="font-size:114%"><a href="/wiki/List_of_modern_conflicts_in_the_Middle_East" title="List of modern conflicts in the Middle East">List of modern conflicts in the Middle East</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1910s</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/World_War_I" title="World War I">World War I</a>
+<ul>
+<li><a href="/wiki/Middle_Eastern_theatre_of_World_War_I" title="Middle Eastern theatre of World War I">Middle Eastern theatre</a></li>
+<li><a href="/wiki/Arab_Revolt" title="Arab Revolt">Arab Revolt</a></li>
+<li><a href="/wiki/Armenian_Genocide" title="Armenian Genocide">Armenian Genocide</a></li>
+<li><a href="/wiki/Assyrian_Genocide" class="mw-redirect" title="Assyrian Genocide">Assyrian Genocide</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Unification_of_Saudi_Arabia" title="Unification of Saudi Arabia">Unification of Saudi Arabia</a></li>
+<li><a href="/wiki/Simko_Shikak_revolt" class="mw-redirect" title="Simko Shikak revolt">Simko Shikak revolt</a></li>
+<li><a href="/wiki/Egyptian_Revolution_of_1919" class="mw-redirect" title="Egyptian Revolution of 1919">Egyptian Revolution of 1919</a></li>
+<li><a href="/wiki/Turkish_War_of_Independence" title="Turkish War of Independence">Turkish War of Independence</a>
+<ul>
+<li><a href="/wiki/Greco-Turkish_War_(1919%E2%80%9322)" title="Greco-Turkish War (1919–22)">Greco-Turkish War</a></li>
+<li><a href="/wiki/Turkish%E2%80%93Armenian_War" title="Turkish–Armenian War">Turkish–Armenian War</a></li>
+<li><a href="/wiki/Franco-Turkish_War" title="Franco-Turkish War">Franco-Turkish War</a></li>
+<li><a href="/wiki/Revolts_during_the_Turkish_War_of_Independence" title="Revolts during the Turkish War of Independence">Revolts</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Mahmud_Barzanji_revolts" title="Mahmud Barzanji revolts">Mahmud Barzanji revolts</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1920s</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Franco-Syrian_War" title="Franco-Syrian War">Franco-Syrian War</a></li>
+<li><a href="/wiki/Iraqi_revolt_against_the_British" title="Iraqi revolt against the British">Iraqi revolt against the British</a></li>
+<li><a href="/wiki/Sectarian_conflict_in_Mandatory_Palestine" class="mw-redirect" title="Sectarian conflict in Mandatory Palestine">Sectarian conflict in Mandatory Palestine</a></li>
+<li><a href="/wiki/Adwan_Rebellion" title="Adwan Rebellion">Adwan Rebellion</a></li>
+<li><i><a href="/wiki/Arab_separatism_in_Khuzestan" title="Arab separatism in Khuzestan">Arab separatism in Khuzestan</a></i></li>
+<li><a href="/wiki/Great_Syrian_Revolt" title="Great Syrian Revolt">Great Syrian Revolt</a></li>
+<li><a href="/wiki/Sheikh_Said_rebellion" title="Sheikh Said rebellion">Sheikh Said rebellion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1930s</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ararat_rebellion" title="Ararat rebellion">Ararat rebellion</a></li>
+<li><a href="/wiki/Ahmed_Barzani_revolt" title="Ahmed Barzani revolt">Ahmed Barzani revolt</a></li>
+<li><a href="/wiki/Simele_massacre" title="Simele massacre">Simele massacre</a></li>
+<li><a href="/wiki/Saudi%E2%80%93Yemeni_War" class="mw-redirect" title="Saudi–Yemeni War">Saudi–Yemeni War</a></li>
+<li><a href="/wiki/Goharshad_Mosque_rebellion" title="Goharshad Mosque rebellion">Goharshad Mosque rebellion</a></li>
+<li><a href="/wiki/1935%E2%80%9336_Iraqi_Shia_revolts" title="1935–36 Iraqi Shia revolts">1935–36 Iraqi Shia revolts</a></li>
+<li><a href="/wiki/1935_Yazidi_revolt" title="1935 Yazidi revolt">1935 Yazidi revolt</a></li>
+<li><a href="/wiki/Dersim_massacre" class="mw-redirect" title="Dersim massacre">Dersim massacre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1940s</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/World_War_II" title="World War II">World War II</a>
+<ul>
+<li><a href="/wiki/Italian_bombing_of_Mandatory_Palestine_in_World_War_II" title="Italian bombing of Mandatory Palestine in World War II">Italian bombing of Palestine</a></li>
+<li><a href="/wiki/Anglo-Iraqi_War" title="Anglo-Iraqi War">Anglo-Iraqi War</a></li>
+<li><a href="/wiki/Syria%E2%80%93Lebanon_Campaign" title="Syria–Lebanon Campaign">Syria–Lebanon Campaign</a></li>
+<li><a href="/wiki/Anglo-Soviet_invasion_of_Iran" title="Anglo-Soviet invasion of Iran">Anglo-Soviet invasion of Iran</a></li>
+</ul>
+</li>
+<li><a href="/wiki/1943_Barzani_revolt" title="1943 Barzani revolt">1943 Barzani revolt</a></li>
+<li><a href="/wiki/Alwaziri_coup" title="Alwaziri coup">Alwaziri coup</a></li>
+<li><a href="/wiki/Al-Wathbah_uprising" title="Al-Wathbah uprising">Al-Wathbah uprising</a></li>
+<li><i><a href="/wiki/Kurdish_separatism_in_Iran" title="Kurdish separatism in Iran">Kurdish separatism in Iran</a></i>
+<ul>
+<li><a href="/wiki/Iran_crisis_of_1946" title="Iran crisis of 1946">Iran crisis of 1946</a></li>
+</ul>
+</li>
+<li><b><a href="/wiki/Arab%E2%80%93Israeli_conflict" title="Arab–Israeli conflict">Arab–Israeli conflict</a></b>
+<ul>
+<li><i><a href="/wiki/Israeli%E2%80%93Palestinian_conflict" title="Israeli–Palestinian conflict">Israeli–Palestinian conflict</a></i></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1950s</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Egyptian_Revolution_of_1952" class="mw-redirect" title="Egyptian Revolution of 1952">Egyptian Revolution of 1952</a></li>
+<li><a href="/wiki/1953_Iranian_coup_d%27%C3%A9tat" title="1953 Iranian coup d'état">1953 Iranian coup d'état</a></li>
+<li><a href="/wiki/Jebel_Akhdar_War" title="Jebel Akhdar War">Jebel Akhdar War</a></li>
+<li><a href="/wiki/Cypriot_intercommunal_violence" class="mw-redirect" title="Cypriot intercommunal violence">Cypriot ethnic crisis</a></li>
+<li><a href="/wiki/Yemeni%E2%80%93Adenese_clan_violence" title="Yemeni–Adenese clan violence">Yemeni–Adenese clan violence</a></li>
+<li><a href="/wiki/1958_Lebanon_crisis" title="1958 Lebanon crisis">1958 Lebanon crisis</a></li>
+<li><a href="/wiki/14_July_Revolution" title="14 July Revolution">1958 Iraqi revolution</a></li>
+<li><a href="/wiki/1959_Mosul_uprising" title="1959 Mosul uprising">1959 Mosul uprising</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1960s</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Iraqi%E2%80%93Kurdish_conflict" title="Iraqi–Kurdish conflict">Iraqi–Kurdish conflict</a></li>
+<li><a href="/wiki/Dhofar_Rebellion" title="Dhofar Rebellion">Dhofar Rebellion</a></li>
+<li><a href="/wiki/North_Yemen_Civil_War" title="North Yemen Civil War">North Yemen Civil War</a></li>
+<li><a href="/wiki/Ramadan_Revolution" title="Ramadan Revolution">Feb. 1963 Iraqi coup</a></li>
+<li><a href="/wiki/1963_Syrian_coup_d%27%C3%A9tat" title="1963 Syrian coup d'état">8th March Syrian Revolution</a></li>
+<li><a href="/wiki/November_1963_Iraqi_coup_d%27%C3%A9tat" title="November 1963 Iraqi coup d'état">Nov. 1963 Iraqi coup</a></li>
+<li><a href="/wiki/Aden_Emergency" title="Aden Emergency">Aden Emergency</a></li>
+<li><a href="/wiki/1964_Hama_riot" title="1964 Hama riot">1964 Hama riot</a></li>
+<li><a href="/wiki/1966_Syrian_coup_d%27%C3%A9tat" title="1966 Syrian coup d'état">1966 Syrian coup d'état</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1970s</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Black_September_in_Jordan" class="mw-redirect" title="Black September in Jordan">Black September in Jordan</a></li>
+<li><a href="/wiki/1972_North_Yemen%E2%80%93South_Yemen_war" class="mw-redirect" title="1972 North Yemen–South Yemen war">1972 North Yemen–South Yemen war</a></li>
+<li><a href="/wiki/Turkish_invasion_of_Cyprus" title="Turkish invasion of Cyprus">Turkish invasion of Cyprus</a></li>
+<li><b><a href="/wiki/Lebanese_Civil_War" title="Lebanese Civil War">Lebanese Civil War</a></b></li>
+<li><a href="/wiki/Political_violence_in_Turkey_(1976%E2%80%9380)" title="Political violence in Turkey (1976–80)">Political violence in Turkey (1976–80)</a></li>
+<li><a href="/wiki/Libyan%E2%80%93Egyptian_War" title="Libyan–Egyptian War">Libyan–Egyptian War</a></li>
+<li><a href="/wiki/Islamist_uprising_in_Syria" title="Islamist uprising in Syria">Islamist uprising in Syria</a></li>
+<li><a href="/wiki/NDF_Rebellion" title="NDF Rebellion">NDF Rebellion</a></li>
+<li><a href="/wiki/Iranian_Revolution" title="Iranian Revolution">Iranian Revolution</a>
+<ul>
+<li><a href="/wiki/Consolidation_of_the_Iranian_Revolution" title="Consolidation of the Iranian Revolution">Consolidation of the Iranian Revolution</a>
+<ul>
+<li><a href="/wiki/Arab_separatism_in_Khuzestan" title="Arab separatism in Khuzestan">Khuzestan conflict</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/1979_Qatif_Uprising" title="1979 Qatif Uprising">1979 Qatif Uprising</a></li>
+<li><a href="/wiki/Grand_Mosque_Seizure" class="mw-redirect" title="Grand Mosque Seizure">Grand Mosque Seizure</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1980s</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/w/index.php?title=Sadr_uprising_(1980)&amp;action=edit&amp;redlink=1" class="new" title="Sadr uprising (1980) (page does not exist)">Sadr uprising (1980)</a></li>
+<li><b><a href="/wiki/Iran%E2%80%93Iraq_War" title="Iran–Iraq War">Iran–Iraq War</a></b></li>
+<li><a href="/wiki/1980_Turkish_coup_d%27%C3%A9tat" title="1980 Turkish coup d'état">1980 Turkish coup d'état</a></li>
+<li><a href="/wiki/Kurdish_separatism_in_Turkey" class="mw-redirect" title="Kurdish separatism in Turkey">Kurdish separatism in Turkey</a>
+<ul>
+<li><i><a href="/wiki/Turkey-PKK_conflict" class="mw-redirect" title="Turkey-PKK conflict">Turkey-PKK conflict</a></i></li>
+</ul>
+</li>
+<li><a href="/wiki/South_Yemen_Civil_War" title="South Yemen Civil War">South Yemen Civil War</a></li>
+<li><a href="/wiki/1986_Egyptian_Conscription_Riot" class="mw-redirect" title="1986 Egyptian Conscription Riot">1986 Egyptian Conscription Riot</a></li>
+<li><a href="/wiki/1986_Damascus_bombings" title="1986 Damascus bombings">1986 Damascus bombings</a></li>
+<li><a href="/wiki/1987_Mecca_incident" title="1987 Mecca incident">Mecca massacre</a></li>
+<li><a href="/wiki/Abu_Nidal_Organization_internal_executions" title="Abu Nidal Organization internal executions">Abu Nidal's executions</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">1990s</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Gulf_War" title="Gulf War">Gulf War (1990–1991)</a></b></li>
+<li><a href="/wiki/1991_uprisings_in_Iraq" title="1991 uprisings in Iraq">1991 uprisings in Iraq</a></li>
+<li><a href="/wiki/Terrorism_in_Egypt" title="Terrorism in Egypt">Terror campaign in Egypt (1990s)</a></li>
+<li><a href="/wiki/1994_civil_war_in_Yemen" class="mw-redirect" title="1994 civil war in Yemen">1994 civil war in Yemen</a></li>
+<li><a href="/wiki/Terrorism_in_Saudi_Arabia" title="Terrorism in Saudi Arabia"><i>Islamic insurgency in Saudi Arabia (2000–present)</i></a></li>
+<li><a href="/wiki/Bombing_of_Iraq_(1998)" title="Bombing of Iraq (1998)">Operation Desert Fox</a></li>
+<li><a href="/wiki/Al-Qaeda_insurgency_in_Yemen" title="Al-Qaeda insurgency in Yemen">al-Qaeda insurgency in Yemen</a></li>
+<li><a href="/wiki/1999_Shia_uprising_in_Iraq" title="1999 Shia uprising in Iraq">1999 Shia uprising in Iraq</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2000s</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/Iraq_War" title="Iraq War">Iraq War</a></b></li>
+<li><i><a href="/wiki/Sistan_and_Baluchestan_insurgency" title="Sistan and Baluchestan insurgency">Balochi insurgency in Iran</a></i></li>
+<li><a href="/wiki/2004_al-Qamishli_riots" title="2004 al-Qamishli riots">2004 al-Qamishli riots</a></li>
+<li><a href="/wiki/Houthi_insurgency_in_Yemen" title="Houthi insurgency in Yemen">Houthi insurgency in Yemen</a></li>
+<li><i><a href="/wiki/Iran%E2%80%93Israel_proxy_conflict" title="Iran–Israel proxy conflict">Iran–Israel proxy conflict</a></i></li>
+<li><a href="/wiki/Fatah%E2%80%93Hamas_conflict" title="Fatah–Hamas conflict">Fatah–Hamas conflict</a></li>
+<li><a href="/wiki/2007_Lebanon_conflict" title="2007 Lebanon conflict">Nahr al-Bared fighting</a></li>
+<li><a href="/wiki/2008_conflict_in_Lebanon" title="2008 conflict in Lebanon">2008 conflict in Lebanon</a></li>
+<li><a href="/wiki/South_Yemen_insurgency" title="South Yemen insurgency">South Yemen insurgency</a></li>
+<li><a href="/wiki/2009%E2%80%9310_Iranian_election_protests" class="mw-redirect" title="2009–10 Iranian election protests">2009–10 Iranian election protests</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">2010s</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Arab_Spring" title="Arab Spring">Arab Spring</a>
+<ul>
+<li><a href="/wiki/Yemeni_Revolution" title="Yemeni Revolution">Yemeni Revolution</a></li>
+<li><a href="/wiki/Bahraini_uprising_of_2011" class="mw-redirect" title="Bahraini uprising of 2011">Bahraini uprising</a></li>
+<li><a href="/wiki/Egyptian_Crisis_(2011%E2%80%9314)" class="mw-redirect" title="Egyptian Crisis (2011–14)">Egyptian Crisis</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Arab_Winter" title="Arab Winter">Arab Winter</a>
+<ul>
+<li><i><b><a href="/wiki/Syrian_Civil_War" title="Syrian Civil War">Syrian Civil War</a></b></i>
+<ul>
+<li><i><a href="/wiki/Syrian_Civil_War_spillover_in_Lebanon" title="Syrian Civil War spillover in Lebanon">spillover in Lebanon</a></i></li>
+<li><i><a href="/wiki/American-led_intervention_in_Syria" title="American-led intervention in Syria">American-led intervention</a></i></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Sinai_insurgency" title="Sinai insurgency">Sinai insurgency</a></i></li>
+<li><a href="/wiki/Iraqi_insurgency_(2011%E2%80%9313)" title="Iraqi insurgency (2011–13)">Iraqi insurgency (2011–13)</a></li>
+<li><i><a href="/wiki/Iraqi_Civil_War_(2014%E2%80%93present)" title="Iraqi Civil War (2014–present)">Iraqi Civil War (2014–present)</a></i>
+<ul>
+<li><i><a href="/wiki/American-led_intervention_in_Iraq_(2014%E2%80%93present)" title="American-led intervention in Iraq (2014–present)">American-led intervention</a></i></li>
+</ul>
+</li>
+<li><i><a href="/wiki/Military_intervention_against_ISIL" title="Military intervention against ISIL">Military intervention against ISIL</a></i></li>
+<li><a href="/wiki/Yemeni_Crisis_(2011%E2%80%93present)" title="Yemeni Crisis (2011–present)">Yemeni Crisis</a>
+<ul>
+<li><i><a href="/wiki/Yemeni_Civil_War_(2015)" class="mw-redirect" title="Yemeni Civil War (2015)">Yemeni Civil War</a></i></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div><b>This list includes post-<a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a> conflicts (after 1918) of at least 100 fatalities each</b><br />
+Prolonged conflicts are listed in the decade when initiated; ongoing conflicts are marked italic and conflict with +100,000 killed with bold.</div>
+</td>
+</tr>
+</table>
+</div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=1929_Palestine_riots&amp;params=31_46_36_N_35_14_03_E_source:plwiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">31°46′36″N</span> <span class="longitude">35°14′03″E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">31.77667°N 35.23417°E</span><span style="display:none">﻿ / <span class="geo">31.77667; 35.23417</span></span></span></a></span></span></span></p>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6358567-0!*!0!!en!4!* and timestamp 20161020112835 and revision id 744580764
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=1929_Palestine_riots&amp;oldid=744580764">https://en.wikipedia.org/w/index.php?title=1929_Palestine_riots&amp;oldid=744580764</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1929_Palestine_riots" title="Category:1929 Palestine riots">1929 Palestine riots</a></li><li><a href="/wiki/Category:1929_in_Mandatory_Palestine" title="Category:1929 in Mandatory Palestine">1929 in Mandatory Palestine</a></li><li><a href="/wiki/Category:Riots_and_civil_disorder_in_Mandatory_Palestine" title="Category:Riots and civil disorder in Mandatory Palestine">Riots and civil disorder in Mandatory Palestine</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Hebrew-language_sources_(he)" title="Category:CS1 Hebrew-language sources (he)">CS1 Hebrew-language sources (he)</a></li><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_August_2012" title="Category:Use dmy dates from August 2012">Use dmy dates from August 2012</a></li><li><a href="/wiki/Category:Use_British_(Oxford)_English_from_February_2012" title="Category:Use British (Oxford) English from February 2012">Use British (Oxford) English from February 2012</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_British_(Oxford)_English" title="Category:All Wikipedia articles written in British (Oxford) English">All Wikipedia articles written in British (Oxford) English</a></li><li><a href="/wiki/Category:Articles_containing_Hebrew-language_text" title="Category:Articles containing Hebrew-language text">Articles containing Hebrew-language text</a></li><li><a href="/wiki/Category:Articles_containing_Arabic-language_text" title="Category:Articles containing Arabic-language text">Articles containing Arabic-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2015" title="Category:Articles with unsourced statements from August 2015">Articles with unsourced statements from August 2015</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2012" title="Category:Articles with unsourced statements from May 2012">Articles with unsourced statements from May 2012</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_same_as_on_Wikidata" title="Category:Commons category with local link same as on Wikidata">Commons category with local link same as on Wikidata</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=1929+Palestine+riots" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1929+Palestine+riots" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/1929_Palestine_riots"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:1929_Palestine_riots"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/1929_Palestine_riots" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=1929_Palestine_riots&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1929_Palestine_riots" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1929_Palestine_riots" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=1929_Palestine_riots&amp;oldid=744580764" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=1929_Palestine_riots&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q2281806" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=1929_Palestine_riots&amp;id=744580764" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=1929+Palestine+riots">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=1929+Palestine+riots&amp;returnto=1929+Palestine+riots&amp;oldid=744580764&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=1929_Palestine_riots&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:1929_Palestine_riots" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AB%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D9%82" title="ثورة البراق – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Nepokoje_v_Palestin%C4%9B_1929" title="Nepokoje v Palestině 1929 – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Disturbios_palestinos_en_1929" title="Disturbios palestinos en 1929 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%89meutes_de_1929_en_Palestine_mandataire" title="Émeutes de 1929 en Palestine mandataire – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Revoltas_de_Palestina_de_1929" title="Revoltas de Palestina de 1929 – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Moti_in_Palestina_del_1929" title="Moti in Palestina del 1929 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%90%D7%95%D7%A8%D7%A2%D7%95%D7%AA_%D7%AA%D7%A8%D7%A4%22%D7%98" title="מאורעות תרפ&quot;ט – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Onlusten_in_Palestina_1929" title="Onlusten in Palestina 1929 – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%98%86%E3%81%8D%E3%81%AE%E5%A3%81%E4%BA%8B%E4%BB%B6" title="嘆きの壁事件 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Zamieszki_w_Palestynie_(1929)" title="Zamieszki w Palestynie (1929) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Tulbur%C4%83rile_din_Palestina_din_1929" title="Tulburările din Palestina din 1929 – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BA%D0%B8_%D0%B2_%D0%BF%D0%BE%D0%B4%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D1%82%D0%BD%D0%BE%D0%B9_%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D0%B5_(1929)" title="Беспорядки в подмандатной Палестине (1929) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%AA%D7%A8%D7%A4%22%D7%98_%D7%A8%D7%90%D7%99%D7%90%D7%98%D7%9F" title="תרפ&quot;ט ראיאטן – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q2281806#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 16 October 2016, at 04:52.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=1929_Palestine_riots&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.640",
+            "walltime": "0.730",
+            "ppvisitednodes": {
+                "value": 3786,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 107479,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 3142,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 12,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 6,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  605.362      1 -total",
+                " 47.98%  290.473      1 Template:Reflist",
+                " 16.88%  102.177     22 Template:Cite_book",
+                " 14.19%   85.910     11 Template:Cite_web",
+                "  7.51%   45.434      2 Template:Citation_needed",
+                "  6.80%   41.192      2 Template:Fix",
+                "  6.17%   37.366      1 Template:Infobox_civilian_attack",
+                "  5.89%   35.645      1 Template:Campaignbox_1929_Palestine_riots",
+                "  5.66%   34.291      1 Template:Campaignbox",
+                "  5.36%   32.441      1 Template:Military_navigation"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.281",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 5584836,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1187",
+            "timestamp": "20161020112836",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw1178"});});</script>
+	</body>
+</html>

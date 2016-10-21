@@ -1,0 +1,607 @@
+Belfast - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Belfast","wgTitle":"Belfast","wgCurRevisionId":745101579,"wgRevisionId":745101579,"wgArticleId":5046,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Latin-language text","All articles with dead external links","Articles with dead external links from January 2016","Articles with dead external links from June 2016","Articles with dead external links from April 2012","Articles with dead external links from September 2016","Articles with permanently dead external links","Wikipedia indefinitely move-protected pages","Use dmy dates from March 2016","EngvarB from June 2014","Articles containing Scots-language text","Articles containing Irish-language text","Coordinates on Wikidata","Articles containing potentially dated statements from 2015","All articles containing potentially dated statements","All articles with unsourced statements","Articles with unsourced statements from August 2015","All accuracy disputes","Articles with disputed statements from November 2010","Articles with unsourced statements from November 2010","Articles needing cleanup from May 2014","All pages needing cleanup","Articles with sections that need to be turned into prose from May 2014","Articles needing additional references from May 2014","All articles needing additional references","Commons category with local link same as on Wikidata","Articles with DMOZ links","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Belfast","British capitals","Capitals in Europe","Districts of Northern Ireland, 2015-present","Populated coastal places in the United Kingdom","Port cities and towns in Northern Ireland","Port cities and towns of the Irish Sea","University towns in Ireland","University towns in the United Kingdom","Districts of Northern Ireland, 1972–2015"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Belfast","wgRelevantArticleId":5046,"wgRequestId":"WAn2VQpAADoAACkJjW8AAAAX","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":54.597,"lon":-5.93},"wgWikibaseItemId":"Q10686","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Belfast From Wikipedia, the free encyclopedia Jump to: navigation , search This article is about the capital of Northern Ireland. For other uses, see Belfast (disambiguation) . Belfast Scots : Bilfawst/Bilfaust Irish : Béal Feirste 
+
+Skyline and buildings throughout the City of Belfast 
+
+Belfast Coat of Arms, with motto Pro Tanto Quid Retribuamus (Latin: "what shall we give in return for so much") Belfast shown within Northern Ireland Area 44.4 sq mi (115 km 2 ) Population City of Belfast: 
+
+333,000 (2014) [1] 
+
+Urban Area: 
+
+483,418 (2001) [2] 
+
+Metropolitan area : 
+
+585,996 (2001) [3] Irish grid reference J338740 District City of Belfast Country Northern Ireland Sovereign state United Kingdom Post town BELFAST Postcode district BT1–BT17, BT29 (part), BT36 (part), BT58 Dialling code 028 Police Northern Ireland Fire Northern Ireland Ambulance Northern Ireland EU Parliament Northern Ireland UK Parliament Belfast North 
+
+Belfast South 
+
+Belfast East 
+
+Belfast West NI Assembly Belfast North 
+
+Belfast South 
+
+Belfast East 
+
+Belfast West Website www.belfastcity.gov.uk List of places UK Northern Ireland 
+
+Coordinates : 54°35′49″N 5°55′48″W ﻿ / ﻿ 54.597°N 5.930°W ﻿ / 54.597; -5.930 Historical population Year Pop. ±% p.a. 1757 8,549 — 1782 13,105 +1.72% 1791 18,320 +3.79% 1806 22,095 +1.26% 1821 37,277 +3.55% 1831 53,287 +3.64% 1841 75,308 +3.52% 1851 97,784 +2.65% 1861 119,393 +2.02% 1871 174,412 +3.86% 1881 208,122 +1.78% 1891 255,950 +2.09% 1901 349,180 +3.15% 1911 386,947 +1.03% 1926 415,151 +0.47% 1937 438,086 +0.49% 1951 443,671 +0.09% 1961 415,856 −0.65% 1966 398,405 −0.85% 1971 362,082 −1.89% 1981 314,270 −1.41% 1991 279,237 −1.17% 2001 277,391 −0.07% 2006 267,374 −0.73% 2011 286,000 +1.36% 2015 333,871 +3.94% [4] [5] [6] [7] [8] [9] [10] 
+
+Belfast ( / ˈ b ɛ l . f ɑː s t / or / ˈ b ɛ l . f æ s t / ; from Irish : Béal Feirste , meaning " mouth of the sandbanks ") [11] is the capital and largest city of Northern Ireland , and the centre of the tenth largest Primary Urban Area in the United Kingdom . [12] On the River Lagan , it had a population of 286,000 at the 2011 census and 333,871 after the 2015 council reform. [1] Belfast was granted city status in 1888. 
+
+Belfast was a centre of the Irish linen , tobacco processing, rope-making and shipbuilding industries: in the early 20th century, Harland and Wolff , which built the RMS Titanic , was the world's biggest and most productive shipyard. Belfast played a key role in the Industrial Revolution , and was a global industrial centre until the latter half of the 20th century. It has sustained a major aerospace and missiles industry since the mid 1930s. Industrialisation and the inward migration it brought made Belfast Ireland's biggest at the beginning of the 20th century. 
+
+Today, Belfast remains a centre for industry, as well as the arts, higher education, business, and law, and is the economic engine of Northern Ireland. The city suffered greatly during the conflict called " the Troubles ", but latterly has undergone a sustained period of calm, free from the intense political violence of former years, and substantial economic and commercial growth. Additionally, Belfast city centre has undergone considerable expansion and regeneration in recent years, notably around Victoria Square . 
+
+Belfast is served by two airports: George Best Belfast City Airport in the city, and Belfast International Airport 15 miles (24 km) west of the city. Belfast is a major port, with commercial and industrial docks dominating the Belfast Lough shoreline, including the Harland and Wolff shipyard, and is listed by the Globalization and World Cities Research Network (GaWC) as a global city . [13] 
+
+Contents 1 Name 2 History 2.1 Origins 2.2 Growth 2.3 The Troubles 3 Governance 3.1 Local government 3.2 Northern Ireland Assembly and Westminster 3.3 Coat of arms and motto 4 Geography 4.1 Climate 4.2 Areas and districts 5 Cityscape 5.1 Architecture 5.2 Parks and gardens 6 Demography 7 Economy 7.1 Industrial growth 8 Infrastructure 8.1 Utilities 8.2 Health care 8.3 Transport 9 Culture 9.1 Media 9.2 Sports 10 Famous citizens 11 Education 12 Tourism 13 Twin towns – Sister cities 14 References 15 Further reading 16 External links 
+
+Name [ edit ] 
+
+The name Belfast is derived from the Irish Béal Feirsde , which was later spelled Béal Feirste . [14] The word béal means "mouth" or "rivermouth" while feirsde/feirste is the genitive singular of fearsaid and refers to a sandbar or tidal ford across a river's mouth. [14] [15] The name would thus translate literally as "(river) mouth of the sandbar" or "(river) mouth of the ford". [14] This sandbar was formed at the confluence of two rivers at what is now Donegall Quay: the Lagan , which flows into Belfast Lough, and its tributary the Farset . This area was the hub around which the original settlement developed. [16] The Irish name Béal Feirste is shared by a townland in County Mayo , whose name has been anglicised as Belfarsad . [17] 
+
+An alternative interpretation of the name is "mouth of [the river] of the sandbar", an allusion to the River Farset, which flows into the Lagan where the sandbar was located. This interpretation was favoured by Edmund Hogan and John O'Donovan . [18] It seems clear, however, that the river itself was named after the tidal crossing. [14] 
+
+In Ulster Scots the name of the city is Bilfawst [19] [20] or Bilfaust , [21] although "Belfast" is also used. [22] [23] History [ edit ] Main article: History of Belfast 
+
+Although the county borough of Belfast was created when it was granted city status by Queen Victoria in 1888, [24] the city continues to be viewed as straddling County Antrim and County Down . [25] Origins [ edit ] Belfast Castle 
+
+The site of Belfast has been occupied since the Bronze Age . The Giant's Ring , a 5,000-year-old henge , is located near the city, [26] and the remains of Iron Age hill forts can still be seen in the surrounding hills. Belfast remained a small settlement of little importance during the Middle Ages . John de Courcy built a castle on what is now Castle Street in the city centre in the 12th century, but this was on a lesser scale and not as strategically important as Carrickfergus Castle to the north, which was built by de Courcy in 1177. The O'Neill clan had a presence in the area. 
+
+In the 14th century, Cloinne Aodha Buidhe, descendants of Aodh Buidhe O'Neill built Grey Castle at Castlereagh, now in the east of the city. [27] Conn O'Neill of the Clannaboy O'Neills owned vast lands in the area and was the last inhabitant of Grey Castle, one remaining link being the Conn's Water river flowing through east Belfast. [28] Growth [ edit ] Castle Place, Belfast in c.1830 
+
+Belfast became a substantial settlement in the 17th century after being established as a town by Sir Arthur Chichester , [29] which was initially settled by Protestant English and Scottish migrants at the time of the Plantation of Ulster . (Belfast and County Antrim, however, did not form part of this particular Plantation scheme as they were privately colonised.) In 1791, the Society of United Irishmen was founded in Belfast, after Henry Joy McCracken and other prominent Presbyterians from the city invited Theobald Wolfe Tone and Thomas Russell to a meeting, after having read Tone's "Argument on Behalf of the Catholics of Ireland". [30] Evidence of this period of Belfast's growth can still be seen in the oldest areas of the city, known as the Entries . Donegall Square in the early 1900s 
+
+Belfast blossomed as a commercial and industrial centre in the 18th and 19th centuries and became Ireland's pre-eminent industrial city. Industries thrived, including linen, rope-making, tobacco, heavy engineering and shipbuilding, and at the end of the 19th century, Belfast briefly overtook Dublin as the largest city in Ireland. The Harland and Wolff shipyards became one of the largest shipbuilders in the world, employing up to 35,000 workers. [31] In 1886 the city suffered intense riots over the issue of home rule, which had divided the city. [32] 
+
+In 1920–22, Belfast became the capital of the new entity of Northern Ireland as the island of Ireland was partitioned . The accompanying conflict (the Irish War of Independence ) cost up to 500 lives in Belfast, the bloodiest sectarian strife in the city until the Troubles of the late 1960s onwards. [33] Aftermath of the Blitz in May 1941 
+
+Belfast was heavily bombed during World War II . In one raid, in 1941, German bombers killed around one thousand people and left tens of thousands homeless. Apart from London, this was the greatest loss of life in a night raid during the Blitz . [34] The Troubles [ edit ] Main article: The Troubles 
+
+Belfast has been the capital of Northern Ireland since its establishment in 1921 following the Government of Ireland Act 1920 . It had been the scene of various episodes of sectarian conflict between its Catholic and Protestant populations. These opposing groups in this conflict are now often termed republican and loyalist respectively, although they are also loosely referred to as ' nationalist ' and ' unionist '. The most recent example of this conflict was known as the Troubles – a civil conflict that raged from around 1969 to 1998. [35] 1972 Donegall Street bombing by the Provisional IRA 
+
+Belfast saw some of the worst of the Troubles in Northern Ireland, particularly in the 1970s, with rival paramilitary groups formed on both sides. Bombing, assassination and street violence formed a backdrop to life throughout the Troubles. The Provisional IRA detonated 22 bombs within the confines of Belfast city centre in 1972, on what is known as " Bloody Friday ", killing eleven people. Loyalist paramilitaries including the Ulster Volunteer Force (UVF) and the Ulster Defence Association (UDA) claimed that the killings they carried out were in retaliation for the IRA campaign . Most of their victims were Catholics with no links to the Provisional IRA. [36] A particularly notorious group, based on the Shankill Road in the mid-1970s, became known as the Shankill Butchers . 
+
+In all, over 1,600 people were killed in political violence in the city between 1969 and 2001. [37] Sporadic violent events continue as of 2015 [update] , although not supported by the previous antagonists who had reached political agreement in 1998. Governance [ edit ] 
+
+Belfast was granted borough status by James VI and I in 1613 and official city status by Queen Victoria in 1888. [38] Since 1973 it has been a local government district under local administration by Belfast City Council . [39] Belfast is represented in both the British House of Commons and in the Northern Ireland Assembly . For elections to the European Parliament , Belfast is within the Northern Ireland constituency . Local government [ edit ] For more details on this topic, see Belfast City Council . Belfast City Hall 
+
+Belfast City Council is the local council with responsibility for the city. The city's elected officials are the Lord Mayor of Belfast , Deputy Lord Mayor and High Sheriff who are elected from among 60 councillors . The first Lord Mayor of Belfast was Daniel Dixon, who was elected in 1892. [40] The Lord Mayor for 2016-17 is Alderman Brian Kingston of the Democratic Unionist Party , while the Deputy Lord Mayor is Mary Ellen Campbell of Sinn Féin , both of whom were elected in June 2016 to serve a one-year term. The Lord Mayor's duties include presiding over meetings of the council, receiving distinguished visitors to the city, and representing and promoting the city on the national and international stage. [40] 
+
+In 1997, Unionists lost overall control of Belfast City Council for the first time in its history, with the Alliance Party of Northern Ireland gaining the balance of power between Nationalists and Unionists. This position was confirmed in the three subsequent council elections, with mayors from Sinn Féin and the Social Democratic and Labour Party (SDLP), both of whom are Nationalist parties, and the cross-community Alliance Party regularly elected since. The first nationalist Lord Mayor of Belfast was Alban Maginness of the SDLP, in 1997. 
+
+The last elections to Belfast City Council were held on 22 May 2014, with the city's voters electing sixty councillors across ten district electoral areas . The results were: 19(+3) Sinn Féin, 13(-2) Democratic Unionist Party (DUP), 8(+2) Alliance Party , 7(-1) SDLP , 7(+4) Ulster Unionist Party (UUP), 3(+1) Progressive Unionist Party (PUP), with the Traditional Unionist Voice . Greens and People Before Profit Alliance all winning their first seats. [41] 
+
+Belfast council takes part in the twinning scheme , [42] and is twinned with Nashville , in the United States, [43] Hefei in China, [44] and Boston , in the United States. [45] [46] Northern Ireland Assembly and Westminster [ edit ] Stormont is home to the Northern Ireland Assembly. For more details on this topic, see Northern Ireland Assembly and Parliament of the United Kingdom . See also: Belfast (Northern Ireland Parliament constituencies) and Belfast (UK Parliament constituency) 
+
+As Northern Ireland's capital city, Belfast is host to the Northern Ireland Assembly at Stormont , the site of the devolved legislature for Northern Ireland. Belfast is divided into four Northern Ireland Assembly and UK parliamentary constituencies: North Belfast , West Belfast , South Belfast and East Belfast . All four extend beyond the city boundaries to include parts of Castlereagh , Lisburn and Newtownabbey districts. In the Northern Ireland Assembly Elections in 2016 , Belfast elected 24 Members of the Legislative Assembly (MLAs), 6 from each constituency . Belfast elected 8 DUP , 7 Sinn Féin , 3 SDLP , 3 Alliance Party , 1 UUP , 1 Green and 1 PBPA MLAs. [47] In the 2015 UK general election, Belfast elected one MP from each constituency to the House of Commons at Westminster, London. This comprised 2 DUP, 1 SDLP, and 1 Sinn Féin. [48] Coat of arms and motto [ edit ] Belfast's coat of arms was adopted in 1890 
+
+The city of Belfast has the Latin motto " Pro tanto quid retribuamus ." This is taken from Psalm 116 Verse 12 in the Latin Vulgate Bible and is literally "For so much what shall we repay " The verse has been translated in bibles differently – for example as "What shall I render unto the Lord for all his benefits toward me?". [49] It is also translated as "In return for so much, what shall we give back?" [50] The Queen's University Students' Union Rag Week publication PTQ derives its name from the first three words of the motto. 
+
+The coat of arms of the city were designed by John Vinycomb and are blazoned as Party per fesse argent and azure, in chief a pile vair and on a canton gules a bell argent, in base a ship with sails set argent on waves of the sea proper . This heraldic language describes a shield that is divided in two horizontally ( party per fesse ). The top ( chief ) of the shield is silver ( argent ), and has a point-down triangle ( a pile ) with a repeating blue-and-white pattern that represents fur ( vair ). There is also a red square in the top corner ( a canton gules ) on which there is a silver bell. It is likely that the bell is an example here of "canting" (or punning) heraldry, representing the first syllable of Belfast. In the lower part of the shield ( in base ) there is a silver sailing ship shown sailing on waves coloured in the actual colours of the sea ( proper ). The supporter on the "dexter" side (the right hand side, to note that in heraldry "right and "left" are from the wearer of the shield's perspective) is a chained wolf, while on the "sinister" (the left side from the bearer's perspective) is a sea-horse. The crest above the shield is also a sea-horse. These arms date back to 1613, when James VI and I granted Belfast town status. The seal was used by Belfast merchants throughout the 17th century on their signs and trade-coins. [51] A large stained glass window in the City Hall displays the arms, where an explanation suggests that the seahorse and the ship refer to Belfast's significant maritime history. The wolf may be a tribute to the city's founder, Sir Arthur Chichester , and refer to his own coat of arms. [51] Geography [ edit ] Aerial view of Belfast. 
+
+Belfast is at the western end of Belfast Lough and at the mouth of the River Lagan giving it the ideal location for the shipbuilding industry that once made it famous. When the Titanic was built in Belfast in 1911–1912, Harland and Wolff had the largest shipyard in the world. [52] Belfast is situated on Northern Ireland's eastern coast at 54°35′49″N 05°55′45″W ﻿ / ﻿ 54.59694°N 5.92917°W ﻿ / 54.59694; -5.92917 . A consequence of this northern latitude is that it both endures short winter days and enjoys long summer evenings. During the winter solstice , the shortest day of the year, local sunset is before 16:00 while sunrise is around 08:45. This is balanced by the summer solstice in June, when the sun sets after 22:00 and rises before 05:00. [53] OpenStreetMap of Belfast 
+
+In 1994, a weir was built across the river by the Laganside Corporation to raise the average water level so that it would cover the unseemly mud flats which gave Belfast its name [54] (from Irish Béal Feirste , meaning "The sandy ford at the river mouth"). [15] The area of Belfast Local Government District is 42.31 square miles (109.6 km 2 ). [55] 
+
+The River Farset is also named after this silt deposit (from the Irish feirste meaning "sand spit"). Originally a more significant river than it is today, the Farset formed a dock on High Street until the mid 19th century. Bank Street in the city centre referred to the river bank and Bridge Street was named for the site of an early Farset bridge. [56] Superseded by the River Lagan as the more important river in the city, the Farset now languishes in obscurity, under High Street. There are no less than eleven other minor rivers in and around Belfast, namely the Blackstaff, the Colin, the Connswater, the Cregagh, the Derriaghy, the Forth, the Knock, the Legoniel, the Milewater, the Purdysburn and the Ravernet. [57] Cavehill , a basaltic hill overlooking the city 
+
+The city is flanked on the north and northwest by a series of hills, including Divis Mountain , Black Mountain and Cavehill , thought to be the inspiration for Jonathan Swift 's Gulliver's Travels . When Swift was living at Lilliput Cottage near the bottom of Belfast's Limestone Road, he imagined that the Cavehill resembled the shape of a sleeping giant safeguarding the city. [58] The shape of the giant's nose, known locally as Napoleon's Nose , is officially called McArt's Fort probably named after Art O'Neill, a 17th-century chieftain who controlled the area at that time. [59] The Castlereagh Hills overlook the city on the southeast. Climate [ edit ] 
+
+As with the rest of Ireland, Belfast has a temperate or oceanic climate, with a narrow range of temperatures and rainfall throughout the year. The climate of Belfast is significantly milder than some other locations in the world at a similar latitude, due to the warming influence of the Gulf Stream. There are currently 5 weather observing stations in the Belfast area: Helens Bay, Stormont, Newforge, Castlereagh, and Ravenhill Road. Slightly further afield is Aldergrove Airport. [60] The highest temperature recorded at any official weather station in the Belfast area was 30.8 °C (87 °F) at Shaws Bridge on 12 July 1983. [61] Belfast holds the record for Northern Ireland's warmest night time minimum, 19.6 °C (67.3 °F) at Whitehouse on 14 August 2001. [62] 
+
+The city gets significant precipitation (greater than 1mm) on 157 days in an average year with an average annual rainfall of 846 millimetres (33.3 in), [63] less than areas of northern England or most of Scotland , [61] but higher than Dublin or the south-east coast of Ireland. [64] As an urban and coastal area, Belfast typically gets snow on fewer than 10 days per year. [61] The absolute maximum temperature at the weather station at Stormont is 29.7 °C (85 °F), set during July 1983. [65] In an average year the warmest day will rise to a temperature of 24.4 °C (75.9 °F) [66] with a day of 25.1 °C (77.2 °F) or above occurring roughly once every two in three years. [67] The absolute minimum temperature at Stormont is −9.9 °C (14 °F), during January 1982, [68] although in an average year the coldest night will fall no lower than −4.5 °C (24 °F) with air frost being recorded on just 26 nights. [69] The lowest temperature to occur in recent years was −8.8 °C (16.2 °F) on 22 December 2010. [70] 
+
+The nearest weather station for which sunshine data and longer term observations are available is Belfast International Airport ( Aldergrove ). Temperature extremes here have slightly more variability due to the more inland location. The average warmest day at Aldergrove for example will reach a temperature of 25.4 °C (77.7 °F), [71] (1.0 °C [1.8 °F] higher than Stormont) and 2.1 days [72] should attain a temperature of 25.1 °C (77.2 °F) or above in total. Conversely the coldest night of the year averages −6.6 °C (20.1 °F) [73] (or 1.9 °C [3.4 °F] lower than Stormont) and 39 nights should register an air frost. [74] Some 13 more frosty nights than Stormont. The minimum temperature at Aldergrove was −14.2 °C (6 °F), during December 2010. Climate data for Belfast Stormont Castle, elevation: 56 m or 184 ft (1981-2010) extremes (1960-present) Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Record high °C (°F) 14.7 
+
+(58.5) 15.8 
+
+(60.4) 20.1 
+
+(68.2) 20.8 
+
+(69.4) 25.0 
+
+(77) 27.5 
+
+(81.5) 29.7 
+
+(85.5) 28.2 
+
+(82.8) 24.2 
+
+(75.6) 20.6 
+
+(69.1) 17.1 
+
+(62.8) 14.6 
+
+(58.3) 29.7 
+
+(85.5) Average high °C (°F) 8.0 
+
+(46.4) 8.4 
+
+(47.1) 10.2 
+
+(50.4) 12.3 
+
+(54.1) 15.0 
+
+(59) 17.5 
+
+(63.5) 19.3 
+
+(66.7) 18.9 
+
+(66) 16.7 
+
+(62.1) 13.4 
+
+(56.1) 10.3 
+
+(50.5) 8.4 
+
+(47.1) 13.2 
+
+(55.8) Daily mean °C (°F) 5.1 
+
+(41.2) 5.2 
+
+(41.4) 6.7 
+
+(44.1) 8.4 
+
+(47.1) 10.9 
+
+(51.6) 13.5 
+
+(56.3) 15.4 
+
+(59.7) 15.1 
+
+(59.2) 13.1 
+
+(55.6) 10.2 
+
+(50.4) 7.3 
+
+(45.1) 5.5 
+
+(41.9) 9.7 
+
+(49.5) Average low °C (°F) 2.1 
+
+(35.8) 2.0 
+
+(35.6) 3.2 
+
+(37.8) 4.4 
+
+(39.9) 6.7 
+
+(44.1) 9.5 
+
+(49.1) 11.4 
+
+(52.5) 11.3 
+
+(52.3) 9.4 
+
+(48.9) 6.9 
+
+(44.4) 4.3 
+
+(39.7) 2.6 
+
+(36.7) 6.2 
+
+(43.2) Record low °C (°F) −9.9 
+
+(14.2) −6.1 
+
+(21) −7.2 
+
+(19) −5.6 
+
+(21.9) −1.7 
+
+(28.9) 1.7 
+
+(35.1) 5.6 
+
+(42.1) 4.9 
+
+(40.8) 1.1 
+
+(34) −0.9 
+
+(30.4) −3.4 
+
+(25.9) −9.1 
+
+(15.6) −9.9 
+
+(14.2) Average precipitation mm (inches) 88.1 
+
+(3.469) 63.6 
+
+(2.504) 75.9 
+
+(2.988) 67.3 
+
+(2.65) 64.8 
+
+(2.551) 68.3 
+
+(2.689) 66.2 
+
+(2.606) 85.2 
+
+(3.354) 77.3 
+
+(3.043) 95.6 
+
+(3.764) 96.0 
+
+(3.78) 90.5 
+
+(3.563) 938.8 
+
+(36.961) Average precipitation days (≥ 1.0 mm) 15.0 11.9 14.1 11.4 11.8 11.0 11.4 12.9 11.9 14.0 14.6 13.8 153.7 Source: KNMI [75] [76] Climate data for Belfast International Airport (Aldergrove), elevation: 63 m or 207 ft (1981–2010) Extremes (1958–present) Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Record high °C (°F) 14.0 
+
+(57.2) 14.9 
+
+(58.8) 20.2 
+
+(68.4) 21.8 
+
+(71.2) 25.0 
+
+(77) 29.0 
+
+(84.2) 28.8 
+
+(83.8) 28.0 
+
+(82.4) 25.6 
+
+(78.1) 21.8 
+
+(71.2) 16.4 
+
+(61.5) 14.4 
+
+(57.9) 29.0 
+
+(84.2) Average high °C (°F) 7.1 
+
+(44.8) 7.5 
+
+(45.5) 9.5 
+
+(49.1) 11.9 
+
+(53.4) 15.0 
+
+(59) 17.4 
+
+(63.3) 19.0 
+
+(66.2) 18.6 
+
+(65.5) 16.4 
+
+(61.5) 12.9 
+
+(55.2) 9.5 
+
+(49.1) 7.4 
+
+(45.3) 12.7 
+
+(54.9) Daily mean °C (°F) 4.4 
+
+(39.9) 4.6 
+
+(40.3) 6.2 
+
+(43.2) 8.1 
+
+(46.6) 10.9 
+
+(51.6) 13.6 
+
+(56.5) 15.4 
+
+(59.7) 15.0 
+
+(59) 13.0 
+
+(55.4) 9.9 
+
+(49.8) 6.8 
+
+(44.2) 4.8 
+
+(40.6) 9.4 
+
+(48.9) Average low °C (°F) 1.7 
+
+(35.1) 1.6 
+
+(34.9) 2.9 
+
+(37.2) 4.3 
+
+(39.7) 6.8 
+
+(44.2) 9.7 
+
+(49.5) 11.7 
+
+(53.1) 11.4 
+
+(52.5) 9.5 
+
+(49.1) 6.9 
+
+(44.4) 4.0 
+
+(39.2) 2.1 
+
+(35.8) 6.1 
+
+(43) Record low °C (°F) −12.8 
+
+(9) −11.1 
+
+(12) −9.9 
+
+(14.2) −5.1 
+
+(22.8) −2.8 
+
+(27) −1.2 
+
+(29.8) 2.2 
+
+(36) 2.3 
+
+(36.1) −0.5 
+
+(31.1) −3.0 
+
+(26.6) −8.6 
+
+(16.5) −14.9 
+
+(5.2) −14.9 
+
+(5.2) Average precipitation mm (inches) 80.3 
+
+(3.161) 57.7 
+
+(2.272) 67.0 
+
+(2.638) 58.0 
+
+(2.283) 57.3 
+
+(2.256) 61.5 
+
+(2.421) 71.4 
+
+(2.811) 83.8 
+
+(3.299) 75.6 
+
+(2.976) 89.6 
+
+(3.528) 79.7 
+
+(3.138) 79.3 
+
+(3.122) 861.2 
+
+(33.906) Average precipitation days (≥ 1.0 mm) 14.8 12.1 14.0 11.4 11.7 11.3 12.9 13.9 12.6 14.4 14.4 14.0 157.5 Mean monthly sunshine hours 49.7 71.2 102.5 153.3 197.7 167.9 151.3 142.1 119.9 91.2 59.4 46.2 1,352.5 Source #1: Met Office [77] Source #2: KNMI [78] Areas and districts [ edit ] Main article: Subdivisions of Belfast For more details on City Layout, see Transport in Belfast § City layout . A city street in Belfast 
+
+Belfast expanded very rapidly from being a market town to becoming an industrial city during the course of the 19th century. Because of this, it is less an agglomeration of villages and towns which have expanded into each other, than other comparable cities, such as Manchester or Birmingham . The city expanded to the natural barrier of the hills that surround it, overwhelming other settlements. Consequently, the arterial roads along which this expansion took place (such as the Falls Road or the Newtownards Road ) are more significant in defining the districts of the city than nucleated settlements. Belfast remains segregated by walls, commonly known as " peace lines ", erected by the British Army after August 1969, and which still divide 14 districts in the inner city. [79] In 2008 a process was proposed for the removal of the 'peace walls'. [80] In June 2007, a £ 16 million programme was announced which will transform and redevelop streets and public spaces in the city centre. [81] Major arterial roads ( quality bus corridor ) into the city include the Antrim Road , Shore Road , Holywood Road, Newtownards Road, Castlereagh Road, Cregagh Road, Ormeau Road , Malone Road , Lisburn Road , Falls Road, Springfield Road , Shankill Road , and Crumlin Road, Four Winds. [82] St Anne's Cathedral 
+
+Belfast city centre is divided into two postcode districts, BT1 for the area lying north of the City Hall, and BT2 for the area to its south. The industrial estate and docklands BT3 . The rest of the Belfast post town is divided in a broadly clockwise system from BT3 in the north-east round to BT15 , with BT16 and BT17 further out to the east and west respectively. Although BT derives from Belfast , the BT postcode area extends across the whole of Northern Ireland. [83] 
+
+Since 2001, boosted by increasing numbers of tourists, the city council has developed a number of cultural quarters . The Cathedral Quarter takes its name from St Anne's Cathedral (Church of Ireland) and has taken on the mantle of the city's key cultural locality. [84] It hosts a yearly visual and performing arts festival . 
+
+Custom House Square is one of the city's main outdoor venues for free concerts and street entertainment. The Gaeltacht Quarter is an area around the Falls Road in west Belfast which promotes and encourages the use of the Irish language . [85] The Queen's Quarter in south Belfast is named after Queen's University . The area has a large student population and hosts the annual Belfast Festival at Queen's each autumn. It is home to Botanic Gardens and the Ulster Museum , which was reopened in 2009 after major redevelopment. [86] The Golden Mile is the name given to the mile between Belfast City Hall and Queen's University. Taking in Dublin Road, Great Victoria Street , Shaftesbury Square and Bradbury Place, it contains some of the best bars and restaurants in the city. [87] Since the Good Friday Agreement in 1998, the nearby Lisburn Road has developed into the city's most exclusive shopping strip. [88] [89] Finally, the Titanic Quarter covers 0.75 km 2 (0 sq mi) of reclaimed land adjacent to Belfast Harbour , formerly known as Queen's Island . Named after RMS Titanic , which was built here in 1912, [52] work has begun which promises to transform some former shipyard land into "one of the largest waterfront developments in Europe". [90] Plans include apartments, a riverside entertainment district, and a major Titanic-themed museum. [90] Cityscape [ edit ] Panorama of Belfast skyline Skyline of Belfast Architecture [ edit ] Main articles: Architecture of Belfast , Buildings and structures in Belfast , and List of tallest buildings and structures in Belfast Obel Tower is the tallest building in Belfast and Ireland. 
+
+The architectural style of Belfast's buildings range from Edwardian , like the City Hall, to modern, like Waterfront Hall . Many of the city's Victorian landmarks, including the main Lanyon Building at Queen's University Belfast and the Linenhall Library , were designed by Sir Charles Lanyon . 
+
+The City Hall was finished in 1906 and was built to reflect Belfast's city status, granted by Queen Victoria in 1888. The Edwardian architectural style of Belfast City Hall influenced the Victoria Memorial in Calcutta , India, and Durban City Hall in South Africa. [91] [92] The dome is 173 ft (53 m) high and figures above the door state " Hibernia encouraging and promoting the Commerce and Arts of the City". [93] 
+
+Among the city's grandest buildings are two former banks: Ulster Bank in Waring Street (built in 1860) and Northern Bank , in nearby Donegall Street (built in 1769). The Royal Courts of Justice in Chichester Street are home to Northern Ireland's Supreme Court . Many of Belfast's oldest buildings are found in the Cathedral Quarter area, which is currently undergoing redevelopment as the city's main cultural and tourist area. [84] Windsor House, 262 ft (80 m) high, has 23 floors and is the second tallest building (as distinct from structure) in Ireland. [94] Work has started on the taller Obel Tower , which already surpasses the height of Windsor House in its unfinished state. Scottish Provident Institution, an example of Victorian architecture in Belfast 
+
+The ornately decorated Crown Liquor Saloon , designed by Joseph Anderson in 1876, in Great Victoria Street is one of only two pubs in the UK that are owned by the National Trust (the other is the George Inn, Southwark in London). It was made internationally famous as the setting for the classic film, Odd Man Out , starring James Mason . [95] The restaurant panels in the Crown Bar were originally made for Britannic , the sister ship of the Titanic , [93] built in Belfast. 
+
+The Harland and Wolff shipyard has two of the largest dry docks in Europe, [96] where the giant cranes, Samson and Goliath stand out against Belfast's skyline. Including the Waterfront Hall and the Odyssey Arena , Belfast has several other venues for performing arts. The architecture of the Grand Opera House has an oriental theme and was completed in 1895. It was bombed several times during the Troubles but has now been restored to its former glory. [97] The Lyric Theatre , (re-opened 1 May 2011 after undergoing a rebuilding programme) the only full-time producing theatre in the country, is where film star Liam Neeson began his career. [98] The Ulster Hall (1859–1862) was originally designed for grand dances but is now used primarily as a concert and sporting venue. Lloyd George , Parnell and Patrick Pearse all attended political rallies there. [93] Parks and gardens [ edit ] Main article: List of parks and gardens in Belfast The Palm House at the Botanic Gardens 
+
+Sitting at the mouth of the River Lagan where it becomes a deep and sheltered lough, Belfast is surrounded by mountains that create a micro-climate conducive to horticulture. From the Victorian Botanic Gardens in the heart of the city to the heights of Cave Hill Country Park, the great expanse of Lagan Valley Regional Park [99] to Colin Glen, Belfast contains an abundance of parkland and forest parks. [100] 
+
+Parks and gardens are an integral part of Belfast's heritage, and home to an abundance of local wildlife and popular places for a picnic, a stroll or a jog. Numerous events take place throughout including festivals such as Rose Week and special activities such as bird watching evenings and great beast hunts. [100] 
+
+Belfast has over forty public parks. The Forest of Belfast is a partnership between government and local groups, set up in 1992 to manage and conserve the city's parks and open spaces. They have commissioned more than 30 public sculptures since 1993. [101] In 2006, the City Council set aside £8 million to continue this work. [102] The Belfast Naturalists' Field Club was founded in 1863 and is administered by National Museums and Galleries of Northern Ireland. [103] 
+
+With an average of 670,000 visitors per year between 2007 and 2011, one of the most popular parks is Botanic Gardens [104] in the Queen's Quarter . Built in the 1830s and designed by Sir Charles Lanyon , Botanic Gardens Palm House is one of the earliest examples of a curvilinear and cast iron glasshouse . [105] Other attractions in the park include the Tropical Ravine, a humid jungle glen built in 1889, rose gardens and public events ranging from live opera broadcasts to pop concerts. [106] U2 played here in 1997. Sir Thomas and Lady Dixon Park , to the south of the city centre, attracts thousands of visitors each year to its International Rose Garden. [107] Rose Week in July each year features over 20,000 blooms. [108] It has an area of 128 acres (0.52 km 2 ) of meadows, woodland and gardens and features a Diana, Princess of Wales Memorial Garden, a Japanese garden, a walled garden, and the Golden Crown Fountain commissioned in 2002 as part of the Queen's Golden Jubilee celebrations. [107] 
+
+In 2008, Belfast was named a finalist in the Large City (200,001 and over) category of the RHS Britain in Bloom competition along with London Borough of Croydon and Sheffield . 
+
+Belfast Zoo is owned by Belfast City Council. The council spends £1.5 million every year on running and promoting the zoo, which is one of the few local government-funded zoos in the UK and Ireland. The zoo is one of the top visitor attractions in Northern Ireland, receiving more than 295,000 visitors a year. The majority of the animals are in danger in their natural habitat. The zoo houses more than 1,200 animals of 140 species including Asian elephants , Barbary lions , Malayan sun bears (one of the few in the United Kingdom), two species of penguin, a family of western lowland gorillas , a troop of common chimpanzees , a pair of red pandas , a pair of Goodfellow's tree-kangaroos and Francois' langurs . The zoo also carries out important conservation work and takes part in European and international breeding programmes which help to ensure the survival of many species under threat. [109] Demography [ edit ] For more details on this topic, see List of people from Belfast . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ethnic groups in the 2011 census White (96.7%) Asian (2.2%) Black (0.4%) Mixed (0.5%) Other (0.2%) Irish Traveller (0.08%) 
+
+At the 2001 census , the population was 276,459, [110] while 579,554 people lived in the wider Belfast Metropolitan Area . [111] This made it the fifteenth-largest city in the United Kingdom, but the eleventh-largest conurbation . [112] Belfast experienced a huge growth in population in the first half of the twentieth century. This rise slowed and peaked around the start of the Troubles with the 1971 census showing almost 600,000 people in the Belfast Urban Area. [113] Since then, the inner city numbers have dropped dramatically as people have moved to swell the Greater Belfast suburb population. The 2001 census population in the same Urban Area had fallen to 277,391 [110] people, with 579,554 people living in the wider Belfast Metropolitan Area . [111] The 2001 census recorded 81,650 people from Catholic backgrounds and 79,650 people from Protestant backgrounds of working age living in Belfast. [114] The population density in 2011 was 24.88 people/hectare (compared to 1.34 for the rest of Northern Ireland). [115] As with many cities, Belfast's inner city is currently characterised by the elderly, students and single young people, while families tend to live on the periphery. Socio-economic areas radiate out from the Central Business District , with a pronounced wedge of affluence extending out the Malone Road and Upper Malone Road to the south. [113] An area of greater deprivation extends to the west of the city. The areas around the Falls and Shankill Roads are the most deprived wards in Northern Ireland. [116] 
+
+Despite a period of relative peace, most areas and districts of Belfast still reflect the divided nature of Northern Ireland as a whole. Many areas are still highly segregated along ethnic, political and religious lines, especially in working-class neighbourhoods. [117] These zones – Catholic / Republican on one side and Protestant / Loyalist on the other – are invariably marked by flags , graffiti and murals . Segregation has been present throughout the history of Belfast, but has been maintained and increased by each outbreak of violence in the city. This escalation in segregation, described as a "ratchet effect", has shown little sign of decreasing. [118] When violence flares, it tends to be in interface areas. The highest levels of segregation in the city are in west Belfast with many areas greater than 90% Catholic. Opposite but comparatively high levels are seen in the predominantly Protestant east Belfast. [119] Areas where segregated working-class areas meet are known as interface areas and sometimes marked by peace lines . 
+
+Ethnic minority communities have been in Belfast since the 1930s. [120] The largest groups are Poles, Chinese and Indians. [121] [122] Since the expansion of the European Union, numbers have been boosted by an influx of Eastern European immigrants . Census figures (2011) showed that Belfast has a total non-white population of 10,219 or 3.3%, [122] while 18,420 or 6.6% [121] of the population were born outside the UK and Ireland. [121] Almost half of those born outside the UK and Ireland live in south Belfast , where they comprise 9.5% of the population. [121] The majority of the estimated 5,000 Muslims [123] and 200 Hindu families [124] living in Northern Ireland live in the Greater Belfast area. 
+
+Judging by the fact that 6.6% of the population was born outside the UK, it is probable that Belfast is around 92.5% White Irish/British and 3.3% non-White. This makes the city about as ethnically diverse as Sunderland or York . The Belfast City Council area in the 2011 census 
+
+Population density 
+
+Percentage Catholic or brought up Catholic 
+
+Most commonly stated national identity 
+
+Percentage born outside the UK and Ireland Economy [ edit ] Main article: Economy of Belfast 
+
+The IRA Ceasefire in 1994 and the signing of the Good Friday Agreement in 1998 have given investors increased confidence to invest in Belfast. [125] [126] This has led to a period of sustained economic growth and large-scale redevelopment of the city centre. Developments include Victoria Square , the Cathedral Quarter , and the Laganside with the Odyssey complex and the landmark Waterfront Hall. The Waterfront Hall. Built in 1997, the hall is a concert, exhibition and conference venue. 
+
+Other major developments include the regeneration of the Titanic Quarter , and the erection of the Obel Tower , a skyscraper set to be the tallest tower on the island. [127] Today, Belfast is Northern Ireland's educational and commercial hub. In February 2006, Belfast's unemployment rate stood at 4.2%, lower than both the Northern Ireland [128] and the UK average of 5.5%. [129] Over the past 10 years employment has grown by 16.4 per cent, compared with 9.2 per cent for the UK as a whole. [130] 
+
+Northern Ireland's peace dividend has led to soaring property prices in the city. In 2007, Belfast saw house prices grow by 50%, the fastest rate of growth in the UK. [131] In March 2007, the average house in Belfast cost £91,819, with the average in south Belfast being £141,000. [132] In 2004, Belfast had the lowest owner occupation rate in Northern Ireland at 54%. [133] 
+
+Peace has boosted the numbers of tourists coming to Belfast. There were 6.4 million visitors in 2005, which was a growth of 8.5% from 2004. The visitors spent £285.2 million, supporting more than 15,600 jobs. [134] Visitor numbers rose by 6% to reach 6.8 million in 2006, with tourists spending £324 million, an increase of 15% on 2005. [135] The city's two airports have helped make the city one of the most visited weekend destinations in Europe. [136] 
+
+Belfast has been the fastest-growing economy of the thirty largest cities in the UK over the past decade, a new economy report by Howard Spencer has found. "That's because [of] the fundamentals of the UK economy and [because] people actually want to invest in the UK," he commented on that report. [137] 
+
+BBC Radio 4's World reported furthermore that despite higher levels of corporation tax in the UK than in the Republic. There are "huge amounts" of foreign investment coming into the country. 
+
+The Times wrote about Belfast's growing economy: "According to the region's development agency, throughout the 1990s Northern Ireland had the fastest-growing regional economy in the UK, with GDP increasing 1 per cent per annum faster than the rest of the country. As with any modern economy, the service sector is vital to Northern Ireland's development and is enjoying excellent growth. In particular, the region has a booming tourist industry with record levels of visitors and tourist revenues and has established itself as a significant location for call centres." [138] Since the ending of the regions conflict tourism has boomed in Northern Ireland, greatly aided by low cost. [138] 
+
+Der Spiegel , a German weekly magazine for politics and economy, titled Belfast as The New Celtic Tiger which is "open for business". [139] Industrial growth [ edit ] A 1907 stereoscope postcard depicting the construction of a passenger liner (the RMS Adriatic ) at the Harland and Wolff shipyard 
+
+When the population of Belfast town began to grow in the 17th century, its economy was built on commerce. [140] It provided a market for the surrounding countryside and the natural inlet of Belfast Lough gave the city its own port. The port supplied an avenue for trade with Great Britain and later Europe and North America. In the mid-17th century, Belfast exported beef, butter, hides, tallow and corn and it imported coal, cloth, wine, brandy, paper, timber and tobacco. [140] 
+
+Around this time, the linen trade in Northern Ireland blossomed and by the middle of the 18th century, one fifth of all the linen exported from Ireland was shipped from Belfast. [140] The present city however is a product of the Industrial Revolution . [141] It was not until industry transformed the linen and shipbuilding trades that the economy and the population boomed. By the turn of the 19th century, Belfast had transformed into the largest linen producing centre in the world, [142] earning the nickname " Linenopolis ". 
+
+Belfast harbour was dredged in 1845 to provide deeper berths for larger ships. Donegall Quay was built out into the river as the harbour was developed further and trade flourished. [143] The Harland and Wolff shipbuilding firm was created in 1861, and by the time the Titanic was built, in 1912, it had become the largest shipyard in the world. [52] Samson and Goliath, Harland Wolff's gantry cranes. 
+
+Short Brothers plc is a British aerospace company based in Belfast. It was the first aircraft manufacturing company in the world. The company began its association with Belfast in 1936, with Short Harland Ltd, a venture jointly owned by Shorts and Harland and Wolff. Now known as Shorts Bombardier it works as an international aircraft manufacturer located near the Port of Belfast. [144] 
+
+The rise of mass-produced and cotton clothing following World War I were some of the factors which led to the decline of Belfast's international linen trade. [142] Like many British cities dependent on traditional heavy industry, Belfast suffered serious decline since the 1960s, exacerbated greatly in the 1970s and 1980s by the Troubles. More than 100,000 manufacturing jobs have been lost since the 1970s. [145] For several decades, Northern Ireland's fragile economy required significant public support from the British exchequer of up to £4 billion per year. [145] Infrastructure [ edit ] Ulster University , Belfast campus 
+
+Belfast saw the worst of the Troubles in Northern Ireland, with nearly half of the total deaths in the conflict occurring in the city. However, since the Good Friday Agreement in 1998, there has been significant urban regeneration in the city centre including Victoria Square, Queen's Island and Laganside as well as the Odyssey complex and the landmark Waterfront Hall . The city is served by two airports: The George Best Belfast City Airport adjacent to Belfast Lough and Belfast International Airport which is near Lough Neagh . Queen's University of Belfast is the main university in the city. The Ulster University also maintains a campus in the city, which concentrates on fine art, design and architecture. 
+
+Belfast is one of the constituent cities that makes up the Dublin-Belfast corridor region, which has a population of just under 3 million. Utilities [ edit ] Silent Valley Reservoir, showing the brick-built overflow 
+
+Most of Belfast's water is supplied from the Silent Valley Reservoir in County Down , created to collect water from the Mourne Mountains . [146] The rest of the city's water is sourced from Lough Neagh, via Dunore Water Treatment Works in County Antrim. [147] The citizens of Belfast pay for their water in their rates bill. Plans to bring in additional water tariffs have been deferred by devolution in May 2007. [148] Belfast has approximately 1,300 km (808 mi) of sewers , which are currently being replaced in a project costing over £100 million and due for completion in 2009. [149] 
+
+Northern Ireland Electricity is responsible for transmitting electricity in Northern Ireland. Belfast's electricity comes from Kilroot Power Station, a 520 MegaWatt dual coal and oil fired plant , situated near Carrickfergus . [147] Phoenix Natural Gas Ltd. started supplying customers in Larne and Greater Belfast with natural gas in 1996 via the newly constructed Scotland-Northern Ireland pipeline . [147] Rates in Belfast (and the rest of Northern Ireland) were reformed in April 2007. The discrete capital value system means rates bills are determined by the capital value of each domestic property as assessed by the Valuation and Lands Agency . [150] The recent dramatic rise in house prices has made these reforms unpopular. [151] Health care [ edit ] 
+
+The Belfast Health Social Care Trust is one of five trusts that were created on 1 April 2007 by the Department of Health . Belfast contains most of Northern Ireland's regional specialist centres. [152] The Royal Victoria Hospital is an internationally renowned centre of excellence in trauma care and provides specialist trauma care for all of Northern Ireland. [153] It also provides the city's specialist neurosurgical, ophthalmology, ENT , and dentistry services. The Belfast City Hospital is the regional specialist centre for haematology and is home to a cancer centre that rivals the best in the world. [154] The Mary G McGeown Regional Nephrology Unit at the City Hospital is the kidney transplant centre and provides regional renal services for Northern Ireland. [155] Musgrave Park Hospital in south Belfast specialises in orthopaedics, rheumatology, sports medicine and rehabilitation. It is home to Northern Ireland's first Acquired Brain Injury Unit, costing £9 million and opened by the Prince of Wales and the Duchess of Cornwall in May 2006. [156] Other hospitals in Belfast include the Mater Hospital in north Belfast and the Children's Hospital . Transport [ edit ] Main article: Transport in Belfast George Best Belfast City Airport . Great Victoria Street station on Northern Ireland Railways 
+
+Belfast is a relatively car-dependent city by European standards, with an extensive road network including the 22.5 miles (36 km) M2 and M22 motorway route. [157] A 2005 survey of how people travel in Northern Ireland showed that people in Belfast made 77% of all journeys by car, 11% by public transport and 6% on foot. [158] It showed that Belfast has 0.70 cars per household compared to figures of 1.18 in the East and 1.14 in the West of Northern Ireland. [158] A road improvement-scheme in Belfast began early in 2006, with the upgrading of two junctions along the Westlink dual-carriageway to grade-separated standard. The improvement scheme was completed five months ahead of schedule on February 2009, with the official opening taking place on 4 March 2009. [159] 
+
+Commentators have argued that this may create a bottleneck at York Street, the next at-grade intersection , until that too is upgraded. [ citation needed ] On 25 October 2012 the stage 2 report for the York Street intersection was approved [160] and in December 2012 the planned upgrade moved into stage 3 of the development process. If successfully completing the necessary statutory procedures, work on a grade separated junction to connect the Westlink to the M2/M3 motorways is scheduled to take place between 2014 and 2018, [161] creating a continuous link between the M1 and M2, the two main motorways in Northern Ireland. 
+
+Black taxis are common in the city, operating on a share basis in some areas. [162] These are outnumbered by private hire taxis . Bus and rail public transport in Northern Ireland is operated by subsidiaries of Translink . Bus services in the city proper and the nearer suburbs are operated by Translink Metro , with services focusing on linking residential districts with the city centre on 12 quality bus corridors running along main radial roads, [163] 
+
+More distant suburbs are served by Ulsterbus . Northern Ireland Railways provides suburban services along three lines running through Belfast's northern suburbs to Carrickfergus , Larne and Larne Harbour , eastwards towards Bangor and south-westwards towards Lisburn and Portadown . This service is known as the Belfast Suburban Rail system. Belfast is linked directly to Coleraine , Portrush and Derry . Belfast has a direct rail connection with Dublin called Enterprise which is operated jointly by NIR and Iarnród Éireann , the state railway company of the Republic of Ireland . There are no rail services to cities in other countries of the United Kingdom, due to the lack of a bridge or tunnel connecting Great Britain to the island of Ireland. There is, however, a combined ferry and rail ticket between Belfast and cities in Great Britain, which is referred to as Sailrail . [164] 
+
+In April 2008, the Department for Regional Development reported on a plan for a light-rail system, similar to that in Dublin . The consultants said Belfast does not have the population to support a light rail system, suggesting that investment in bus-based rapid transit would be preferable.The study found that bus-based rapid transit produces positive economic results, but light rail does not. The report by Atkins KPMG, however, said there would be the option of migrating to light rail in the future should the demand increase. [165] [166] 
+
+The city has two airports: Belfast International Airport offering, domestic, European and international flights such as Newark (New York) operated by United Airlines , Orlando, and Las Vegas both operated by Thomas Cook . The seasonal flight to Orlando is also operated by Virgin Atlantic . The airport is located northwest of the city, near Lough Neagh, while the George Best Belfast City Airport , which is closer to the city centre by train from Sydenham on the Bangor Line, adjacent to Belfast Lough, offers UK domestic flights and a few European flights. In 2005, Belfast International Airport was the 11th busiest commercial airport in the UK, accounting for just over 2% of all UK terminal passengers while the George Best Belfast City Airport was the 16th busiest and had 1% of UK terminal passengers. The Belfast – Liverpool route is the busiest domestic flight route in the UK excluding London with 555,224 passengers in 2009. Over 2.2 million passengers flew between Belfast and London in 2009. [167] 
+
+Belfast has a large port used for exporting and importing goods, and for passenger ferry services. Stena Line runs regular routes to Cairnryan in Scotland using its conventional vessels – with a crossing time of around 2 hours 15 minutes. Until 2011 the route went to Stranraer and used inter alia a HSS (High Speed Service) vessel – with a crossing time of around 90 minutes. Stena Line also operates a route to Liverpool . A seasonal sailing to Douglas, Isle of Man is operated by the Isle of Man Steam Packet Company . Culture [ edit ] Main article: Culture of Belfast AC/DC with Bon Scott (centre) pictured with guitarist Angus Young (left) and bassist Cliff Williams (back), performing at the Ulster Hall in August 1979 
+
+Belfast's population is evenly split between its Protestant and Catholic residents. [110] These two distinct cultural communities have both contributed significantly to the city's culture. Throughout the Troubles, Belfast artists continued to express themselves through poetry, art and music. In the period since the Good Friday Agreement in 1998, Belfast has begun a social, economic and cultural transformation giving it a growing international cultural reputation. [168] In 2003, Belfast had an unsuccessful bid for the 2008 European Capital of Culture . The bid was run by an independent company, Imagine Belfast , who boasted that it would "make Belfast the meeting place of Europe's legends, where the meaning of history and belief find a home and a sanctuary from caricature, parody and oblivion." [169] According to The Guardian the bid may have been undermined by the city's history and volatile politics. [170] 
+
+In 2004–05, art and cultural events in Belfast were attended by 1.8 million people (400,000 more than the previous year). The same year, 80,000 people participated in culture and other arts activities, twice as many as in 2003–04. [171] A combination of relative peace, international investment and an active promotion of arts and culture is attracting more tourists to Belfast than ever before. In 2004–05, 5.9 million people visited Belfast, a 10% increase from the previous year, and spent £262.5 million. [171] The Beatles emerging from the Ritz Cinema, Belfast following their concert, 8 November 1963. 
+
+The Ulster Orchestra , based in Belfast, is Northern Ireland's only full-time symphony orchestra and is well renowned in the United Kingdom. Founded in 1966, it has existed in its present form since 1981, when the BBC Northern Ireland Orchestra was disbanded. [172] The music school of Queen's University is responsible for arranging a notable series of lunchtime and evening concerts, often given by renowned musicians which are usually given in The Harty Room at the university (University Square). 
+
+There are many Traditional Irish bands playing throughout the city and quite a few music schools concentrate on teaching Traditional music. Well known city centre venues would include Kelly's Cellars, Maddens and the Hercules bar. Famous artists would include The McPeakes, Brian Kennedy and the band 9Lies . 
+
+Musicians and bands who have written songs about or dedicated to Belfast: U2 , Van Morrison , Snow Patrol , Simple Minds , Elton John , Rogue Male , Katie Melua , Boney M , Paul Muldoon , Stiff Little Fingers , Nanci Griffith , Glenn Patterson , Orbital , James Taylor , Fun Boy Three , Spandau Ballet , The Police , Barnbrack , Gary Moore , Neon Neon , Toxic Waste , and Energy Orchard . 
+
+Further in Belfast the Oh Yeah Music Centre is located (Cathedral Quarter), a project founded to give young musicians and artists a place where they can share ideas and kick-start their music careers as a chance to be supported and promoted by professional musicians of Northern Ireland's music-scene. 
+
+Belfast has a longstanding underground club scene which was established in the early 1980s. [173] 
+
+Like all areas of the island of Ireland outside of the Gaeltacht , the Irish language in Belfast is not that of an unbroken intergenerational transmission. Due to community activity in the 1960s, including the establishment of the Shaws Road Gaeltacht community, the expanse in the Irish language arts, and the advancements made in the availability of Irish medium education throughout the city, it can now be said that there is a 'mother-tongue' community of speakers. [ dubious – discuss ] The language is heavily promoted in the city and is particularly visible in the Falls Road area, where the signs on both the iconic black taxis and on the public buses are bilingual. [174] Belfast has the highest concentration of Irish speakers in Northern Ireland. [ citation needed ] Projects to promote the language in the city are funded by various sources, notably Foras na Gaeilge , an all-Ireland body funded by both the Irish and British governments. There are a number Irish language Primary schools and one secondary school in Belfast. The provision of certain resources for these schools (for example, such as the provision of textbooks) is supported by the charitable organisation TACA. Media [ edit ] The Belfast Telegraph Headquarters 
+
+Belfast is the home of the Belfast Telegraph , Irish News , and The News Letter , the oldest English-language newspaper in the world still in publication. [175] [176] The city has a number of free publications including Fate magazine, Go Belfast , and the Vacuum , that are distributed through bar, cafes and public venues. 
+
+The city is the headquarters of BBC Northern Ireland , ITV station UTV and commercial radio stations Belfast CityBeat and U105 . Two community radio stations, Blast 106 and Irish-language station Raidió Fáilte , broadcast to the city from west Belfast, as does Queen's Radio , a student-run radio station which broadcasts from Queen's University Students' Union . One of Northern Ireland's two community TV stations, NvTv , is based in the Cathedral Quarter of the city. There are two independent cinemas in Belfast: the Queen's Film Theatre and the Strand Cinema , which host screenings during the Belfast Film Festival and the Belfast Festival at Queen's . Broadcasting only over the Internet is Homely Planet, the Cultural Radio Station for Northern Ireland, supporting community relations. [177] 
+
+The city has become a popular film location; The Paint Hall at Harland and Wolff has become one of the UK Film Council's main studios. The facility comprises four stages of 16,000 square feet (1,000 m 2 ). Shows filmed at The Paint Hall include the film City of Ember (2008) and HBO 's Game of Thrones series (beginning in late 2009). 
+
+In November 2011, Belfast became the smallest city to host the MTV Europe Music Awards . [178] The event was hosted by Selena Gomez and celebrities such as Justin Bieber , Jessie J , Hayden Panettiere , and Lady Gaga travelled to Northern Ireland to attend the event, held in the Odyssey Arena . [179] Sports [ edit ] Main article: Sport in Belfast The Kingspan Stadium is the home of Ulster Rugby 
+
+Belfast has several notable sports teams playing a diverse variety of sports such as football , Gaelic games , rugby , cricket , and ice hockey . The Belfast Marathon is run annually on May Day, and attracted 20,000 participants in 2011. [180] 
+
+The Northern Ireland national football team , ranked 43rd in October 2014 in the FIFA World Rankings , [181] plays its home matches at Windsor Park . The current Irish League champions Crusaders are based at Seaview , in the north of the city. Other Premiership teams include 2008/09 champions Glentoran , Linfield and Cliftonville . Intermediate-level clubs are: Donegal Celtic , Dundela , Harland Wolff Welders , Newington Youth , PSNI , Queen's University and Sport Leisure Swifts , who compete in the NIFL Championship ; Albert Foundry F.C. , Ballysillan Swifts , Bloomfield F.C. , Crumlin Star F.C. , East Belfast F.C. , Grove United F.C. , Immaculata F.C. , Malachians F.C. , Orangefield Old Boys' Association F.C. , Rosario Youth Club F.C. , St Patrick's Young Men F.C. , Shankill United F.C. , Short Brothers F.C. and Sirocco Works F.C. of the Northern Amateur Football League and Brantwood of the Ballymena Provincial League . Belfast was the home town of Manchester United legend George Best who died in November 2005. On the day he was buried in the city, 100,000 people lined the route from his home on the Cregagh Road to Roselawn cemetery. [182] Since his death the City Airport was named after him and a trust has been set up to fund a memorial to him in the city centre. [183] 
+
+Gaelic football is the most popular spectator sport in Ireland, [184] and Belfast is home to over twenty football and hurling clubs. [185] Casement Park in west Belfast, home to the Antrim county teams, has a capacity of 32,000 which makes it the second largest Gaelic Athletic Association ground in Ulster . [186] The 1999 Heineken Cup champions Ulster Rugby play at the Kingspan Stadium in the south of the city. Belfast has four teams in rugby's All-Ireland League : Belfast Harlequins in Division 1B; and Instonians , Queen's University and Malone in Division 2A. 
+
+Ice hockey is one of Northern Ireland's most popular sports mainly down to it being home to one of the biggest British clubs, the Belfast Giants . The Giants were founded in 2000 and play their games at the 9,500 capacity Odyssey Arena, crowds normally range from 4,000–7,000. Many ex-NHL players have featured on the Giants roster, none more famous than world superstar Theo Fleury . The Giants play in the 10 team professional Elite Ice Hockey League which is the top league in Britain. The Giants have been league champions 4 times, most recently in the 2013–14 season. The Belfast Giants are a huge brand in Northern Ireland and their increasing stature in the game led to the Belfast Giants playing the Boston Bruins of the NHL on 2 October 2010 at the Odyssey Arena in Belfast, losing the game 5–1. 
+
+Other significant sportspeople from Belfast include double world snooker champion Alex "Hurricane" Higgins [187] and world champion boxers Wayne McCullough and Rinty Monaghan . [188] Leander A.S.C is a well known swimming club in Belfast. Belfast produced the Formula One racing stars John Watson who raced for five different teams during his career in the 1970s and 1980s and Ferrari driver Eddie Irvine . Famous citizens [ edit ] This section contains embedded lists that may be better presented using prose . You can help by converting the list or lists to prose, if appropriate . Editing help is available. (May 2014) ( Learn how and when to remove this template message ) This section does not cite any sources . Please help improve this section by adding citations to reliable sources . Unsourced material may be challenged and removed . (May 2014) ( Learn how and when to remove this template message ) Main article: List of people from Belfast A blue plaque adorned the Belfast birthplace of former President of Israel Chaim Herzog Ciaran Doherty , IRA hungerstriker Joe McDonnell , IRA hungerstriker Gerry Adams , politician Bobby Sands , IRA hungerstriker John Stewart Bell , physicist George Best , football player, Ballon D'or winner Danny Blanchflower , football player and manager Jackie Blanchflower football player Sir Kenneth Branagh , actor Christopher Brunt , football player Jocelyn Bell Burnell , astrophysicist Patrick Carlin , Victoria Cross recipient Ciaran Carson , writer Frank Carson , comedian Craig Cathcart , football player Shaw Clifton , former General of The Salvation Army Lord Craigavon , former Prime Minister of Northern Ireland Mal Donaghy , football player Jamie Dornan , actor Barry Douglas , musician John Boyd Dunlop , inventor Jonny Evans , football player Corry Evans , football player Carl Frampton , boxer Sir James Galway , musician Craig Gilroy , rugby union player Chaim Herzog , former President of Israel Alex Higgins , snooker player Eamonn Holmes , broadcaster Paddy Jackson , rugby union player Oliver Jeffers , artist Lord Kelvin , physicist and engineer C. S. Lewis , author James Joseph Magennis , Victoria Cross recipient Jim Magilton , football player and manager Paula Malcomson , actress Mary McAleese , former President of Ireland Gerry McAvoy , musician and long time bass guitarist with Rory Gallagher Wayne McCullough , Olympic Games Silver Medalist, WBC World Champion Boxer, Patron of Northern Ireland Children's Hospice Alan McDonald , football player Sammy McIlroy , football player and manager Gary Moore , guitarist Van Morrison , singer-songwriter Doc Neeson , singer-songwriter Mary Peters , Olympic sportswoman Patricia Quinn , actress Pat Rice , football player and coach Trevor Ringland , rugby union player Peter Robinson , First Minister of Northern Ireland David Trimble , former First Minister of Northern Ireland, Nobel Peace Prize winner Gary Wilson , cricketer Education [ edit ] See also: List of primary schools in Belfast , List of secondary schools in Belfast , and List of grammar schools in Belfast The Lanyon Building of Queen's University in south Belfast 
+
+Belfast has two universities. Queen's University Belfast was founded in 1845 and is a member of the Russell Group , an association of 24 leading research-intensive universities in the UK. [189] It is one of the largest universities in the UK with 25,231 undergraduate and postgraduate students spread over 250 buildings, 120 of which are listed as being of architectural merit. [190] Ulster University , created in its current form in 1984, is a multi-centre university with a campus in the Cathedral Quarter of Belfast. The Belfast campus has a specific focus on Art and Design and Architecture, and is currently undergoing major redevelopment. The Jordanstown campus, just seven miles (11 km) from Belfast city centre concentrates on engineering, health and social science. The Coleraine campus, about 55 mi (89 km) from Belfast city centre concentrates on a broad range of subjects. Course provision is broad – biomedical sciences, environmental science and geography, psychology, business, the humanities and languages, film and journalism, travel and tourism, teacher training and computing are among the campus strengths. The Magee campus, about 70 mi (113 km) from Belfast city centre has many teaching strengths; including business, computing, creative technologies, nursing, Irish language and literature, social sciences, law, psychology, peace and conflict studies and the performing arts. The Conflict Archive on the INternet (CAIN) Web Service receives funding from both universities and is a rich source of information and source material on the Troubles as well as society and politics in Northern Ireland. [191] 
+
+Belfast Metropolitan College is a large further education college with three main campuses around the city, including several smaller buildings. Formerly known as Belfast Institute of Further and Higher Education, it specialises in vocational education . The college has over 53,000 students enrolled on full-time and part-time courses, making it one of the largest further education colleges in the UK and the largest in the island of Ireland. [192] 
+
+The Belfast Education and Library Board was established in 1973 as the local council responsible for education, youth and library services within the city. [193] There are 184 primary, secondary and grammar schools in the city. [194] 
+
+The Ulster Museum is located in Belfast. Tourism [ edit ] Titanic Belfast , devoted to the Belfast-built RMS Titanic , opened in 2012 
+
+Belfast is one of the most visited cities in the UK, [195] and the second most visited on the island of Ireland. [196] In 2008, 7.1 million tourists visited the city. [197] Numerous popular tour bus companies and boat tours run there throughout the year. 
+
+Frommer's , the American travel guidebook series, listed Belfast as the only United Kingdom destination in its Top 12 Destinations to Visit in 2009. The other listed destinations were Berlin (Germany), Cambodia , Cape Town (South Africa), Cartagena (Colombia), Istanbul (Turkey), the Lassen Volcanic National Park (USA), Saqqara (Egypt), the Selma To Montgomery National Historic Trail (USA), Waiheke Island (New Zealand), Washington, D.C. (USA), and Waterton Lakes National Park (Canada). [198] 
+
+The Belfast City Council is currently investing into the complete redevelopment of the Titanic Quarter, which is planned to consist of apartments, hotels, and a riverside entertainment district. A major visitor attraction, Titanic Belfast is a monument to Belfast's maritime heritage on the site of the former Harland Wolff shipyard, opened on 31 March 2012. It features a criss-cross of escalators and suspended walkways and nine high-tech galleries. [199] They also hope to invest in a new modern transport system (including high-speed rail and others) for Belfast, with a cost of £250 million. [200] 
+
+There is a tourist information centre located at Donegall Place . [201] Twin towns – Sister cities [ edit ] 
+
+Belfast has the following sister cities: [202] Nashville , Tennessee, United States (since 1994) Hefei , Anhui Province, China (since 2005) Boston , Massachusetts, United States (since 2014) Shenyang , Liaoning Province, China (since 2016) References [ edit ] ^ a b "Belfast City Council" . Retrieved 22 February 2016 . ^ The UK's major urban areas Office for National Statistics (Urban area of Belfast and connected settlements, Table 3.1, page 47) ^ Statistical Classification and Delineation of Settlements (PDF) , NISRA, February 2005 , retrieved 13 May 2012 ^ Wakefield, Edward. An account of Ireland, statistical and political: in two volumes . 2 . London: Longman, Hurst, Rees, Orme and Brown. pp. 693–694. ^ "Census for post 1821 figures" . Cso.ie. Archived from the original on 20 September 2010 . Retrieved 12 August 2010 . ^ "Home" . Histpop.Org. 2 April 2007 . Retrieved 13 November 2010 . ^ NISRA. "Northern Ireland Statistics and Research Agency – Census Home Page" . Nisranew.nisra.gov.uk. Archived from the original on 4 April 2010 . Retrieved 12 August 2010 . ^ Lee, JJ (1981). "On the accuracy of the Pre-famine Irish censuses". In Goldstrom, J. M.; Clarkson, L. A. Irish Populatioe, Economy, and Society: Essays in Honour of the Late K. H. Connell . Oxford, England: Clarendon Press. ^ Mokyr, Joel ; O Grada, Cormac (November 1984). "New Developments in Irish Population History, 1700–1850" . The Economic History Review . 37 (4): 473–488. doi : 10.1111/j.1468-0289.1984.tb00344.x . ^ "Belfast City Council. Belfast: A Profile of the City. Demographics" . Belfastcity.gov.uk. Archived from the original on 25 September 2010 . Retrieved 12 August 2010 . ^ Royal Mint – Belfast ^ CityMetric ^ "The World According to GaWC 2012" . Globalization and World Cities (GaWC) Study Group and Network . Loughborough University . Retrieved 15 February 2014 . ^ a b c d "Placenames Database of Ireland – Belfast: view the scanned records " . Logainm.ie . Retrieved 25 May 2014 . ^ a b "Placenames/Logainmneacha – Belfast" . BBC Northern Ireland – Education . BBC . Retrieved 17 May 2007 . ^ Keenan, Desmond (2000). Pre-Famine Ireland . XLibris.com. Chapter 5. ^ "Placenames Database of Ireland – Belfarsad" . Logainm.ie . Retrieved 13 November 2010 . ^ Hogan, Edmund (1910). Onomasticon Goedelicum . Dublin. ; O'Donovan, John (1856). Annals of the Kingdom of Ireland . Dublin. ^ "Ulster Scots Language Dialects of Ulster" . The Linen Hall Library . Retrieved 3 March 2016 . ^ 2006 annual report in Ulster-Scots North/South Ministerial Council. ^ BBC Ulster-Scots Library – Switherin agen Ullans Speakers Association. Retrieved 6 October 2011. ^ "North-South Ministerial Council: 2010 Annual Report in Ulster Scots" (PDF) . Retrieved 2 August 2014 . ^ "North-South Ministerial Council: 2009 Annual Report in Ulster Scots" (PDF) . Retrieved 2 August 2014 . ^ "Belfast City Hall" . Discover Northern Ireland . Ireland Tourist Board. Archived from the original on 16 June 2007 . Retrieved 18 May 2007 . ^ "Belfast, Newcastle and the County Down Coast" . County Down Northern Ireland . GoIreland.com. Archived from the original on 19 December 2008 . Retrieved 17 January 2009 . ^ "A walk on the outskirts of Belfast: Giant's Ring Trail, Northern Ireland" . The Guardian . 12 May 2012 . Retrieved 1 June 2014 . ^ Komesu, Okifumi (1990). Irish Writers and Politics . Rowman Littlefield. p. 73. ISBN 978-0-389-20926-3 . ^ "Celebrations mark the arrival of first Ulster Scots in Ireland" (PDF) . Irish News. 24 April 2006. Archived (PDF) from the original on 27 September 2007 . Retrieved 18 September 2007 . ^ "History of Belfast Castle" . Tourism and venues . Belfast City Council . 2014 . Retrieved 19 May 2014 . ^ Connolly, Sean J. (2008). Divided Kingdom; Ireland 1630–1800 . Oxford University Press . pp. 434–449. ISBN 978-0-19-958387-4 . ^ "Cranes to remain on city skyline" . BBC News. 9 October 2003 . Retrieved 12 March 2007 . ^ Ryland, Frederick (1897). Events of the Reign 1837–1897 . London: George Allen . p. 101. OCLC 267093697 . ^ Robert Lynch, The Northern IRA and the Early Years of Partition, p227 ^ "The Belfast blitz is remembered" . BBC News. 11 April 2001 . Retrieved 12 March 2007 . ^ Kelters, Seamus (February 2013). "Violence in the Troubles" . History . BBC . Retrieved 19 May 2014 . ^ Ó Dochartaigh, Niall (1999). From Civil Rights To Armalites . Cork University Press . p. 292. ISBN 978-1-85918-108-9 . ^ "Sutton Index of Deaths" . CAIN. 11 April 2001 . Retrieved 9 July 2013 . Search for Belfast in "Text Search of Description (and key words)" ^ "Belfast City Hall: History and Background" . Belfast City Council. Archived from the original on 4 May 2007 . Retrieved 24 May 2007 . ^ "Local Government (Boundaries) Act (Northern Ireland) 1971" . Conflict Archive on the Internet (CAIN). 2007. Archived from the original on 7 July 2007 . Retrieved 24 May 2007 . ^ a b "Councillors: Lord Mayor" . Belfast City Council. Archived from the original on 7 June 2007 . Retrieved 24 May 2007 . ^ "Belfast City Council Elections 1993–2005" . Northern Ireland Elections . Northern Ireland Social and Political Archive (ARK). 2005. Archived from the original on 8 June 2007 . Retrieved 24 May 2007 . ^ "Belfast signs Sister Cities accord with Boston" . belfastcity.gov.uk. ^ " Sister Cities Online Directory: UK, Europe Sister Cities International . Retrieved 17 November 2011. ^ Belfast signs sister city agreement with Hefei 4NI.co.uk . Retrieved 19 February 2008. ^ Black, Rebecca (25 March 2014). "Belfast and Boston to be named sister cities –" . Belfasttelegraph.co.uk . Retrieved 2 August 2014 . ^ Ellement, John (12 May 2014). "Boston signs sister city agreement with Belfast" . Boston Globe . Retrieved 12 May 2014 . ^ "Northern Ireland election" . BBC News. 8 May 2016 . Retrieved 11 May 2016 . ^ "The 2005 Westminster elections in Northern Ireland" . Northern Ireland Elections . Northern Ireland Social and Political Archive (ARK). 2005. Archived from the original on 8 June 2007 . Retrieved 24 May 2007 . ^ King James Bible, Psalm 116 Verse 12 ^ "I reflected on the two mottos of Belfast and America – ' Pro Tanto Quid ' and ' E Pluribus Unum '. I am reliably informed that these roughly translate as 'In return for so much, what shall we give back?' and 'From many, one'." Celebrating diversity , by Belfast Lord Mayor Tom Ekin ^ a b Brett, C. E. B. (1967). Buildings of Belfast, 1700–1914 . London: Weidenfeld and Nicolson. ^ a b c "Introduction To Titanic – Titanic in History" . Titanic. Built in Belfast . Ulster Folk and Transport Museum. Archived from the original on 17 August 2007 . Retrieved 18 May 2007 . ^ "Sunrise and sunset in Belfast" . Sun Calculator . time and date.com . Retrieved 18 May 2007 . ^ "Lagan Weir – Why it exists" . Laganside. Archived from the original on 18 April 2007 . Retrieved 25 May 2007 . ^ "Area Measurements in Northern Ireland" . 2001 census Data . Northern Ireland Statistics Research Agency. 2001. Archived from the original on 17 June 2007 . Retrieved 18 May 2007 . ^ "Belfast City: Did you know?" . Discover Ireland . Tourism Ireland. 2007. Archived from the original on 28 September 2007 . Retrieved 18 May 2007 . ^ Des O'Reilly, Rivers of Belfast – A History ^ "Belfast Hills" . Discover Northern Ireland . Northern Ireland Tourist Board . Retrieved 18 May 2007 . ^ "About the Cave Hill" . The Cave Hill Conservation Campaign. 2007. Archived from the original on 6 February 2007 . Retrieved 25 May 2007 . ^ "Station Locations" . Retrieved 23 September 2011 . ^ a b c "Climate: Northern Ireland" . Met Office . Retrieved 25 May 2007 . ^ "2001 Minimum" . Retrieved 23 September 2011 . ^ "Belfast, Northern Ireland – Average Conditions" . BBC Weather Centre . BBC. Archived from the original on 15 January 2009 . Retrieved 8 October 2009 . ^ "Rainfall in Ireland" . Met Éireann. Archived from the original on 2 June 2007 . Retrieved 25 May 2007 . ^ "1983 Maximum" . Retrieved 23 September 2011 . ^ "1971–2000 average warmest day" . Retrieved 23 September 2011 . ^ " 25c days" . Retrieved 23 September 2011 . ^ " Jan 1982 Minimum" . Retrieved 23 September 2011 . ^ " Air frost Incidence" . Retrieved 23 September 2011 . ^ " Dec 2010 minimum" . Retrieved 23 September 2011 . ^ "Annual average warmest day" . Retrieved 22 September 2011 . ^ " 25c days" . Retrieved 22 September 2011 . ^ " Annual average coldest night" . Retrieved 22 September 2011 . ^ " Average frost incidence" . Retrieved 22 September 2011 . ^ "Belfast 1981-2010 Averages" . KNMI . Retrieved 15 June 2016 . ^ "Belfast Extreme Values" . KNMI . Retrieved 15 June 2016 . ^ "Belfast International Airport (Aldergrove) 1981–2010 averages" . Met Office . Retrieved 4 November 2012 . ^ "Belfast International Airpoirt (Aldergrove) extreme values" . KNMI . Retrieved 8 November 2011 . ^ Margrethe C. Lauber. "Belfast's Peacelines: An Analysis of Urban Borders, Design and Social Space in a Divided City" . Archived from the original on 8 February 2007 . Retrieved 18 May 2007 . ^ " " A Process for Removing Interface Barriers", Tony Macaulay, July 2008" (PDF) . Retrieved 12 August 2010 . ^ "Major makeover for Belfast city Centre" . Department for Social Development (NI). 12 June 2007. Archived from the original on 28 September 2007 . Retrieved 12 June 2007 . ^ "The Arterial Routes" . Belfast Metropolitan Area Plan 2015 Draft Plan . The Planning Service. Archived from the original on 18 May 2014 . Retrieved 18 May 2014 . ^ "The UK Postcode System" . List Masters. 2005. Archived from the original on 24 June 2007 . Retrieved 12 June 2007 . ^ a b "The Cathedral Quarter, Belfast" . Northern Ireland Tourist Board . 2014 . Retrieved 18 May 2014 . ^ "Gaeltacht Quarter" . Department of Culture, Arts and Leisure. 2007. Archived from the original on 27 September 2007 . Retrieved 15 January 2016 . ^ "Contact Details" . The Ulster Museum. 2007. Archived from the original on 29 May 2007 . Retrieved 18 May 2007 . ^ "The Golden Mile: Pub Crawl" . Virtual Belfast. Archived from the original on 24 June 2007 . Retrieved 25 May 2007 . ^ "Shopping at a Glance" . Visit South Belfast . South Belfast Partnership. Archived from the original on 17 July 2011 . Retrieved 18 May 2007 . ^ Burns, Gemma (28 February 2007). "A passion for preserving Belfast's beauty" . South Belfast News . Retrieved 12 March 2007 . [ dead link ] ^ a b "Corporate Message: The Vision" . About Us at Titanic Quarter . Titanic Quarter. 2006. Archived from the original on 3 May 2007 . Retrieved 18 May 2007 . ^ Krishna, Dutta (2003). Calcutta: A Cultural and Literary History . Signal Books. p. 132. ISBN 978-1-902669-59-5 . ^ Wines, Michael (25 May 2006). "Where the Road to Renaming Does Not Run Smooth" . The New York Times . Archived from the original on 16 April 2009 . Retrieved 1 October 2007 . ^ a b c "Historic Belfast: A guide to the City's landmark buildings" . Go To Belfast. Archived from the original on 18 June 2007 . Retrieved 23 May 2007 . ^ Morgan, Ian (4 March 2007). "Ireland's tallest building to be turned into flats" . 24dash.com. Archived from the original on 29 September 2007 . Retrieved 2 June 2007 . ^ "BBC seeks stars of Belfast film noir" . BBC News Northern Ireland. 23 February 2007 . Retrieved 23 May 2007 . ^ "Harland and Wolff complete SeaRose Dry-Docking project" . Harland and Wolff . Retrieved 20 June 2014 . ^ "Grand Opera House" . Cinema Treasures . Retrieved 1 June 2007 . ^ "Neeson in bid to revive theatre" . BBC News. 10 December 2004. Archived from the original on 16 January 2008 . Retrieved 7 December 2007 . ^ Home ^ a b "Parks and gardens" . gotobelfast. 1 April 2007 . Retrieved 16 May 2009 . ^ "Why city art is being put on the map" . BBC News . Retrieved 18 May 2014 . ^ "Your City, Your Space strategy" (PDF) . Belfast City Council . p. 49. Archived from the original on 7 February 2012 . Retrieved 18 May 2007 . ^ "About the Field Club" . Belfast Naturalists' Field Club . Retrieved 18 May 2014 . ^ Gardens and Tourism , Northern Ireland Tourist Board , March 2012, p. 5 , retrieved 25 May 2014 ^ "Palm House Botanic Gardens, Belfast City" . Houses, Castles and Gardens of Ireland. Archived from the original on 13 May 2008 . Retrieved 18 May 2007 . ^ "Tropical Ravine" . Belfast City Council. Archived from the original on 17 May 2009 . Retrieved 30 May 2009 . ^ a b "Sir Thomas and Lady Dixon Park and City of Belfast International Rose Garden" . Go To Belfast. Archived from the original on 31 May 2007 . Retrieved 18 May 2007 . ^ "Sir Thomas and Lady Dixon Park" . Discover Northern Ireland . Northern Ireland Tourist Board. Archived from the original on 15 June 2007 . Retrieved 18 May 2007 . ^ "Parks and gardens" . belfastzoo. 1 April 2007. Archived from the original on 14 April 2009 . Retrieved 16 May 2009 . ^ a b c "Comparative Demography Profile: Belfast District Council, Northern Ireland" . 2001 census data (Crown Copyright) . Northern Ireland Statistics Research Agency. 2001. Archived from the original on 27 September 2007 . Retrieved 17 May 2007 . ^ a b "Area Profile of Belfast Metropolitan Urban Area (BMUA)" . 2001 Census data . Northern Ireland Statistics Research Agency. 2001. Archived from the original on 27 September 2007 . Retrieved 16 May 2007 . ^ Pointer, Graham. "The UK's major urban areas" (PDF) . UK National Statistics. Archived (PDF) from the original on 30 November 2007 . Retrieved 7 December 2007 . ^ a b Stephen, Roulston (2006). "Urban Structure: Growth of Belfast" . Geography in Action . National Grid for Learning. Archived from the original on 15 April 2007 . Retrieved 18 May 2007 . ^ McCulloch, Andrew, "An analytical look at religious background and residential segregation in Belfast" , Significance Magazine , retrieved 13 May 2012 ^ "Population Density: QS102NI (administrative geographies)" . Northern Ireland Statistics and Research Agency. 2011 . Retrieved 30 May 2014 . ^ "Northern Ireland Multiple Deprivation Measure" (PDF) . Department of Finance and Personnel. May 2005. Archived (PDF) from the original on 5 June 2007 . Retrieved 18 May 2007 . ^ Stephen, Roulston (2006). "Ethnic Diversity: Segregation in Belfast. Introduction to Ethnic Diversity in Belfast" . Geography in Action . National Grid for Learning. Archived from the original on 18 May 2007 . Retrieved 18 May 2007 . ^ Lloyd, C (2003). "Measuring local segregation in Northern Ireland" (PDF) . Centre for Spatial Territorial Analysis and Research (C-STAR) . School of Geography, Queen's University . Retrieved 12 March 2006 . ^ Doherty, P (1995). "Ethnic Residential Segregation in Belfast" . Centre for the Study of Conflict . University of Ulster, Coleraine: Chapter 8. Archived from the original on 3 March 2006 . Retrieved 12 March 2006 . ^ "Ethnic minorities: Who lives here?" (PDF) . Northern Ireland Learning: Teacher's Notes . BBC. Archived (PDF) from the original on 5 June 2007 . Retrieved 24 May 2007 . ^ a b c d "Northern Ireland Neighbourhood Information Service" . Retrieved 11 June 2015 . ^ a b "Northern Ireland Neighbourhood Information Service" . Retrieved 11 June 2015 . ^ "About Us" . Belfast Islamic Centre. 2007 . Retrieved 24 May 2007 . ^ "Hinduism" . Primary Focus: Programme 1 – Indian Community . BBC . Retrieved 8 October 2007 . ^ "Durkan "hopeful" For Future of Good Friday Agreement" . Department of Finance and Personnel . Retrieved 17 September 2007 . ^ "House of Commons Hansard Written Answers for 13 February 2002" . House of Commons . Retrieved 17 September 2007 . ^ "U2 Tower strikes bad chord with residents" . BBC News. 7 August 2006 . Retrieved 13 March 2007 . ^ "Monthly Labour Market Report" . Department of Enterprise, Trade and Investment. 15 February 2006. Archived from the original on 27 September 2007 . Retrieved 18 May 2007 . ^ "Employment" . National Statistics . Office for National Statistics. March 2006. Archived from the original on 18 May 2007 . Retrieved 18 May 2007 . ^ Morgan, Oliver (1 April 2007). "From bombs and bullets to boom towns" . The Guardian . London . Retrieved 16 May 2007 . ^ "Northern Ireland Reaches Watershed in House Price Growth" (Press release). University of Ulster. 15 November 2007 . Retrieved 10 December 2007 . ^ Carson, Helen (28 February 2007). "Typical price of Ulster home edges ever closer to £200,000" . The Belfast Telegraph . Retrieved 13 March 2007 . [ dead link ] ^ "House Owner Occupation Rates" (Press release). Halifax. 19 November 2004. Archived from the original (DOC) on 5 June 2007 . Retrieved 18 May 2007 . ^ Belfast 2005: Tourism Facts and Figures (PDF) . Belfast: Belfast City Council. 2006. Archived (PDF) from the original on 5 June 2007 . Retrieved 18 May 2007 . ^ "Record number of visitors come to Belfast". GO Belfast . July–August 2007. p. 6. ^ "Invest in Belfast: A 2007 City Guide for Investors" . Belfast City Council. Archived from the original on 10 October 2007 . Retrieved 18 May 2007 . ^ "Belfast 'UK's fastest-growing economy ' " . Wilson-nesbitt.com. 30 June 2008. Archived from the original on 18 July 2011 . Retrieved 12 August 2010 . ^ a b "Northern Ireland – Overview" . The Times . Bcglocations.com. Archived from the original on 4 November 2006 . Retrieved 12 August 2010 . ^ "The New Celtic Tiger: Belfast is Open for Business" . Der Spiegel . 4 July 2008 . Retrieved 12 August 2010 . ^ a b c Beckett, JC; et al. (2003). Belfast, The Making of the City. Chapter 1: Belfast to the end of the eighteenth century . Belfast: Appletree Press Ltd. pp. 13–26. ISBN 0-86281-878-8 . ^ McCreary, Alf (22 January 2014). "The Industrial Revolution transformed Belfast, making it Ireland's biggest city – and it all began with the port." . The Belfast Telegraph . Retrieved 25 May 2014 . ^ a b Beckett, JC; Boyle, E (2003). Belfast, The Making of the City. Chapter 3: "Linenopolis": the rise of the textile industry . Belfast: Appletree Press Ltd. pp. 41–56. ISBN 0-86281-878-8 . ^ Beckett, JC; Sweetman, R (2003). Belfast, The Making of the City. Chapter 4: The development of the port . Belfast: Appletree Press Ltd. pp. 57–70. ISBN 0-86281-878-8 . ^ "Corporate Series Northern Ireland" (PDF) . Corporate Northern Ireland 2007 . Corporate Series. Archived from the original (PDF) on 16 February 2008 . Retrieved 7 December 2007 . ^ a b "Northern Ireland – Where is the bright new future?" . Management Today . 23 March 2006 . Retrieved 16 May 2007 . ^ "The Silent Valley" . Northern Ireland Water. 2007 . Retrieved 30 May 2014 . ^ a b c "Strategic Plan Framework: Public Services and Utilities" . Draft Belfast Metropolitan Area Plan 2015 . The Planning Service. Archived from the original on 27 September 2007 . Retrieved 26 May 2007 . ^ "Water Reform Implemented: Secretary of State announces deferral of charges" . Water Reform NI. March 2007. Archived from the original on 9 June 2007 . Retrieved 26 May 2007 . ^ "Belfast Sewers Project – Key Facts" . Northern Ireland Water. 2007 . Retrieved 26 May 2007 . [ dead link ] ^ "Summary of domestic rating reforms" . Department of Finance and Personnel. 2005. Archived from the original on 5 May 2007 . Retrieved 26 May 2007 . ^ "Domestic Rates Reform" . Fair Rates Campaign . Retrieved 26 May 2007 . ^ "Review of Public Administration: Consultation On Draft Legislation To Establish Five New Integrated Health And Social Services Trusts" (PDF) . DHSSPS. Archived (PDF) from the original on 27 September 2007 . Retrieved 17 September 2007 . ^ Payne, William (September 1998). "Hospital Development:PFI beyond DBFO" . ProQuest Information and Learning Company . Wilmington Publishing Ltd . Retrieved 6 May 2007 . [ dead link ] ^ Morrison, PJ (2006). "Improving cancer statistics – a new cancer centre for Northern Ireland" . The Ulster medical journal . Ulster Medical Society. 75 (2): 110. PMC 1891734 . PMID 16755938 . ^ "Belfast City Hospital: About the Unit" . The Renal Association. November 2006 . Retrieved 24 May 2007 . ^ "TRH open Northern Ireland's first Regional Acquired Brain Injury Unit" . The Prince of Wales. 15 May 2006. Archived from the original on 7 March 2007 . Retrieved 6 May 2007 . ^ "M2 / M22 Motorway" . Wesleyjohnston.com . Retrieved 12 August 2010 . ^ a b Northern Ireland Statistics and Research Agency (18 October 2005). "Travel Survey for Northern Ireland 2002–04" (PDF) . Department for Regional Development. Archived from the original on 19 May 2007 . Retrieved 6 May 2007 . ^ "The Official Opening of the M1/Westlink Improvement Scheme" . The Department for Regional Development. 12 March 2009. Archived from the original on 27 December 2010 . Retrieved 1 February 2011 . ^ "Road Improvements Schemes – In Planning" . The Department for Regional Development NI. ^ "York Street Interchange – Scheme Homepage" . The Department for Regional Development NI. 26 November 2009. Archived from the original on 10 June 2013. ^ Nutley, Stephen D. (1990). Unconventional and Community Transport in the United Kingdom . Gordon and Breach Science Publishers. pp. 318–322. ISSN 0278-3819 . ^ "Metro Corridor Zone Guide" . Translink Metro . 27 August 2012 . Retrieved 2 June 2014 . ^ London to Belfast Northern Ireland – Seat61.com ^ "video No light rail system for city" . BBC News. 8 April 2008 . Retrieved 30 May 2009 . ^ "City to get rapid transit network" . BBC Northern Ireland . 8 April 2008. Archived from the original on 9 April 2008 . Retrieved 4 April 2008 . ^ Northern Ireland Statistics and Research Agency (28 September 2006). "Northern Ireland Transport Statistics Annual 2005–2006" (PDF) . Department for Regional Development 555,224 passengers in 2009. Archived from the original on 19 May 2007 . Retrieved 2 May 2007 . ^ "Summary of the bid" . One Belfast Where Hope and History Rhyme (Internet Archive) . Imagine Belfast 2008. 22 November 2002. Archived from the original on 7 December 2002 . Retrieved 24 May 2007 . ^ "The official websites on UK bids for European capital of culture 2008" . The Guardian . London. 30 October 2002 . Retrieved 13 March 2007 . ^ Ward, D; Carter, H (31 October 2002). "Six cities shortlisted for culture capital bid" . The Guardian . London . Retrieved 13 March 2007 . ^ a b "Integrated Cultural Strategy for Belfast" (PDF) . Capital City: Belfast City Councils Development Agenda. May 2006 . Retrieved 24 May 2007 . ^ "Welcome to the new season" . Ulster Orchestra Society. Archived from the original on 5 February 2007 . Retrieved 24 May 2007 . ^ "The History of Belfast Underground Clubs" . www.belfastundergroundclubs.com . Retrieved 7 February 2016 . ^ "ComharthaÃ Bus Gaeilge san Iarthar / Irish language bus signs in the West | Here comes the new Belfast" . Forbairtfeirste.com . Retrieved 2 August 2014 . ^ "Research Guide: Irish News Newspapers" . Boston College. 2007. Archived from the original on 9 August 2007 . Retrieved 24 May 2007 . ^ Johnston, Ruth. "Belfast News Letter" . Your Place and Mine . BBC . Retrieved 24 May 2007 . ^ "About Homely Planet" . Homelyplanet.org . Retrieved 20 May 2014 . ^ Henry, Lesley-Ann (2 March 2011). "MTV Europe Music Awards to be held in Belfast" . The Belfast Telegraph . Retrieved 14 November 2011 . ^ Jones, Lucy (6 November 2011). "MTV Europe Music Awards 2011: as it happened" . The Daily Telegraph . Retrieved 20 May 2014 . ^ "Belfast Marathon breaks 20,000 barrier" . Belfast City Council. 18 April 2011. Archived from the original on 24 September 2011 . Retrieved 9 July 2011 . ^ "FIFA/Coca Cola World Rankings" . FIFA. 11 November 2014 . Retrieved 11 November 2014 . ^ McCann, Nuala (3 December 2005). "A city mourns for the Belfast Boy" . BBC News Northern Ireland . BBC . Retrieved 18 May 2005 . ^ "George Best Memorial Trust" . George Best Trust. Archived from the original on 29 September 2007 . Retrieved 18 May 2007 . ^ "Information and Statistics" (PDF) . GAA Attendance Figures . Gaelic Athletic Association Gaelic Athletic Association . Archived (PDF) from the original on 26 May 2006 . Retrieved 18 May 2006 . ^ South Antrim Clubs . CLG Aontroim. Retrieved 11 November 2007. ^ "Antrim chief in protest at Maze games" . Sunday Mirror. 13 March 2005 . Retrieved 17 September 2007 . [ dead link ] ^ "Snooker on the ropes – Hurricane" . BBC. 16 April 2007. Archived from the original on 21 August 2007 . Retrieved 17 September 2007 . ^ "WBA History" . World Boxing Association. Archived from the original on 11 October 2007 . Retrieved 17 September 2007 . ^ "About The Russell Group: Aims and objectives" . The Russell Group. 2007. Archived from the original on 7 June 2007 . Retrieved 24 May 2007 . ^ "About Queen's: Facts and Figures" . Queen's University Belfast. 2007. Archived from the original on 13 May 2007 . Retrieved 24 May 2007 . ^ "Conflict and Politics in Northern Ireland (1968 to the Present)" . Conflict Archive on the Internet (CAIN). 2007. Archived from the original on 30 May 2007 . Retrieved 24 May 2007 . ^ "Belfast Metropolitan College – About Us" . Belfast Metropolitan College. 2007. Archived from the original on 16 December 2007 . Retrieved 12 December 2007 . ^ "About Us: The Roles and Functions of the Belfast Education and Library Board" . Belfast Education and Library Board . Retrieved 18 May 2014 . ^ "Schools Database – List of Institutions" . Department of Education . Retrieved 24 May 2007 . [ permanent dead link ] ^ "Belfast fifth most popular UK tourist destination" . Belfast Newsletter . 22 May 2013 . Retrieved 19 May 2014 . ^ "Titanic Belfast becomes second most visited tourist attraction on island of Ireland" . The Irish Times . Retrieved 2016-10-19 . ^ "Tourism facts and figures - Belfast City Council" . www.belfastcity.gov.uk . Retrieved 2016-10-19 . ^ "Belfast Makes the Top 12" . The Daily Telegraph . ^ Dougan, Patrice (2 April 2012). "Inside Titanic Belfast – a guided tour" . The Belfast Telegraph . Retrieved 19 May 2014 . ^ "Telegraph article; Announcement of redevelopment of Titanic Quarter" . The Belfast Telegraph . 27 November 2008 . Retrieved 30 May 2009 . ^ "Tourist information centre" . Tourism . Belfast City Council . 2014 . Retrieved 19 May 2014 . ^ "Belfast signs Sister Cities accord with Boston" . News . Belfast City Council . 12 May 2014 . Retrieved 15 January 2016 . Further reading [ edit ] Beesley, S. and Wilde, J. 1997. Urban Flora of Belfast . Institute of Irish Studies The Queen's University of Belfast. ISBN 0 85389 695 X Deane, C.Douglas. 1983. The Ulster Countryside. Century Books. ISBN 0-903152-17-7 Gillespie, R. 2007. Early Belfast. Belfast Natural History Philosophical Society in Association with Ulster Historical Foundation. ISBN 978-1-903688-72-4 . Nesbitt, Noel. 1982. The Changing Face of Belfast. Ulster Museum, Belfast. Publication no. 183. Pollock, V. and Parkhill, T. 1997. Belfast . National Museums of Northern Ireland. ISBN 978-0-7509-1754-4 Scott, Robert. 2004. Wild Belfast on safari in the city. Blackstaff Press. ISBN 0-85640-762-3 . Walker, B.M. and Dixon, H. 1984. Early Photographs from the Lawrence Collection in Belfast Town 1864–1880. The Friar's Bush Press, ISBN 978-0-946872-01-5 Walker, B.M. and Dixon, H. 1983. No Mean City: Belfast 1880–1914. ISBN 0-946872-00-7 . Connolly, S.J. Ed. 2012. Belfast 400 People Places and History. Liverpool University Press. ISBN 978-1-84631-635-7 McCracken, E. 1971. The Palm House and Botanic Garden, Belfast . Ulster Architectural Heritage Society. McMahon, Sean. 2011. A Brief History of Belfast. The Brehon Press. Belfast. ISBN 978-1-905474-24-0 Fulton, C. 2011. Coalbricks and Prefabs, Glimpses of Belfast in the 1950s. Thedoc Press. ISBN 978-0-9570762-0-4 O'Reilly, D. 2010. " Rivers of Belfast". Colourpoint Books. ISBN 978 1 906578 75 6 External links [ edit ] Wikimedia Commons has media related to Belfast . Wikivoyage has a travel guide for Belfast . Wikiquote has quotations related to: Belfast Belfast at DMOZ Belfast – Northern Ireland Tourist Board Belfast City Council v t e Belfast City Council General Belfast Belfast City Hall Coat of Arms and Motto People Councillors Aldermen Lord Mayor Deputy Lord Mayor High Sheriff Lord Lieutenant District Electoral Areas Balmoral Black Mountain Botanic Castle Collin Court Lisnasharragh Oldpark Ormiston Titanic Amenities Belfast Castle Belfast Zoo St George's Market Ulster Hall Waterfront Hall Parks and gardens Botanic Gardens Cave Hill Country Park Musgrave Park Ormeau Park Sir Thomas and Lady Dixon Park Victoria Park Cemeteries Balmoral Cemetery Belfast City Cemetery Clifton Street Cemetery Roselawn Cemetery Elections 2014 2011 2005 2001 1997 1993 1989 1985 1981 1977 1973 See also: Local government in Northern Ireland Category v t e Local government in Northern Ireland Councils Antrim and Newtownabbey Ards and North Down Armagh, Banbridge and Craigavon Belfast Causeway Coast and Glens Derry and Strabane Fermanagh and Omagh Lisburn and Castlereagh Mid and East Antrim Mid-Ulster Newry, Mourne and Down Districts Antrim and Newtownabbey Ards and North Down Armagh, Banbridge and Craigavon Belfast Causeway Coast and Glens Derry and Strabane Fermanagh and Omagh Lisburn and Castlereagh Mid and East Antrim Mid-Ulster Newry, Mourne and Down v t e Districts of Northern Ireland, 1972–2015 Councils Antrim Ards Armagh Ballymena Ballymoney Banbridge Belfast Carrickfergus Castlereagh Coleraine Cookstown Craigavon Derry Down Dungannon and South Tyrone Fermanagh Larne Limavady Lisburn Magherafelt Moyle Newry and Mourne Newtownabbey North Down Omagh Strabane Districts Antrim Ards Armagh Ballymena Ballymoney Banbridge Belfast Carrickfergus Castlereagh Coleraine Cookstown Craigavon Derry Down Dungannon and South Tyrone Fermanagh Larne Limavady Lisburn Magherafelt Moyle Newry and Mourne Newtownabbey North Down Omagh Strabane v t e Cities in Ireland Republic of Ireland Dublin Cork Limerick Galway Waterford Kilkenny   1 Northern Ireland Belfast Derry Lisburn Newry Armagh 1 not an administrative city v t e Capitals of British administrative divisions National capital : London Constituent countries Crown dependencies British Overseas Territories London , England Edinburgh , Scotland Cardiff , Wales Belfast , Northern Ireland Saint Helier , Jersey Saint Peter Port , Guernsey Douglas , Isle of Man Episkopi Cantonment , Akrotiri and Dhekelia The Valley , Anguilla Hamilton , Bermuda Rothera , British Antarctic Territory Diego Garcia , British Indian Ocean Territory Road Town , British Virgin Islands George Town , Cayman Islands Stanley , Falkland Islands Gibraltar , Gibraltar Brades , Montserrat Adamstown , Pitcairn Islands Jamestown , Saint Helena, Ascension and Tristan da Cunha King Edward Point , South Georgia and the South Sandwich Islands Cockburn Town , Turks and Caicos Islands v t e Cities of the United Kingdom England Bath Birmingham Bradford Brighton and Hove Bristol Cambridge Canterbury Carlisle Chelmsford Chester Chichester Coventry Derby Durham Ely Exeter Gloucester Hereford Kingston upon Hull Lancaster Leeds Leicester Lichfield Lincoln Liverpool London Manchester Newcastle upon Tyne Norwich Nottingham Oxford Peterborough Plymouth Portsmouth Preston Ripon St Albans Salford Salisbury Sheffield Southampton Stoke-on-Trent Sunderland Truro Wakefield Wells Westminster Winchester Wolverhampton Worcester York Scotland Aberdeen Dundee Edinburgh Glasgow Inverness Perth Stirling Wales Bangor Cardiff Newport St Asaph St Davids Swansea Northern Ireland Armagh Belfast Derry Lisburn Newry v t e Outdoor sculptures in Belfast Department for Communities Constructed Spirit of Belfast Spire of Hope Beacon of Hope The Calling Dividers The Big Fish Sheep on the Road Monument to the Unknown Woman Worker Rise Cancelled Trillian (2009) Magic Jug (2010) Authority control WorldCat Identities VIAF : 179000908 GND : 4080332-6 (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Belfast oldid=745101579 " Categories : Belfast British capitals Capitals in Europe Districts of Northern Ireland, 2015-present Populated coastal places in the United Kingdom Port cities and towns in Northern Ireland Port cities and towns of the Irish Sea University towns in Ireland University towns in the United Kingdom Districts of Northern Ireland, 1972–2015 Hidden categories: Articles containing Latin-language text All articles with dead external links Articles with dead external links from January 2016 Articles with dead external links from June 2016 Articles with dead external links from April 2012 Articles with dead external links from September 2016 Articles with permanently dead external links Wikipedia indefinitely move-protected pages Use dmy dates from March 2016 EngvarB from June 2014 Articles containing Scots-language text Articles containing Irish-language text Coordinates on Wikidata Articles containing potentially dated statements from 2015 All articles containing potentially dated statements All articles with unsourced statements Articles with unsourced statements from August 2015 All accuracy disputes Articles with disputed statements from November 2010 Articles with unsourced statements from November 2010 Articles needing cleanup from May 2014 All pages needing cleanup Articles with sections that need to be turned into prose from May 2014 Articles needing additional references from May 2014 All articles needing additional references Commons category with local link same as on Wikidata Articles with DMOZ links Wikipedia articles with VIAF identifiers Wikipedia articles with GND identifiers Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Wikiquote Wikivoyage Languages Afrikaans العربية Aragonés Asturianu Azərbaycanca বাংলা Беларуская Беларуская (тарашкевіца)‎ भोजपुरी Български Bosanski Brezhoneg Català Cebuano Čeština Cymraeg Dansk Deutsch Eesti Ελληνικά Español Esperanto Estremeñu Euskara فارسی Føroyskt Français Frysk Gaeilge Gaelg Gàidhlig Galego 한국어 Հայերեն Hrvatski Ido Bahasa Indonesia Interlingua Interlingue Ирон Íslenska Italiano עברית Basa Jawa ಕನ್ನಡ ქართული Қазақша Kiswahili Kreyòl ayisyen Kurdî Кыргызча Latina Latviešu Lietuvių Magyar Malti मराठी مصرى Bahasa Melayu မြန်မာဘာသာ Nāhuatl Nederlands Nedersaksies 日本語 Norsk bokmål Norsk nynorsk Nouormand Occitan Oʻzbekcha/ўзбекча پنجابی Piemontèis Polski Português Română Romani Runa Simi Русский Sardu Scots Sicilianu Simple English Slovenčina Slovenščina Српски / srpski Srpskohrvatski / српскохрватски Suomi Svenska Tagalog தமிழ் Taqbaylit ไทย Тоҷикӣ Türkçe Українська اردو ئۇيغۇرچە / Uyghurche Vèneto Tiếng Việt Winaray ייִדיש Yorùbá 粵語 Zeêuws 中文 Edit links This page was last modified on 19 October 2016, at 07:30. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "1.888", "walltime": "2.105", "ppvisitednodes": { "value": 16483, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 513712, "limit": 2097152 }, "templateargumentsize": { "value": 16171, "limit": 2097152 }, "expansiondepth": { "value": 14, "limit": 40 }, "expensivefunctioncount": { "value": 24, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 1753.618 1 -total", " 52.95% 928.575 1 Template:Reflist", " 25.94% 454.910 126 Template:Cite_web", " 8.58% 150.377 1 Template:Infobox_UK_place", " 7.24% 126.892 2 Template:Weather_box", " 6.45% 113.060 33 Template:Cite_news", " 4.65% 81.512 29 Template:Category_handler", " 3.91% 68.645 9 Template:Fix", " 3.82% 67.065 16 Template:Cite_book", " 3.52% 61.705 27 Template:Convert" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.877", "limit": "10.000" }, "limitreport-memusage": { "value": 11948366, "limit": 52428800 } }, "cachereport": { "origin": "mw1306", "timestamp": "20161019073046", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1263"});});

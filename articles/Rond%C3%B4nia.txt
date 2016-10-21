@@ -1,0 +1,1029 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Rondônia - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Rondônia","wgTitle":"Rondônia","wgCurRevisionId":734641279,"wgRevisionId":734641279,"wgArticleId":229552,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with citations lacking titles","Pages with citations having bare URLs","CS1 Portuguese-language sources (pt)","All articles with unsourced statements","Articles with unsourced statements from August 2016","Articles containing potentially dated statements from 2011","All articles containing potentially dated statements","Articles with Portuguese-language external links","Coordinates on Wikidata","Rondônia","States of Brazil","North Region, Brazil"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Rondônia","wgRelevantArticleId":229552,"wgRequestId":"WApIrApAIDMAAGuzQokAAABP","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":-10.9,"lon":-62.76},"wgWikibaseItemId":"Q43235","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Rond%C3%B4nia"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Rond%C3%B4nia&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Rond%C3%B4nia&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Rond%C3%B4nia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Rondônia rootpage-Rondônia skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Rondônia</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org">State of Rondônia</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><span class="category"><a href="/wiki/States_of_Brazil" title="States of Brazil">State</a></span></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:Bandeira_de_Rond%C3%B4nia.svg" class="image" title="Flag of State of Rondônia"><img alt="Flag of State of Rondônia" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bandeira_de_Rond%C3%B4nia.svg/100px-Bandeira_de_Rond%C3%B4nia.svg.png" width="100" height="70" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bandeira_de_Rond%C3%B4nia.svg/150px-Bandeira_de_Rond%C3%B4nia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bandeira_de_Rond%C3%B4nia.svg/200px-Bandeira_de_Rond%C3%B4nia.svg.png 2x" data-file-width="2000" data-file-height="1400" /></a><br />
+<small><b>Flag</b></small></td>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:BrasaoRondonia.jpg" class="image" title="Coat of arms of State of Rondônia"><img alt="Coat of arms of State of Rondônia" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/BrasaoRondonia.jpg/100px-BrasaoRondonia.jpg" width="100" height="141" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/BrasaoRondonia.jpg/150px-BrasaoRondonia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/BrasaoRondonia.jpg/200px-BrasaoRondonia.jpg 2x" data-file-width="2306" data-file-height="3262" /></a><br />
+<small><b>Coat of arms</b></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Rondonia_in_Brazil.svg" class="image" title="Location of State of Rondônia in Brazil"><img alt="Location of State of Rondônia in Brazil" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rondonia_in_Brazil.svg/250px-Rondonia_in_Brazil.svg.png" width="250" height="247" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rondonia_in_Brazil.svg/375px-Rondonia_in_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rondonia_in_Brazil.svg/500px-Rondonia_in_Brazil.svg.png 2x" data-file-width="2008" data-file-height="1984" /></a><br />
+<small>Location of State of Rondônia in Brazil</small></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Country</a></th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" />&#160;</span><a href="/wiki/Brazil" title="Brazil">Brazil</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Capital_(political)" class="mw-redirect" title="Capital (political)">Capital</a> and largest city</th>
+<td><a href="/wiki/Porto_Velho" title="Porto Velho">Porto Velho</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/List_of_Governors_of_Rond%C3%B4nia" title="List of Governors of Rondônia">Governor</a></th>
+<td><a href="/wiki/Conf%C3%BAcio_Moura" title="Confúcio Moura">Confúcio Moura</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Vice_Governor" class="mw-redirect" title="Vice Governor">Vice Governor</a></th>
+<td>Daniel Pereira</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td><a href="/wiki/1_E%2B11_m%C2%B2" class="mw-redirect" title="1 E+11 m²">237,576.16&#160;km<sup>2</sup></a> (91,728.67&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Area rank</th>
+<td><a href="/wiki/List_of_Brazilian_states_by_area" title="List of Brazilian states by area">13th</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(2012)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>1,590,011</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Rank</th>
+<td><a href="/wiki/List_of_Brazilian_states_by_population" title="List of Brazilian states by population">23rd</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>6.7/km<sup>2</sup> (17/sq&#160;mi)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density&#160;rank</th>
+<td><a href="/wiki/List_of_Brazilian_states_by_population_density" title="List of Brazilian states by population density">19th</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym(s)</a></th>
+<td>Rondoniano or Rondoniense</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left"><a href="/wiki/Gross_domestic_product" title="Gross domestic product">GDP</a></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Year</th>
+<td>2006&#160;estimate</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>R$ 13,110,000,000 (<a href="/wiki/List_of_Brazilian_states_by_gross_domestic_product" class="mw-redirect" title="List of Brazilian states by gross domestic product">22nd</a>)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Per capita</th>
+<td>R$ 8,391 (<a href="/wiki/List_of_Brazilian_states_by_gross_domestic_product" class="mw-redirect" title="List of Brazilian states by gross domestic product">15th</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left"><a href="/wiki/Human_Development_Index" title="Human Development Index">HDI</a></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Year</th>
+<td>2010</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Category</th>
+<td>0.690 – <span style="color:#fc0">medium</span> (<a href="/wiki/List_of_Brazilian_federative_units_by_Human_Development_Index" title="List of Brazilian federative units by Human Development Index">15th</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Postal Code</th>
+<td class="adr"><span class="postal-code">76800-000 to 76999-000</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th>
+<td class="nickname"><a href="/wiki/ISO_3166-2:BR" title="ISO 3166-2:BR">BR-RO</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.rondonia.ro.gov.br/">rondonia.ro.gov.br</a></td>
+</tr>
+</table>
+<p><b>Rondônia</b> (<small>Portuguese pronunciation:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_Portuguese" title="Help:IPA for Portuguese">[ʁõˈdõniɐ]</a></span><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>) is a <a href="/wiki/States_of_Brazil" title="States of Brazil">state</a> in <a href="/wiki/Brazil" title="Brazil">Brazil</a>, located in the north-western part of the country. To the west is a short border with the state of <a href="/wiki/Acre_(state)" title="Acre (state)">Acre</a>, to the north is the state of <a href="/wiki/Amazonas,_Brazil" class="mw-redirect" title="Amazonas, Brazil">Amazonas</a>, in the east is <a href="/wiki/Mato_Grosso" title="Mato Grosso">Mato Grosso</a>, and in the south and southwest is <a href="/wiki/Bolivia" title="Bolivia">Bolivia</a>. Its capital is <a href="/wiki/Porto_Velho" title="Porto Velho">Porto Velho</a>. The state was named after <a href="/wiki/C%C3%A2ndido_Rondon" title="Cândido Rondon">Cândido Rondon</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2016)">citation needed</span></a></i>]</sup></p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Demographics"><span class="tocnumber">2</span> <span class="toctext">Demographics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Native_Brazilians"><span class="tocnumber">3</span> <span class="toctext">Native Brazilians</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Transport"><span class="tocnumber">4</span> <span class="toctext">Transport</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rond%C3%B4nia&amp;action=edit&amp;section=1" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Rondonia was originally home to over 200,000 km<sup>2</sup> of <a href="/wiki/Tropical_rainforest" title="Tropical rainforest">rainforest</a>, but has become one of the most <a href="/wiki/Deforestation" title="Deforestation">deforested</a> places in the Amazon. By 2003 around 70,000 km<sup>2</sup> of rainforest had been cleared.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<p>The area around the <a href="/wiki/Guapor%C3%A9_River" title="Guaporé River">Guaporé River</a> is part of the <a href="/wiki/Beni_savanna" class="mw-redirect" title="Beni savanna">Beni savanna</a> ecoregion.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup></p>
+<p>The <a href="/wiki/Samuel_Hydroelectric_Dam" title="Samuel Hydroelectric Dam">Samuel Dam</a> is located in the state, on the <a href="/wiki/Jamari_River" title="Jamari River">Jamari River</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<ul class="gallery mw-gallery-traditional center">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:28px auto;"><a href="/wiki/File:Fires_and_Deforestation_on_the_Amazon_Frontier,_Rondonia,_Brazil_-_August_12,_2007.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fires_and_Deforestation_on_the_Amazon_Frontier%2C_Rondonia%2C_Brazil_-_August_12%2C_2007.jpg/120px-Fires_and_Deforestation_on_the_Amazon_Frontier%2C_Rondonia%2C_Brazil_-_August_12%2C_2007.jpg" width="120" height="94" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fires_and_Deforestation_on_the_Amazon_Frontier%2C_Rondonia%2C_Brazil_-_August_12%2C_2007.jpg/180px-Fires_and_Deforestation_on_the_Amazon_Frontier%2C_Rondonia%2C_Brazil_-_August_12%2C_2007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fires_and_Deforestation_on_the_Amazon_Frontier%2C_Rondonia%2C_Brazil_-_August_12%2C_2007.jpg/240px-Fires_and_Deforestation_on_the_Amazon_Frontier%2C_Rondonia%2C_Brazil_-_August_12%2C_2007.jpg 2x" data-file-width="3836" data-file-height="3000" /></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Slash-and-burn" title="Slash-and-burn">Slash-and-burn</a> farming in the state of Rondônia.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:34.5px auto;"><a href="/wiki/File:Rio_Madeira_09072007.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rio_Madeira_09072007.jpg/120px-Rio_Madeira_09072007.jpg" width="120" height="81" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rio_Madeira_09072007.jpg/180px-Rio_Madeira_09072007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Rio_Madeira_09072007.jpg/240px-Rio_Madeira_09072007.jpg 2x" data-file-width="2639" data-file-height="1772" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Madeira <a href="/wiki/River" title="River">River</a>.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35.5px auto;"><a href="/wiki/File:Portovelho11062007.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Portovelho11062007.JPG/120px-Portovelho11062007.JPG" width="120" height="79" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Portovelho11062007.JPG/180px-Portovelho11062007.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Portovelho11062007.JPG/240px-Portovelho11062007.JPG 2x" data-file-width="2793" data-file-height="1836" /></a></div>
+</div>
+<div class="gallerytext">
+<p>Madeira <a href="/wiki/River" title="River">River</a> and <a href="/wiki/Porto_Velho" title="Porto Velho">Porto Velho</a>.</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rond%C3%B4nia&amp;action=edit&amp;section=2" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the <a href="/wiki/Brazilian_Institute_of_Geography_and_Statistics" title="Brazilian Institute of Geography and Statistics">IBGE</a> of 2008, there were 1,519,000 people residing in the state. The population density was 6.6 inh./km². <a href="/wiki/Urbanization" title="Urbanization">Urbanization</a>: 66.8% (2004); <a href="/wiki/Population_growth" title="Population growth">Population growth</a>: 2.2% (1991-2000); <a href="/wiki/House" title="House">Houses</a>: 430,747 (2005).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></p>
+<p>The last PNAD (National Research for Sample of Domiciles) census revealed the following numbers: 832,000 <a href="/wiki/Brown_people#Pardos_in_Brazil" class="mw-redirect" title="Brown people">Brown</a> (<a href="/wiki/Multiracial#Brazil" title="Multiracial">Multiracial</a>) people (54.81%), 546,000 <a href="/wiki/White_Brazilian" class="mw-redirect" title="White Brazilian">White</a> people (35.95%), 115,000 <a href="/wiki/Afro-Brazilian" class="mw-redirect" title="Afro-Brazilian">Black</a> people (7.56%), 16,000 <a href="/wiki/Asian_Brazilian" class="mw-redirect" title="Asian Brazilian">Asian</a> people (1.08%), 8,000 <a href="/wiki/Indigenous_peoples_in_Brazil" title="Indigenous peoples in Brazil">Amerindian</a> people (0.53%).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></p>
+<h2><span class="mw-headline" id="Native_Brazilians">Native Brazilians</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rond%C3%B4nia&amp;action=edit&amp;section=3" title="Edit section: Native Brazilians">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:332px;"><a href="/wiki/File:Indigenous_Territories_in_Rond%C3%B4nia.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Indigenous_Territories_in_Rond%C3%B4nia.svg/330px-Indigenous_Territories_in_Rond%C3%B4nia.svg.png" width="330" height="215" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Indigenous_Territories_in_Rond%C3%B4nia.svg/495px-Indigenous_Territories_in_Rond%C3%B4nia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Indigenous_Territories_in_Rond%C3%B4nia.svg/660px-Indigenous_Territories_in_Rond%C3%B4nia.svg.png 2x" data-file-width="1039" data-file-height="678" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Indigenous_Territories_in_Rond%C3%B4nia.svg" class="internal" title="Enlarge"></a></div>
+Indigenous Territories in Rondônia.</div>
+</div>
+</div>
+<p>As of 2011<sup class="plainlinks noprint asof-tag update" style="display:none;"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Rond%C3%B4nia&amp;action=edit">[update]</a></sup> there were 21 <a href="/wiki/Indigenous_territory_(Brazil)" title="Indigenous territory (Brazil)">Indigenous Territories</a> in Rondônia, with two more in process of being demarcated.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> The largest of these, the <a href="/wiki/Terra_Indigena_Uru-Eu-Uaw-Uaw" title="Terra Indigena Uru-Eu-Uaw-Uaw">Uru-Eu-Wau-Wau Indigenous Territory</a>, covers over 1.8 million hectares.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup> Another, the <a href="/wiki/Rio_Omer%C3%AA_Indigenous_Territory" title="Rio Omerê Indigenous Territory">Rio Omerê Indigenous Territory</a>, is home to the <a href="/wiki/Kano%C3%AA" class="mw-redirect" title="Kanoê">Kanoê</a> and <a href="/wiki/Akuntsu" class="mw-redirect" title="Akuntsu">Akuntsu</a> people, who number only four and five individuals respectively.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:UNIR.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/UNIR.jpg/220px-UNIR.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/UNIR.jpg/330px-UNIR.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/UNIR.jpg/440px-UNIR.jpg 2x" data-file-width="1632" data-file-height="1224" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:UNIR.jpg" class="internal" title="Enlarge"></a></div>
+Federal University of Rondônia in <a href="/wiki/Porto_Velho" title="Porto Velho">Porto Velho</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Casa_da_Cultura_de_Porto_Velho.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Casa_da_Cultura_de_Porto_Velho.jpg/220px-Casa_da_Cultura_de_Porto_Velho.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Casa_da_Cultura_de_Porto_Velho.jpg/330px-Casa_da_Cultura_de_Porto_Velho.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Casa_da_Cultura_de_Porto_Velho.jpg/440px-Casa_da_Cultura_de_Porto_Velho.jpg 2x" data-file-width="1632" data-file-height="1224" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Casa_da_Cultura_de_Porto_Velho.jpg" class="internal" title="Enlarge"></a></div>
+House of Culture Ivan Marrocos, in <a href="/wiki/Porto_Velho" title="Porto Velho">Porto Velho</a>.</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="Transport">Transport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rond%C3%B4nia&amp;action=edit&amp;section=4" title="Edit section: Transport">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Aeroporto_de_Porto_Velho2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Aeroporto_de_Porto_Velho2.jpg/220px-Aeroporto_de_Porto_Velho2.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Aeroporto_de_Porto_Velho2.jpg/330px-Aeroporto_de_Porto_Velho2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Aeroporto_de_Porto_Velho2.jpg/440px-Aeroporto_de_Porto_Velho2.jpg 2x" data-file-width="1632" data-file-height="1224" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Aeroporto_de_Porto_Velho2.jpg" class="internal" title="Enlarge"></a></div>
+Porto Velho/Governador Jorge Teixeira de Oliveira International Airport.</div>
+</div>
+</div>
+<p><a href="/wiki/Governador_Jorge_Teixeira_de_Oliveira_International_Airport" title="Governador Jorge Teixeira de Oliveira International Airport">Belmonte Airport</a> is located in the state capital of Porto Velho.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rond%C3%B4nia&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ibge.gov.br/home/estatistica/populacao/estimativa2012/estimativa_dou.shtm">Ibge.gov</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.timeanddate.com/worldclock/brazil/porto-velho">"Flag Current Local Time in Porto Velho, Rondônia, Brazil"</a>. Time and Date<span class="reference-accessdate">. Retrieved <span class="nowrap">15 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARond%C3%B4nia&amp;rft.btitle=Flag+Current+Local+Time+in+Porto+Velho%2C+Rond%C3%B4nia%2C+Brazil&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.timeanddate.com%2Fworldclock%2Fbrazil%2Fporto-velho&amp;rft.pub=Time+and+Date&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">In <a href="/wiki/Brazilian_Portuguese" title="Brazilian Portuguese">Brazilian Portuguese</a>. The <a href="/wiki/European_Portuguese" title="European Portuguese">European Portuguese</a> pronunciation is <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ʁõˈdoniɐ]</span>.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://earthobservatory.nasa.gov/Features/WorldOfChange/deforestation.php">"Amazon Deforestation"</a>. <i>Earth Observatory</i>. NASA<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARond%C3%B4nia&amp;rft.atitle=Amazon+Deforestation&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fearthobservatory.nasa.gov%2FFeatures%2FWorldOfChange%2Fdeforestation.php&amp;rft.jtitle=Earth+Observatory&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Robin Sears and Robert Langstroth. <a rel="nofollow" class="external text" href="http://worldwildlife.org/ecoregions/nt0702">"Central South America: Northern Bolivia"</a>. <i>Tropical and Subtropical Grasslands, Savannas and Shrublands</i>. WWF<span class="reference-accessdate">. Retrieved <span class="nowrap">7 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARond%C3%B4nia&amp;rft.atitle=Central+South+America%3A+Northern+Bolivia&amp;rft.au=Robin+Sears+and+Robert+Langstroth&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fworldwildlife.org%2Fecoregions%2Fnt0702&amp;rft.jtitle=Tropical+and+Subtropical+Grasslands%2C+Savannas+and+Shrublands&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://eros.usgs.gov/samuel-dam-rondônia-brazil">"Samuel Dam, Rondônia, Brazil"</a>. U.S. Geological Survey. 13 October 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARond%C3%B4nia&amp;rft.btitle=Samuel+Dam%2C+Rond%C3%B4nia%2C+Brazil&amp;rft.date=2011-10-13&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Feros.usgs.gov%2Fsamuel-dam-rond%C3%B4nia-brazil&amp;rft.pub=U.S.+Geological+Survey&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Source: PNAD.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book"><span style="font-size:85%;">(PDF)</span> (in Portuguese). Rondônia, Brazil: <a href="/wiki/Brazilian_Institute_of_Geography_and_Statistics" title="Brazilian Institute of Geography and Statistics">IBGE</a>. 2008. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/85-240-3919-1" title="Special:BookSources/85-240-3919-1">85-240-3919-1</a> <a rel="nofollow" class="external free" href="http://www.sidra.ibge.gov.br/bda/tabela/listabl.asp?z=pnad&amp;o=3&amp;i=P&amp;c=262">http://www.sidra.ibge.gov.br/bda/tabela/listabl.asp?z=pnad&amp;o=3&amp;i=P&amp;c=262</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-01-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARond%C3%B4nia&amp;rft.date=2008&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sidra.ibge.gov.br%2Fbda%2Ftabela%2Flistabl.asp%3Fz%3Dpnad%26o%3D3%26i%3DP%26c%3D262&amp;rft.isbn=85-240-3919-1&amp;rft.place=Rond%C3%B4nia%2C+Brazil&amp;rft.pub=IBGE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="font-size:100%" class="error citation-comment">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|title=</code> (<a href="/wiki/Help:CS1_errors#citation_missing_title" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://pib.socioambiental.org/caracterizacao.php?uf=11">"Terras Indígenas: Pesquisa por Estado: Rondônia"</a>. <i>Povos Indígenas no Brasil</i> (in Portuguese). Instituto Socioambiental (ISA)<span class="reference-accessdate">. Retrieved <span class="nowrap">24 March</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARond%C3%B4nia&amp;rft.atitle=Terras+Ind%C3genas%3A+Pesquisa+por+Estado%3A+Rond%C3%B4nia&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fpib.socioambiental.org%2Fcaracterizacao.php%3Fuf%3D11&amp;rft.jtitle=Povos+Ind%C3genas+no+Brasil&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://pib.socioambiental.org/caracterizacao.php?id_arp=3891">"Caracterização Terra Indígena Uru-Eu-Wau-Wau"</a>. <i>Povos Indígenas no Brasil</i> (in Portuguese). Instituo Socioambiental (ISA)<span class="reference-accessdate">. Retrieved <span class="nowrap">24 March</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARond%C3%B4nia&amp;rft.atitle=Caracteriza%C3%A7%C3%A3o+Terra+Ind%C3gena+Uru-Eu-Wau-Wau&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fpib.socioambiental.org%2Fcaracterizacao.php%3Fid_arp%3D3891&amp;rft.jtitle=Povos+Ind%C3genas+no+Brasil&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Instituto Socioambiental (ISA). <a rel="nofollow" class="external text" href="http://pib.socioambiental.org/en/povo/akuntsu">"Introduction &gt; Akuntsu"</a>. <i>Povos Indígenas no Brasil</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARond%C3%B4nia&amp;rft.atitle=Introduction+%3E+Akuntsu&amp;rft.au=Instituto+Socioambiental+%28ISA%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fpib.socioambiental.org%2Fen%2Fpovo%2Fakuntsu&amp;rft.jtitle=Povos+Ind%C3genas+no+Brasil&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Instituto Socioambiental (ISA). <a rel="nofollow" class="external text" href="http://pib.socioambiental.org/en/povo/kanoe">"Introduction &gt; Kanoê"</a>. <i>Povos Indígenas no Brasil</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARond%C3%B4nia&amp;rft.atitle=Introduction+%3E+Kano%C3%AA&amp;rft.au=Instituto+Socioambiental+%28ISA%29&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fpib.socioambiental.org%2Fen%2Fpovo%2Fkanoe&amp;rft.jtitle=Povos+Ind%C3genas+no+Brasil&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.theairdb.com/airport/PVH.html">"Porto Velho, Belmonte (PVH) information"</a>. theAirDB<span class="reference-accessdate">. Retrieved <span class="nowrap">1 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARond%C3%B4nia&amp;rft.btitle=Porto+Velho%2C+Belmonte+%28PVH%29+information&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.theairdb.com%2Fairport%2FPVH.html&amp;rft.pub=theAirDB&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rond%C3%B4nia&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks mbox-small" style="padding:0.25em 0.5em 0.5em 0.75em;border:1px solid #aaa;background:#f9f9f9;">
+<tr>
+<td colspan="2" style="padding-bottom:0.75em;border-bottom:1px solid #aaa;text-align:center;">
+<div style="clear:both;">Find more about<br />
+<b>Rondônia</b><br />
+at Wikipedia's <a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects">sister projects</a></div>
+</td>
+</tr>
+<tr style="height:25px;">
+<td style="padding-top:0.75em;"><a href="https://en.wiktionary.org/wiki/Special:Search/Rond%C3%B4nia" title="Search Wiktionary"><img alt="Search Wiktionary" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/25px-Wiktionary-logo-v2.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/38px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/50px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></a></td>
+<td style="padding-top:0.75em;"><a href="https://en.wiktionary.org/wiki/Special:Search/Rond%C3%B4nia" class="extiw" title="wikt:Special:Search/Rondônia">Definitions</a> from Wiktionary</td>
+</tr>
+<tr style="height:25px;">
+<td><a href="https://commons.wikimedia.org/wiki/Special:Search/Rond%C3%B4nia" title="Search Commons"><img alt="Search Commons" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png" width="18" height="25" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/28px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/37px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td><a href="https://commons.wikimedia.org/wiki/Special:Search/Rond%C3%B4nia" class="extiw" title="c:Special:Search/Rondônia">Media</a> from Commons</td>
+</tr>
+<tr style="height:25px;">
+<td><a href="https://en.wikinews.org/wiki/Special:Search/Rond%C3%B4nia" title="Search Wikinews"><img alt="Search Wikinews" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/25px-Wikinews-logo.svg.png" width="25" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/38px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/50px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></td>
+<td><a href="https://en.wikinews.org/wiki/Special:Search/Rond%C3%B4nia" class="extiw" title="n:Special:Search/Rondônia">News</a> from Wikinews</td>
+</tr>
+<tr style="height:25px;">
+<td><a href="https://en.wikiquote.org/wiki/Special:Search/Rond%C3%B4nia" title="Search Wikiquote"><img alt="Search Wikiquote" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/21px-Wikiquote-logo.svg.png" width="21" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/32px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/42px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></td>
+<td><a href="https://en.wikiquote.org/wiki/Special:Search/Rond%C3%B4nia" class="extiw" title="q:Special:Search/Rondônia">Quotations</a> from Wikiquote</td>
+</tr>
+<tr style="height:25px;">
+<td><a href="https://en.wikisource.org/wiki/Special:Search/Rond%C3%B4nia" title="Search Wikisource"><img alt="Search Wikisource" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png" width="24" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/36px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/48px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></td>
+<td><a href="https://en.wikisource.org/wiki/Special:Search/Rond%C3%B4nia" class="extiw" title="s:Special:Search/Rondônia">Texts</a> from Wikisource</td>
+</tr>
+<tr style="height:25px;">
+<td><a href="https://en.wikibooks.org/wiki/Special:Search/Rond%C3%B4nia" title="Search Wikibooks"><img alt="Search Wikibooks" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/25px-Wikibooks-logo.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/38px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/50px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></td>
+<td><a href="https://en.wikibooks.org/wiki/Special:Search/Rond%C3%B4nia" class="extiw" title="b:Special:Search/Rondônia">Textbooks</a> from Wikibooks</td>
+</tr>
+<tr style="height:25px;">
+<td><a href="https://en.wikivoyage.org/wiki/Rond%C3%B4nia" title="Search Wikivoyage"><img alt="Search Wikivoyage" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/25px-Wikivoyage-Logo-v3-icon.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/38px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/50px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></td>
+<td><a href="https://en.wikivoyage.org/wiki/Rond%C3%B4nia" class="extiw" title="voy:Rondônia">Travel guide</a> from Wikivoyage</td>
+</tr>
+<tr style="height:25px;">
+<td><a href="https://en.wikiversity.org/wiki/Special:Search/Rond%C3%B4nia" title="Search Wikiversity"><img alt="Search Wikiversity" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/25px-Wikiversity-logo-en.svg.png" width="25" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/38px-Wikiversity-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/50px-Wikiversity-logo-en.svg.png 2x" data-file-width="1000" data-file-height="900" /></a></td>
+<td><a href="https://en.wikiversity.org/wiki/Special:Search/Rond%C3%B4nia" class="extiw" title="v:Special:Search/Rondônia">Learning resources</a> from Wikiversity</td>
+</tr>
+</table>
+<ul>
+<li><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Portuguese)</span> <a rel="nofollow" class="external text" href="http://www.rondonia.ro.gov.br">Official Website</a></li>
+<li><a rel="nofollow" class="external text" href="http://webhost.bridgew.edu/jhayesboh/rondonia.htm">Rondonia Web</a></li>
+</ul>
+<p><br /></p>
+<div role="navigation" class="navbox" aria-labelledby="23px_Municipalities_of_Rond.C3.B4nia" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Municipalities_of_Rond%C3%B4nia" title="Template:Municipalities of Rondônia"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Municipalities_of_Rond%C3%B4nia" title="Template talk:Municipalities of Rondônia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Municipalities_of_Rond%C3%B4nia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="23px_Municipalities_of_Rond.C3.B4nia" style="font-size:114%"><a href="/wiki/File:Bandeira_de_Rond%C3%B4nia.svg" class="image"><img alt="Bandeira de Rondônia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bandeira_de_Rond%C3%B4nia.svg/23px-Bandeira_de_Rond%C3%B4nia.svg.png" width="23" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bandeira_de_Rond%C3%B4nia.svg/35px-Bandeira_de_Rond%C3%B4nia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bandeira_de_Rond%C3%B4nia.svg/46px-Bandeira_de_Rond%C3%B4nia.svg.png 2x" data-file-width="2000" data-file-height="1400" /></a> <a href="/wiki/List_of_municipalities_in_Rond%C3%B4nia" title="List of municipalities in Rondônia">Municipalities of Rondônia</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>Capital: <b><a href="/wiki/Porto_Velho" title="Porto Velho">Porto Velho</a></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Alvorada d'Oeste</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alvorada_d%27Oeste" title="Alvorada d'Oeste">Alvorada d'Oeste</a></li>
+<li><a href="/wiki/Nova_Brasil%C3%A2ndia_d%27Oeste" title="Nova Brasilândia d'Oeste">Nova Brasilândia d'Oeste</a></li>
+<li><a href="/wiki/S%C3%A3o_Miguel_do_Guapor%C3%A9" title="São Miguel do Guaporé">São Miguel do Guaporé</a></li>
+<li><a href="/wiki/Seringueiras" title="Seringueiras">Seringueiras</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="15" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Brazil_State_Rondonia.svg" class="image"><img alt="Brazil State Rondonia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Brazil_State_Rondonia.svg/130px-Brazil_State_Rondonia.svg.png" width="130" height="127" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Brazil_State_Rondonia.svg/195px-Brazil_State_Rondonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Brazil_State_Rondonia.svg/260px-Brazil_State_Rondonia.svg.png 2x" data-file-width="702" data-file-height="687" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Ariquemes</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alto_Para%C3%ADso" title="Alto Paraíso">Alto Paraíso</a></li>
+<li><a href="/wiki/Ariquemes" title="Ariquemes">Ariquemes</a></li>
+<li><a href="/wiki/Cacaul%C3%A2ndia" title="Cacaulândia">Cacaulândia</a></li>
+<li><a href="/wiki/Machadinho_d%27Oeste" title="Machadinho d'Oeste">Machadinho d'Oeste</a></li>
+<li><a href="/wiki/Monte_Negro,_Rond%C3%B4nia" title="Monte Negro, Rondônia">Monte Negro</a></li>
+<li><a href="/wiki/Rio_Crespo" title="Rio Crespo">Rio Crespo</a></li>
+<li><a href="/wiki/Vale_do_Anari" title="Vale do Anari">Vale do Anari</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Cacoal</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alta_Floresta_d%27Oeste" title="Alta Floresta d'Oeste">Alta Floresta d'Oeste</a></li>
+<li><a href="/wiki/Alto_Alegre_dos_Parecis" title="Alto Alegre dos Parecis">Alto Alegre dos Parecis</a></li>
+<li><a href="/wiki/Cacoal" title="Cacoal">Cacoal</a></li>
+<li><a href="/wiki/Castanheiras" title="Castanheiras">Castanheiras</a></li>
+<li><a href="/wiki/Espig%C3%A3o_d%27Oeste" title="Espigão d'Oeste">Espigão d'Oeste</a></li>
+<li><a href="/wiki/Ministro_Andreazza" title="Ministro Andreazza">Ministro Andreazza</a></li>
+<li><a href="/wiki/Novo_Horizonte_do_Oeste" title="Novo Horizonte do Oeste">Novo Horizonte do Oeste</a></li>
+<li><a href="/wiki/Rolim_de_Moura" title="Rolim de Moura">Rolim de Moura</a></li>
+<li><a href="/wiki/Santa_Luzia_d%27Oeste" title="Santa Luzia d'Oeste">Santa Luzia d'Oeste</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Colorado do Oeste</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cabixi" title="Cabixi">Cabixi</a></li>
+<li><a href="/wiki/Cerejeiras" title="Cerejeiras">Cerejeiras</a></li>
+<li><a href="/wiki/Colorado_do_Oeste" title="Colorado do Oeste">Colorado do Oeste</a></li>
+<li><a href="/wiki/Corumbiara" title="Corumbiara">Corumbiara</a></li>
+<li><a href="/wiki/Pimenteiras_do_Oeste" title="Pimenteiras do Oeste">Pimenteiras do Oeste</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Guajara-Mirim</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Costa_Marques" title="Costa Marques">Costa Marques</a></li>
+<li><a href="/wiki/Guajar%C3%A1-Mirim" title="Guajará-Mirim">Guajará-Mirim</a></li>
+<li><a href="/wiki/S%C3%A3o_Francisco_do_Guapor%C3%A9" title="São Francisco do Guaporé">São Francisco do Guaporé</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Ji-Parana</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Governador_Jorge_Teixeira" title="Governador Jorge Teixeira">Governador Jorge Teixeira</a></li>
+<li><a href="/wiki/Jaru" title="Jaru">Jaru</a></li>
+<li><a href="/wiki/Ji-Paran%C3%A1" title="Ji-Paraná">Ji-Paraná</a></li>
+<li><a href="/wiki/Mirante_da_Serra" title="Mirante da Serra">Mirante da Serra</a></li>
+<li><a href="/wiki/Nova_Uni%C3%A3o,_Rond%C3%B4nia" title="Nova União, Rondônia">Nova União</a></li>
+<li><a href="/wiki/Ouro_Preto_do_Oeste" title="Ouro Preto do Oeste">Ouro Preto do Oeste</a></li>
+<li><a href="/wiki/Presidente_M%C3%A9dici,_Rond%C3%B4nia" title="Presidente Médici, Rondônia">Presidente Médici</a></li>
+<li><a href="/wiki/Teixeir%C3%B3polis" title="Teixeirópolis">Teixeirópolis</a></li>
+<li><a href="/wiki/Theobroma,_Rond%C3%B4nia" title="Theobroma, Rondônia">Theobroma</a></li>
+<li><a href="/wiki/Urup%C3%A1" title="Urupá">Urupá</a></li>
+<li><a href="/wiki/Vale_do_Para%C3%ADso,_Rond%C3%B4nia" title="Vale do Paraíso, Rondônia">Vale do Paraíso</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Porto Velho</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Buritis,_Rond%C3%B4nia" title="Buritis, Rondônia">Buritis</a></li>
+<li><a href="/wiki/Campo_Novo_de_Rond%C3%B4nia" title="Campo Novo de Rondônia">Campo Novo de Rondônia</a></li>
+<li><a href="/wiki/Candeias_do_Jamari" title="Candeias do Jamari">Candeias do Jamari</a></li>
+<li><a href="/wiki/Cujubim" title="Cujubim">Cujubim</a></li>
+<li><a href="/wiki/Itapu%C3%A3_do_Oeste" title="Itapuã do Oeste">Itapuã do Oeste</a></li>
+<li><a href="/wiki/Nova_Mamor%C3%A9" title="Nova Mamoré">Nova Mamoré</a></li>
+<li><a href="/wiki/Porto_Velho" title="Porto Velho">Porto Velho</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Vilhena</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chupinguaia" title="Chupinguaia">Chupinguaia</a></li>
+<li><a href="/wiki/Parecis" title="Parecis">Parecis</a></li>
+<li><a href="/wiki/Pimenta_Bueno" title="Pimenta Bueno">Pimenta Bueno</a></li>
+<li><a href="/wiki/Primavera_de_Rond%C3%B4nia" title="Primavera de Rondônia">Primavera de Rondônia</a></li>
+<li><a href="/wiki/S%C3%A3o_Felipe_d%27Oeste" title="São Felipe d'Oeste">São Felipe d'Oeste</a></li>
+<li><a href="/wiki/Vilhena" title="Vilhena">Vilhena</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px.7Cborder_.7Calt.3DBrazil.7Clink.3DBrazil_Regions_and_States_of_Brazil" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:States_of_Brazil" title="Template:States of Brazil"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:States_of_Brazil" title="Template talk:States of Brazil"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:States_of_Brazil&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="23x15px.7Cborder_.7Calt.3DBrazil.7Clink.3DBrazil_Regions_and_States_of_Brazil" style="font-size:114%"><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/wiki/Regions_of_Brazil" title="Regions of Brazil">Regions</a> and <a href="/wiki/States_of_Brazil" title="States of Brazil">States</a> of <a href="/wiki/Brazil" title="Brazil">Brazil</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/North_Region,_Brazil" title="North Region, Brazil">North</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acre_(state)" title="Acre (state)">Acre</a></li>
+<li><a href="/wiki/Amap%C3%A1" title="Amapá">Amapá</a></li>
+<li><a href="/wiki/Amazonas_(Brazilian_state)" title="Amazonas (Brazilian state)">Amazonas</a></li>
+<li><a href="/wiki/Par%C3%A1" title="Pará">Pará</a></li>
+<li><strong class="selflink">Rondônia</strong></li>
+<li><a href="/wiki/Roraima" title="Roraima">Roraima</a></li>
+<li><a href="/wiki/Tocantins" title="Tocantins">Tocantins</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Northeast_Region,_Brazil" title="Northeast Region, Brazil">Northeast</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alagoas" title="Alagoas">Alagoas</a></li>
+<li><a href="/wiki/Bahia" title="Bahia">Bahia</a></li>
+<li><a href="/wiki/Cear%C3%A1" title="Ceará">Ceará</a></li>
+<li><a href="/wiki/Maranh%C3%A3o" title="Maranhão">Maranhão</a></li>
+<li><a href="/wiki/Para%C3%ADba" title="Paraíba">Paraíba</a></li>
+<li><a href="/wiki/Pernambuco" title="Pernambuco">Pernambuco</a></li>
+<li><a href="/wiki/Piau%C3%AD" title="Piauí">Piauí</a></li>
+<li><a href="/wiki/Rio_Grande_do_Norte" title="Rio Grande do Norte">Rio Grande do Norte</a></li>
+<li><a href="/wiki/Sergipe" title="Sergipe">Sergipe</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Central-West_Region,_Brazil" title="Central-West Region, Brazil">Center-West</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Federal_District_(Brazil)" title="Federal District (Brazil)">Distrito Federal</a></li>
+<li><a href="/wiki/Goi%C3%A1s" title="Goiás">Goiás</a></li>
+<li><a href="/wiki/Mato_Grosso" title="Mato Grosso">Mato Grosso</a></li>
+<li><a href="/wiki/Mato_Grosso_do_Sul" title="Mato Grosso do Sul">Mato Grosso do Sul</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Southeast_Region,_Brazil" title="Southeast Region, Brazil">Southeast</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Esp%C3%ADrito_Santo" title="Espírito Santo">Espírito Santo</a></li>
+<li><a href="/wiki/Minas_Gerais" title="Minas Gerais">Minas Gerais</a></li>
+<li><a href="/wiki/Rio_de_Janeiro_(state)" title="Rio de Janeiro (state)">Rio de Janeiro</a></li>
+<li><a href="/wiki/S%C3%A3o_Paulo_(state)" title="São Paulo (state)">São Paulo</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/South_Region,_Brazil" title="South Region, Brazil">South</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Paran%C3%A1_(state)" title="Paraná (state)">Paraná</a></li>
+<li><a href="/wiki/Rio_Grande_do_Sul" title="Rio Grande do Sul">Rio Grande do Sul</a></li>
+<li><a href="/wiki/Santa_Catarina_(state)" title="Santa Catarina (state)">Santa Catarina</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Fernando_de_Noronha" title="Fernando de Noronha">Fernando de Noronha</a></li>
+<li><a href="/wiki/Rocas_Atoll" title="Rocas Atoll">Rocas Atoll</a></li>
+<li><a href="/wiki/Saint_Peter_and_Saint_Paul_Archipelago" title="Saint Peter and Saint Paul Archipelago">Saint Peter and Saint Paul</a></li>
+<li><a href="/wiki/Trindade_and_Martim_Vaz" title="Trindade and Martim Vaz">Trindade and Martim Vaz</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Brazil.C2.A0" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Brazil_topics" title="Template:Brazil topics"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Brazil_topics" title="Template talk:Brazil topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Brazil_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Brazil.C2.A0" style="font-size:114%"><a href="/wiki/Brazil" title="Brazil">Brazil</a>&#160;</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/History_of_Brazil" title="History of Brazil">History</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Indigenous_peoples_in_Brazil" title="Indigenous peoples in Brazil">Indigenous peoples</a></li>
+<li><a href="/wiki/Colonial_Brazil" title="Colonial Brazil">Portuguese Colony (1500–1815)</a></li>
+<li><a href="/wiki/United_Kingdom_of_Portugal,_Brazil_and_the_Algarves" title="United Kingdom of Portugal, Brazil and the Algarves">United Kingdom (1815–1822)</a></li>
+<li><a href="/wiki/Empire_of_Brazil" title="Empire of Brazil">Empire (1822–1889)</a></li>
+<li><a href="/wiki/First_Brazilian_Republic" title="First Brazilian Republic">Old Republic (1889–1930)</a></li>
+<li><a href="/wiki/Vargas_Era" title="Vargas Era">Vargas Era (1930–1946)</a></li>
+<li><a href="/wiki/Second_Brazilian_Republic" title="Second Brazilian Republic">Second Republic (1946–1964)</a></li>
+<li><a href="/wiki/Brazilian_military_government" title="Brazilian military government">Military rule (1964–1985)</a></li>
+<li><a href="/wiki/History_of_Brazil_since_1985" title="History of Brazil since 1985">New Republic (post 1985)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Geography_of_Brazil" title="Geography of Brazil">Geography</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amazon_Basin" class="mw-redirect" title="Amazon Basin">Amazon Basin</a></li>
+<li><a href="/wiki/Climate_of_Brazil" title="Climate of Brazil">Climate</a></li>
+<li><a href="/wiki/Coastline_of_Brazil" title="Coastline of Brazil">Coastline</a></li>
+<li><a href="/wiki/Conservation_in_Brazil" title="Conservation in Brazil">Conservation</a></li>
+<li><a href="/wiki/Environment_of_Brazil" title="Environment of Brazil">Environment</a></li>
+<li><a href="/wiki/Environmental_issues_in_Brazil" title="Environmental issues in Brazil">Environmental issues</a></li>
+<li><a href="/wiki/Extreme_points_of_Brazil" class="mw-redirect" title="Extreme points of Brazil">Extreme points</a></li>
+<li><a href="/wiki/List_of_islands_of_Brazil" title="List of islands of Brazil">Islands</a></li>
+<li><a href="/wiki/List_of_largest_cities_in_Brazil" title="List of largest cities in Brazil">Largest cities</a></li>
+<li><a href="/wiki/List_of_mountains_in_Brazil" title="List of mountains in Brazil">Mountains</a></li>
+<li><a href="/wiki/Protected_areas_of_Brazil" title="Protected areas of Brazil">Protected areas</a></li>
+<li><a href="/wiki/Regions_of_Brazil" title="Regions of Brazil">Regions</a></li>
+<li><a href="/wiki/List_of_rivers_of_Brazil" title="List of rivers of Brazil">Rivers</a></li>
+<li><a href="/wiki/Water_resources_management_in_Brazil" title="Water resources management in Brazil">Water resources</a></li>
+<li><a href="/wiki/Wildlife_of_Brazil" title="Wildlife of Brazil">Wildlife</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Politics_of_Brazil" title="Politics of Brazil">Politics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Administrative_divisions_of_Brazil" class="mw-redirect" title="Administrative divisions of Brazil">Administrative divisions</a></li>
+<li><a href="/wiki/Constitution_of_Brazil" title="Constitution of Brazil">Constitution</a></li>
+<li><a href="/wiki/Elections_in_Brazil" title="Elections in Brazil">Elections</a></li>
+<li><a href="/wiki/Foreign_relations_of_Brazil" title="Foreign relations of Brazil">Foreign relations</a></li>
+<li><a href="/wiki/Federal_government_of_Brazil" title="Federal government of Brazil">Government</a></li>
+<li><a href="/wiki/Human_rights_in_Brazil" title="Human rights in Brazil">Human rights</a></li>
+<li><a href="/wiki/Judiciary_of_Brazil" title="Judiciary of Brazil">Legal system</a></li>
+<li><a href="/wiki/Law_of_Brazil" title="Law of Brazil">Law</a></li>
+<li><a href="/wiki/Law_enforcement_in_Brazil" title="Law enforcement in Brazil">Law enforcement</a></li>
+<li><a href="/wiki/Brazilian_Armed_Forces" title="Brazilian Armed Forces">Military</a></li>
+<li><a href="/wiki/National_Congress_of_Brazil" title="National Congress of Brazil">National Congress</a></li>
+<li><a href="/wiki/List_of_political_parties_in_Brazil" title="List of political parties in Brazil">Political parties</a></li>
+<li><a href="/wiki/President_of_Brazil" title="President of Brazil">President</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Economy_of_Brazil" title="Economy of Brazil">Economy</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agriculture_in_Brazil" title="Agriculture in Brazil">Agriculture</a></li>
+<li><a href="/wiki/Automotive_industry_in_Brazil" title="Automotive industry in Brazil">Car industry</a></li>
+<li><a href="/wiki/Central_Bank_of_Brazil" title="Central Bank of Brazil">Central Bank</a></li>
+<li><a href="/wiki/Economic_history_of_Brazil" title="Economic history of Brazil">Economic history</a></li>
+<li><a href="/wiki/Energy_policy_of_Brazil" title="Energy policy of Brazil">Energy</a></li>
+<li><a href="/wiki/List_of_exports_of_Brazil" title="List of exports of Brazil">Exports</a></li>
+<li><a href="/wiki/Industry_in_Brazil" title="Industry in Brazil">Industry</a></li>
+<li><a href="/wiki/Mining_in_Brazil" title="Mining in Brazil">Mining</a></li>
+<li><a href="/wiki/Brazilian_real" title="Brazilian real">Real <small>(currency)</small></a></li>
+<li><a href="/wiki/Brazilian_science_and_technology" title="Brazilian science and technology">Science and technology</a></li>
+<li><a href="/wiki/%C3%8Dndice_Bovespa" title="Índice Bovespa">Stock index</a></li>
+<li><a href="/wiki/Telecommunications_in_Brazil" title="Telecommunications in Brazil">Telecommunications</a></li>
+<li><a href="/wiki/Tourism_in_Brazil" title="Tourism in Brazil">Tourism</a></li>
+<li><a href="/wiki/Transport_in_Brazil" title="Transport in Brazil">Transport</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Category:Brazilian_society" title="Category:Brazilian society">Society</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Corruption_in_Brazil" title="Corruption in Brazil">Corruption</a></li>
+<li><a href="/wiki/Crime_in_Brazil" title="Crime in Brazil">Crime</a></li>
+<li><a href="/wiki/Demographics_of_Brazil" title="Demographics of Brazil">Demographics</a></li>
+<li><a href="/wiki/Education_in_Brazil" title="Education in Brazil">Education</a></li>
+<li><a href="/wiki/Health_in_Brazil" title="Health in Brazil">Health</a></li>
+<li><a href="/wiki/Immigration_to_Brazil" title="Immigration to Brazil">Immigration</a></li>
+<li><a href="/wiki/Languages_of_Brazil" title="Languages of Brazil">Languages</a></li>
+<li><a href="/wiki/Brazilian_people" class="mw-redirect" title="Brazilian people">People</a></li>
+<li><a href="/wiki/Religion_in_Brazil" title="Religion in Brazil">Religion</a></li>
+<li><a href="/wiki/Social_issues_in_Brazil" title="Social issues in Brazil">Social issues</a></li>
+<li><a href="/wiki/List_of_Brazilian_federative_units_by_Human_Development_Index" title="List of Brazilian federative units by Human Development Index">States by HDI</a></li>
+<li><a href="/wiki/Unemployment_in_Brazil" title="Unemployment in Brazil">Unemployment</a></li>
+<li><a href="/wiki/Water_supply_and_sanitation_in_Brazil" title="Water supply and sanitation in Brazil">Water supply and sanitation</a></li>
+<li><a href="/wiki/Bolsa_Fam%C3%ADlia" title="Bolsa Família">Welfare</a></li>
+<li><a href="/wiki/Youth_in_Brazil" title="Youth in Brazil">Youth</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Brazil" title="Culture of Brazil">Culture</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brazilian_art" title="Brazilian art">Arts</a></li>
+<li><a href="/wiki/History_of_Brazilian_animation" title="History of Brazilian animation">Animation</a></li>
+<li><i><a href="/wiki/Brazilian_Carnival" title="Brazilian Carnival">Carnaval</a></i></li>
+<li><a href="/wiki/Cinema_of_Brazil" title="Cinema of Brazil">Cinema</a></li>
+<li><a href="/wiki/Brazilian_comics" title="Brazilian comics">Comics</a></li>
+<li><a href="/wiki/Brazilian_cuisine" title="Brazilian cuisine">Cuisine</a></li>
+<li><a href="/wiki/Brazilian_literature" title="Brazilian literature">Literature</a></li>
+<li><a href="/wiki/Malandragem" title="Malandragem">Malandragem</a></li>
+<li><a href="/wiki/Music_of_Brazil" title="Music of Brazil">Music</a></li>
+<li><a href="/wiki/List_of_newspapers_in_Brazil" title="List of newspapers in Brazil">Newspapers</a></li>
+<li><a href="/wiki/Brazilian_painting" title="Brazilian painting">Painting</a></li>
+<li><a href="/wiki/Public_holidays_in_Brazil" title="Public holidays in Brazil">Public holidays</a></li>
+<li><a href="/wiki/Brazilian_sculpture" title="Brazilian sculpture">Sculpture</a></li>
+<li><a href="/wiki/Brazilian_science_fiction" title="Brazilian science fiction">Science fiction</a></li>
+<li><a href="/wiki/Sport_in_Brazil" title="Sport in Brazil">Sports</a></li>
+<li><a href="/wiki/Television_in_Brazil" title="Television in Brazil">Television</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">
+<div>
+<div style="margin-bottom:-0.4em;">
+<ul>
+<li><span style="font-weight:normal;"><a href="/wiki/Outline_of_Brazil" title="Outline of Brazil">Outline</a></span></li>
+<li><span style="font-weight:normal;"><a href="/wiki/Index_of_Brazil-related_articles" title="Index of Brazil-related articles">Index</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Category:Brazil" title="Category:Brazil">Category</a></li>
+<li><a href="/wiki/Portal:Brazil" title="Portal:Brazil">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Rond%C3%B4nia&amp;params=-10.90_N_-62.76_E_"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">10°54′S</span> <span class="longitude">62°46′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">10.90°S 62.76°W</span><span style="display:none">﻿ / <span class="geo">-10.90; -62.76</span></span></span></a></span></span></span></p>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:229552-0!*!0!!en!4!* and timestamp 20161021165612 and revision id 734641279
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Rondônia&amp;oldid=734641279">https://en.wikipedia.org/w/index.php?title=Rondônia&amp;oldid=734641279</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Rond%C3%B4nia" title="Category:Rondônia">Rondônia</a></li><li><a href="/wiki/Category:States_of_Brazil" title="Category:States of Brazil">States of Brazil</a></li><li><a href="/wiki/Category:North_Region,_Brazil" title="Category:North Region, Brazil">North Region, Brazil</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_citations_lacking_titles" title="Category:Pages with citations lacking titles">Pages with citations lacking titles</a></li><li><a href="/wiki/Category:Pages_with_citations_having_bare_URLs" title="Category:Pages with citations having bare URLs">Pages with citations having bare URLs</a></li><li><a href="/wiki/Category:CS1_Portuguese-language_sources_(pt)" title="Category:CS1 Portuguese-language sources (pt)">CS1 Portuguese-language sources (pt)</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2016" title="Category:Articles with unsourced statements from August 2016">Articles with unsourced statements from August 2016</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2011" title="Category:Articles containing potentially dated statements from 2011">Articles containing potentially dated statements from 2011</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_with_Portuguese-language_external_links" title="Category:Articles with Portuguese-language external links">Articles with Portuguese-language external links</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Rond%C3%B4nia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Rond%C3%B4nia" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Rond%C3%B4nia"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Rond%C3%B4nia"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Rond%C3%B4nia" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Rond%C3%B4nia&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Rond%C3%B4nia&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Rond%C3%B4nia" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Rond%C3%B4nia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Rond%C3%B4nia&amp;oldid=734641279" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Rond%C3%B4nia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q43235" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Rond%C3%B4nia&amp;id=734641279" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Rond%C3%B4nia">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Rond%C3%B4nia&amp;returnto=Rond%C3%B4nia&amp;oldid=734641279&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Rond%C3%B4nia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Rond%C3%B4nia" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Rond%C3%B4nia" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D9%86%D8%AF%D9%88%D9%86%D9%8A%D8%A7" title="روندونيا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Rondoniya" title="Rondoniya – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A8%D1%82%D0%B0%D1%82_%D0%A0%D0%B0%D0%BD%D0%B4%D0%BE%D0%BD%D1%96%D1%8F" title="Штат Рандонія – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BD%D0%B4%D0%BE%D0%BD%D1%96%D1%8F" title="Рандонія – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F" title="Рондония – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-dz"><a href="https://dz.wikipedia.org/wiki/%E0%BD%A2%E0%BD%BC%E0%BD%93%E0%BC%8B%E0%BD%91%E0%BD%BC%E0%BC%8B%E0%BD%93%E0%BD%B2%E0%BD%A1%E0%BC%8B" title="རོན་དོ་ནིཡ་ – Dzongkha" lang="dz" hreflang="dz" class="interlanguage-link-target">ཇོང་ཁ</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Rond%C3%B4nia_osariik" title="Rondônia osariik – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eml"><a href="https://eml.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Emiliano-Romagnolo" lang="eml" hreflang="eml" class="interlanguage-link-target">Emiliàn e rumagnòl</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Rondonia" title="Rondonia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Rondonio" title="Rondonio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D9%86%D8%AF%D9%88%D9%86%DB%8C%D8%A7" title="روندونیا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Rondonia" title="Rondonia – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%98%BC%EB%8F%84%EB%8B%88%EC%95%84_%EC%A3%BC" title="혼도니아 주 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%A8%E0%A5%8D%E0%A4%A1%E0%A5%8B%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="रोन्डोनिया – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Rondonia" title="Rondonia – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%B0%E0%A6%A8%E0%A6%A1%E0%A6%A8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="রনডনিয়া – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A8%D7%95%D7%A0%D7%93%D7%95%D7%A0%D7%99%D7%94" title="רונדוניה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A0%E1%83%9D%E1%83%9C%E1%83%93%E1%83%9D%E1%83%9C%E1%83%98%E1%83%90" title="რონდონია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Cornish" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Rondoniensis" title="Rondoniensis – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Rondonija" title="Rondonija – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Rondonija" title="Rondonija – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0" title="Рондонија – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B0%E0%A5%8B%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%AF%E0%A5%8B%E0%A4%A8%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="रोन्द्योनिया – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%89%E3%83%8B%E3%82%A2%E5%B7%9E" title="ロンドニア州 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Rondoniya" title="Rondoniya – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%B1%D9%88%D9%86%D8%AF%D9%88%D9%86%DB%8C%D8%A7" title="روندونیا – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Rond%C3%B2nia" title="Rondònia – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Rond%C3%B4nia_suyu" title="Rondônia suyu – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F" title="Рондония – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0" title="Рондонија – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B9%82%E0%B8%94%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2" title="รัฐรอนโดเนีย – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B8%D1%8F" title="Рондония – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D1%96%D1%8F" title="Рондонія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%B1%D9%88%D9%86%D8%AF%D9%88%D9%86%DB%8C%D8%A7" title="روندونیا – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/Rond%C3%B4nia" title="Rondônia – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%9C%97%E5%A4%9A%E5%B0%BC%E4%BA%9A%E5%B7%9E" title="朗多尼亚州 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q43235#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 15 August 2016, at 18:42.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Rond%C3%B4nia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.488",
+            "walltime": "0.605",
+            "ppvisitednodes": {
+                "value": 4662,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 119100,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 25572,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 25,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 26,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  508.520      1 -total",
+                " 35.76%  181.824      1 Template:Infobox_state",
+                " 31.61%  160.740      4 Template:Infobox",
+                " 18.44%   93.782      1 Template:Reflist",
+                " 15.13%   76.952      1 Template:Brazil_topics",
+                " 14.55%   73.991      1 Template:Country_topics",
+                " 14.50%   73.710      5 Template:Navbox_with_striping",
+                " 13.04%   66.336      9 Template:Cite_web",
+                "  7.55%   38.407      1 Template:Cn",
+                "  6.80%   34.589      1 Template:Coord"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.187",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4933423,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1181",
+            "timestamp": "20161021165612",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":694,"wgHostname":"mw1181"});});</script>
+	</body>
+</html>

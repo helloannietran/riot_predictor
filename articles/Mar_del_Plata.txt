@@ -1,0 +1,291 @@
+Mar del Plata - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mar_del_Plata","wgTitle":"Mar del Plata","wgCurRevisionId":735846902,"wgRevisionId":735846902,"wgArticleId":283975,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Spanish-language external links","CS1 Spanish-language sources (es)","CS1 French-language sources (fr)","Coordinates on Wikidata","Settlement articles requiring maintenance","Articles to be expanded from March 2016","All articles to be expanded","Articles using small message boxes","Commons category with local link same as on Wikidata","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Mar del Plata","Populated places in Buenos Aires Province","Port settlements in Argentina","Populated coastal places in Argentina","Populated places established in 1874","1874 establishments in Argentina"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mar_del_Plata","wgRelevantArticleId":283975,"wgRequestId":"WAkhsgpAADwAAH4KZwUAAAAV","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":-38,"lon":-57.55},"wgWikibaseItemId":"Q52607","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Mar del Plata From Wikipedia, the free encyclopedia Jump to: navigation , search For the capital of Buenos Aires Province, see La Plata . Mar del Plata City From the top, left to right: city skyline, Torre Tanque, fishing boats in the port, Saint Michael chalet, Castagnino Museum , Sea Lion Monument, Torreón del Monje, the Mar del Plata Cathedral , and a panoramic view from Edén Palace 
+
+Flag 
+
+Coat of arms Nickname(s): 
+
+La Ciudad Feliz (The Happy City), Mardel , La Perla del Atlántico (The Pearl of the Atlantic) Mar del Plata Location in Argentina Coordinates: 38°0′0″S 57°33′0″W ﻿ / ﻿ 38.00000°S 57.55000°W ﻿ / -38.00000; -57.55000 Coordinates : 38°0′0″S 57°33′0″W ﻿ / ﻿ 38.00000°S 57.55000°W ﻿ / -38.00000; -57.55000 Country Argentina Province Buenos Aires Partido General Pueyrredón Founded February 10, 1874 Government • Intendant Carlos Arroyo Area • Total 79.48 km 2 (30.69 sq mi) Elevation 38 m (125 ft) Population (2010) • Total 614,350 • Demonym Marplatense Postal code 7600 Phone code +54 223 Climate Cfb Website www.mardelplata.gov.ar (Spanish) 
+
+Mar del Plata is an Argentine city in the southeast part of Buenos Aires Province located on the coast of the Atlantic Ocean . It is the head of General Pueyrredón Partido . Mar del Plata is the second largest city in Buenos Aires Province . The name "Mar del Plata" has the meaning of "sea of the Plate region " or "adjoining sea to the (River) Plate region". [1] Mar del Plata is one of the major fishing ports and the biggest seaside beach resort in Argentina. With a population of 614,350 as per the 2010 census [ INDEC ] , it is the 7th largest city in Argentina . 
+
+Contents 1 Economy 2 Transportation 3 History 4 Culture 4.1 Shows and festivals 4.2 Nightlife 4.3 Museums 5 Personalities 6 Architecture 7 Climate 8 Government 9 Education 10 Sport 11 International relations 11.1 Twin towns – Sister cities 12 Gallery 13 References 14 Further reading 15 External links 
+
+Economy [ edit ] One of the beaches of Mar del Plata during summer tourism season Typical wooden fishing boats at the port of Mar del Plata 
+
+As part of the Argentine recreational coast, tourism is Mar del Plata's main economic activity with seven million tourists visiting the city in 2006. Mar del Plata has a sophisticated tourist infrastructure with numerous hotels, restaurants, casinos, theatres and other tourist attractions. Mar del Plata is also an important sports centre with a multi-purpose Olympic style stadium (first used for the 1978 World Cup and later upgraded for the 1995 Pan American Games), five golf courses and many other facilities. 
+
+As an important fishing port, industry concentrates on fish processing and at least two large shipyards. [2] [3] 
+
+The area is also host to other light industry, such as textile, food manufacturing and polymers . There is a well-developed packaging machines industry, its quality being recognized in international markets. [4] One of these companies was one of the pioneers in the automatic packaging of tea bags , [5] exporting its original machine-designs abroad. Another company also exports its products and sold royalties to other countries. [6] 
+
+During the mid-1980s, Mar del Plata saw the birth of electronics factories, focused mostly on the telecommunications field, with two of them succeeding in the international market. [7] [8] 
+
+Since the 2000s, a local company builds and develops oil industry equipment, with customers in the United States, Russia, Oman and Egypt . [9] [10] 
+
+By the decade of 2010, the development of the software industry resulted in the formation of 92 companies and 440 microbusiness. [11] One of these companies, Making Sense, opened offices at San Antonio , Austin and Boston , in the United States. [12] Along with the American COPsync, Inc, the company developed in 2013 the software for VidTac, an in-car video system for law enforcement, [13] and the internet landing page application Lander, bought by the Silicon Valley company QuestionPro in 2016. [14] 
+
+Located southwest of the city there are quartzite quarries. The stone is traditionally used in construction. There is a huge area of farms in the rural areas surrounding the city, specialized mostly in the cultivation of vegetables . 
+
+Although the area had suffered from a high rate of unemployment from 1995 to 2003, Mar del Plata has seen 46,000 new jobs created from the third quarter of 2003 to the third quarter of 2008, representing an increase of 22%. [15] 
+
+The 2008 Davis Cup Final was held in Mar del Plata and, after being shut for a decade the Gran Hotel Provincial (one of the largest hotels in Argentina) was reopened by the Madrid -based NH Hotels , in 2009. 
+
+Mar del Plata continues to lead Argentina's room availability: of 440,000 registered hotel rooms nationwide in early 2009, the city was home to nearly 56,000 (5,000 more than Buenos Aires ). [16] Transportation [ edit ] See also: Transport in Argentina The old Mar del Plata station in 1910 Trains at Mar del Plata railway and bus station , opened in 2011 
+
+Mar del Plata is served by Astor Piazzolla International Airport (MDQ/SAZM) with daily flights to Buenos Aires served by Aerolíneas Argentinas and Sol Líneas Aéreas and weekly flights to Patagonia served by LADE . 
+
+Highway 2 connects Mar del Plata with Buenos Aires and Route 11 connects it through the coastline, ending at Miramar , 40 km (25 mi) south of Mar del Plata. Route 88 connects to Necochea and Route 226 to Balcarce , Tandil and Olavarría . 
+
+The city has a bus and train station serving most cities in Argentina . There are two daily trains to Buenos Aires' Constitución station using new trains operated by Trenes Argentinos . [17] [18] These services are part of the General Roca Railway , owned by the government company Nuevos Ferrocarriles Argentinos . Railway stations in Mar del Plata Station Builder Operating Status Operator/s Mar del Plata Norte BA Great Southern 1886-2011 Closed (1) BA Great Southern (1896-1948) 
+
+Ferrocarriles Argentinos (1948-1993) 
+
+Ferrobaires (1993-2011) Mar del Plata Sur BA Great Southern 1910-1949 Closed (2) BA Great Southern (1910-1948) 
+
+Ferrocarriles Argentinos (1948-1949) Railway Bus Trenes Argentinos 2011–present Active Trenes Argentinos (2011–present) Notes (1) Its tracks were extended to connect with the bus terminal opened in 2009, also building new train platforms. (2) Operated as the bus terminal of the city until 2009. History [ edit ] Main article: History of Mar del Plata Vacationers enjoy Playa Bristol (c.1910). The Mar del Plata Sud railway station (c.1910), was closed in 1949, and was later damaged by fire. Although it was renovated, it is today much less adorned. The Club Mar del Plata burned down in 1961, and was never rebuilt. From the 1950s to the 1970s there was a construction boom in the city. 
+
+Pre-Spanish era : The region was inhabited by Günuna Kena nomads (also known as northern Tehuelches ). They were later (after the 11th century) strongly influenced by the Mapuche culture. 
+
+1577–1857 : First European explorers. Sir Francis Drake made a reconnaissance of the coast and its sea lion colonies; Don Juan de Garay explored the area by land a few years later. In 1742, during the War of Jenkin's Ear , eight survivors of HMS Wager , part of Admiral Anson expedition, and led by Isaac Morris, lived through a ten-months ordeal before being decimated and captured by the Tehuelches, who eventually handed them to the Spaniards. After holding the Englishmen as prisoners, they returned Morris and his companions to London in 1746. [19] First colonization attempt by Jesuit Order near Laguna de los Padres ended in disaster (1751). 
+
+1857–1874 : The Portuguese entrepreneur José Coelho de Meirelles, taking advantage of the country's abundance of wild cattle, built a pier and a factory for salted meat , but the business only lasted a few years. 
+
+1874–1886 : Patricio Peralta Ramos acquired the now abandoned factory along with the surrounding terrain, and founded the town on February 10, 1874. Basque rancher Pedro Luro bought a part of Peralta Ramos land for agricultural production. First docks also erected around this time. 
+
+1886–1911 : The railway line from Buenos Aires , built by the Buenos Aires Great Southern reached Mar del Plata in 1886; the first hotels started their activity. The upper-class people from Buenos Aires became the first tourist of the new born village. They also established a local government that reflected their conservative ideals. Build-up of a French style resort. On 19 July 1907, the provincial legislature approved a bill that declared Mar del Plata as a city. [20] 
+
+1911–1930 : The residents, mostly new arrived immigrants from Europe, demanded and obtained the control of the Municipality administration. The socialist were the mainstream political force in this period, carrying out social reforms and public investment. The main port was also built and inaugurated in 1916. 
+
+1930–1946 : A military coup reinstated the Conservative hegemony in politics through electoral fraud and corruption, but in the local level they were quite progressive, their policies viewed in some way as a continuity of the socialist trend. In 1932, the construction of National Route 2 was completed, which connected Mar del Plata to Buenos Aires. [21] [22] Before this, a dirt road connected Mar del Plata to Buenos Aires using a different route, required almost 2 days to travel. [23] The seaside Casino complex opened in 1939, was designed by architect Alejandro Bustillo , dates from this period. 
+
+1946–1955 : Birth of the Peronist movement. A coalition between socialists and radicals defeated this new party by a narrow margin in Mar del Plata, but by 1948 Peronism came to dominate the local administration. The massive tourism, triggered by the welfare politics of Perón and the surge of the middle class marked a huge growth in the city's economy. 
+
+1955–1970 : After the fall of Perón , the socialists regained the upper hand in local politics; the city reached the peak in activities like construction business and building industry. Massive immigration from other regions of Argentina. 
+
+1970–1989 : Slight decline of tourism demand, counterbalanced by the increasing of other industries such as fishing and machinery. General infrastructure renewal under the military rule. The centrist Radical Civic Union becomes the main political force after the return of Democracy in 1983 . 
+
+1989–present : Though the Peronism replaced the radicals in central government amid a national financial crisis, the latter party continued to rule in Mar del Plata. Some resurge of mass tourism in the early '90s was followed by a deep social crisis in town, with an increase of poverty, jobless rate and emigration. By contrast, the first decade of the 21st century shows an amazingly quick recovery in all sectors of the ailing economy. 
+
+In November 2005 the city hosted the 4th Summit of the Americas . Culture [ edit ] 
+
+Mar del Plata is the most popular destination for conventions in Argentina after Buenos Aires . Mar del Plata has a wide range of services in this sector. The summer season hosts over fifty theatrical plays. Shows and festivals [ edit ] The Colón Theatre The Mar del Plata International Film Festival , the only competitive accredited film festival in Latin America. The Fiesta Nacional del Mar (" National Sea Festival ") with the election and coronation of the Sea Queen and her princesses, which takes place in December as the official inauguration of the summer season. The Premios Estrella de Mar (" Sea Star Awards ") which honor the best stage plays and shows of the season. The Valencian Falles week, a local reenactment of the Valencian event conducted by the Valencian community. The Mar del Plata Fashion Show, along with a number of fashion parades that gathers the best haute couture designers. The Fiesta Nacional de los Pescadores ( National Fishermen's Festival ), a colourful display of seamen tradition and cuisine. Mar del Plata has also hosted the 1995 Pan American Games , the 2003 Parapan American Games , the 2005 FIBA Under-21 World Championship , and co-hosted the 1978 FIFA World Cup and the 2001 FIFA World Youth Championship . Since 1987 Mar del Plata annually hosts the Mar del Plata Marathon , in early December. The 53rd International Mathematical Olympiad was held in Mar del Plata in 2012. The Festival Internacional de Poesia del Atlantico International Poetry Festival of the Atlantic , is an international poetry festival. It began in 2013 and for its second edition in 2014 it gathered more than 210 poets from Argentina, Uruguay, Mexico, Iran, Chile, Peru and Cuba. It's part of the Moviento Poetico Mundial World Poetry Movement . [24] The Prosa Mutante is a cycle of literary experiences and arts collective established in January 2013 that takes place since then every Thursday from 20:00 at Piano Bar in which stage over 100 local, national and international artists have performed. [25] 
+
+The local Government sponsors a Symphonic Orchestra, as well as a two Conservatoriums (Classical and popular music) and a School of Classical and Modern Dance. Nightlife [ edit ] The Museum of the Sea opened in 2000, and it holds a collection of over 30,000 sea shells, among other specimens 
+
+Mar del Plata has a wide variety of clubs located by district: the area of Escollera Norte (known for its quantity of pubs and nightclubs) and Constitution Avenue. Museums [ edit ] The Juan Carlos Castagnino Municipal Museum of Art . [26] The Museum of the Port of Mar del Plata Cleto Ciocchini . [27] The Museum of Contemporary Art MAR . [28] The Museum of Natural Science Lorenzo Scaglia , specialized in Paleontology of the Quaternary species around the region. [29] The Mar del Plata Museum of the Sea , which included one of the most complete collections of sea snails of the World. The museum has been closed to the public since September 2012. [30] Villa Victoria , a vintage wooden house, the former residence of the late writer Victoria Ocampo , now a place for art expositions and classical music. [31] The Submarine Force Museum, located in the proximities of the Mar del Plata Naval Base. [32] Personalities [ edit ] Alberto Bruzzone's workshop Macarena Achaga (born March 5 1992), actress, model, and singer. Gabriel Amato (born October 22 1970), former international soccer player. Former forward of Boca Juniors , River Plate , Rangers FC and Grêmio . Inés Arrondo (born November 28 1977), field hockey player, winner along with the national team of an Olympic silver medal in Sydney 2000 , the bronze medal in Athens 2004 and the World Cup in 2002. Héctor Babenco (1946–2016), movie director of Hollywood films such as Kiss of the Spider Woman and Ironweed . Raised in Mar del Plata. Mario Benedetti (1945), electronics engineer, the main Argentine scientist involved in the Large Hadron Collider project. He is also the owner of Tío Curzio , one of the most fashionable restaurants in the city. [33] [34] [35] Erica Vanessa Bibbó (1985), the first female commander of a naval unit in the Argentine navy . [36] [37] Amado Boudou (born November 19 1962), former Vice President of Argentina. Alberto Bruzzone (1907–1994), painter, was born in San Juan but chose Mar del Plata as his home city. Germán Burgos (born April 16 1969), former goalkeeper who played two World Cups. Currently, he is oriented to music. Homero Cárpena (1910–2001), actor, playwright and filmmaker. Juan Carlos Castagnino (1908-1972), painter. Guillermo Vilas near the peak of his career in 1975 Juan Curuchet (born February 4 1965), former road bicycle racer and track cyclist , winner of the Men's Madison gold medal at the 2008 Summer Olympics along with Walter Pérez . Martin Donovan (not to be confused with American actor Martin Donovan ), Hollywood screenwriter and producer, co-author of the screenplay of movies like Death Becomes Her and Loving Couples . Laura Echarte, agricultural engineer , researcher in crop physiology studies, winner of a 2007 L'Oréal-Unesco international fellowship for Women. [38] Juan Eduardo Esnáider (born March 5 1973), international soccer player. Former forward of Espanyol de Barcelona , Atlético de Madrid , Juventus and River Plate. Nacha Guevara (born October 3 1940), singer and actress. Carlos Enrique Díaz Sáenz Valiente (1917–1956), shooter, silver medalist at the 1948 Summer Olympics and World Champion in 1947. Jorge Lanata (born September 12 1960), journalist and writer. Maria Gabriela Palomo, marine biologist , also winner of the L'Oréal- Unesco junior award in 2003 for her works on port-areas environmental pollution . [39] Ástor Piazzolla (1921-1992), composer and musician. Ricardo Piglia (born November 24 1941), writer born in Adrogué but raised in Mar del Plata. [40] Alfonsina Storni (1892-1938), poet. Auro Tiribelli (1908–2006), architect, the main representative of the Mar del Plata style . [41] Guillermo Vilas (born August 17 1952), top-ten international tennis player, popularizer of the between-the-legs tweener shot, also called the Gran Willy after him. Selem Safar (born May 6 1987), professional basketball player. Architecture [ edit ] See also: Mar del Plata style Villa Normandy, built in 1919 An example of "Mar del Plata Style" 
+
+The development of the city as a seasonal summer resort in the early 20th century led upper class tourists from Buenos Aires to build a European-inspired architecture, based mainly on the picturesque and later on the art deco styles. This gave Mar del Plata the nickname of the Argentine Biarritz . The building industry became the main non-seasonal activity of the town by 1920. 
+
+During the '30s,'40s, and beyond, local architects and builders, like Auro Tiribelli, Arturo Lemmi, Alberto Córsico-Picollini and Raúl Camusso recreated and transformed the picturesque values into a middle-class scale, marking the beginning of a vernacular architecture , called Mar del Plata Style , consisting in small samples of the luxury-laden summer residences of high society, built for the summer visitor as well as for the local resident. 
+
+These chalets were built with stone façades , gables roofs covered with Spanish or French tiles, prominent eaves and front porches . This gives the town some distinctive urban character compared with other Argentine cities, despite the fact that the growing mass of tourists in the '60s imposed the construction of large apartment buildings and skyscrapers as the predominant architectural style downtown. [42] Climate [ edit ] 
+
+Mar del Plata has an oceanic climate ( Cfb , according to the Köppen climate classification ), with humid and moderate summers and relatively cool winters, although polar air masses from Antarctica are frequent. The average temperatures for January reach 20 °C (68 °F) and 8 °C (46 °F) for July. The West-Southwest winds bring down the temperature below 0 °C (32 °F), while the Southeast ones (the so-called Sudestada ) are stronger, producing coastal showers and rough seas, as well as strong squalls, but the cold is much less intense. [43] A snowy winter's day at Playa Grande , July 10, 2004 
+
+The city's summer maximum temperatures fluctuate broadly around the average of 27 °C (81 °F): while there are many days between 30 °C (86 °F) and 35 °C (95 °F), strong on-shore or southerly winds can also keep temperatures closer to 20 °C (68 °F), and nights can sometimes be very cool even in midsummer (falling below 10 °C (50 °F) sometimes). Traditionally, Easter is seen as the "last" weekend to go to the beach in the Argentine Atlantic coast, and average maximum temperatures are around 23 °C (73 °F) at that time. While some years can have the last few days of 25 °C (77 °F) to 30 °C (86 °F) around that time, it is also entirely possible to experience daily highs of 15 °C (59 °F). Winter temperatures average 12 °C (54 °F) during the day and 3 °C (37 °F) at night; they sometimes climb to 18 °C (64 °F) for a couple of days, but there are also days where highs stay around 6 °C (43 °F) and temperatures fall a few degrees below 0 °C (32 °F) at night. 
+
+Spring brings the most variable weather, with heat waves bringing highs of 35 °C (95 °F) followed by highs of 10 °C (50 °F) to 15 °C (59 °F) and perhaps a late-season frosty night all perfectly possible in October and November. 
+
+There are about six days of frost each year in the city center, and almost 27 recorded at the airport. [44] The average dates for the first and last frost are May 23 and October 4 respectively. [45] Snowfall is not uncommon, but snow accumulation on the ground is rare, a phenomenon that takes place every six years or so, according to the last 40 year's data. Among the most best known such occurrences in the latest decades were the 1975 and 1991 snowstorms, but there were also snow accumulations in 1994 and 1997 in the highest hills area of Sierra de los Padres , in 1995 along the southern coast, and other two during the first hours of July 10, 2004, July 15, 2010, [46] and again in Sierra de los Padres and the southern coast on 11 September 2015. [47] [48] There were flurries in September 1986, June 2007, July 2011 and August 2013. [49] 
+
+There is fog in the last days of fall, and springtime is often marred by sea winds and sudden temperature's changes. There are some ten days of 30 °C (86 °F) each summer, certainly milder values than the rest of the pampas region. Usually, the summer nights are cool and pleasant, with values between 13 °C (55 °F) to 17 °C (63 °F). The record high is 41.6 °C (107 °F) on January 28, 1957 while the record low is −9.3 °C (15 °F) on July 6, 1988. [50] The wet season occurs during spring and summer, especially in January, with values between 70 millimetres (3 in) and 80 millimetres (3 in). The average annual rainfall is 780 millimetres (31 in). [43] Climate data for Mar del Plata (1961–1990, extremes 1888–present) Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Record high °C (°F) 41.6 
+
+(106.9) 38.2 
+
+(100.8) 36.3 
+
+(97.3) 33.0 
+
+(91.4) 28.5 
+
+(83.3) 25.5 
+
+(77.9) 27.7 
+
+(81.9) 29.9 
+
+(85.8) 30.1 
+
+(86.2) 34.4 
+
+(93.9) 35.7 
+
+(96.3) 39.4 
+
+(102.9) 41.6 
+
+(106.9) Average high °C (°F) 26.3 
+
+(79.3) 25.8 
+
+(78.4) 23.7 
+
+(74.7) 20.5 
+
+(68.9) 16.8 
+
+(62.2) 13.8 
+
+(56.8) 13.1 
+
+(55.6) 14.4 
+
+(57.9) 16.0 
+
+(60.8) 18.5 
+
+(65.3) 21.7 
+
+(71.1) 24.4 
+
+(75.9) 19.6 
+
+(67.3) Daily mean °C (°F) 20.3 
+
+(68.5) 19.9 
+
+(67.8) 18.0 
+
+(64.4) 14.6 
+
+(58.3) 11.3 
+
+(52.3) 8.5 
+
+(47.3) 8.1 
+
+(46.6) 8.9 
+
+(48) 10.5 
+
+(50.9) 13.1 
+
+(55.6) 15.9 
+
+(60.6) 18.5 
+
+(65.3) 14.0 
+
+(57.2) Average low °C (°F) 14.3 
+
+(57.7) 14.1 
+
+(57.4) 12.5 
+
+(54.5) 9.1 
+
+(48.4) 6.4 
+
+(43.5) 4.1 
+
+(39.4) 3.8 
+
+(38.8) 4.0 
+
+(39.2) 5.3 
+
+(41.5) 7.6 
+
+(45.7) 10.1 
+
+(50.2) 12.7 
+
+(54.9) 8.7 
+
+(47.7) Record low °C (°F) 3.0 
+
+(37.4) 1.2 
+
+(34.2) 0.2 
+
+(32.4) −3.6 
+
+(25.5) −3.7 
+
+(25.3) −8.0 
+
+(17.6) −9.3 
+
+(15.3) −6.4 
+
+(20.5) −6.3 
+
+(20.7) −3.0 
+
+(26.6) −2.0 
+
+(28.4) −0.2 
+
+(31.6) −9.3 
+
+(15.3) Average precipitation mm (inches) 100.1 
+
+(3.941) 72.8 
+
+(2.866) 107.0 
+
+(4.213) 73.3 
+
+(2.886) 73.5 
+
+(2.894) 54.9 
+
+(2.161) 58.9 
+
+(2.319) 64.0 
+
+(2.52) 56.4 
+
+(2.22) 83.4 
+
+(3.283) 75.3 
+
+(2.965) 104.0 
+
+(4.094) 923.6 
+
+(36.362) Average precipitation days (≥ 0.1 mm) 9 8 9 9 9 9 9 8 7 10 10 10 107 Average relative humidity (%) 76 77 79 81 83 84 81 81 80 80 77 76 80 Mean monthly sunshine hours 288.3 234.5 232.5 195.0 167.4 120.0 127.1 164.3 174.0 210.8 222.0 269.7 2,405.6 Percent possible sunshine 63 60 54 58 51 41 42 46 47 51 52 59 52 Source #1: NOAA, [51] Meteo Climat (record highs and lows), [50] Oficina de Riesgo Agropecuario (June record low only) [45] Source #2: Servicio Meteorológico Nacional (precipitation days), [52] UNLP (sun only) [53] Government [ edit ] City Hall 
+
+Mar del Plata is the head of the department of General Pueyrredón . The current Mayor of the city and department is Carlos Arroyo, of the Cambiemos party. 
+
+The town council has some legislative powers. The term of office for both the Mayor and council members is four years. [54] 
+
+In 1919, Mar del Plata became the first town in South America to have a Socialist Mayor, a son of Italian Immigrants, Teodoro Bronzini . The Socialist Party would dominate the city political landscape for most of the 20th century. 
+
+Mar del Plata has had 109 [55] Mayors and Commissioners from 1881 to the present. 
+
+There is an extensive but interesting work by the American sociologist Susan Stokes [56] about the democratic process in Mar del Plata since 1983 in comparison to other regions of Argentina. [57] [58] One of the main thesis of her articles is that the social and economic development of Mar del Plata was quite atypical, with a strong prevalence of middle-class values that discouraged the policy of clientelism that is the common background in other urban environments of Argentina. [59] Education [ edit ] This section needs expansion . You can help by adding to it . (March 2016) 
+
+The area once had a German school, Johann-Gutenberg-Schule. [60] Sport [ edit ] Estadio José María Minella . Polideportivo Islas Malvinas . 
+
+Mar del Plata's most popular football teams are Aldosivi , Alvarado and Kimberley . Aldosivi plays in Primera division , Alvarado and Kimberley in the Torneo Argentino B . [61] 
+
+Peñarol and Quilmes de Mar del Plata are the most popular basketball teams. Peñarol have won eight official tournaments (Súper 8, FIBA Americas League , five National Leagues, InterLigas , and Copa Argentina). [62] Mar del Plata hosted the 2011 FIBA Americas Championship , where the city's basketball fans supported Argentina's national basketball team to win the gold medal. [63] All games were played in the 8,000 seat Polideportivo Islas Malvinas . 
+
+Mar del Plata hosted six matches in the 1978 FIFA World Cup at the Estadio José María Minella , which was built for the sporting event. 
+
+The city also hosted the 1995 Pan American Games . 
+
+The city is home to Argentine Bandy Union. [64] 
+
+In 2003 Mar del Plata hosted the 2nd Parapan American Games that featured 1,500 athletes from 28 countries competed in nine sporting events. [65] This was the last Parapan American Games that was not tied to the Pan American Games . 
+
+The 20th World Transplant Games were held in the city from 23 to 30 August 2015. [66] 
+
+Mar del Plata was the starting point for the 2012 Dakar Rally . International relations [ edit ] See also: List of twin towns and sister cities in Argentina Twin towns – Sister cities [ edit ] 
+
+Mar del Plata is twinned with: Viña del Mar , Chile Tianjin , China [67] La Habana , Cuba A Coruña , Spain Biarritz , France Bari , Italy Ischia, Campania , Italy San Benedetto del Tronto , Italy Agadir , Morocco Vigan , Philippines Saint Petersburg , Russia Fort Lauderdale , USA Gallery [ edit ] 
+
+Mar del Plata's view at night from La Perla beaches 
+
+A two-story Mar del Plata style chalet 
+
+Villa Victoria, the former home of Victoria Ocampo 
+
+The Torre Tanque de Obras Sanitarias 
+
+Mar del Plata Casino 
+
+Municipal art Museum 
+
+Snow on La Perla beach, August 1, 1991 References [ edit ] ^ Creemos, sin embargo, que por ser el primer contacto que los hombres del Río de la Plata tomaron con el mar se llamó a este punto precisamente mar "del Plata". Cova, Roberto Osvaldo: Síntesis histórica de Mar del Plata: notas para el conocimiento del origen, evolución y desarrollo de la ciudad y de la zona. 1969, p. 8 (Spanish) ^ Astillero Naval Federico Contessi (Spanish) ^ Bienvenidos a SPI (Spanish) ^ TECMAR ^ "MAI S.A. |" . www.maisa.com.ar . Retrieved 2015-12-07 . ^ Orengia y Conforti Ind. y Com. S.A ^ Ninatec S.A. ^ DelSat Group ^ Hacemos Ingeniería de Primera Línea La Capital, 9 May 2011 (Spanish) ^ QM Equipment (Spanish) ^ "La industria del software y las TIC hacen pie en la ciudad" . Opinión 22 (in Spanish). 10 March 2015 . Retrieved 20 June 2016 . ^ Sense, Making. "About Us | Making Sense | Story" . Making Sense . Retrieved 2016-06-20 . ^ "El software marplatense llega a los patrulleros texanos" . www.lanacion.com.ar (in Spanish) . Retrieved 2016-06-20 . ^ "Una compañía de Silicon Valley adquiere software marplatense" . Diario La Capital de Mar del Plata (in Spanish) . Retrieved 2016-06-20 . ^ INDEC (Spanish) ^ Argentina Municipal : La ciudad de Mar del Plata lidera la oferta hotelera del país (Spanish) ^ "Realizará su primer viaje el tren chino que unirá Buenos Aires con Mar del Plata" , Minuto Uno, 21 Nov 2014 ^ Comenzó a operar el tren Buenos Aires - Mar del Plata - Transporte Publico, 29 December 2–14. ^ Historical Materials from Southern Patagonia ^ "Síntesis Histórica" (in Spanish) . Retrieved June 16, 2015 . ^ "Historia de la Ruta 2" (in Spanish). Covisur. Archived from the original on 8 October 2007 . Retrieved June 16, 2015 . ^ Guillermo Kraft (1940). Cuatro años de gobierno 1936–1940, volume IV Vialidad . Gobierno de la Provincia de Buenos Aires. ^ El camino a Mar del Plata , Dirección Nacional de Vialidad, 1934 ^ "Revista La Avispa (The Wasp Magazine) No. 60 Bis - Interview to Carlos Enrique Cartolano creator and one of the organizators of the FIPA. (In Spanish)" . Grupo DeLaPalabra and Editorial Martin . Retrieved 9 May 2015 . ^ "Profile page of La Prosa Mutante at the Red Federal de Poesia. (In Spanish)" . Ministry of Culture of the Republic of Argentina . Retrieved 30 September 2015 . ^ Welcome Argentina: Museo Castagnino ^ Cleto Ciocchini Harbor Man's Museum ^ [1] ^ Museo Municipal de Ciencias Naturales Lorenzo Scaglia ^ Museo del Mar (Spanish) ^ Villa Victoria Ocampo Cultural Center ^ Argentine Navy website, Submarine Force Museum page (accessed 2015-03-05) (Spanish) ^ Aplicaciones biológicas de la investigación en física de altas energías (Spanish) ^ Visita a la “máquina de Dios” Página 12 newspaper, 16 June 2009 (Spanish) ^ CERN document server: "Three Presidents in one day" . ^ La Capital newspaper, 5 July 2009 (Spanish) ^ "MDP hoy" . mdphoy.com/ . Retrieved 2016-08-17 . ^ Argentine scientist gets L'Oreal-UNESCO award ^ Prize-Giving Ceremony for 2003 L’ORÉAL-UNESCO 'Women in science' Awards ^ Unidos por el sur: Ricardo Piglia (Spanish) ^ Murió el arquitecto Auro Tiribelli, creador del chalet marplatense (Spanish) ^ Cacopardo, Chapter VII (by Javier Sáez) ^ a b Roccatagliata, pp. 167–174 ^ "Datos bioclimáticos de 173 localidades argentinas–Anuales" . Atlas Bioclimáticos (in Spanish). Universidad Nacional de La Plata . Retrieved June 10, 2015 . ^ a b "Mar del Plata, Buenos Aires" . Estadísticas meteorológicas decadiales (in Spanish). Oficina de Riesgo Agropecuario . Retrieved June 10, 2015 . ^ Una ola de frío invade a todo el país La Nación, 15 July 2010 (Spanish) ^ "Las mejores fotos de la nevada en Sierra de los Padres" . Retrieved 2015-09-13 . ^ "Diez días antes de la primavera, una ola de frío llevó nieve a lugares inesperados" . Retrieved 2015-09-13 . ^ Retrieved from the following editions of La Capital newspaper: 17 July 1975 17 September 1986 2 August 1991 5 August 1995 27 June 1997 11 July 2004 26 June 2007 Clarín , June 28, 1994 and 3 July 2011 Video files from Channel 8, Mar del Plata, TN news and Crónica TV ^ a b "Station Mar del Plata" (in French). Meteo Climat . Retrieved June 11, 2015 . ^ "Mar del Plata AERO Climate Normals 1961–1990" . National Oceanic and Atmospheric Administration . Retrieved March 29, 2015 . ^ "Valores Medios de Temperature y Precipitación-Buenos Aires: Mar del Plata" (in Spanish). Servicio Meteorológico Nacional . Retrieved March 29, 2015 . ^ "Datos bioclimáticos de 173 localidades argentinas" . Atlas Bioclimáticos (in Spanish). Universidad Nacional de La Plata . Retrieved April 5, 2014 . ^ Municipalidad de General Pueyrredón - Honorable Concejo Deliberante (Spanish) ^ List of Mar del Plata mayors since 1881 (Spanish) ^ Susan Stokes - Department of Political Science - Yale ^ Helmke and Levitsky, Chapter 6 ^ PDF-2 ^ Shapiro and Bedi, pp. 191–195 ^ " Deutscher Bundestag 4. Wahlperiode Drucksache IV/3672 " ( Archive ). Bundestag (West Germany). 23 June 1965. Retrieved on 12 March 2016. p. 18/51. ^ "El Equipo de la Ciudad" by Gastón Julián Gil (English) ^ Miguel Romano (2010-10-10). "Cartón lleno para el gran campeón" . Cancha Llena (in Spanish) . Retrieved 2010-10-11 . ^ 2011 FIBA Americas Championship , Archive.FIBA.com, Retrieved 18 March 2016. ^ Federation of International Bandy ^ http://www.disabled-world.com/sports/parapan/ ^ "WTGF Events" . World Transplant Games Federation . Retrieved 15 August 2015 . ^ "Tianjin Sister-City Council for the Promotion of Enterprises" . Tianjin Sister-City Council for the Promotion of Enterprises . Retrieved 2013-06-24 . Further reading [ edit ] Cacopardo, Fernando A. others: Mar del Plata, Ciudad e Historia . Alianza Editorial S.A./UNMDP, Madrid/Buenos Aires, 1997. ISBN 950-40-0155-6 . (Spanish) Rocatagliata, Juan A. others: Mar del Plata y su Región . Sociedad Argentina de Estudios Geográficos, Buenos Aires, 1984. (Spanish) Anniversary Editions of La Capital newspaper: 1955, 1980, 1985, 2005. (Spanish) Barili, Roberto T.: Mar del Plata, Reseña Histórica . Published by the Municipality of Gral. Pueyrredón, Mar del Plata, 1964. (Spanish) Zago, Manrique: Mar del Plata, Argentina . Manrique Zago Ed., 1997. ( Bilingual Edition ) Stokes, Susan C.: Do Informal Institutions Make Democracy Work? Accounting for Accountability in Argentina. University of Chicago. Prepared for presentation at the conference, "Informal Institutions in Latin America". University of Notre Dame, April 23–24, 2003. Shapiro, Ian and Bedi, Sonu : Political Contingency: Studying the Unexpected, the Accidental, and the Unforeseen . New York University Press, 2007. ISBN 0-8147-4044-8 Helmke, Gretchen and Levitsky, Steven: Informal Institutions and Democracy:Lessons from Latin America . Johns Hopkins University Press, 2006. ISBN 0-8018-8351-2 External links [ edit ] Wikimedia Commons has media related to Mar del Plata . Mar del Plata travel guide from Wikivoyage Official Government website (Spanish) National University of Mar del Plata (Spanish) Mar del Plata Balcarce Partido Mar Chiquita Partido South Atlantic Balcarce Partido South Atlantic Mar del Plata General Alvarado Partido South Atlantic South Atlantic v t e Main cities of Buenos Aires Province Capital city La Plata Metropolitan cities Mar del Plata Bahía Blanca Tandil San Nicolás de los Arroyos Greater Buenos Aires area cities Adrogué Avellaneda Banfield Béccar Bella Vista Berazategui Bernal Boulogne Sur Mer Burzaco Caseros Castelar Ciudad Evita Ciudadela Claypole El Palomar Florencio Varela Florida Glew González Catán Gregorio de Laferrère Grand Bourg Hurlingham Isidro Casanova Ituzaingó José C. Paz José Mármol Lanús Libertad Longchamps Lomas del Mirador Lomas de Zamora Los Polvorines Mariano Acosta Martínez Merlo Monte Chingolo Monte Grande Moreno Morón Olivos Quilmes Rafael Calzada Rafael Castillo Ramos Mejia Remedios de Escalada San Fernando San Francisco Solano San Isidro San Justo San Martín San Miguel Sarandí Temperley Tigre Villa Centenario Villa Domínico Villa Tesei Wilde William C. Morris Regional cities Azul Balcarce Belén de Escobar Berisso Bragado Brandsen Campana Cañuelas Chivilcoy Chascomús City Bell Coronel Pringles Dolores Junín Lincoln Lobos Luján Mercedes Necochea Nueve de Julio Olavarría Pergamino Pilar Ramallo Saladillo San Clemente del Tuyú Trenque Lauquen Tres Arroyos Zárate Towns 10,000 people Alberti Arrecifes Baradero Chacabuco Coronel Dorrego Daireaux Ensenada General Belgrano General Lavalle Henderson Magdalena Marcos Paz Mar de Ajó Mar del Tuyú Miramar Open Door Pehuajó Pellegrini Pinamar Punta Alta Rauch Salto San Bernardo del Tuyú San Pedro Santa Teresita San Vicente Suipacha Tornquist Villa Gesell v t e Pan American Games host cities 1951 : Buenos Aires 1955 : Mexico City 1959 : Chicago 1963 : São Paulo 1967 : Winnipeg 1971 : Santiago de Cali 1975 : Mexico City 1979 : San Juan 1983 : Caracas 1987 : Indianapolis 1991 : Havana 1995 : Mar del Plata 1999 : Winnipeg 2003 : Santo Domingo 2007 : Rio de Janeiro 2011 : Guadalajara 2015 : Toronto 2019 : Lima Authority control WorldCat Identities VIAF : 167520778 GND : 4329093-0 BNF : cb11985301w (data) (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Mar_del_Plata oldid=735846902 " Categories : Mar del Plata Populated places in Buenos Aires Province Port settlements in Argentina Populated coastal places in Argentina Populated places established in 1874 1874 establishments in Argentina Hidden categories: Articles with Spanish-language external links CS1 Spanish-language sources (es) CS1 French-language sources (fr) Coordinates on Wikidata Settlement articles requiring maintenance Articles to be expanded from March 2016 All articles to be expanded Articles using small message boxes Commons category with local link same as on Wikidata Wikipedia articles with VIAF identifiers Wikipedia articles with GND identifiers Wikipedia articles with BNF identifiers Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Wikivoyage Languages Afrikaans العربية Aymar aru বাংলা Беларуская Български Català Čeština Dansk Deutsch Ελληνικά Español Esperanto Euskara فارسی Français Galego 한국어 Հայերեն Bahasa Indonesia Ирон Italiano עברית ქართული Ladino Lëtzebuergesch Lietuvių Ligure Magyar Bahasa Melayu Nederlands 日本語 Norsk bokmål Occitan Oʻzbekcha/ўзбекча Polski Português Română Runa Simi Русский Scots Simple English Slovenčina Ślůnski Српски / srpski Srpskohrvatski / српскохрватски Suomi Svenska ไทย Українська Vepsän kel’ Tiếng Việt Volapük Winaray 中文 Edit links This page was last modified on 23 August 2016, at 13:53. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.668", "walltime": "0.805", "ppvisitednodes": { "value": 8009, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 151489, "limit": 2097152 }, "templateargumentsize": { "value": 9479, "limit": 2097152 }, "expansiondepth": { "value": 23, "limit": 40 }, "expensivefunctioncount": { "value": 7, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 599.331 1 -total", " 28.13% 168.621 1 Template:Infobox_settlement", " 23.96% 143.608 1 Template:Reflist", " 21.11% 126.529 2 Template:Infobox", " 15.62% 93.621 20 Template:Cite_web", " 10.49% 62.854 1 Template:Weather_box", " 8.12% 48.661 29 Template:Convert", " 4.85% 29.088 12 Template:Flagicon", " 3.73% 22.374 1 Template:For", " 3.55% 21.275 1 Template:Geobox_coor" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.206", "limit": "10.000" }, "limitreport-memusage": { "value": 8298454, "limit": 52428800 } }, "cachereport": { "origin": "mw1265", "timestamp": "20161020195739", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":907,"wgHostname":"mw1265"});});

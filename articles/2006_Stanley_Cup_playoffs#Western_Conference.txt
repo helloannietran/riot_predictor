@@ -1,0 +1,539 @@
+2006 Stanley Cup playoffs - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"2006_Stanley_Cup_playoffs","wgTitle":"2006 Stanley Cup playoffs","wgCurRevisionId":730148044,"wgRevisionId":730148044,"wgArticleId":4201147,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hCards","2006 Stanley Cup","Stanley Cup playoffs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"2006_Stanley_Cup_playoffs","wgRelevantArticleId":4201147,"wgRequestId":"WAlPEQpAMFgAAILxhgIAAAAY","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikibaseItemId":"Q3968228","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); 2006 Stanley Cup playoffs From Wikipedia, the free encyclopedia Jump to: navigation , search The NHL unveiled a new logo for the 2006 Stanley Cup playoffs. 
+
+The 2006 Stanley Cup playoffs for the National Hockey League (NHL) championship began on April 21, 2006, following the 2005–06 regular season . The 16 teams that qualified, seeded one through eight from each conference, played best-of-seven series with re-seeding after the Conference Quarterfinals. The conference champions played a best-of-seven series for the Stanley Cup . 
+
+The finals concluded on June 19 with the Carolina Hurricanes winning the Stanley Cup, defeating the Edmonton Oilers in the final series four games to three. Carolina goaltender Cam Ward was awarded the Conn Smythe Trophy as Most Valuable Player of the playoffs. 
+
+While the 2005–06 season introduced a shootout to break ties after five minutes of four-on-four overtime , the Stanley Cup playoffs retained their traditional format of unlimited 20-minute periods of five-on-five sudden-death overtime to break ties. 
+
+The Western Conference made history in the first round when all four series were won by the lower-seeded teams (conversely, all four series in the Eastern Conference were won by the higher-seeded teams). The eighth- and lowest-seeded Oilers proceeded to win the Western Conference and participate in the Stanley Cup Finals. Four Canadian teams qualified for the playoffs this year, this total was not equaled again until 2013 . The Stanley Cup 
+
+Contents 1 Playoff seeds 1.1 Eastern Conference 1.2 Western Conference 2 Playoff bracket 3 Conference Quarterfinals 3.1 Eastern Conference Quarterfinals 3.1.1 (1) Ottawa Senators vs. (8) Tampa Bay Lightning 3.1.2 (2) Carolina Hurricanes vs. (7) Montreal Canadiens 3.1.3 (3) New Jersey Devils vs. (6) New York Rangers 3.1.4 (4) Buffalo Sabres vs. (5) Philadelphia Flyers 3.2 Western Conference Quarterfinals 3.2.1 (1) Detroit Red Wings vs. (8) Edmonton Oilers 3.2.2 (2) Dallas Stars vs. (7) Colorado Avalanche 3.2.3 (3) Calgary Flames vs. (6) Mighty Ducks of Anaheim 3.2.4 (4) Nashville Predators vs. (5) San Jose Sharks 4 Conference Semifinals 4.1 Eastern Conference Semifinals 4.1.1 (1) Ottawa Senators vs. (4) Buffalo Sabres 4.1.2 (2) Carolina Hurricanes vs. (3) New Jersey Devils 4.2 Western Conference Semifinals 4.2.1 (5) San Jose Sharks vs. (8) Edmonton Oilers 4.2.2 (6) Mighty Ducks of Anaheim vs. (7) Colorado Avalanche 5 Conference Finals 5.1 Eastern Conference Final 5.1.1 (2) Carolina Hurricanes vs. (4) Buffalo Sabres 5.2 Western Conference Final 5.2.1 (6) Mighty Ducks of Anaheim vs. (8) Edmonton Oilers 6 Stanley Cup Finals 7 Player statistics 7.1 Skaters 7.2 Goaltending 8 References 9 See also 
+
+Playoff seeds [ edit ] Eastern Conference [ edit ] Ottawa Senators , Northeast Division champions, Eastern Conference regular season champions – 113 points Carolina Hurricanes , Southeast Division champions – 112 points New Jersey Devils , Atlantic Division champions – 101 points (46 wins) Buffalo Sabres – 110 points Philadelphia Flyers – 101 points (45 wins) New York Rangers – 100 points Montreal Canadiens – 93 points Tampa Bay Lightning – 92 points Western Conference [ edit ] Detroit Red Wings , Central Division champions, Western Conference regular season champions, Presidents' Trophy winners – 124 points Dallas Stars , Pacific Division champions – 112 points Calgary Flames , Northwest Division champions – 103 points Nashville Predators – 106 points San Jose Sharks – 99 points Mighty Ducks of Anaheim – 98 points Colorado Avalanche – 95 points (43 wins) Edmonton Oilers – 95 points (41 wins) Playoff bracket [ edit ] Conference Quarterfinals Conference Semifinals Conference Finals Stanley Cup Finals 1 Ottawa 4 1 Ottawa 1 8 Tampa Bay 1 4 Buffalo 4 
+
+
+
+2 Carolina 4 Eastern Conference 7 Montreal 2 4 Buffalo 3 2 Carolina 4 3 New Jersey 4 6 NY Rangers 0 4 Buffalo 4 2 Carolina 4 5 Philadelphia 2 3 New Jersey 1 
+
+
+
+E2 Carolina 4 (Pairings are re-seeded after the first round.) W8 Edmonton 3 1 Detroit 2 5 San Jose 2 8 Edmonton 4 8 Edmonton 4 2 Dallas 1 7 Colorado 4 8 Edmonton 4 6 Anaheim 1 3 Calgary 3 6 Anaheim 4 Western Conference 4 Nashville 1 6 Anaheim 4 5 San Jose 4 7 Colorado 0 During the first three rounds home ice is determined by seeding number, not position on the bracket. In the Finals the team with the better regular season record has home ice. Conference Quarterfinals [ edit ] Eastern Conference Quarterfinals [ edit ] (1) Ottawa Senators vs. (8) Tampa Bay Lightning [ edit ] 
+
+The Ottawa Senators entered the playoffs as the Eastern Conference regular season and Northeast Division champions with 113 points. Tampa Bay qualified as the eighth seed earning 92 points during the regular season. This was the first playoff meeting between these two teams. Ottawa won all four games during this year's regular season series. 
+
+The Senators defeated the Lightning in five games. The Senators used a two-man advantage in third period of Game one to gain the lead as they took the game by a score of 4–1. In Game two the Lightning came back from a one-goal deficit by scoring two goals 55 seconds apart as they evened the series with a 4–3 victory. Six Ottawa skaters scored a goal in Game three as the Senators won 8–4. Ottawa scored three times in the second-period of Game four as they earned a 5–2 win. Martin Havlat scored the series-winning goal for the Senators at 15:02 of the second period as Ottawa closed out the series with a 3–2 victory. 
+
+
+
+April 21 Tampa Bay Lightning 1–4 Ottawa Senators Scotiabank Place Recap Vincent Lecavalier (1) – pp – 19:00 First period No scoring No scoring Second period No scoring No scoring Third period 05:06 – pp – Martin Havlat (1) 
+
+06:13 – pp – Jason Spezza (1) 
+
+09:37 – sh – Mike Fisher (1) 
+
+18:58 – en – Daniel Alfredsson (1) John Grahame 34 saves / 37 shots Goalie stats Ray Emery 35 saves / 36 shots April 23 Tampa Bay Lightning 4–3 Ottawa Senators Scotiabank Place Recap Martin St. Louis (1) – 14:36 First period 04:51 – Bryan Smolinski (1) Brad Richards (1) – 07:39 Second period 17:12 – pp – Martin Havlat (2) Dan Boyle (1) – 05:24 
+
+Martin St. Louis (2) – 06:19 Third period 03:21 – Peter Schaefer (1) John Grahame 21 saves / 24 shots Goalie stats Ray Emery 32 saves / 36 shots April 25 Ottawa Senators 8–4 Tampa Bay Lightning St. Pete Times Forum Recap Martin Havlat (3) – 05:20 
+
+Wade Redden (1) – pp – 08:40 
+
+Patrick Eaves (1) – 12:56 First period 18:38 – pp – Martin St. Louis (3) Martin Havlat (4) – 02:17 
+
+Antoine Vermette (1) – 09:11 Second period No scoring Dany Heatley (1) – pp – 06:12 
+
+Zdeno Chara (1) – pp – 10:28 
+
+Antoine Vermette (2) – 16:18 Third period 00:20 – pp – Paul Ranger (1) 
+
+11:26 – Paul Ranger (2) 
+
+13:25 – pp – Pavel Kubina (1) Ray Emery 35 saves / 39 shots Goalie stats John Grahame 15 saves / 20 shots 
+
+Sean Burke 8 saves / 11 shots April 27 Ottawa Senators 5–2 Tampa Bay Lightning St. Pete Times Forum Recap Jason Spezza (2) – 06:13 First period 11:10 – Martin St. Louis (4) 
+
+16:15 – Brad Richards (2) Chris Phillips (1) – 05:59 
+
+Dany Heatley (2) – pp – 17:10 
+
+Martin Havlat (5) – 17:50 Second period No scoring Chris Neil (1) – 01:24 Third period No scoring Ray Emery 30 saves / 32 shots Goalie stats John Grahame 13 saves / 17 shots 
+
+Sean Burke 7 saves / 8 shots April 29 Tampa Bay Lightning 2–3 Ottawa Senators Scotiabank Place Recap No scoring First period 12:53 – Peter Schaefer (2) 
+
+15:44 – Andrej Meszaros (1) Evgeny Artyukhin (1) – 01:37 
+
+Brad Richards (3) – 18:15 Second period 15:02 – pp – Martin Havlat (6) No scoring Third period No scoring Sean Burke 35 saves / 38 shots Goalie stats Ray Emery 26 saves / 28 shots Ottawa won series 4–1 
+
+
+
+(2) Carolina Hurricanes vs. (7) Montreal Canadiens [ edit ] 
+
+The Carolina Hurricanes entered the playoffs as the Southeast Division champions, earning the second seed in the Eastern Conference with 112 points. Montreal qualified as the seventh seed earning 93 points during the regular season. This was the seventh playoff meeting between these two teams with Montreal winning five of the six previous series. They last met in the 2002 Eastern Conference Semifinals where Carolina won in six games. Carolina won all four games during this year's regular season series. 
+
+The Hurricanes eliminated the Canadiens in six games. After allowing a goal in the opening minute of Game one the Canadiens scored six unanswered goals taking the opening game of the series 6–1. Carolina pulled goaltender Martin Gerber after allowing three goals in the first period of Game two and he was replaced by 22-year-old rookie backup Cam Ward . The Hurricanes were able to tie the game with 90 seconds remaining in regulation before losing in double overtime as Michael Ryder scored at 2:32, giving Montreal a 6–5 win. In Game three Eric Staal scored the game winner 3:38 into overtime as Carolina won 2–1. Rod Brind'Amour gave the Hurricanes the lead in Game four and they hung on to win 3–2. Cam Ward made 30 saves and allowed just one goal against as the Hurricanes took Game five 2–1. Hurricanes forward Cory Stillman ended the series at 1:19 of the first overtime as Carolina won Game six 2–1. 
+
+
+
+April 22 Montreal Canadiens 6–1 Carolina Hurricanes RBC Center Recap Francis Bouillon (1) – pp – 08:23 
+
+Radek Bonk (1) – 16:17 First period 00:50 – Matt Cullen (1) Alexei Kovalev (1) – 02:18 
+
+Chris Higgins (1) – 16:01 Second period No scoring Alexei Kovalev (2) – pp – 11:40 
+
+Sheldon Souray (1) – 18:12 Third period No scoring Cristobal Huet 42 saves / 43 shots Goalie stats Martin Gerber 15 saves / 21 shots April 24 Montreal Canadiens 6–5 2OT Carolina Hurricanes RBC Center Recap Jan Bulis (1) – 04:48 
+
+Michael Ryder (1) – pp – 13:35 
+
+Radek Bonk (2) – 14:46 First period No scoring No scoring Second period 01:42 – Matt Cullen (2) 
+
+09:05 – pp – Rod Brind'Amour (1) Alexei Kovalev (3) – 05:22 
+
+Richard Zedník (1) – 05:58 Third period 00:22 – pp – Ray Whitney (1) 
+
+01:15 – pp – Rod Brind'Amour (2) 
+
+18:30 – Cory Stillman (1) Michael Ryder (2) – 02:32 Second overtime period No scoring Cristobal Huet 41 saves / 46 shots Goalie stats Martin Gerber 10 saves / 13 shots 
+
+Cam Ward 20 saves / 23 shots April 26 Carolina Hurricanes 2–1 OT Montreal Canadiens Bell Centre Recap No scoring First period No scoring No scoring Second period 09:17 – pp – Richard Zednik (2) Rod Brind'Amour (3) – 11:27 Third period No scoring Eric Staal (1) – pp – 03:38 First overtime period No scoring Cam Ward 27 saves / 28 shots Goalie stats Cristobal Huet 34 saves / 36 shots April 28 Carolina Hurricanes 3–2 Montreal Canadiens Bell Centre Recap Justin Williams (1) – 10:22 
+
+Aaron Ward (1) – 11:33 First period No scoring No scoring Second period 05:21 – Alexander Perezhogin (1) 
+
+12:58 – pp – Sheldon Souray (2) Rod Brind'Amour (4) – 05:54 Third period No scoring Cam Ward 23 saves / 25 shots Goalie stats Cristobal Huet 27 saves / 30 shots April 30 Montreal Canadiens 1–2 Carolina Hurricanes RBC Center Recap No scoring First period 04:27 – pp – Eric Staal (2) Alexei Kovalev (4) – 19:32 Second period 13:57 – pp – Matt Cullen (3) No scoring Third period No scoring Cristobal Huet 26 saves / 28 shots Goalie stats Cam Ward 30 saves / 31 shots May 2 Carolina Hurricanes 2–1 OT Montreal Canadiens Bell Centre Recap Mark Recchi (1) – 07:01 First period 06:31 – pp – Sheldon Souray (3) No scoring Second period No scoring No scoring Third period No scoring Cory Stillman (2) – 01:19 First overtime period No scoring Cam Ward 25 saves / 26 shots Goalie stats Cristobal Huet 27 saves / 29 shots Carolina won series 4–2 
+
+
+
+(3) New Jersey Devils vs. (6) New York Rangers [ edit ] 
+
+The New Jersey Devils entered the playoffs as the Atlantic Division champions (winning the tie-breaker with Philadelphia in total wins), earning the third seed in the Eastern Conference with 101 points. New York qualified as the sixth seed earning 100 points during the regular season. This was the fourth playoff meeting between these two teams with New York winning all three previous series. They last met in the 1997 Eastern Conference Semifinals where New York won in five games. The teams split this year's eight game regular season series. 
+
+The Devils swept the Rangers in four games. The Devils scored five times on the power play in Game one winning 6–1, Devils forward Patrik Elias scored six points in the victory (two goals and four assists). In Game two John Madden scored a hat trick for the Devils as they earned a 4–1 victory. Martin Brodeur earned his 21st career playoff shutout with 25 saves as the Devils won Game three 3–0. New Jersey took the lead in the second period of Game four with two power play goals and they never looked back eliminating the Rangers by a final score of 4–2. 
+
+
+
+April 22 New York Rangers 1–6 New Jersey Devils Continental Airlines Arena Recap Petr Prucha (1) – pp – 10:00 First period 03:55 – pp – Patrik Elias (1) No scoring Second period 07:48 – pp – Scott Gomez (1) 
+
+17:10 – Ken Klee (1) No scoring Third period 00:53 – pp – Brian Rafalski (1) 
+
+08:45 – pp – Jamie Langenbrunner (1) 
+
+15:34 – pp – Patrik Elias (2) Henrik Lundqvist 24 saves / 30 shots Goalie stats Martin Brodeur 29 saves / 30 shots April 24 New York Rangers 1–4 New Jersey Devils Continental Airlines Arena Recap No scoring First period 07:47 – sh – John Madden (1) 
+
+14:13 – pp – Brian Gionta (1) No scoring Second period 19:54 – sh – John Madden (2) Blair Betts (1) – 05:41 Third period 12:46 – John Madden (3) Kevin Weekes 21 saves / 25 shots Goalie stats Martin Brodeur 25 saves / 26 shots April 26 New Jersey Devils 3–0 New York Rangers Madison Square Garden Recap Jamie Langenbrunner (2) – 01:08 
+
+Patrik Elias (3) – 09:20 First period No scoring Zach Parise (1) – 02:48 Second period No scoring No scoring Third period No scoring Martin Brodeur 25 saves / 25 shots Goalie stats Henrik Lundqvist 17 saves / 20 shots April 29 New Jersey Devils 4–2 New York Rangers Madison Square Garden Recap No scoring First period 19:41 – Jed Ortmeyer (1) Scott Gomez (2) – pp – 04:20 
+
+Patrik Elias (4) – pp – 07:21 Second period No scoring Brian Gionta (2) – sh – 04:30 
+
+Patrik Elias (5) – 13:21 Third period 18:33 – pp – Steve Rucchin (1) Martin Brodeur 31 saves / 33 shots Goalie stats Henrik Lundqvist 25 saves / 29 shots New Jersey won series 4–0 
+
+
+
+(4) Buffalo Sabres vs. (5) Philadelphia Flyers [ edit ] 
+
+The Buffalo Sabres entered the playoffs as the fourth seed in the Eastern Conference with 110 points. Philadelphia qualified as the fifth seed (losing the tie-breaker with New Jersey in total wins for the Atlantic Division title) earning 101 points during the regular season. This was the eighth playoff meeting between these two teams with Philadelphia winning five of the seven previous series. They last met in the 2001 Eastern Conference Quarterfinals where Buffalo won in six games. Buffalo won three of the four games during this year's regular season series. 
+
+The Sabres defeated the Flyers in six games. Philadelphia goaltender Robert Esche made 55 saves in a 3–2 Flyers loss; Daniel Briere ended the game with a goal at 7:31 in double-overtime. Buffalo forwards Jean-Pierre Dumont and Jason Pominville each recorded hat-tricks in Game two as the Sabres scored three power play goals rolling to an 8–2 victory. Peter Forsberg scored two second period goals in Game three to break a 1–1 tie, the Flyers went on to win the game 4–2. In Game four R.J. Umberger put the Flyers up for good with his goal at 9:51 in the third period as Philadelphia evened the series with a 5–4 victory. Sabres goaltender Ryan Miller made 24 saves to earn his first career playoff shutout in Game five as Buffalo won 3–0. In Game six the Sabres jumped to a 5–0 lead on a goal by Maxim Afinogenov as the Flyers pulled Robert Esche from the game, Buffalo went on to a resounding 7–1 series-clinching victory. 
+
+
+
+April 22 Philadelphia Flyers 2–3 2OT Buffalo Sabres HSBC Arena Recap No scoring First period 05:20 – Tim Connolly (1) Mike Knuble (1) – 16:34 Second period 04:33 – Jay McKee (1) Simon Gagne (1) – pp – 18:09 Third period No scoring No scoring Second overtime period 07:31 – Daniel Briere (1) Robert Esche 55 saves / 58 shots Goalie stats Ryan Miller 30 saves / 32 shots April 24 Philadelphia Flyers 2–8 Buffalo Sabres HSBC Arena Recap No scoring First period 01:41 – Jean-Pierre Dumont (1) 
+
+03:00 – pp – Chris Drury (1) 
+
+12:26 – Ales Kotalik (1) 
+
+14:36 – Jason Pominville (1) 
+
+19:46 – pp – Jean-Pierre Dumont (2) Simon Gagne (2) – 00:58 Second period 09:42 – pp – Jean-Pierre Dumont (3) Petr Nedved (1) – 05:47 Third period 08:35 – Jason Pominville (2) 
+
+18:42 – Jason Pominville (3) Robert Esche 5 saves / 10 shots 
+
+Antero Niittymaki 15 saves / 18 shots Goalie stats Ryan Miller 20 saves / 22 shots April 26 Buffalo Sabres 2–4 Philadelphia Flyers Wachovia Center Recap Ales Kotalik (2) – 02:37 First period 06:35 – sh – Brian Savage (1) No scoring Second period 06:57 – Peter Forsberg (1) 
+
+12:37 – pp – Peter Forsberg (2) Tim Connolly (2) – 04:44 Third period 19:44 – en – Simon Gagne (3) Ryan Miller 23 saves / 26 shots Goalie stats Robert Esche 26 saves / 28 shots April 28 Buffalo Sabres 4–5 Philadelphia Flyers Wachovia Center Recap Thomas Vanek (1) – pp – 02:34 
+
+Daniel Briere (2) – 10:10 First period 12:13 – Eric Desjardins (1) No scoring Second period 03:26 – Peter Forsberg (3) Daniel Briere (3) – pp – 06:17 
+
+Mike Grier (1) – sh – 19:41 Third period 03:50 – pp – Petr Nedved (2) 
+
+09:51 – R.J. Umberger (1) 
+
+19:11 – Peter Forsberg (4) Ryan Miller 28 saves / 33 shots Goalie stats Robert Esche 26 saves / 30 shots April 30 Philadelphia Flyers 0–3 Buffalo Sabres HSBC Arena Recap No scoring First period 06:05 – pp – Tim Connolly (3) No scoring Second period 19:12 – pp – Jean-Pierre Dumont (4) No scoring Third period 04:50 – Maxim Afinogenov (1) Robert Esche 30 saves / 33 shots Goalie stats Ryan Miller 24 saves / 24 shots May 2 Buffalo Sabres 7–1 Philadelphia Flyers Wachovia Center Recap Mike Grier (2) – 11:16 
+
+Ales Kotalik (3) – 17:34 
+
+Derek Roy (1) – 19:27 First period No scoring Jason Pominville (4) – 03:05 
+
+Maxim Afinogenov (2) – 07:19 
+
+Chris Drury (2) – 19:46 Second period 18:57 – Branko Radivojevic (1) Chris Drury (3) – sh – 02:12 Third period No scoring Ryan Miller 21 saves / 22 shots Goalie stats Robert Esche 12 saves / 17 shots 
+
+Antero Niittymaki 9 saves / 11 shots Buffalo won series 4–2 
+
+
+
+Western Conference Quarterfinals [ edit ] (1) Detroit Red Wings vs. (8) Edmonton Oilers [ edit ] 
+
+The Detroit Red Wings entered the playoffs as the Presidents' Trophy winners, the Western Conference regular season and Central Division champions, with 124 points. Edmonton qualified as the eighth seed earning 95 points (losing the tie-breaker with Colorado in total wins) during the regular season. This was the third playoff meeting between these two teams with Edmonton winning both previous series. They last met in the 1988 Campbell Conference Finals where Edmonton won in five games. Detroit won this year's four game regular season series earning six of eight points during the season. 
+
+The eighth seeded Oilers upset the Red Wings in six games. Red Wings winger Kirk Maltby scored two goals in Game one, including the winner in double overtime as Detroit won 3–2. The Oilers took the lead by scoring twice in 57 seconds in the second period of Game two as they hung on to win 4–2. Jarret Stoll provided the game-winner in double overtime in Game three giving the Oilers a 4–3 victory. The Red Wings scored three power-play goals in Game four earning a 4–2 victory to tie the series. Oilers goaltender Dwayne Roloson made 30 saves as Edmonton hung on to win Game five by a score of 3–2. The Oilers overcame a two-goal deficit after two periods of play in Game six by scoring four times in third period, Ales Hemsky broke the tie with 1:06 remaining in regulation as Edmonton ended the series with a 4–3 win. 
+
+
+
+April 21 Edmonton Oilers 2–3 2OT Detroit Red Wings Joe Louis Arena Recap Sergei Samsonov (1) – pp – 11:44 First period 04:05 – pp – Robert Lang (1) Chris Pronger (1) – pp – 08:43 Second period No scoring No scoring Third period 13:43 – Kirk Maltby (1) No scoring Second overtime period 02:39 – Kirk Maltby (2) Dwayne Roloson 54 saves / 57 shots Goalie stats Manny Legace 23 saves / 25 shots April 23 Edmonton Oilers 4–2 Detroit Red Wings Joe Louis Arena Recap Chris Pronger (2) – 12:32 First period 14:50 – Jason Williams (1) Fernando Pisani (1) – 17:49 
+
+Brad Winchester (1) – 18:46 Second period 07:11 – pp – Henrik Zetterberg (1) Jarret Stoll (1) – en – 19:47 Third period No scoring Dwayne Roloson 33 saves / 35 shots Goalie stats Manny Legace 20 saves / 23 shots April 25 Detroit Red Wings 3–4 2OT Edmonton Oilers Rexall Place Recap Henrik Zetterberg (2) – pp – 12:05 First period 04:17 – Jaroslav Spacek (1) 
+
+16:38 – Ryan Smyth (1) No scoring Second period 02:38 – pp – Raffi Torres (1) Henrik Zetterberg (3) – pp – 11:52 
+
+Mathieu Schneider (1) – 12:10 Third period No scoring No scoring Second overtime period 08:44 – Jarret Stoll (2) Manny Legace 28 saves / 32 shots Goalie stats Dwayne Roloson 44 saves / 47 shots April 27 Detroit Red Wings 4–2 Edmonton Oilers Rexall Place Recap Tomas Holmstrom (1) – pp – 13:25 
+
+Robert Lang (2) – 19:23 First period 07:22 – pp – Fernando Pisani (2) No scoring Second period 04:03 – pp – Jaroslav Spacek (2) Nicklas Lidstrom (1) – pp – 06:44 
+
+Henrik Zetterberg (4) – pp – 15:53 Third period No scoring Manny Legace 24 saves / 26 shots Goalie stats Dwayne Roloson 27 saves / 31 shots April 29 Edmonton Oilers 3–2 Detroit Red Wings Joe Louis Arena Recap No scoring First period No scoring Fernando Pisani (3) – 05:16 
+
+Ryan Smyth (2) – pp – 08:34 
+
+Shawn Horcoff (1) – 12:36 Second period 18:39 – Brendan Shanahan (1) No scoring Third period 19:38 – Henrik Zetterberg (5) Dwayne Roloson 30 saves / 32 shots Goalie stats Manny Legace 16 saves / 19 shots May 1 Detroit Red Wings 3–4 Edmonton Oilers Rexall Place Recap Henrik Zetterberg (6) – 14:36 First period No scoring Robert Lang (3) – pp – 14:02 Second period No scoring Johan Franzen (1) – 10:07 Third period 02:56 – pp – Fernando Pisani (4) 
+
+06:40 – Fernando Pisani (5) 
+
+16:07 – pp – Ales Hemsky (1) 
+
+18:54 – Ales Hemsky (2) Manny Legace 26 saves / 30 shots Goalie stats Dwayne Roloson 33 saves / 36 shots Edmonton won series 4–2 
+
+
+
+(2) Dallas Stars vs. (7) Colorado Avalanche [ edit ] 
+
+The Dallas Stars entered the playoffs as the Pacific Division champions, earning the second seed in the Western Conference with 112 points. Colorado qualified as the seventh seed earning 95 points (winning the tie-breaker with Edmonton in total wins) during the regular season. This was the fourth and most recent playoff meeting between these two teams, with Dallas winning two of three previous series. They last met in the 2004 Western Conference Quarterfinals where Colorado won in five games. Dallas won three of the four games during this year's regular season series. 
+
+The Avalanche upset the Stars in five games. After trailing by two early in the first period of Game one the Avalanche scored five un-answered goals and won by a score of 5–2. Brett Clark tied the game with a short-handed goal at 17:56 of the third period and four and a half minutes into overtime Joe Sakic scored his NHL-record seventh career overtime goal to end the game in a 5–4 Colorado victory. [1] Avalanche forward Andrew Brunette scored with 57 seconds remaining in the third period to tie Game three and Alex Tanguay tallied his second goal of the game at 1:09 of the first overtime to give the Avalanche a 4–3 win. Dallas staved off elimination in Game four as Niklas Hagman scored two goals in a 4–1 victory. Colorado goaltender Jose Theodore made 50 saves in Game five and Andrew Brunette scored the series-clinching goal nearly fourteen minutes into overtime to give the Avalanche a 3–2 win. 
+
+
+
+April 22 Colorado Avalanche 5–2 Dallas Stars American Airlines Center Recap Milan Hejduk (1) – 16:42 First period 13:04 – Brendan Morrow (1) 
+
+15:02 – Bill Guerin (1) Wojtek Wolski (1) – 05:24 
+
+Rob Blake (1) – pp – 09:08 
+
+John-Michael Liles (1) – pp – 11:12 Second period No scoring Brett Clark (1) – 02:58 Third period No scoring Jose Theodore 16 saves / 18 shots Goalie stats Marty Turco 26 saves / 31 shots April 24 Colorado Avalanche 5–4 OT Dallas Stars American Airlines Center Recap Rob Blake (2) – pp – 07:06 
+
+Andrew Brunette (1) – 09:04 
+
+Milan Hejduk (2) – 12:23 First period No scoring No scoring Second period 02:41 – Jussi Jokinen (1) 
+
+05:54 – pp – Jere Lehtinen (1) 
+
+06:58 – Jere Lehtinen (2) 
+
+19:57 – pp – Mike Modano (1) Brett Clark (2) – sh – 17:56 Third period No scoring Joe Sakic (1) – 04:36 First overtime period No scoring Jose Theodore 21 saves / 25 shots Goalie stats Marty Turco 18 saves / 23 shots April 26 Dallas Stars 3–4 OT Colorado Avalanche Pepsi Center Recap Stu Barnes (1) – sh – 10:49 First period 05:21 – pp – Joe Sakic (2) 
+
+18:53 – Alex Tanguay (1) – 18:53 Jon Klemm (1) – 08:44 
+
+Sergei Zubov (1) – pp – 19:45 Second period No scoring No scoring Third period 19:03 – pp – Andrew Brunette (2) No scoring First overtime period 01:09 – Alex Tanguay (2) Marty Turco 25 saves / 29 shots Goalie stats Jose Theodore 19 saves / 22 shots April 28 Dallas Stars 4–1 Colorado Avalanche Pepsi Center Recap Jere Lehtinen (3) – 07:35 First period 04:46 – Brad Richardson (1) Niklas Hagman (1) – 03:50 
+
+Bill Guerin (2) – pp – 18:41 Second period No scoring Niklas Hagman (2) – en – 18:45 Third period No scoring Marty Turco 22 saves / 23 shots Goalie stats Jose Theodore 35 saves / 38 shots April 30 Colorado Avalanche 3–2 OT Dallas Stars American Airlines Center Recap No scoring First period No scoring Jim Dowd (1) – 13:03 
+
+Joe Sakic (3) – 19:58 Second period 04:25 – pp – Jussi Jokinen (2) No scoring Third period 02:47 – Bill Guerin (3) Andrew Brunette (3) – 13:55 First overtime period No scoring Jose Theodore 50 saves / 52 shots Goalie stats Marty Turco 27 saves / 30 shots Colorado won series 4–1 
+
+
+
+(3) Calgary Flames vs. (6) Mighty Ducks of Anaheim [ edit ] 
+
+The Calgary Flames entered the playoffs as the Northwest Division champions, earning the third seed in the Western Conference with 103 points. Anaheim qualified as the sixth seed earning 98 points during the regular season. This was the first playoff meeting between these two teams. The teams split this year's four game regular season series. 
+
+The Mighty Ducks eliminated the Flames in seven games. Flames goaltender Miikka Kiprusoff made 33 saves and Darren McCarty scored 9:45 into the first overtime as Calgary won Game one 2–1. In Game two Anaheim took a three-goal lead and hung on for a 4–3 victory. The Flames scored three power-play goals as they earned a 5–2 win in Game three. Sean O'Donnell scored the overtime winner in overtime shortly after a power play expired in Game four as Anaheim evened the series with a 3–2 victory. Flames captain Jarome Iginla scored twice as the Calgary held off a late charge by the Mighty Ducks taking a 3–2 victory in Game five. In Game six Scott Niedermayer scored a power-play goal with just over five minutes remaining in regulation time as Anaheim forced a seventh game with their 2–1 win. Anaheim goaltender Ilya Bryzgalov made 22 saves as the Mighty Ducks ended the Flames season with a shutout winning Game seven 3–0. 
+
+
+
+April 21 Mighty Ducks of Anaheim 1–2 OT Calgary Flames Pengrowth Saddledome Recap No scoring First period No scoring No scoring Second period 06:17 – Tony Amonte (1) Jeff Friesen (1) – 05:17 Third period No scoring No scoring First overtime period 09:45 – Darren McCarty (1) Ilya Bryzgalov 28 saves / 30 shots Goalie stats Miikka Kiprusoff 33 saves / 34 shots April 23 Mighty Ducks of Anaheim 4–3 Calgary Flames Pengrowth Saddledome Recap Chris Kunitz (1) – 09:37 
+
+Scott Niedermayer (1) – sh – 13:20 First period No scoring Joffrey Lupul (1) – 05:10 Second period 09:09 – sh – Jarome Iginla (1) 
+
+11:53 – pp – Kristian Huselius (1) Samuel Pahlsson (1) – 07:55 Third period 15:31 – pp – Dion Phaneuf (1) Jean-Sebastien Giguere 22 saves / 25 shots Goalie stats Miikka Kiprusoff 16 saves / 20 shots April 25 Calgary Flames 5–2 Mighty Ducks of Anaheim Arrowhead Pond Recap Daymond Langkow (1) – pp – 14:01 First period 17:26 – pp – Francois Beauchemin (1) Kristian Huselius (2) – pp – 01:25 
+
+Chuck Kobasew (1) – 15:34 Second period 08:16 – pp – Francois Beauchemin (2) Darren McCarty (2) – 04:59 
+
+Robyn Regehr (1) – pp – 05:33 Third period No scoring Miikka Kiprusoff 27 saves / 29 shots Goalie stats Jean-Sebastien Giguere 19 saves / 24 shots April 27 Calgary Flames 2–3 OT Mighty Ducks of Anaheim Arrowhead Pond Recap No scoring First period No scoring No scoring Second period 03:47 – Ryan Getzlaf (1) 
+
+07:13 – pp – Teemu Selanne (1) Jarome Iginla (2) – 00:11 
+
+Jarome Iginla (3) – 03:27 Third period No scoring No scoring First overtime period 01:36 – Sean O'Donnell (1) Miikka Kiprusoff 27 saves / 30 shots Goalie stats Jean-Sebastien Giguere 25 saves / 27 shots April 29 Mighty Ducks of Anaheim 2–3 Calgary Flames Pengrowth Saddledome Recap No scoring First period 05:49 – sh – Tony Amonte (2) 
+
+16:18 – pp – Jarome Iginla (4) No scoring Second period 01:03 – Jarome Iginla (5) Andy McDonald (1) – pp – 08:19 
+
+Rob Niedermayer (1) – pp – 19:27 Third period No scoring Jean-Sebastien Giguere 5 saves / 8 shots 
+
+Ilya Bryzgalov 19 saves / 19 shots Goalie stats Miikka Kiprusoff 26 saves / 28 shots May 1 Calgary Flames 1–2 Mighty Ducks of Anaheim Arrowhead Pond Recap Stephane Yelle (1) – 10:18 First period No scoring No scoring Second period 07:49 – Teemu Selanne (2) No scoring Third period 14:23 – pp – Scott Niedermayer (2) Miikka Kiprusoff 28 saves / 30 shots Goalie stats Ilya Bryzgalov 21 saves / 22 shots May 3 Mighty Ducks of Anaheim 3–0 Calgary Flames Pengrowth Saddledome Recap No scoring First period No scoring Teemu Selanne (3) – 05:12 
+
+Ruslan Salei (1) – 19:01 Second period No scoring Jeff Friesen (2) – en – 19:40 Third period No scoring Ilya Bryzgalov 22 saves / 22 shots Goalie stats Miikka Kiprusoff 29 saves / 31 shots Anaheim won series 4–3 
+
+
+
+(4) Nashville Predators vs. (5) San Jose Sharks [ edit ] 
+
+The Nashville Predators entered the playoffs as the fourth seed in the Western Conference with 106 points. San Jose qualified as the fifth seed earning 99 points during the regular season. This was the first playoff meeting between these two teams. Nashville won this year's four game regular season series earning six of eight points during the season. 
+
+The Sharks eliminated the Predators in five games. All four of the Predators goals in Game one came on the power play as Nashville took the opening game 4–3. In Game two San Jose scored three first period power play goals and Vesa Toskala earned a shutout in the Sharks 3–0 victory. San Jose captain Patrick Marleau scored twice in Game three as the Sharks won 4–1. Nashville attempted to make a comeback late in Game four as the Sharks hung on to win 5–4, Patrick Marleau recorded a hat trick in the victory. San Jose continued to exploit the Predators penalty killing in Game five as they scored twice on the power play and ended Nashville's season with a 2–1 victory. 
+
+
+
+April 21 San Jose Sharks 3–4 Nashville Predators Gaylord Entertainment Center Recap Mark Smith (1) – 04:12 First period 08:57 – pp – Mike Sillinger (1) 
+
+10:56 – pp – Martin Erat (1) 
+
+19:56 – pp – Shea Weber (1) Nils Ekman (1) – pp – 08:50 Second period No scoring Scott Thornton (1) – 10:31 Third period 12:06 – pp – Adam Hall (1) Vesa Toskala 26 saves / 30 shots Goalie stats Chris Mason 31 saves / 34 shots April 23 San Jose Sharks 3–0 Nashville Predators Gaylord Entertainment Center Recap Jonathan Cheechoo (1) – pp – 05:37 
+
+Patrick Marleau (1) – pp – 16:31 
+
+Mark Smith (2) – pp – 17:31 First period No scoring No scoring Second period No scoring No scoring Third period No scoring Vesa Toskala 25 saves / 25 shots Goalie stats Chris Mason 34 saves / 37 shots April 25 Nashville Predators 1–4 San Jose Sharks HP Pavilion Recap Kimmo Timonen (1) – sh – 06:33 First period No scoring No scoring Second period 12:10 – Patrick Marleau (2) 
+
+18:48 – pp – Steve Bernier (1) No scoring Third period 15:38 – Jonathan Cheechoo (2) 
+
+16:45 – Patrick Marleau (3) Chris Mason 36 saves / 40 shots Goalie stats Vesa Toskala 16 saves / 17 shots April 27 Nashville Predators 4–5 San Jose Sharks HP Pavilion Recap Paul Kariya (1) – pp – 08:55 First period 07:03 – Patrick Rissmiller (1) Shea Weber (2) – 05:45 Second period 07:01 – pp – Patrick Marleau (4) 
+
+11:30 – pp – Patrick Marleau (5) 
+
+12:56 – Mark Smith (3) Mike Sillinger (2) – 10:47 
+
+Scott Hartnell (1) – 15:38 Third period 04:13 – Patrick Marleau (6) Chris Mason 19 saves / 24 shots Goalie stats Vesa Toskala 26 saves / 30 shots April 30 San Jose Sharks 2–1 Nashville Predators Gaylord Entertainment Center Recap Milan Michalek (1) – pp – 19:59 First period No scoring Patrick Marleau (7) – pp – 13:24 Second period No scoring No scoring Third period 11:06 – pp – Paul Kariya (2) Vesa Toskala 34 saves / 35 shots Goalie stats Chris Mason 34 saves / 36 shots San Jose won series 4–1 
+
+
+
+Conference Semifinals [ edit ] Eastern Conference Semifinals [ edit ] (1) Ottawa Senators vs. (4) Buffalo Sabres [ edit ] 
+
+This was the third playoff meeting between these two teams with Buffalo winning both previous series. They last met in the 1999 Eastern Conference Quarterfinals where Buffalo won in four games. Ottawa won five of the eight games during this year's regular season series. 
+
+The Sabres eliminated the Senators in five games. Sabres forward Tim Connolly tied Game one with just 10.7 seconds left in regulation to tie the game at six and Chris Drury ended the game just 18 seconds into overtime as Buffalo won 7–6. Ryan Miller faced 44 shots and allowed just one goal against as the Sabres won Game two 2–1. Overtime was required in Game three after Jason Spezza tied the game late in the third period. Jean-Pierre Dumont ended the game with a goal at 5:05 of the first overtime as the Sabres took the game 3–2. In Game four Wade Redden scored a power-play goal early in the third period as the Senators earned a 2–1 victory. Sabres rookie forward Jason Pominville became the first player in league history to score a short-handed overtime goal to end a series as he scored just 2:26 into the first overtime as Buffalo won Game five 3–2. [2] 
+
+
+
+May 5 Buffalo Sabres 7–6 OT Ottawa Senators Scotiabank Place Recap Mike Grier (3) – 00:35 
+
+Teppo Numminen (1) – pp – 06:56 First period 03:05 – Jason Spezza (3) 
+
+03:20 – Bryan Smolinski (2) Tim Connolly (4) – sh – 03:29 
+
+Derek Roy (2) – 19:30 Second period 01:47 – Martin Havlat (7) 
+
+04:15 – pp – Dany Heatley (3) Derek Roy (3) – sh – 18:23 
+
+Tim Connolly (5) – 19:49 Third period 00:16 – Mike Fisher (2) 
+
+18:47 – pp – Bryan Smolinski (3) Chris Drury (4) – 00:18 First overtime period No scoring Ryan Miller 27 saves / 33 shots Goalie stats Ray Emery 16 saves / 23 shots May 8 Buffalo Sabres 2–1 Ottawa Senators Scotiabank Place Recap No scoring First period No scoring Jean-Pierre Dumont (5) – 03:33 
+
+Jochen Hecht (1) – 06:00 Second period 07:40 – Chris Phillips (2) No scoring Third period No scoring Ryan Miller 43 saves / 44 shots Goalie stats Ray Emery 15 saves / 17 shots May 10 Ottawa Senators 2–3 OT Buffalo Sabres HSBC Arena Recap No scoring First period 09:24 – pp – Chris Drury (5) No scoring Second period No scoring Jason Spezza (4) – pp – 05:47 
+
+Jason Spezza (5) – pp – 18:30 Third period 10:15 – Maxim Afinogenov (3) No scoring First overtime period 05:05 – Jean-Pierre Dumont (6) Ray Emery 21 saves / 24 shots Goalie stats Ryan Miller 26 saves / 28 shots May 11 Ottawa Senators 2–1 Buffalo Sabres HSBC Arena Recap Brian Pothier (1) – 04:56 First period No scoring No scoring Second period 16:18 – Daniel Briere (4) Wade Redden (2) – pp – 02:52 Third period No scoring Ray Emery 29 saves / 30 shots Goalie stats Ryan Miller 26 saves / 28 shots May 13 Buffalo Sabres 3–2 OT Ottawa Senators Scotiabank Place Recap Henrik Tallinder (1) – 00:33 First period 10:26 – pp – Daniel Alfredsson (2) Chris Drury (6) – pp – 07:56 Second period 13:59 – Brian Pothier (2) No scoring Third period No scoring Jason Pominville (5) – sh – 02:26 First overtime period No scoring Ryan Miller 34 saves / 36 shots Goalie stats Ray Emery 21 saves / 24 shots Buffalo won series 4–1 
+
+
+
+(2) Carolina Hurricanes vs. (3) New Jersey Devils [ edit ] 
+
+This was the third playoff meeting between these two teams with the teams splitting the two previous series. They last met in the 2002 Eastern Conference Quarterfinals where Carolina won in six games. Carolina won this year's four game regular season series earning five of eight points during the season. 
+
+The Hurricanes defeated New Jersey in five games. Carolina scored five power-play goals in Game one as they won 6–0. Scott Gomez gave the Devils a 2–1 lead with just over twenty seconds to go in the third period of Game two, however just 18 seconds later Eric Staal scored the game-tying goal with just three seconds left in regulation time to send the game into overtime. Niclas Wallin tallied the game-winner 3:09 into the first overtime. In Game three Carolina's Rod Brind'Amour scored the game-winner with 1:01 to play in the second period. New Jersey jumped out to a 5–0 lead and won Game four with a final score of 5–1. Cory Stillman scored the series-winning goal at 14:20 of the second period as the Hurricanes held on for a 4–1 victory in Game five. 
+
+
+
+May 6 New Jersey Devils 0–6 Carolina Hurricanes RBC Center Recap No scoring First period 11:37 – pp – Ray Whitney (2) No scoring Second period 02:58 – Ray Whitney (3) 
+
+17:32 – pp – Eric Staal (3) 
+
+18:06 – pp – Cory Stillman (3) No scoring Third period 12:07 – pp – Doug Weight (1) 
+
+13:07 – pp – Rod Brind'Amour (5) Martin Brodeur 29 saves / 35 shots 
+
+Scott Clemmensen 3 shots / 3 saves Goalie stats Cam Ward 21 saves / 21 shots May 8 New Jersey Devils 2–3 OT Carolina Hurricanes RBC Center Recap Jamie Langenbrunner (3) – 06:20 First period No scoring No scoring Second period 18:18 – pp – Mark Recchi (2) Scott Gomez (3) – 19:39 Third period 19:57 – Eric Staal (4) No scoring First overtime period 03:09 – Niclas Wallin (1) Martin Brodeur 35 saves / 38 shots Goalie stats Cam Ward 21 saves / 23 shots May 10 Carolina Hurricanes 3–2 New Jersey Devils Continental Airlines Arena Recap Matt Cullen (4) – pp – 08:16 
+
+Justin Williams (2) – 10:07 First period 02:57 – Sergei Brylin (1) Rod Brind'Amour (6) – pp – 18:59 Second period 08:45 – pp – Patrik Elias (6) No scoring Third period No scoring Cam Ward 28 saves / 30 shots Goalie stats Martin Brodeur 21 saves / 24 shots May 13 Carolina Hurricanes 1–5 New Jersey Devils Continental Airlines Arena Recap No scoring First period 01:58 – pp – Scott Gomez (4) 
+
+11:02 – sh – Jay Pandolfo (1) 
+
+19:00 – pp – Scott Gomez (5) Mark Recchi (3) – 11:04 Second period 00:44 – Sergei Brylin (2) 
+
+04:23 – John Madden (4) No scoring Third period No scoring Cam Ward 13 saves / 17 shots 
+
+Martin Gerber 15 saves / 16 shots Goalie stats Martin Brodeur 19 saves / 20 shots May 14 New Jersey Devils 1–4 Carolina Hurricanes RBC Center Recap Brian Gionta (3) – 00:57 First period 08:39 – Frantisek Kaberle (1) No scoring Second period 14:20 – pp – Cory Stillman (4) No scoring Third period 07:22 – Ray Whitney (4) 
+
+18:32 – en – Eric Staal (5) Martin Brodeur 27 saves / 30 shots Goalie stats Cam Ward 17 saves / 18 shots Carolina won series 4–1 
+
+
+
+Western Conference Semifinals [ edit ] (5) San Jose Sharks vs. (8) Edmonton Oilers [ edit ] 
+
+This was the first playoff meeting between these two teams. Edmonton won three of the four games during this year's regular season series. 
+
+The Oilers came back from a two-game deficit to defeat the Sharks in six games. Patrick Marleau recorded a goal and an assist during Game one in a 2–1 San Jose victory. The Sharks won Game two 2–1 with Joe Thornton scoring the game-winner on the power play in the second period. Sharks goaltender Vesa Toskala made 55 saves in a losing effort in Game three as the Oilers won in a triple-overtime on a goal scored by Shawn Horcoff at 2:24 to give Edmonton a 3–2 win. Edmonton came back from an early 3–1 deficit in Game four and scored five unanswered goals to win 6–3 and to even the series at two games apiece. After San Jose tied Game five early the third period the Oilers scored three unanswered goals as they took another 6–3 victory. Dwayne Roloson posted a 24 save shutout in Game six as the Oilers took the game 2–0 with the game-winning goal from Michael Peca to win the series four games to two. 
+
+
+
+May 7 Edmonton Oilers 1–2 San Jose Sharks HP Pavilion Recap Jaroslav Spacek (3) – pp – 02:33 First period 07:42 – Patrick Marleau (8) No scoring Second period 03:14 – Christian Ehrhoff (1) No scoring Third period No scoring Dwayne Roloson 28 saves / 30 shots Goalie stats Vesa Toskala 15 saves / 16 shots May 8 Edmonton Oilers 1–2 San Jose Sharks HP Pavilion Recap No scoring First period 04:26 – Tom Preissing (1) Sergei Samsonov (2) – 15:23 Second period 17:29 – pp – Joe Thornton (1) No scoring Third period No scoring Dwayne Roloson 36 saves / 38 shots Goalie stats Vesa Toskala 24 saves / 25 shots May 10 San Jose Sharks 2–3 3OT Edmonton Oilers Rexall Place Recap No scoring First period 10:04 – pp – Marc-Andre Bergeron (1) Patrick Marleau (9) – 01:19 
+
+Patrick Rissmiller (2) – 09:30 Second period No scoring No scoring Third period 13:13 – Raffi Torres (2) No scoring Third overtime period 02:24 – Shawn Horcoff (2) Vesa Toskala 55 saves / 58 shots Goalie stats Dwayne Roloson 32 saves / 34 shots May 12 San Jose Sharks 3–6 Edmonton Oilers Rexall Place Recap Joe Thornton (2) – 03:47 
+
+Nils Ekman (2) – 06:40 First period 12:55 – Shawn Horcoff (3) Jonathan Cheechoo (3) – 09:02 Second period 12:28 – Michael Peca (1) 
+
+15:35 – Sergei Samsonov (3) No scoring Third period 02:57 – Jason Smith (1) 
+
+08:19 – Ales Hemsky (3) 
+
+14:00 – pp – Jarret Stoll (3) Vesa Toskala 26 saves / 31 shots 
+
+Evgeni Nabokov 3 saves / 4 shots Goalie stats Dwayne Roloson 22 saves / 25 shots May 14 Edmonton Oilers 6–3 San Jose Sharks HP Pavilion Recap Fernando Pisani (6) – 08:29 First period No scoring Ryan Smyth (3) – pp – 06:31 Second period 04:30 – Scott Thornton (2) Shawn Horcoff (4) – sh – 00:12 
+
+Fernando Pisani (7) – 04:03 
+
+Jarret Stoll (4) – pp – 13:40 
+
+Ryan Smyth (4) – pp – 16:11 Third period 00:44 – pp – Christian Ehrhoff (2) 
+
+02:30 – Jonathan Cheechoo (4) Dwayne Roloson 21 saves / 24 shots Goalie stats Vesa Toskala 12 saves / 18 shots May 17 San Jose Sharks 0–2 Edmonton Oilers Rexall Place Recap No scoring First period 08:21 – Michael Peca (2) No scoring Second period No scoring No scoring Third period 11:37 – Shawn Horcoff (5) Vesa Toskala 24 saves / 26 shots Goalie stats Dwayne Roloson 24 saves / 24 shots Edmonton won series 4–2 
+
+
+
+(6) Mighty Ducks of Anaheim vs. (7) Colorado Avalanche [ edit ] 
+
+This was the first playoff meeting between these two teams. Colorado won three of the four games during this year's regular season series. 
+
+Anaheim swept the Avalanche in four games. The Mighty Ducks scored four times in the second period of Game one as Anaheim won 5–0, rookie Ilya Bryzgalov recorded his second-straight shutout. In Game two Ilya Bryzgalov equalled a rookie record previously set by Frank McCool in 1945 as he recorded his third straight playoff shutout as the Ducks won 3–0. [3] In Game three Dan Hinote ended Ilya Bryzgalov's shutout streak at 249:15 (the second longest in league history) when he scored late in the first period for the Avalanche. [4] Joffrey Lupul scored four goals including the overtime winner as the Mighty Ducks won 4–3. Joe Sakic scored the only goal for the Avalanche in Game four as Anaheim finished off the series with a 4–1 victory to advance to their second Conference Final appearance in team history. 
+
+
+
+May 5 Colorado Avalanche 0–5 Mighty Ducks of Anaheim Arrowhead Pond Recap No scoring First period No scoring No scoring Second period 02:38 – Samuel Pahlsson (2) 
+
+10:24 – Chris Kunitz (2) 
+
+19:05 – Teemu Selanne (4) 
+
+19:54 – pp – Joffrey Lupul (2) No scoring Third period 11:07 – Travis Moen (1) Jose Theodore 29 saves / 34 shots Goalie stats Ilya Bryzgalov 29 saves / 29 shots May 7 Colorado Avalanche 0–3 Mighty Ducks of Anaheim Arrowhead Pond Recap No scoring First period 18:17 – pp – Ryan Getzlaf (2) No scoring Second period 04:41 – Ruslan Salei (2) 
+
+12:24 – Joffrey Lupul (3) No scoring Third period No scoring Jose Theodore 32 saves / 35 shots Goalie stats Ilya Bryzgalov 22 saves / 22 shots May 9 Mighty Ducks of Anaheim 4–3 OT Colorado Avalanche Pepsi Center Recap No scoring First period 19:33 – Dan Hinote (1) Joffrey Lupul (4) – 09:02 Second period No scoring Joffrey Lupul (5) – 08:54 
+
+Joffrey Lupul (6) – 10:40 Third period 04:47 – sh – Jim Dowd (2) 
+
+13:35 – Rob Blake (3) Joffrey Lupul (7) – 16:30 First overtime period No scoring Ilya Bryzgalov 26 saves / 29 shots Goalie stats Jose Theodore 35 saves / 36 shots May 11 Mighty Ducks of Anaheim 4–1 Colorado Avalanche Pepsi Center Recap Todd Marchant (1) – 16:52 First period 02:17 – Joe Sakic (4) Teemu Selanne (5) – 02:22 Second period No scoring Dustin Penner (1) – 06:07 
+
+Todd Marchant (2) – en – 18:21 Third period No scoring Ilya Bryzgalov 40 saves / 41 shots Goalie stats Jose Theodore 30 saves / 33 shots Anaheim won series 4–0 
+
+
+
+Conference Finals [ edit ] See also: NHL Conference Finals Eastern Conference Final [ edit ] (2) Carolina Hurricanes vs. (4) Buffalo Sabres [ edit ] 
+
+This was the first playoff meeting between these two teams. Carolina most recently made it to the Conference Finals in 2002 , defeating Toronto in six games, while the Sabres last made it to the Conference Finals in 1999 , defeating Toronto in five games. Carolina won three of the four games in this year's four game regular season series. 
+
+The Hurricanes eliminated the Sabres in seven games. Sabres goaltender Ryan Miller made 29 saves in Game one as Buffalo won 3–2. Ray Whitney scored twice in the second period of Game two as the Hurricanes evened the series with a 4–3 victory. The Sabres scored four times in just over thirteen minutes in Game three as they earned a 4–3 win. Martin Gerber made 22 saves in a shutout victory for the Hurricanes as they took Game four by a score of 4–0. Cam Ward replaced Martin Gerber early in the second period of Game five as the Hurricanes came back from a two-goal deficit and won the game 4–3 on a power-play goal scored by Cory Stillman at 8:46 of the first overtime period. Daniel Briere forced a seventh game in this series with his game-winning goal at 4:22 of the first overtime as Buffalo won Game six 2–1. Hurricanes forward Rod Brind'Amour capitalised on a delay of game penalty to Brian Campbell at 11:22 of the third period in Game seven as Carolina advanced to the Stanley Cup Finals with a 4–2 victory. 
+
+
+
+May 20 Buffalo Sabres 3–2 Carolina Hurricanes RBC Center Recap Henrik Tallinder (2) – 02:56 First period 12:11 – Rod Brind’Amour (7) Daniel Briere (5) – 09:41 Second period No scoring Jay McKee (2) – 13:40 Third period 17:07 – sh – Mike Commodore (1) Ryan Miller 29 saves / 31 shots Goalie stats Cam Ward 24 saves / 27 shots May 22 Buffalo Sabres 3–4 Carolina Hurricanes RBC Center Recap Thomas Vanek (2) – pp – 19:12 First period 10:05 – pp – Frantisek Kaberle (2) No scoring Second period 06:03 – pp – Ray Whitney (5) 
+
+12:58 – Ray Whitney (6) Chris Drury (7) – pp – 11:39 
+
+Derek Roy (4) – pp – 19:57 Third period 06:58 – Justin Williams (3) Ryan Miller 31 saves / 35 shots Goalie stats Cam Ward 16 saves / 19 shots May 24 Carolina Hurricanes 3–4 Buffalo Sabres HSBC Arena Recap Cory Stillman (5) – 14:07 First period 19:30 – pp – Chris Drury (8) Cory Stillman (6) – 18:18 Second period 01:02 – pp – Daniel Briere (6) 
+
+08:28 – Daniel Briere (7) 
+
+12:55 – Ales Kotalik (4) Eric Staal (6) – pp – 15:52 Third period No scoring Cam Ward 22 saves / 26 shots 
+
+Martin Gerber 7 saves / 7 shots Goalie stats Ryan Miller 24 saves / 27 shots May 26 Carolina Hurricanes 4–0 Buffalo Sabres HSBC Arena Recap Mark Recchi (4) – 06:54 
+
+Eric Staal (7) – pp – 09:53 First period No scoring Andrew Ladd (1) – 02:10 Second period No scoring Bret Hedican (1) – 16:03 Third period No scoring Martin Gerber 22 saves / 22 shots Goalie stats Ryan Miller 17 saves / 21 shots May 28 Buffalo Sabres 3–4 OT Carolina Hurricanes RBC Center Recap Chris Drury (9) – 07:08 
+
+Derek Roy (5) – 17:32 First period 07:25 – Justin Williams (4) Toni Lydman (1) – 01:55 Second period 05:21 – Mark Recchi (5) 
+
+10:04 – pp – Rod Brind'Amour (8) No scoring Third period No scoring No scoring First overtime period 08:46 – pp – Cory Stillman (7) Ryan Miller 22 saves / 26 shots Goalie stats Martin Gerber 8 saves / 11 shots 
+
+Cam Ward 15 saves / 15 shots May 30 Carolina Hurricanes 1–2 OT Buffalo Sabres HSBC Arena Recap No scoring First period 04:56 – J.P. Dumont (7) No scoring Second period No scoring Bret Hedican (2) – 16:07 Third period No scoring No scoring First overtime period 04:22 – pp – Daniel Briere (8) Cam Ward 29 saves / 31 shots Goalie stats Ryan Miller 25 saves / 26 shots June 1 Buffalo Sabres 2–4 Carolina Hurricanes RBC Center Recap No scoring First period 12:05 – Mike Commodore (2) Doug Janik (1) – 15:50 
+
+Jochen Hecht (2) – 19:55 Second period No scoring No scoring Third period 01:34 – Doug Weight (2) 
+
+11:22 – pp – Rod Brind'Amour (9) 
+
+19:08 – Justin Williams (5) Ryan Miller 24 saves / 28 shots Goalie stats Cam Ward 22 saves / 24 shots Carolina won series 4–3 
+
+
+
+Western Conference Final [ edit ] (6) Mighty Ducks of Anaheim vs. (8) Edmonton Oilers [ edit ] 
+
+This was the first playoff meeting between these two teams. Anaheim most recently made it to the Conference Finals in 2003 , sweeping the Minnesota Wild in four games, while the Oilers last made it to the Conference Finals in 1992 , losing to Chicago in four games. Edmonton won all four games during this year's regular season series. 
+
+The Oilers eliminated Anaheim in five games. Ales Hemsky 's power-play goal at 11:35 of the second period gave the Oilers the lead as they took Game one 3–1. Oilers goaltender Dwayne Roloson made 33 saves won again by a score of 3–1. Fernando Pisani scored the game-winning goal for the Oilers in Game three as the two teams traded eight goals in the third period and Edmonton hung on for a 5–4 victory. Anaheim changed goaltenders before the start of Game four as Jean-Sebastien Giguere got the start for the Mighty Ducks. Anaheim took a three-goal lead in the first period and never looked back winning the game 6–3. Dwayne Roloson made 32 saves as the Oilers ended the series with a 2–1 victory in Game five. The Oilers became the first eighth-seeded team to reach the Finals under this playoff format (which was introduced in 1994). Anaheim changed their team nickname, uniforms and logo after the season as they became known as the Anaheim Ducks. 
+
+
+
+May 19 Edmonton Oilers 3–1 Mighty Ducks of Anaheim Arrowhead Pond Recap Michael Peca (3) – sh – 18:35 First period 19:03 – pp – Andy McDonald (2) Ales Hemsky (4) – pp – 11:35 Second period No scoring Todd Harvey (1) – en – 19:18 Third period No scoring Dwayne Roloson 31 saves / 32 shots Goalie stats Ilya Bryzgalov 23 saves / 25 shots May 21 Edmonton Oilers 3–1 Mighty Ducks of Anaheim Arrowhead Pond Recap Chris Pronger (3) – pp – 13:08 First period No scoring Fernando Pisani (8) – 17:09 Second period 06:12 – Jeff Friesen (3) Michael Peca (4) – en – 19:42 Third period No scoring Dwayne Roloson 33 saves / 34 shots Goalie stats Ilya Bryzgalov 22 saves / 24 shots May 23 Mighty Ducks of Anaheim 4–5 Edmonton Oilers Rexall Place Recap No scoring First period 13:47 – Toby Petersen (1) No scoring Second period No scoring Sean O'Donnell (2) – 07:15 
+
+Teemu Selanne (6) – 09:13 
+
+Chris Kunitz (3) – 11:15 
+
+Todd Marchant (3) – 18:15 Third period 02:19 – Michael Peca (5) 
+
+03:35 – pp – Steve Staios (1) 
+
+04:40 – pp – Chris Pronger (4) 
+
+14:14 – Fernando Pisani (9) Ilya Bryzgalov 17 saves / 22 shots Goalie stats Dwayne Roloson 34 saves / 38 shots May 25 Mighty Ducks of Anaheim 6–3 Edmonton Oilers Rexall Place Recap Dustin Penner (2) – 07:28 
+
+Dustin Penner (3) – 15:11 
+
+Ryan Getzlaf (3) – pp – 19:18 First period No scoring Ruslan Salei (3) – 05:42 
+
+Joffrey Lupul (8) – 18:22 Second period 03:30 – pp – Marc-Andre Bergeron (2) 
+
+07:46 – Ryan Smyth (5) 
+
+10:01 – Georges Laraque (1) Joffrey Lupul (9) – en – 18:50 Third period No scoring Jean-Sebastien Giguere 20 saves / 23 shots Goalie stats Dwayne Roloson 40 saves / 45 shots May 27 Edmonton Oilers 2–1 Mighty Ducks of Anaheim Arrowhead Pond Recap No scoring First period 07:30 – pp – Francois Beauchemin (3) Ethan Moreau (1) – 03:42 
+
+Raffi Torres (3) – 08:31 Second period No scoring No scoring Third period No scoring Dwayne Roloson 32 saves / 33 shots Goalie stats Jean-Sebastien Giguere 23 saves / 25 shots Edmonton won series 4–1 
+
+
+
+Stanley Cup Finals [ edit ] Main article: 2006 Stanley Cup Finals 
+
+This was the first playoff meeting between these two teams. Carolina made their second Finals appearance, while Edmonton made their seventh appearance in the Finals. The Hurricanes were defeated in their last appearance in the Finals losing to Detroit in five games in 2002 , the Oilers won their last appearance in the Finals defeating Boston in five games in 1990 . The teams did not meet during the regular season. This series marked the first time that two former World Hockey Association teams played against each other for the Stanley Cup since they merged with the NHL in 1979. This was the first Stanley Cup Finals to be contested by two teams that had both missed the playoffs the previous season . 
+
+
+
+June 5 Edmonton Oilers 4–5 Carolina Hurricanes RBC Center Recap Fernando Pisani (10) – 08:18 First period No scoring Chris Pronger (5) – ps – 10:36 
+
+Ethan Moreau (2) – 16:23 Second period 17:17 – Rod Brind'Amour (10) Ales Hemsky (5) – pp – 13:31 Third period 01:40 – Ray Whitney (7) 
+
+05:09 – pp – Ray Whitney (8) 
+
+10:02 – sh – Justin Williams (6) 
+
+19:28 – Rod Brind'Amour (11) Dwayne Roloson 19 saves / 23 shots 
+
+Ty Conklin 2 saves / 3 shots Goalie stats Cam Ward 34 saves / 38 shots June 7 Edmonton Oilers 0–5 Carolina Hurricanes RBC Center Recap No scoring First period 06:21 – Andrew Ladd (2) No scoring Second period 10:28 – pp – Frantisek Kaberle (3) 
+
+19:57 – Cory Stillman (8) No scoring Third period 02:21 – pp – Doug Weight (3) 
+
+04:12 – pp – Mark Recchi (6) Jussi Markkanen 21 saves / 26 shots Goalie stats Cam Ward 25 saves / 25 shots June 10 Carolina Hurricanes 1–2 Edmonton Oilers Rexall Place Recap No scoring First period 02:31 – Shawn Horcoff (6) No scoring Second period No scoring Rod Brind’Amour (12) – 09:09 Third period 17:45 – Ryan Smyth (6) Cam Ward 28 saves / 30 shots Goalie stats Jussi Markkanen 24 saves / 25 shots June 12 Carolina Hurricanes 2–1 Edmonton Oilers Rexall Place Recap Cory Stillman (9) – pp – 09:09 First period 08:40 – Sergei Samsonov (4) Mark Recchi (7) – 15:56 Second period No scoring No scoring Third period No scoring Cam Ward 20 saves / 21 shots Goalie stats Jussi Markkanen 18 saves / 20 shots June 14 Edmonton Oilers 4–3 OT Carolina Hurricanes RBC Center Recap Fernando Pisani (11) – 00:16 
+
+Ales Hemsky (6) – pp – 13:25 
+
+Michael Peca (6) – 19:42 First period 05:54 – pp – Eric Staal (8) 
+
+10:16 – pp – Ray Whitney (9) No scoring Second period 09:56 – pp – Eric Staal (9) No scoring Third period No scoring Fernando Pisani (12) – sh – 03:31 First overtime period No scoring Jussi Markkanen 21 saves / 24 shots Goalie stats Cam Ward 25 saves / 29 shots June 17 Carolina Hurricanes 0–4 Edmonton Oilers Rexall Place Recap No scoring First period No scoring No scoring Second period 01:45 – pp – Fernando Pisani (13) 
+
+09:54 – Raffi Torres (4) No scoring Third period 03:04 – pp – Ryan Smyth (7) 
+
+13:05 – pp – Shawn Horcoff (7) Cam Ward 30 saves / 34 shots Goalie stats Jussi Markkanen 16 saves / 16 shots June 19 Edmonton Oilers 1–3 Carolina Hurricanes RBC Center Recap No scoring First period 01:26 – Aaron Ward (2) No scoring Second period 04:18 – pp – Frantisek Kaberle (4) Fernando Pisani (14) – 01:03 Third period 18:59 – en – Justin Williams (7) Jussi Markkanen 24 saves / 26 shots Goalie stats Cam Ward 22 saves / 23 shots Carolina won series 4–3 
+
+
+
+Player statistics [ edit ] Skaters [ edit ] 
+
+GP = Games played; G = Goals; A = Assists; Pts = Points; +/– = Plus/Minus ; PIM = Penalty Minutes Player Team GP G A Pts +/– PIM Staal, Eric Eric Staal Carolina Hurricanes 25 9 19 28 0 8 Stillman, Cory Cory Stillman Carolina Hurricanes 25 9 17 26 +12 14 Pronger, Chris Chris Pronger Edmonton Oilers 24 5 16 21 +10 26 Briere, Daniel Daniel Briere Buffalo Sabres 18 8 11 19 0 12 Horcoff, Shawn Shawn Horcoff Edmonton Oilers 24 7 12 19 +4 12 Pisani, Fernando Fernando Pisani Edmonton Oilers 24 14 4 18 +4 10 Brindamour, Rod Rod Brind'Amour Carolina Hurricanes 25 12 6 18 +9 16 Drury, Chris Chris Drury Buffalo Sabres 18 9 9 18 +5 10 Williams, Justin Justin Williams Carolina Hurricanes 25 7 11 18 +12 34 Cullen, Matt Matt Cullen Carolina Hurricanes 25 4 14 18 +2 12 Goaltending [ edit ] 
+
+These are the top five goaltenders based on either goals against average or save percentage with at least four games played. 
+
+GP = Games Played; W = Wins; L = Losses; SA = Shots Against; GA = Goals Against; GAA = Goals Against Average ; TOI = Time On Ice (minutes:seconds); Sv% = Save Percentage; SO = Shutouts Player Team GP W L SA GA GAA Min Sv% SO Ilya Bryzgalov Mighty Ducks of Anaheim 11 6 4 285 16 1.46 658:59 .944 3 Cristobal Huet Montreal Canadiens 6 2 4 212 15 2.33 385:37 .929 0 Dwayne Roloson Edmonton Oilers 18 12 5 618 45 2.33 1159:43 .927 1 Martin Brodeur New Jersey Devils 9 5 4 261 20 2.25 532:59 .923 1 Miikka Kiprusoff Calgary Flames 7 3 4 202 16 2.24 427:59 .921 0 Cam Ward Carolina Hurricanes 23 15 8 584 47 2.14 1319:53 .920 2 Jussi Markkanen Edmonton Oilers 6 3 3 137 13 2.17 360:23 .905 1 References [ edit ] ^ "Joe Sakic – Career Timeline" . July 9, 2009 . Retrieved October 5, 2015 . ^ "Buffalo Wins On Pominville's Heroics" . May 13, 2006 . Retrieved September 22, 2015 . ^ "Game Recap" . May 7, 2006 . Retrieved September 25, 2015 . ^ "Game Recap" . May 9, 2006 . Retrieved September 25, 2015 . See also [ edit ] 2005–06 NHL season List of NHL seasons Preceded by 
+
+2004 Stanley Cup playoffs Stanley Cup Champions Succeeded by 
+
+2007 Stanley Cup playoffs v t e 2005–06 NHL season Atlantic New Jersey NY Islanders NY Rangers Philadelphia Pittsburgh Northeast Boston Buffalo Montreal Ottawa Toronto Southeast Atlanta Carolina Florida Tampa Bay Washington Central Chicago Columbus Detroit Nashville St. Louis Northwest Calgary Colorado Edmonton Minnesota Vancouver Pacific Anaheim Dallas Los Angeles Phoenix San Jose See also West Coast Express Draft Stanley Cup Playoffs Stanley Cup Finals Transactions v t e Stanley Cup playoffs 1910s–1920s 1910 . 1911 . 1912 . 1913 . 1914 1915 1916 1917 1918 1919 1920 1921 1922 1923 1924 1925 1926 1927 1928 1929 1930s–1940s 1930 1931 1932 1933 1934 1935 1936 1937 1938 1939 1940 1941 1942 1943 1944 1945 1946 1947 1948 1949 1950s–1960s 1950 1951 1952 1953 1954 1955 1956 1957 1958 1959 1960 1961 1962 1963 1964 1965 1966 1967 1968 1969 1970s–1980s 1970 1971 1972 1973 1974 1975 1976 1977 1978 1979 1980 1981 1982 1983 1984 1985 1986 1987 1988 1989 1990s–2000s 1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 . 2005 . 2006 2007 2008 2009 2010s–2020s 2010 2011 2012 2013 2014 2015 2016 . 2017 . 2018 . 2019 . 2020 . 2021 . 2022 . 2023 . 2024 . 2025 . 2026 . 2027 . 2028 . 2029 See also Stanley Cup Champions Finals Conference Finals Challenge games List of playoff series Conn Smythe Trophy Game seven Category:Stanley Cup playoffs Ice hockey portal (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=2006_Stanley_Cup_playoffs oldid=730148044 " Categories : 2006 Stanley Cup Stanley Cup playoffs Hidden categories: Articles with hCards Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version Languages Français Italiano Русский Edit links This page was last modified on 17 July 2016, at 01:47. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.576", "walltime": "0.626", "ppvisitednodes": { "value": 18666, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 737659, "limit": 2097152 }, "templateargumentsize": { "value": 67534, "limit": 2097152 }, "expansiondepth": { "value": 7, "limit": 40 }, "expensivefunctioncount": { "value": 0, "limit": 500 }, "entityaccesscount": { "value": 0, "limit": 400 }, "timingprofile": [ "100.00% 285.201 1 -total", " 59.39% 169.381 15 Template:NHLPlayoffs", " 14.13% 40.312 1 Template:Reflist", " 11.72% 33.416 4 Template:Cite_web", " 6.69% 19.080 2 Template:Navbox", " 5.93% 16.909 1 Template:See_also", " 4.68% 13.355 1 Template:Stanley_Cup_playoffs", " 3.93% 11.221 1 Template:Succession_box", " 3.43% 9.791 1 Template:2005–06_NHL_season_by_team", " 2.49% 7.104 2 Template:Icon" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.036", "limit": "10.000" }, "limitreport-memusage": { "value": 2809581, "limit": 52428800 } }, "cachereport": { "origin": "mw1246", "timestamp": "20161014100308", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":113,"wgHostname":"mw1253"});});

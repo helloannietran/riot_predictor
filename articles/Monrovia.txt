@@ -1,0 +1,257 @@
+Monrovia - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Monrovia","wgTitle":"Monrovia","wgCurRevisionId":745506328,"wgRevisionId":745506328,"wgArticleId":285213,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Unfit url","Pages using citations with accessdate and no URL","Articles with Wayback Machine links","Coordinates on Wikidata","All articles with unsourced statements","Articles with unsourced statements from June 2012","Articles with unsourced statements from September 2008","Commons category with page title same as on Wikidata","Wikipedia articles incorporating a citation from the New International Encyclopedia","Wikipedia articles incorporating a citation from the Encyclopedia Americana with a Wikisource reference","Wikipedia articles incorporating a citation from Collier's Encyclopedia","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Monrovia","Capitals in Africa","James Monroe","Mesurado River","Montserrado County","Populated places established by Americo-Liberians","Populated places established in the 1820s","Populated places in Liberia","Port cities in Liberia","Saint Paul River","1822 establishments in Africa"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Monrovia","wgRelevantArticleId":285213,"wgRequestId":"WAonCwpAME4AALwLaq0AAABB","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":6.3133333333333,"lon":-10.801388888889},"wgWikibaseItemId":"Q3748","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Monrovia From Wikipedia, the free encyclopedia Jump to: navigation , search For other places with the same name, see Monrovia (disambiguation) . Monrovia City Monrovia Images top, left to right: Capitol Building, Monrovia City Hall, Downtown Monrovia, University of Liberia , Monrovia Bay Monrovia Location within Liberia, West Africa Coordinates: 6°18′48″N 10°48′5″W ﻿ / ﻿ 6.31333°N 10.80139°W ﻿ / 6.31333; -10.80139 Coordinates : 6°18′48″N 10°48′5″W ﻿ / ﻿ 6.31333°N 10.80139°W ﻿ / 6.31333; -10.80139 Country Liberia County Montserrado District Greater Monrovia Established April 25, 1822 Named for James Monroe - U.S. President Government • Mayor Mrs. Clara Doe-Mvogo Population (2008 Census) [1] • Metro 1,010,970 Time zone GMT ( UTC+0 ) Climate Am 
+
+Monrovia / m ə n ˈ r oʊ v i ə / [2] [3] is the capital city of the West African country of Liberia . Located on the Atlantic Coast at Cape Mesurado , Monrovia had a population of 1,010,970 as of the 2008 census. With 29% of the total population of Liberia, Monrovia is the country's most populous city. From January 7, 1822 until the Liberian Declaration of Independence from the American Colonization Society on July 26, 1847 some 3,198 ex-Caribbean slaves settlers from the Lesser Antilles , who had escaped from their slaveholder or were born free, left the Caribbean islands and came to Liberia with the help and support of the American Colonization Society and other establishment organizations. The ex-Caribbean slaves came to Liberia to live a better life, to be free, and to establish self-governance. The first ex-Caribbean slaves who came to Liberia were from Barbados ; some 500 to 1,000 ex-Caribbean slaves arrived in Liberia. The second group of settlers who came from the Caribbean islands were from Trinidad and Tobago ; they were some 345 ex-Caribbean slaves, followed by some 620 ex-Caribbean slaves from Saint Vincent and the Grenadines . Another group of settlers, some 350 ex-Caribbean slaves, came from Saint Kitts and Nevis . The last two groups of settlers from the Caribbean islands were some 483 from Grenada and some 400 from Saint Lucia . As job opportunities and development growth increased, the ex-Caribbean slaves moved through Grand Cape Mount , Bomi County , Montserrado , Margibi County and other regions of Liberia to seek jobs and other opportunities. [4] 
+
+Monrovia is Liberia's cultural, political and financial hub. The body that administers the government of Greater Monrovia District is the Monrovia City Corporation. 
+
+Founded on April 25, 1822, Monrovia was the second permanent Black American settlement in Africa after Freetown, Sierra Leone . Monrovia's economy is shaped primarily by its harbour and its role as the location of Liberia's government offices. It is the world's poorest city according to TheRichest . [5] 
+
+Contents 1 Etymology 2 History 3 Geography 3.1 Climate 3.2 Neighborhoods 4 Economy 5 Infrastructure 6 Government 7 Culture and media 8 Education 9 Pollution 10 International relations 10.1 Twin towns – Sister cities 11 See also 12 References 13 External links 
+
+Etymology [ edit ] 
+
+Monrovia is named in honor of U.S. President James Monroe , a prominent supporter of the colonization of Liberia and the American Colonization Society . Along with Washington, D.C. , it is one of two national capitals to be named after a U.S. President. History [ edit ] Monrovia in the 19th century. Visiting US President Jimmy Carter and Liberian President William Tolbert wave from their motorcade, 1978. 
+
+In 1816, with the aim of establishing a self-sufficient colony for emancipated American survivors of slavery, something that had already been accomplished in Freetown , the first settlers arrived in Africa from the United States, under the auspices of the American Colonization Society . [6] They landed at Sherbro Island in present-day Sierra Leone . Many settlers died in the landing. 
+
+In January 7, 1822, a second ship rescued the settlers and took them to Cape Mesurado , establishing the settlement of Christopolis . In 1824, the city was renamed to Monrovia after James Monroe , then President of the United States, who was a prominent supporter of the colony in sending freed Black slaves and ex-caribbean slaves from the United States of America and Caribbean islands to Liberia and who saw it as preferable to emancipation in America. [ citation needed ] 
+
+In 1845, Monrovia was the site of the constitutional convention held by the American Colonization Society which drafted the constitution that would two years later be the constitution of an independent and sovereign Republic of Liberia . [7] 
+
+At the beginning of the 20th century, Monrovia was divided into two parts: (1) Monrovia proper, where the city's Americo-Liberian population resided and was reminiscent of the Southern United States in architecture; and (2) Krutown, which was mainly inhabited by ethnic Krus but also Bassas , Grebos and other ethnicities. [8] Of the 4,000 residents, 2,500 were Americo-Liberian. By 1926, ethnic groups from Liberia's interior began migrating to Monrovia in search of jobs. [8] 
+
+In 1979, the Organisation of African Unity held their conference in the Monrovia area, with then president William R. Tolbert as chairman. During his term, Tolbert improved public housing in Monrovia and decreased by 50% the tuition fees at the University of Liberia . A military coup led by Samuel Doe ousted the Tolbert government in 1980, with many members being executed. 
+
+The city was severely damaged in the First and Second Liberian Civil Wars , notably during the siege of Monrovia , with many buildings damaged and nearly all the infrastructure destroyed. Major battles occurred between Samuel Doe's government and Prince Johnson 's forces in 1990 and with the NPFL 's assault on the city in 1992. A legacy of the war is a large population of homeless children and youths, either having been involved in the fighting or denied an education by it. 
+
+In 2002, Leymah Gbowee organized the Women of Liberia Mass Action for Peace with local women praying and singing in a fish market in Monrovia. [9] This movement helped bring an end to the Second Liberian Civil War in 2003 and the election of Ellen Johnson Sirleaf in Liberia, the first African nation with a female president . [10] 
+
+As of September 2014, an ongoing Ebola epidemic has been affecting the city. [11] The Ebola virus epidemic in Liberia was declared over on 3 September 2015. Geography [ edit ] 
+
+Monrovia lies along the Cape Mesurado peninsula, between the Atlantic Ocean and the Mesurado River , whose mouth forms a large natural harbor. The Saint Paul River lies directly north of the city and forms the northern boundary of Bushrod Island, which is reached by crossing the "New Bridge" from downtown Monrovia. Monrovia is located at 6°19′N 10°48′W ﻿ / ﻿ 6.317°N 10.800°W ﻿ / 6.317; -10.800 . Monrovia is Liberia's largest city and its administrative, commercial and financial center. 
+
+The city is located in Montserrado County . The small town of Bensonville is actually the capital of Montserrado County. Climate [ edit ] 
+
+Under the Köppen climate classification , Monrovia features a tropical monsoon climate ( Am ). [12] During the course of the year Monrovia sees a copious amount of precipitation. Monrovia averages 4,624 mm (182.0 in) of rain per year. In fact, Monrovia is the wettest capital city, receiving more annual precipitation on average, than any other capital in the world. [3] The climate features a wet season and a dry season , but precipitation is seen even during the dry season. Temperatures remain constant throughout the year averaging around 26.4 °C (79.5 °F). Climate data for Monrovia, Liberia Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Record high °C (°F) 35.0 
+
+(95) 38.0 
+
+(100.4) 37.0 
+
+(98.6) 38.0 
+
+(100.4) 35.0 
+
+(95) 33.0 
+
+(91.4) 36.0 
+
+(96.8) 35.0 
+
+(95) 32.0 
+
+(89.6) 33.0 
+
+(91.4) 36.0 
+
+(96.8) 34.0 
+
+(93.2) 38 
+
+(100.4) Average high °C (°F) 31.8 
+
+(89.2) 32.0 
+
+(89.6) 31.8 
+
+(89.2) 31.5 
+
+(88.7) 30.5 
+
+(86.9) 28.3 
+
+(82.9) 27.2 
+
+(81) 26.8 
+
+(80.2) 27.7 
+
+(81.9) 29.4 
+
+(84.9) 30.3 
+
+(86.5) 30.0 
+
+(86) 29.8 
+
+(85.6) Daily mean °C (°F) 26.2 
+
+(79.2) 27.1 
+
+(80.8) 27.6 
+
+(81.7) 27.8 
+
+(82) 27.4 
+
+(81.3) 26.0 
+
+(78.8) 25.1 
+
+(77.2) 24.9 
+
+(76.8) 25.4 
+
+(77.7) 26.1 
+
+(79) 26.7 
+
+(80.1) 26.4 
+
+(79.5) 26.4 
+
+(79.5) Average low °C (°F) 22.0 
+
+(71.6) 23.4 
+
+(74.1) 23.7 
+
+(74.7) 23.8 
+
+(74.8) 23.9 
+
+(75) 23.4 
+
+(74.1) 23.0 
+
+(73.4) 22.9 
+
+(73.2) 23.3 
+
+(73.9) 23.2 
+
+(73.8) 23.5 
+
+(74.3) 22.5 
+
+(72.5) 23.2 
+
+(73.8) Record low °C (°F) 15.0 
+
+(59) 18.0 
+
+(64.4) 18.0 
+
+(64.4) 21.0 
+
+(69.8) 20.0 
+
+(68) 20.0 
+
+(68) 20.0 
+
+(68) 20.0 
+
+(68) 17.0 
+
+(62.6) 20.0 
+
+(68) 20.0 
+
+(68) 16.0 
+
+(60.8) 15 
+
+(59) Average precipitation mm (inches) 51 
+
+(2.01) 71 
+
+(2.8) 120 
+
+(4.72) 154 
+
+(6.06) 442 
+
+(17.4) 958 
+
+(37.72) 797 
+
+(31.38) 354 
+
+(13.94) 720 
+
+(28.35) 598 
+
+(23.54) 237 
+
+(9.33) 122 
+
+(4.8) 4,624 
+
+(182.05) Average precipitation days 4 3 8 12 22 24 21 17 24 22 16 9 182 Average relative humidity (%) 78 76 77 80 79 82 83 84 86 84 80 79 80.7 Mean monthly sunshine hours 158 167 198 195 155 105 84 81 96 121 147 155 1,662 Source #1: Deutscher Wetterdienst (average temperature and extremes only) [13] Source #2: Danish Meteorological Institute [14] Neighborhoods [ edit ] A map of central Monrovia in 1996. 
+
+The city of Monrovia consists of several districts, spread across the Mesurado peninsula, with the greater Metropolitan area encircling the marshy Mesurado river's mouth. The historic downtown, centered on Broad Street, is at the very end of the peninsula, with the major market district, Waterside , immediately to the north, facing the city's large natural harbor. 
+
+Northwest of Waterside is the large, low-income West Point community. To the west/southwest of downtown lies Mamba Point, traditionally the city's principal diplomatic quarter, and home to the Embassies of the United States and United Kingdom as well as the European Union Delegation. South of the city center is Capitol Hill, where the major institutions of national government, including the Temple of Justice and the Executive Mansion, are located. 
+
+Further east down the peninsula is the Sinkor section of Monrovia. Originally a suburban residential district, today Sinkor acts as Monrovia's bustling mid-town, hosting many diplomatic missions, as well as major hotels, businesses, as well as several residential neighborhoods, including informal communities such as Plumkor, Jorkpentown, Lakpazee and Fiamah. 
+
+Sinkor is also home to the city's secondary airport, Spriggs Payne , and the area immediately nearby, called Airfield, is a major nightlife district for the whole city. Further east of the Airfield is the Old Road section of Sinkor, which is predominantly residential, including informal settlements like Chugbor and Gaye Town . 
+
+At the southeasterly base of the peninsula is the independent township of Congo Town, and to its east is the large suburb of Paynesville . Other suburbs such as Chocolate City , Gardnersville , Barnersville , Kaba Town , Dandawailo , and New Georgia lie to the north, across the river. On Bushrod Island north of Monrovia are the neighborhoods of Clara Town , Logan Town and New Kru Town . To the far east are the suburbs of Stockton Creek Bridge , Caldwell , Louisiana and Cassava Hill . Other neighborhoods and suburbs of Monrovia include Bakoi Banjoa Barekling Bassa Community Buzzi Quarters Clara Town Crown Hill Dixville Doin Town Dwahn Town Duala Fanti Town Jatuja Jacob Town Jallah Town Logan Town Matadi New Kru Town Old Road Point Four Red Light Slipway Snapper Hill South Beach Toe Town Tomo Topoe Village Vai Town Virginia Economy [ edit ] A street in downtown Monrovia, 2009. 
+
+Monrovia's economy is dominated by its harbor - the Freeport of Monrovia - and as the location of Liberia's government offices. Monrovia's harbor was significantly expanded by U.S. forces during the Second World War and the main exports include latex and iron ore . 
+
+Materials are also manufactured on-site, such as cement , refined petroleum , food products, bricks and tiles , furniture and chemicals . Located on Bushrod Island between the mouths of the Mesurado and Saint Paul rivers, the harbor also has facilities for storing and repairing vessels. Infrastructure [ edit ] Main article: Transport in Liberia 
+
+Boats link the city's Freeport of Monrovia , the country's busiest port, with Greenville and Harper . [15] The nearest airport is Spriggs Payne Airport , located less than four miles (6.4 km) from the city center. Roberts International Airport , the largest international airport in Liberia, is 60 km (37 miles) away in Harbel . [15] 
+
+Monrovia is connected with the rest of the country via a network of roads and railways. Monrovia is listed as the home port by between ten and fifteen percent of the world's merchant shipping, registered in Liberia under Flag of Convenience arrangements. Both private taxis and minibuses run in the city, and are supplemented by larger buses run by the Monrovia Transit Authority . Prior to the wars, the Mount Coffee Hydropower Project provided electricity and drinking water to the city. [16] 
+
+In recent years (2005–present) the roads on many streets in Monrovia have been rebuilt by the World Bank and the Liberian Government. Private and public infrastructures are being built or renovated as reconstruction takes place. Government [ edit ] Monrovia Bay. 
+
+Monrovia lies geographically within Montserrado County , but is administered separately. Monrovia's Monrovia City Corporation runs many services inside the city. Monrovia is governed as a metropolitan city called Greater Monrovia District. 
+
+Former mayors include: W. F. Nelson, 1870s [17] C. T. O. King, 1880s and served three terms [18] H. A. Williams, 1890s [19] Gabriel M. Johnson, 1920s [20] Nathan C. Ross, 1956-1969 [21] Ellen A. Sandimanie, 1970s and first woman to hold the position [22] Ophelia Hoff Saytumah , 2001–2009 Mary Broh , February 2009–February 2013 Henry Reed Cooper, March 2013-July 2013 Mary Broh , July 2013 Culture and media [ edit ] Broad Street, Monrovia. 
+
+Attractions in Monrovia include the Liberian National Museum , the Masonic Temple , the Waterside Market, and several beaches. The city also houses Antoinette Tubman Stadium and the Samuel K. Doe Sports Complex sports stadiums . The arena at Samuel K. Doe is one of the largest stadiums in Africa, with seats for 40,000. [ citation needed ] 
+
+The newspaper industry in Monrovia extends back to the 1820s, when the Liberia Herald opened as one of the first newspapers published in Africa. Today, numerous tabloid style newspapers are printed on daily or bi-weekly basis, most of which are no more than 20 pages. The Daily Talk is a compilation of news items and Bible quotations written up daily on a roadside blackboard in the Sinkor section of Monrovia. [ citation needed ] 
+
+Radio and TV stations are available, with radio being a more prominent source of news as problems with the electric grid make watching television more difficult. UNMIL Radio has been broadcasting since October 1, 2003. It is the first radio station in Liberia to broadcast 24 hours a day, and reaches an estimated   2 ⁄ 3 of the population. [23] The state-owned Liberia Broadcasting System broadcasts nationwide from its headquarters in Monrovia. [24] STAR radio broadcasts at 104 FM. [25] Education [ edit ] 
+
+Monrovia is home to the University of Liberia , along with African Methodist Episcopal University , United Methodist University , Stella Maris Polytechnic , and many other public and private schools. Medical education is offered at the A.M. Dogliotti College of Medicine, and there is a nursing and paramedical school at the Tubman National Institute of Medical Arts. 
+
+Kindergarten through twelfth grade education is provided by the Monrovia Consolidated School System , which serves the Greater Monrovia area. Schools include Monrovia Central High School, Bostwain High School, D. Twe High School, G. W. Gibson High School and William V. S. Tubman High School. 
+
+The American International School of Monrovia is located in Congo Town . [26] Pollution [ edit ] Further information: Environmental issues in Liberia Dwellings along the Mesurado River in Monrovia. Discarded plastics can be seen washed up on the bank opposite the buildings. 
+
+Pollution is a significant issue in Monrovia. [27] Piles of household and industrial rubbish in Monrovia build up and are not always collected by sanitation companies paid by the World Bank to collect this waste. [27] 
+
+In 2013, the problem of uncollected rubbish became so acute in the Paynesville area of Monrovia that traders and residents burnt "the huge garbage piles that seemed on the verge of cutting off the main road" out of Monrovia to Kakata . [27] 
+
+Flooding brings environmental problems to residents of Monrovia, as flood water mixes with and carries waste found in swamps that are often on the verge of residential areas. [27] 
+
+In 2009, one-third of Monrovia's 1.5 million people had access to clean toilets. [28] Those without their own toilets defecate in the narrow alley-ways between their houses, on the beach, or into plastic bags, which they dump on nearby piles of rubbish or into the sea. [28] 
+
+Congested housing, no requirement that landlords provide working toilets, and virtually no urban planning "have combined to create lethal sanitation conditions in the capital". [29] International relations [ edit ] See also: List of twin towns and sister cities in Liberia Twin towns – Sister cities [ edit ] 
+
+Monrovia is twinned with: Taipei , Taiwan [30] Dayton, Ohio , United States See also [ edit ] Liberia portal John F. Kennedy Medical Center Palm Grove Cemetery 
+
+General: History of Liberia 
+
+Notable People: Sio Moore American football player Ashton Youboty American football player References [ edit ] ^ 2008 National Population and Housing Census . Retrieved November 09, 2008. ^ "Definition of Monrovia" . The Free Dictionary . Retrieved 2014-01-05 . / m ə n ˈ r oʊ v i ə , m ɒ n ˈ r oʊ v i ə / ^ "Define Monrovia" . Dictionary.com . Retrieved 2014-01-05 . / m ə n ˈ r oʊ v i ə / ^ "Global Statistics" . GeoHive. 2009-07-01 . Retrieved 2010-07-04 . ^ "The 10 Poorest Cities in the World" . TheRichest . Retrieved 2015-12-20 . ^ "Map of Liberia, West Africa" . World Digital Library . 1830 . Retrieved 2013-06-02 . ^ Robin Dunn-Marcos, Konia T. Kollehlon, Bernard Ngovo, and Emily Russ (2005) in Donald A. Ranard (ed.) Liberians: An introduction to their history and culture (Washington: Center for Applied Linguistics) available online here [1] ^ a b Tiyambe Zeleza, Dickson Eyoh et al., Encyclopedia of Twentieth-Century African History . Books.google.com . Retrieved 2010-07-04 . ^ 2009 Peace warrior for Liberia ^ CNN, October 31, 2009 ^ "The terrifying mathematics of Ebola" . Channel 4 . 2014-09-11 . Retrieved 2014-09-11 . ^ "Climate: Monrovia - Climate graph, Temperature graph, Climate table" . Climate-Data.org . Retrieved 2014-01-05 . ^ "Klimatafel von Robertsfield (Int. Flugh.) / Liberia" (PDF) . Federal Ministry of Transport and Digital Infrastructure . Retrieved 15 June 2016 . ^ "STATIONSNUMMER 65660" (PDF) . Ministry of Energy, Utilities and Climate. Archived from the original on January 16, 2013 . Retrieved 15 June 2016 . CS1 maint: Unfit url ( link ) ^ a b Timberg, Craig (March 12, 2008). "Liberia's Streets, Spirits Brighten; Four Years After War's End, Battered W. African Nation Begins a Slow Reawakening". The Washington Post . pp. A8. |access-date= requires |url= ( help ) ^ "Montserrado County Development Agenda" (PDF) . Republic of Liberia. 2008 . Retrieved 2008-10-14 . ^ "Trustees of Donations for Education in Liberia Records: 1842-1939" . Massachusetts Historical Society . Retrieved 3 February 2010 . ^ Burrowes, Carl Patrick (2004). Power and Press Freedom in Liberia, 1830-1970 . Africa World. p. 117. ISBN 1-59221-294-8 . ^ Payne, Daniel Alexander (1922). A history of the African Methodist Episcopal church: being a volume supplemental to A history of the African Methodist Episcopal church . Book Concern of the A.M.E. Church. p. 181. ^ "African Series Introduction: Volume VIII: October 1913--June 1921" . The Marcus Garvey and UNIA Papers Project . UCLA . Retrieved 3 February 2010 . ^ "Nathan Ross; Was Mayor Of Monrovia". The Washington Post . January 28, 2003. ^ Thompson, Era Bell (January 1972). "Liberian Lady Wears Three Hats" . Ebony : 54–62. ^ [2] Archived January 10, 2007, at the Wayback Machine . ^ Liberia Broadcasting System (LBS) Goes Nation-Wide. 19 November 2008. Executive Mansion ^ About us. STAR radio. Retrieved on October 13, 2008. ^ Home page . American International School of Monrovia . Retrieved on April 7, 2015. "Old Road, Congo Town, Monrovia, Liberia, Africa | P.O. Box 1625" ^ a b c d "Monrovia’s ‘Never-Ending’ Pollution Issues In 2013", Edwin M. Fayia III, The Liberian Observer , December 30, 2014. ^ a b "LIBERIA: Disease rife as more people squeeze into fewer toilets", IRIN News , 19 November 2009. ^ "LIBERIA: No relief as most Monrovians go without toilets", IRIN News , 19 November 2008. ^ "Taipei - International Sister Cities" . Taipei City Council. Archived from the original on 2012-11-02 . Retrieved 2013-08-23 . External links [ edit ] Wikimedia Commons has media related to Monrovia . Wikivoyage has a travel guide for Monrovia . City Map Map of Greater Monrovia showing population densities Texts on Wikisource: " Monrovia ". New International Encyclopedia . 1905. " Monrovia, Liberia ". Encyclopedia Americana . 1920. " Monrovia ". Collier's New Encyclopedia . 1921. v t e Capitals of Africa Dependent territories and states with limited recognition are in italics Abuja , Nigeria Accra , Ghana Addis Ababa , Ethiopia Algiers , Algeria Antananarivo , Madagascar Asmara , Eritrea Bamako , Mali Bangui , Central African Republic Banjul , Gambia Bissau , Guinea-Bissau Brazzaville , Rep. of the Congo Bujumbura , Burundi Cairo , Egypt Conakry , Guinea Dakar , Senegal Djibouti , Djibouti Dodoma , Tanzania El Aaiún (claimed) / Tifariti (factual) , Sahrawi Arab Democratic Republic 1 Freetown , Sierra Leone Funchal , Madeira 4 Gaborone , Botswana Harare , Zimbabwe Hargeisa , Somaliland 1 Jamestown , St Helena, Ascension Tristan da Cunha 2 Juba , South Sudan Kampala , Uganda Khartoum , Sudan Kigali , Rwanda Kinshasa , D.R. Congo Libreville , Gabon Lilongwe , Malawi Lomé , Togo Luanda , Angola Lusaka , Zambia Malabo , Equatorial Guinea Mamoudzou , Mayotte 3 Maputo , Mozambique Maseru , Lesotho Mbabane ( executive ) Lobamba ( legislative ) , Swaziland Mogadishu , Somalia Monrovia , Liberia Moroni , Comoros Nairobi , Kenya N'Djamena , Chad Niamey , Niger Nouakchott , Mauritania Ouagadougou , Burkina Faso Port Louis , Mauritius Porto-Novo , Benin Praia , Cape Verde Pretoria ( executive ) • Cape Town ( legislative ) • Bloemfontein ( judicial ) , South Africa Rabat , Morocco Saint-Denis , Réunion 3 Santa Cruz de Tenerife and Las Palmas , Canary Islands 5 São Tomé , São Tomé and Príncipe Tripoli , Libya Tunis , Tunisia Victoria , Seychelles Windhoek , Namibia Yamoussoukro , (political) • Abidjan (economic) , Ivory Coast Yaoundé , Cameroon 1 An unrecognised or partially-recognised nation 2 British Overseas Territory 3 Overseas region of France 4 Autonomous region of Portugal 5 Autonomous community of Spain v t e James Monroe 5th President of the United States (1817–1825) 5th U.S. Secretary of State (1811–1817) United States Secretary of War (1814–1815) Governor of Virginia (1799–1802, 1811) United States Minister to the United Kingdom (1803–1808) United States Minister to France (1794–1796) United States Senator from Virginia (1790–1794) Delegate to the Congress of the Confederation from Virginia (1783–1786) Founding events Virginia Ratifying Convention Founding Fathers Presidency First inauguration Second inauguration Florida Treaty Treaty of 1818 Panic of 1819 Era of Good Feelings Missouri Compromise Seminole Wars Monroe Doctrine Tariff of 1824 State of the Union Address, 1824 Cabinet Federal judiciary appointments Other noted 
+
+accomplisments Negotiated the Louisiana Purchase Monroe–Pinkney Treaty War of 1812 Life Early life and career Birthplace and boyhood home Revolutionary War service Battle of Trenton Monroe Hill home and office James Monroe Law Office, Museum, and Memorial Library Ash Lawn–Highland Oak Hill James Monroe Tomb Elections U.S. Senate election, 1790 1792 Governor of Virginia election, 1799 U.S. presidential election, 1808 1816 1820 Legacy and 
+
+popular culture Monrovia, capital of Liberia List of places named for James Monroe Monroe, Michigan Monroe, Georgia Monroe County, Kentucky Monroe County, New York Monroe Township, New Jersey Monroe Hill (2015 film) U.S. postage stamps Monroe Doctrine Centennial half dollar Related Virginia Dynasty Monroe on slavery American Colonization Society Family Elizabeth Kortright (wife) George Hay (son-in-law) Samuel L. Gouverneur (son-in-law) Spence Monroe (father) Elizabeth Jones (mother) ← James Madison John Quincy Adams → Commons Wikibooks Wikiquote Wikisource texts US Presidency Portal 
+
+
+
+v t e Largest cities or towns in Liberia 
+
+GeoNames Rank Name County Pop. 
+
+Monrovia 1 Monrovia Montserrado 939,524 
+
+Kakata 2 Gbarnga Bong 45,835 3 Kakata Margibi 33,945 4 Bensonville Montserrado 33,188 5 Harper Maryland 32,661 6 Voinjama Lofa 26,594 7 Buchanan Grand Bassa 25,731 8 Zwedru Grand Gedeh 25,678 9 New Yekepa Nimba 24,695 10 Greenville Sinoe 16,434 Authority control WorldCat Identities VIAF : 73145003762661340845 LCCN : n79107972 GND : 4273495-2 BNF : cb15075859c (data) (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Monrovia oldid=745506328 " Categories : Monrovia Capitals in Africa James Monroe Mesurado River Montserrado County Populated places established by Americo-Liberians Populated places established in the 1820s Populated places in Liberia Port cities in Liberia Saint Paul River 1822 establishments in Africa Hidden categories: CS1 maint: Unfit url Pages using citations with accessdate and no URL Articles with Wayback Machine links Coordinates on Wikidata All articles with unsourced statements Articles with unsourced statements from June 2012 Articles with unsourced statements from September 2008 Commons category with page title same as on Wikidata Wikipedia articles incorporating a citation from the New International Encyclopedia Wikipedia articles incorporating a citation from the Encyclopedia Americana with a Wikisource reference Wikipedia articles incorporating a citation from Collier's Encyclopedia Wikipedia articles with VIAF identifiers Wikipedia articles with LCCN identifiers Wikipedia articles with GND identifiers Wikipedia articles with BNF identifiers Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Wikivoyage Languages Afrikaans አማርኛ العربية Armãneashti Asturianu Azərbaycanca تۆرکجه বাংলা Bân-lâm-gú Беларуская Беларуская (тарашкевіца)‎ Български བོད་ཡིག Bosanski Brezhoneg Català Cebuano Čeština ChiShona Cymraeg Dansk Deutsch Eesti Ελληνικά Español Esperanto Euskara فارسی Fiji Hindi Français Frysk Gaeilge Gàidhlig Galego Gĩkũyũ 한국어 Հայերեն Hrvatski Ido Bahasa Indonesia Interlingue Íslenska Italiano עברית Basa Jawa ქართული Қазақша Kernowek Kiswahili Kongo Kreyòl ayisyen Кыргызча Кырык мары Latina Latviešu Lëtzebuergesch Lietuvių Lumbaart Magyar Македонски मराठी Bahasa Melayu Nāhuatl Nederlands 日本語 Нохчийн Norsk bokmål Norsk nynorsk Occitan Oʻzbekcha/ўзбекча ਪੰਜਾਬੀ پنجابی Piemontèis Polski Português Română Русский Scots Shqip Sicilianu Simple English Slovenčina Slovenščina Soomaaliga کوردیی ناوەندی Српски / srpski Srpskohrvatski / српскохрватски Suomi Svenska Tagalog தமிழ் Taqbaylit ไทย Тоҷикӣ Türkçe Удмурт Українська اردو Vèneto Vepsän kel’ Tiếng Việt Volapük Võro Winaray ייִדיש Yorùbá 粵語 中文 Edit links This page was last modified on 21 October 2016, at 14:32. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.588", "walltime": "0.729", "ppvisitednodes": { "value": 7407, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 180553, "limit": 2097152 }, "templateargumentsize": { "value": 18260, "limit": 2097152 }, "expansiondepth": { "value": 14, "limit": 40 }, "expensivefunctioncount": { "value": 6, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 595.688 1 -total", " 26.15% 155.784 1 Template:Infobox_settlement", " 19.52% 116.257 1 Template:Reflist", " 17.58% 104.729 2 Template:Infobox", " 10.44% 62.174 12 Template:Cite_web", " 9.44% 56.213 1 Template:Weather_box", " 9.28% 55.261 3 Template:Citation_needed", " 8.36% 49.805 3 Template:Fix", " 4.62% 27.533 1 Template:Wikisource-inline", " 4.60% 27.419 4 Template:Convert" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.215", "limit": "10.000" }, "limitreport-memusage": { "value": 8998336, "limit": 52428800 } }, "cachereport": { "origin": "mw1266", "timestamp": "20161021143225", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1243"});});

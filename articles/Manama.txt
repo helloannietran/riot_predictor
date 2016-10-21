@@ -1,0 +1,321 @@
+Manama - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Manama","wgTitle":"Manama","wgCurRevisionId":744414790,"wgRevisionId":744414790,"wgArticleId":20481,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","Coordinates on Wikidata","Settlement articles requiring maintenance","Articles containing Arabic-language text","Pages containing cite templates with deprecated parameters","Use dmy dates from August 2010","Wikipedia articles with VIAF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Manama","Capitals in Asia","Former municipalities (regions) of Bahrain","Former Portuguese colonies","European colonisation in Asia","Populated coastal places in Bahrain","Populated places in Bahrain","Port cities and towns of the Persian Gulf"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Manama","wgRelevantArticleId":20481,"wgRequestId":"WAo9BgpAMF0AADTV@ocAAABT","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":26.216666666667,"lon":50.583333333333},"wgWikibaseItemId":"Q3882","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Manama From Wikipedia, the free encyclopedia Jump to: navigation , search This article is about the capital of Bahrain. For the city in Ajman, see Manama, Ajman . For the similarly named song, see Mah Nà Mah Nà . Manama 
+
+المنامة al-Manāmah Manama skyline Manama Location of Manama in Bahrain. Coordinates: 26°13′N 50°35′E ﻿ / ﻿ 26.217°N 50.583°E ﻿ / 26.217; 50.583 Coordinates : 26°13′N 50°35′E ﻿ / ﻿ 26.217°N 50.583°E ﻿ / 26.217; 50.583 Country Bahrain Governorate Capital Government • Governor Hisham Bin Abdulrahman Bin Mohammed Al Khalifa Area • City 30 km 2 (10 sq mi) Population (2010) • City 157,474 • Density 5,200/km 2 (14,000/sq mi) • Metro 329,510 Time zone GMT+3 Website Official website 
+
+Manama ( Arabic : المنامة ‎‎ Al Manāma ) is the capital and largest city of Bahrain , with an approximate population of 157,000 people. Long an important trading center in the Persian Gulf , Manama is home to a very diverse population. After periods of Portuguese and Persian control and invasions from the ruling dynasties of Saudi Arabia and Oman , Bahrain established itself as an independent nation during the 19th century period of British hegemony. 
+
+Although the current twin cities of Manama and Muharraq appear to have been founded simultaneously in the 1800s, [1] Muharraq took prominence due to its defensive location and was thus the capital of Bahrain until 1921. Manama became the mercantile capital, and was the gateway to the main Bahrain Island . [2] In the 20th century, Bahrain's oil wealth helped spur fast growth and in the 1990s a concerted diversification effort led to expansion in other industries and helped transform Manama into an important financial hub in the Middle East. Manama was designated as the capital of Arab culture for the year 2012 by the Arab League . [3] [4] 
+
+Contents 1 Etymology 2 History 2.1 Pre-modern history 2.2 Early modern history 2.3 Modern history 3 Government 4 Economy 5 Demographics 6 Transport 6.1 Road network 6.2 Buses 6.3 Air transport 7 Education 8 Geography 8.1 Climate 9 Culture 10 Twin towns—sister cities 11 See also 12 Notes 13 References 14 External links 
+
+Etymology [ edit ] 
+
+The name is derived from the Arabic word المنامة (transliterated: al-manãma ) meaning "the place of rest" or "the place of dreams". [5] History [ edit ] Pre-modern history [ edit ] 
+
+There is evidence of human settlement on the northern coastline of Bahrain dating back to the Bronze Age . The Dilmun civilisation inhabited the area in 3000 BC, serving as a key regional trading hub between Mesopotamia , Magan and the Indus Valley civilisation . [6] [7] Approximately 100,000 Dilmun burial mounds were found across the north and central regions of the country, some originating 5,000 years ago. Despite the discovery of the mounds, there is no significant evidence to suggest heavy urbanisation took place during the Dilmun era. [8] It is believed that the majority of the population lived in rural areas, numbering several thousands. Evidence of an ancient large rural population was confirmed by one of Alexander the Great 's ship captains, during voyages in the Persian Gulf . A vast system of aqueducts in northern Bahrain helped facilitate ancient horticulture and agriculture . [9] 
+
+" The capital of Awal ... is a town well populated whose environs are fertile and produce corn and dates in abundance. " 
+
+— Al-Idrisi [9] 
+
+The commercial network of Dilmun lasted for almost 2,000 years, after which the Assyrians took control of the island in 700 BC for more than a century. This was followed by Babylonian and Achaemenid rule, which later gave way to Greek influence during the time of Alexander the Great's conquests . [10] In the first century AD, the Roman writer Pliny the Elder wrote of Tylos , the Hellenic name of Bahrain in the classical era , and its pearls and cotton fields. [7] The island came under the control of the Parthian and Sassanid empires respectively, by which time Nestorian Christianity started to spread in Bahrain. By 410-420 AD, a Nestorian bishopric and monastery was established in Al Dair , on the neighbouring island of Muharraq . [7] [11] Following the conversion of Bahrain to Islam in 628 AD, work on one of the earliest mosques in the region, the Khamis Mosque , began as early as the seventh century AD. During this time, Bahrain was engaged in long distance marine trading, evident from the discovery of Chinese coins dating between 600-1200 AD, in Manama. [7] The Khamis Mosque . 
+
+In 1330, under the Jarwanid dynasty , the island became a tributary of the Kingdom of Hormuz . The town of Manama was mentioned by name for the first time in a manuscript dating to 1345 AD. [7] Bahrain, particularly Manama and the nearby settlement of Bilad Al Qadeem , became a centre of Shia scholarship and training for the ulema , it would remain so for centuries. The ulema would help fund pearling expeditions and finance grain production in the rural areas surrounding the city. In 1521, Bahrain fell to the expanding Portuguese Empire in the Persian Gulf, having already defeated Hormuz. [12] The Portuguese consolidated their hold on the island by constructing the Bahrain Fort , on the outskirts of Manama. [13] After numerous revolts and an expanding Safavid empire in Persia, the Portuguese were expelled from Bahrain and the Safavids took control in 1602. [13] Early modern history [ edit ] 
+
+The Safavids, sidelining Manama, designated the nearby town of Bilad Al Qadeem as the provincial capital. [14] The town was also the seat of the Persian governor and the Shaikh al-Islam of the islands. The position of Shaikh al-Islam lied under jurisdiction of the central Safavid government and as such, candidates were carefully vetted by the Isfahan courts. During the Safavid era, the islands continued to be a centre for Twelver Shi'ism scholarship, producing clerics for use in mainland Persia. [14] Additionally, the rich agricultural northern region of Bahrain continued to flourish due to an abundance of date palm farms and orchards. The Portuguese traveler Pedro Teixeira commented on the extensive cultivation of crops like barley and wheat . The opening of Persian markets to Bahraini exports, especially pearls , boosted the islands' export economy. The yearly income of exported Bahraini pearls was 600,000 ducats , collected by around 2,000 pearling dhows . [12] Another factor that contributed to Bahrain's agricultural wealth was the migration of Shia cultivators from Ottoman -occupied Qatif and Al-Hasa , fearing religious persecution, in 1537. [14] Some time after 1736, Nader Shah constructed a fort on the southern outskirts of Manama (likely the Diwan Fort). [15] 
+
+Persian control over the Persian Gulf waned during the later half of the 18th century. At this time, Bahrain archipelago was a dependency of the emirate of Bushehr , itself a part of Persia . In 1783, the Bani Utbah tribal confederation invaded Bahrain and expelled the resident governor Nasr Al-Madhkur . As a result, the Al Khalifa family became the rulers of the country, and all political relations with Bushehr and Persia / Iran were terminated. Ahmed ibn Muhammad ibn Khalifa (later called Ahmed al-Fateh, lit. "Ahmed the conqueror") become the dynasty's first Hakim of Bahrain . Political instability in the 19th century had disastrous effects on Manama's economy; Invasions by the Omanis in 1800 and by the Wahhabis in 1810–11, in addition to a civil war in 1842 between Bahrain's co-rulers saw the town being a major battleground. The instability paralysed commercial trade in Manama; the town's port was closed, most merchants fled abroad to Kuwait and the Persian coast until hostilities ceased. [16] The English scholar William Gifford Palgrave , on a visit to Manama in 1862, described the town as having a few ruined stone buildings, with a landscape dominated with the huts of poor fishermen and pearl-divers. [1] [16] The British political agency, circa 1900. 
+
+The Pax Britannica of the 19th century resulted in British consolidation of trade routes, particularly those close to the British Raj . In response to piracy in the Persian Gulf region, the British deployed warships and forced much of the Persian Gulf States at the time (including Bahrain) to sign the General Maritime Treaty of 1820 , which prohibited piracy and slavery. [12] In 1861, the Perpetual Truce of Peace and Friendship was signed between Britain and Bahrain, which placed the British in charge of defending Bahrain in exchange for British control over Bahraini foreign affairs. With the ascension of Isa ibn Ali Al Khalifa as the Hakim of Bahrain in 1869, Manama became the centre of British activity in the Persian Gulf, though its interests were initially strictly commercial. [17] Trading recovered fully by 1873 and the country's earnings from pearl exports increased by sevenfold between 1873 and 1900. [18] Representing the British were native agents, usually from minorities such as Persians or Huwala who regularly reported back to British India and the British political residency in Bushehr . [19] The position of native agent was later replaced by a British political agent, following the construction of the British political residency (locally referred to in Arabic : بيت الدولة ‎‎) in 1900, which further solidified Britain's position in Manama. [19] Manama harbour, circa 1870. Modern history [ edit ] 
+
+Following the outbreak of World War I in 1914, the British Raj used Manama as a military base of operations during the Mesopotamian campaign . [20] Prompted by the presence of oil in the region, the British political agency in Bushire concluded an oil agreement with the Hakim to prohibit the exploration and exploitation of oil for a five-year period. In 1919, Bahrain was officially integrated into the British empire as an overseas imperial territory following the Bahrain order-in-council decree, issued in 1913. [20] The decree gave the resident political agent greater powers and placed Bahrain under the residency of Bushire and therefore under the governance of the British Raj. The British pressured a series of administrative reforms in Bahrain during the 1920s (a move met with opposition from tribal leaders), during which the aging Hakim Isa ibn Ali Al Khalifa was forced to abdicate in favour of his reform-minded son Hamad ibn Isa Al Khalifa . A municipal government was established in Manama in 1919, the customs office was reorganised in 1923 and placed under the supervision of an English businessman, the pearling industry was later reformed in 1924. Earnings from the customs office would be kept in the newly created state treasury . Civil courts were established for the first time in 1923, followed by the establishment of the Department of Land Registration in 1924. [21] Charles Belgrave , from the Colonial office , was appointed in 1926 by the British to carry on further reforms and manage administration as a financial advisor to the King. He later organised the State Police and was in charge of the Finance and Land departments of the government. [22] The newly formed Manama municipality (left) and the reorganised customs office of Manama (right). 
+
+In 1927, the country's pearling economy collapsed due to the introduction of Japanese cultured pearls in the world market. It is estimated that between 1929 and 1931, pearling entrepreneurs lost more than two-thirds of their income. Further aggravated by the Great Depression , many leading Bahraini businessmen, shopkeepers and pearl-divers fell into debt. [23] With the discovery of oil in 1932 and the subsequent production of oil exports in 1934, the country gained a greater significance in geopolitics. The security of oil supplies in the Middle East was a priority of the British, especially in the run-up to the Second World War. [24] The discovery of oil led to a gradual employment of bankrupt divers from the pearling industry in the 1930s, eventually causing the pearling industry to disappear. [25] During the war, the country served as a strategic airbase between Britain and India as well as hosting RAF Muharraq and a naval base in Juffair . [26] Bahrain was bombed by the Italian Air Force in 1940. In 1947, following the end of the war and subsequent Indian independence, the British residency of the Persian Gulf moved to Manama from Bushire . [24] Manama Souq in 1965 
+
+Following the rise of Arab nationalism across the Middle East and sparked by the Suez Crisis in 1956, anti-British unrest broke out in Manama, organised by the National Union Committee . Though the NUC advocated peaceful demonstrations, buildings and enterprises belonging to Europeans (the British in particular) as well as the main Catholic church in the city and petrol stations, were targeted and set ablaze. [27] Demonstrations held in front of the British political residency called for the dismissal of Charles Belgrave, who was later dismissed by direct intervention of the Foreign Office the following year. [28] A subsequent crackdown on the NUC led to the dissolution of the body. Another anti-British uprising erupted in March 1965, though predominately led by students aspiring for independence rather than by Arab nationalists. [2] In 1968, the British announced their withdrawal from Bahrain by 1971. [29] The newly independent State of Bahrain designated Manama as the capital city. [30] 
+
+Post-independence Manama was characterised by the rapid urbanisation of the city and the swallowing-up of neighboring villages and hamlets into a single urbanised area, incorporating new neighbourhoods such as Adliya and Salmaniya . The construction boom attracted large numbers of foreigners from the Indian subcontinent and by 1981, foreigners outnumbered Bahrainis two-to-one. [31] The construction of the Diplomatic Area district in the city's northeast helped facilitate diversification of the country's economy from oil by exploiting the lucrative financial industry. Financial institutions in the district numbered 187 by 1986. Scarcity of land suitable for construction led to land reclamation . [32] Religious activism migrated from Manama to the suburban districts of Bani Jamra , Diraz and Bilad Al Qadeem , hotspots of unrest in the 1990s uprising that called for the reinstatement of an elected parliament. [33] In 2001, the National Action Charter , presented by King Hamad bin Isa al-Khalifa was approved by Bahrainis. The charter led to the first parliamentary and municipal elections in decades. [33] Further elections in 2006 and 2010 led to the election of Islamist parties, Al Wefaq , Al Menbar , and Al Asalah , as well as independent candidates. [33] In 2011, a month-long uprising led to the intervention of GCC forces and the proclamation of a three-month state of emergency . The Bahrain Independent Commission of Inquiry published a 500-page report on the events of 2011. [34] Government [ edit ] See also: Governorates of Bahrain , Demographics of Bahrain , and Politics of Bahrain Manama in 1926 
+
+Historically, Manama has been restricted to what is now known as the Manama Souq and the Manama Fort (now the Ministry of Interior) to its south. However the city has now grown to include a number of newer suburban developments as well as older neighboring villages that have been engulfed by the growth of the city. The neighborhoods of Manama today include: Manama Souq (including Fareeq el-Makharqa ) Awadhiya Adliya Bu Ashira Bu Ghazal Diplomatic Area Ghuraifa Gudaibiya Gufool Hoora Juffair Mahooz Noaim Ras Rumman Seef Seqaya Sulmaniya Umm Al Hassam Zinj v t e Neighborhoods of Manama Awadhiya Adliya Bilad Al Qadeem Bu Ashira Bu Ghazal Central Business District Diplomatic Area Fareej el-Fadhel Fareej el-Hammam Fareej el-Hatab Fareej el-Makharqa Fareej Mushbir Ghuraifa Gudaibiya Gufool Hoora Juffair Mahooz Manama Souq Noaim Ras Rumman Salmaniya Sanabis Seef Seqaya Umm Al Hassam Zinj 
+
+Manama is part of the Capital Governorate , one of five Governorates of Bahrain . Until 2002 it was part of the municipality of Al-Manamah. Councils exist within the governorates; eight constituencies are voted upon within Capital Governorate in 2006. [35] Economy [ edit ] Main article: Economy of Bahrain Central Manama 
+
+Manama is the focal point of the Bahraini economy. While petroleum has decreased in importance in recent years due to depleting reserves and growth in other industries, it is still the mainstay of the economy. Heavy industry (e.g. aluminium smelting , ship repair), banking and finance , and tourism are among the industries which have experienced recent growth. Several multinationals have facilities and offices in and around Manama. [36] The primary industry in Manama itself is financial services, with over two hundred financial institutions and banks based in the CBD and the Diplomatic Area . Manama is a financial hub for the Persian Gulf region and a center of Islamic banking . There is also a large retail sector in the shopping malls around Seef , while the center of Manama is dominated by small workshops and traders. 
+
+Manama's economy in the early 20th century relied heavily on pearling ; in 1907, the pearling industry was estimated to include 917 boats providing employment for up to 18,000 people. Shipbuilding also employed several hundreds in both Manama and Muharraq . The estimated income earned from pearling in 1926 and subsequent years prior to the Great Depression was £1.5 million annually. Custom duties and tariffs served as the prime source of revenue for the government. With the onset of the Great Depression, the collapse of the pearling industry and the discovery of oil in 1932, the country's economy began to shift towards oil. [37] 
+
+Historically, the ports at Manama were of poor reputation. The British described the ports importing systems as being "very bad - goods were exposed to the weather and there were long delays in delivery", in 1911. Indians began maintaining the ports and new resources were built on site, improving the situation. As of 1920, Manama was one of the main exporters of Bahrain pearls , attracting steamships from India. During this time, they also imported goods from India and from other regional countries. They imported rice, textiles, ghee , coffee , dates, tea, tobacco, fuel, and livestock. They exported less of a variety, with focus on pearls, oysters , and sailcloth . For the year of 1911–12, Manama was visited by 52 steamships, the majority being British and the rest Turkish-Arabian. [38] Demographics [ edit ] Historical population Year Pop. ±% 1860s 8,000 — 1904 25,000 +212.5% 1941 27,835 +11.3% 1950 39,648 +42.4% 1959 61,726 +55.7% 1965 79,098 +28.1% 1971 88,785 +12.2% 1981 121,986 +37.4% 2010 329,510 +170.1% Source: [39] Bahrain Census 2010 
+
+The role of Manama as a regional port city in the Persian Gulf made it a hub for migrant workers in search of a better living. As a result, Manama has often been described, both in the pre-oil and post-oil era, as a cosmopolitan city. [40] In 1904, it was estimated that Manama's population numbered 25,000, out of which half were believed to have been foreigners from Basra , Najd , Al Hasa and Iran , as well as from India and Europe. [18] 
+
+The two main branches of Islam , Shia Islam and Sunni Islam , coexisted in Manama for centuries and are represented by distinct ethnic groups. The Shia community is represented by the native Arab Baharna , the Hasawis and Qatifis of mainland Arabia and the Persian Ajam . [40] The Sunni community is represented by Arab Bedouin tribes who migrated in the eighteenth century along with the Bani Utbah and the Huwala , Arabic-speaking Persians. [40] There is also a sizable native Bahraini Christian population in the country, numbering more than a thousand, in addition to immigrant Hindus and a small native Jewish community numbering 37. [41] Transport [ edit ] Main article: Transport in Bahrain Road network [ edit ] 
+
+Manama is the main hub of the country's road network. At the moment the city's road network is undergoing substantial development to ameliorate the situation of traffic in the city. Due to the fact that it is the capital and the main city in the country, where most of the government and the commercial offices and facilities are established, along with the entertainment centers, and the country's fast growth, vehicle population is increasing rapidly. Manama Harbor Manama night view Road View 
+
+The widening of roads in the old districts of Manama and the development of a national network linking the capital to other settlements commenced as early as the arrival of the first car in 1914. [42] The continuous increase in the number of cars from 395 in 1944, [42] to 3,379 in 1954 and to 18,372 cars in 1970 [42] caused urban development to primarily focus on expanding the road network, widening carriageways and the establishment of more parking spaces. [42] Many tracks previously laid in the pre-oil era (prior to the 1930s) were resurfaced and widened, turning them into 'road arteries'. Initial widening of the roads started in the Manama Souq district, widening its main roads by demolishing encroaching houses. [42] Manama skyline from Juffair . 
+
+A series of ring roads were constructed (Isa al Kabeer avenue in the 1930s, Exhibition avenue in the 1960s and Al Fateh highway in the 1980s [42] ), to push back the coastline and extend the city area in belt-like forms. [42] To the north, the foreshore used to be around Government Avenue in the 1920s but it shifted to a new road, King Faisal Road , in the early 1930s which became the coastal road. [42] To the east, a bridge connected Manama to Muharraq since 1929, a new causeway was built in 1941 which replaced the old wooden bridge. [42] Transits between the two islands peaked after the construction of the Bahrain International Airport in 1932. [42] 
+
+To the south of Manama, roads connected groves, lagoons and marshes of Hoora , Adliya , Gudaibiya and Juffair . [42] Villages such as Mahooz , Ghuraifa , Seqaya served as the end of these roads. To the west, a major highway was built that linked Manama to the isolated village port of Budaiya , [42] this highway crossed through the ' green belt ' villages of Sanabis , Jidhafs and Duraz . [42] To the south, a road was built that connected Manama to Riffa . The discovery of oil accelerated the growth of the city's road network. [42] 
+
+The four main islands and all the towns and villages are linked by well-constructed roads. There were 3,164 km (1,966 mi) of roadways in 2002, of which 2,433 km (1,512 mi) were paved. A causeway stretching over 2.8 km (2 mi), connect Manama with Muharraq Island , and another bridge joins Sitra to the main island. A four-lane highway atop a 24 km (15 mi) causeway , linking Bahrain with the Saudi Arabian mainland via the island of Umm an-Nasan was completed in December, 1986, and financed by Saudi Arabia . In 2000, there were 172,684 passenger vehicles and 41,820 commercial vehicles. 
+
+Bahrain's port of Mina Salman can accommodate 16 oceangoing vessels drawing up to 11 m (36 ft). In 2001, Bahrain had a merchant fleet of eight ships of 1,000 GRT or over, totaling 270,784 GRT . Private vehicles and taxis are the primary means of transportation in the city. Buses [ edit ] 
+
+Manama has a recently reformed comprehensive bus service that launched on 1 April 2015, with a fleet of 141 MAN buses . [43] Regulated by the Ministry of Transportation , bus routes extend across Bahrain and around Manama with fares of a minimum 200 Fils (BD0.200) (around $0.50(USD); £0.30). [44] Air transport [ edit ] 
+
+Bahrain International Airport is located on the nearby Muharraq Island , approximately 7 km (4 mi) from the CBD . It is a premier hub airport in the Middle East. Strategically located in the Northern Persian Gulf between the major markets of Saudi Arabia and Iran , the airport has one of the widest range and highest frequency of regional services with connections to major international destinations in Europe, Asia, Africa, and North America. Education [ edit ] Main article: Education in Bahrain See also: List of schools in Bahrain 
+
+Quranic schools were the only source of education in Bahrain prior to the 20th century; such schools were primarily dedicated to the study of the Qur'an . [45] The first modern school to open in the country was a missionary elementary school setup in 1892 (according to one account) in Manama by the American Dutch Reformed Church , with the school's syllabus comprising English, Mathematics and the study of Christianity . Leading merchants in the country sent their children to the school until it was closed down in 1933 due to financial difficulties. [46] The school reopened some years later under the name of Al Raja School where it operates till the present day. In addition to the American Mission School, another foreign private school was opened in 1910; Al-Ittihad school, funded by the Persian community of Bahrain . [47] The Jafaria school in Manama, 1931. 
+
+Following the end of the First World War , Western ideas became more widespread in the country, culminating in the opening of the first public school of Bahrain, Al-Hidaya Al-Khalifia Boys school, in the island of Muharraq in 1919. [45] The school was founded by prominent citizens of Muharraq and was endorsed by the Bahraini royal family . The country's first Education Committee was established by several leading Bahraini merchants, headed by Shaikh Abdulla bin Isa Al-Khalifa, the son of the then-ruler of Bahrain Isa ibn Ali Al Khalifa , who acted as the de facto Minister of Education . The Education Committee was also responsible for managing the Al-Hidaya Boys school. [45] The school was in fact the brainchild of Shaikh Abdulla, who suggested the idea after returning from post-WWI celebrations in England . [48] 
+
+In 1926, a second public school for boys opened up in the capital city, Manama. Two years later, in 1928, the first public school for girls was established. Due to financial constraints suffered by the Education Committee, the Bahraini government took control of the schools in 1930. [45] 
+
+Presently, Manama has a wide range of private and public universities and colleges such as Ahlia University , Applied Science University , Arab Open University , Arabian Gulf University , Bahrain Institute of Banking and Finance , Delmon University . Other notable primary and secondary schools situated in the city include the Bahrain School , The Indian School, Bahrain amongst others. Geography [ edit ] Main article: Geography of Bahrain 
+
+The city is located in the north-eastern corner of Bahrain on a small peninsula. As in the rest of Bahrain, the land is generally flat (or gently rolling) and arid . A panoramic view of the skyline of Manama from left to right:1. The twin towers of the Bahrain WTC . 
+
+2. The twin towers of the Bahrain Financial Harbor (BFH) . 
+
+3. The NBB tower (short building next to BFH). 
+
+4. The Almoayyed Tower (tallest in the photo, center of image). 
+
+5. The Abraj Al Lulu residential project (three towers) under-construction on the far-right). Climate [ edit ] Main article: Climate of Bahrain 
+
+Manama has an arid climate . In common with the rest of Bahrain , Manama experiences extreme climatic conditions, with summer temperatures up to 48 °C (118 °F ), and winter as low as 7 °C (45 °F) with even hail at rare occasions. Average temperatures of the summer and winter seasons are generally from 17 °C (63 °F) to about 45 °C (113 °F). The most pleasant time in Bahrain is autumn when sunshine is comparatively low, coupled with warm temperatures tempered by soft breezes. Climate data for Manama ( Bahrain International Airport ) 1961–1990, extremes 1902–present Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Record high °C (°F) 29.7 
+
+(85.5) 34.7 
+
+(94.5) 38.1 
+
+(100.6) 41.3 
+
+(106.3) 46.7 
+
+(116.1) 47.3 
+
+(117.1) 47.5 
+
+(117.5) 45.6 
+
+(114.1) 45.5 
+
+(113.9) 42.8 
+
+(109) 37.2 
+
+(99) 30.6 
+
+(87.1) 47.5 
+
+(117.5) Average high °C (°F) 20.0 
+
+(68) 21.2 
+
+(70.2) 24.7 
+
+(76.5) 29.2 
+
+(84.6) 34.1 
+
+(93.4) 36.4 
+
+(97.5) 37.9 
+
+(100.2) 38.0 
+
+(100.4) 36.5 
+
+(97.7) 33.1 
+
+(91.6) 27.8 
+
+(82) 22.3 
+
+(72.1) 30.1 
+
+(86.2) Daily mean °C (°F) 17.2 
+
+(63) 18.0 
+
+(64.4) 21.2 
+
+(70.2) 25.3 
+
+(77.5) 30.0 
+
+(86) 32.6 
+
+(90.7) 34.1 
+
+(93.4) 34.2 
+
+(93.6) 32.5 
+
+(90.5) 29.3 
+
+(84.7) 24.5 
+
+(76.1) 19.3 
+
+(66.7) 26.5 
+
+(79.7) Average low °C (°F) 14.1 
+
+(57.4) 14.9 
+
+(58.8) 17.8 
+
+(64) 21.5 
+
+(70.7) 26.0 
+
+(78.8) 28.8 
+
+(83.8) 30.4 
+
+(86.7) 30.5 
+
+(86.9) 28.6 
+
+(83.5) 25.5 
+
+(77.9) 21.2 
+
+(70.2) 16.2 
+
+(61.2) 23.0 
+
+(73.4) Record low °C (°F) 2.7 
+
+(36.9) 7.9 
+
+(46.2) 10.9 
+
+(51.6) 10.8 
+
+(51.4) 18.7 
+
+(65.7) 18.4 
+
+(65.1) 25.3 
+
+(77.5) 21.8 
+
+(71.2) 18.9 
+
+(66) 18.8 
+
+(65.8) 11.7 
+
+(53.1) 6.4 
+
+(43.5) 2.7 
+
+(36.9) Average precipitation mm (inches) 14.6 
+
+(0.575) 16.0 
+
+(0.63) 13.9 
+
+(0.547) 10.0 
+
+(0.394) 1.1 
+
+(0.043) 0 
+
+(0) 0 
+
+(0) 0 
+
+(0) 0 
+
+(0) 0.5 
+
+(0.02) 3.8 
+
+(0.15) 10.9 
+
+(0.429) 70.8 
+
+(2.787) Average precipitation days (≥ 1.0 mm) 2.0 1.9 1.9 1.4 0.2 0 0 0 0 0.1 0.7 1.7 9.9 Mean monthly sunshine hours 226.3 221.2 238.7 255.0 306.9 339.0 331.7 331.7 312.0 303.8 261.0 226.3 3,353.6 Source #1: NOAA, [49] Meteo Climat (record highs and lows) [50] Source #2: Ministry of Transportation ( Bahrain ) [51] Culture [ edit ] Men sitting at a street cafe in the Manama souq Main article: Culture of Bahrain 
+
+The country attracts a large number of foreigners and foreign influences, with just under one third of the population hailing from abroad. [52] Alcohol is legal in the country, with bars and nightclubs operating in the city. Bahrain gave women the right to vote in elections for the first time in 2002. Football is the most popular sport in Manama (and the rest of the country), with 3 teams from Manama participating in the Bahraini Premier League . 
+
+The central areas of Manama are the main location for Muharram processions in the country , attracting hundreds of thousands of people annually. Twin towns—sister cities [ edit ] Kuwait City , Kuwait Doha , Qatar Tunis , Tunisia (1999) Tripoli, Lebanon (1977) Chicago , United States (2004) Dubai , United Arab Emirates Chiang Mai , Thailand Amman , Jordan Ta'if , Saudi Arabia Singapore , Singapore See also [ edit ] List of islands of Bahrain List of tallest structures in Bahrain List of tourist attractions in Bahrain List of shopping malls in Bahrain Notes [ edit ] 
+
+^ These student protests were led by intellectuals and poets such as Qassim Haddad . [30] References [ edit ] Footnotes ^ Ben Hamouche 2008 , p. 185. ^ Ben Hamouche 2008 , p. 186. ^ Manama Capital of Arab Culture 2012 ^ Ministry of Culture: Manama as the Bahraini Capital of Arab Culture ^ Room 1997 , p. 223. ^ Al-Nabi 2012 , p. 17. ^ a b c d e Dumper 2007 , p. 243. ^ Ben Hamouche 2008 , p. 184. ^ a b Al-Nabi 2012 , p. 19. ^ Rice 2005 , p. 128. ^ Al A'ali, Mohammed (24 August 2013). "Protecting Bahrain's Christian heritage..." . Gulf Daily News . Retrieved 31 August 2013 . ^ a b c Dumper 2007 , p. 244. ^ a b Larsen 1983 , p. 68. ^ a b c Fuccaro 2009 , p. 18. ^ Fuccaro 2005 , p. 42. ^ a b Fuccaro 2005 , p. 43. ^ Ben Hamouche 2008 , p. 192. ^ a b Fuccaro 2005 , p. 44. ^ a b Fuccaro 2009 , p. 64. ^ a b Fuccaro 2009 , p. 113. ^ Fuccaro 2009 , p. 114. ^ Fuccaro 2009 , p. 115. ^ Fuccaro 2009 , p. 127-128. ^ a b Fuccaro 2009 , p. 119. ^ Fuccaro 2009 , p. 163. ^ Ben Hamouche 2008 , p. 201. ^ Fuccaro 2009 , p. 185-186. ^ Fuccaro 2009 , p. 116. ^ Fuccaro 2009 , p. 226. ^ a b Fuccaro 2009 , p. 227. ^ Fuccaro 2009 , p. 229. ^ Ben Hamouche 2008 , p. 206. ^ a b c Fuccaro 2009 , p. 230. ^ "Bahrain Independent Commission of Inquiry" . Retrieved 14 September 2013 . ^ Development Team at BNA. "Bahrain News Agency – ELECTION 2006 (retrieved 2 December 2006)" . Retrieved 2010-06-28 . ^ CIA World Factbook – Bahrain (retrieved 2 December 2006) ^ Al-Nabi 2012 , p. 20. ^ Prothero, G.W. (1920). Arabia . London: H.M. Stationery Office. p. 73. ^ Ben Hamouche 2008 , p. 202. ^ a b c Ben Hamouche 2008 , p. 191. ^ "King of Bahrain Appoints Jewish Woman to Parliament" . Israel National News . Retrieved 14 September 2013 . ^ a b c d e f g h i j k l m n Elsheshtawy, Yasser (2011). The evolving Arab city: tradition, modernity and urban development . Routledge. p. 198. ISBN 1134128215 . ^ Al Omari, Ahmed (16 February 2015). "Clean, comfortable and punctual..." . Gulf Daily News . Retrieved 27 May 2015 . ^ "Ministry of Transportation - Public Buses" . Retrieved 27 May 2015 . ^ a b c d "History" . Ministry of Education - Bahrain . Retrieved 20 January 2013 . ^ Shirawi 1987 , p. 59. ^ Shirawi 1987 , p. 60. ^ Shirawi 1987 , p. 61. ^ "Bahrain International Airport Climate Normals 1961–1990" . National Oceanic and Atmospheric Administration . Retrieved April 5, 2016 . ^ "Station Bahrain" (in French). Meteo Climat . Retrieved October 14, 2016 . ^ "World Weather Information Service – Bahrain/Manama" . World Meteorological Organization . Retrieved 18 September 2012 . ^ "Manama Culture (retrieved 2 December 2006)" . Trip Advisor . Retrieved 2010-06-28 . Bibliography Primary sources ^ Palgrave, W.G, Personal Narrative of a Year's Journey through Central and Eastern Arabia (1862–1863) , vol. II, Macmillan Co., London, 1866. Secondary sources Room, Adrian (1997). Placenames of the world : origins and meanings of the names for over 5000 natural features, countries, capitals, territories, cities and historic sights . Jefferson, North Carolina: McFarland. ISBN 9780786418145 . Fuccaro, Nelida (2005). Mapping the transnational community: Persians and the space of the city in Bahrain, c. 1869–1937 . Routledge. ISBN 9780415331357 . Ben Hamouche, Mustapha (2008). Manama: The Metamorphosis of an Arab Gulf City . Routledge. ISBN 9781134128211 . Al-Nabi, Mohammed Noor (2012). The History of Land Use and Development in Bahrain (PDF) . Information Affairs Authority . ISBN 9789995801298 . Dumper, Michael; Bruce E. Stanley (2007). Cities of the Middle East and North Africa: A Historical Encyclopedia . ABC-CLIO. ISBN 9781576079195 . Cite uses deprecated parameter |coauthors= ( help ) Rice, Michael (2005). Traces of Paradise: The Archaeology of Bahrain, 2500 BC to 300 AD . .B.Tauris. ISBN 9781860647420 . Larsen, Curtis E. (1983). Life and Land Use on the Bahrain Islands: The Geoarchaeology of an Ancient Society . University of Chicago Press. ISBN 9780226469065 . Fuccaro, Nelida (2009). Histories of City and State in the Persian Gulf: Manama Since 1800 . Cambridge University Press. ISBN 9780521514354 . Shirawi, May Al-Arrayed (1987). Education in Bahrain - 1919-1986, An Analytical Study of Problems and Progress (PDF) . Durham University. External links [ edit ] Wikimedia Commons has media related to Manama . Manama travel guide from Wikivoyage Official website v t e Governorates of Bahrain Current divisions (governorates) Capital Muharraq Northern Southern Former divisions (regions) Al Hidd Manama Western Region Central Governorate Central Region Northern Region Muharraq Rifa and Southern Region Jidd Haffs Hamad Town Isa Town Hawar Islands Sitra ISO 3166-2:BH v t e Major cities of Bahrain Al Hidd Hamad Town Isa Town Jidd Haffs Manama Muharraq Riffa Sitra v t e Capitals of Asia Dependent territories and states with limited recognition are in italics North and Central Asia South Asia Southeast Asia West and Southwest Asia Ashgabat , Turkmenistan Astana , Kazakhstan * Bishkek , Kyrgyzstan Dushanbe , Tajikistan Moscow , Russia * Tashkent , Uzbekistan East Asia Beijing , People's Republic of China Hong Kong , Hong Kong ( PRC ) Macau , Macau ( PRC ) Nanjing , Republic of China + Pyongyang , North Korea Seoul , South Korea Taipei , Taiwan ( ROC ) + Tokyo , Japan Ulaanbaatar , Mongolia Kabul , Afghanistan Dhaka , Bangladesh Diego Garcia , BIOT ( UK ) Islamabad , Pakistan Kathmandu , Nepal Kotte , Sri Lanka Malé , Maldives New Delhi , India Thimphu , Bhutan Bandar Seri Begawan , Brunei Bangkok , Thailand Dili , East Timor Flying Fish Cove , Christmas Island ( Australia ) Hanoi , Vietnam Jakarta , Indonesia * Kuala Lumpur , Malaysia Manila , Philippines Naypyidaw , Myanmar Phnom Penh , Cambodia Singapore Vientiane , Laos West Island , Cocos (Keeling) Islands ( Australia ) Abu Dhabi , United Arab Emirates Amman , Jordan Ankara , Turkey * Baghdad , Iraq Baku , Azerbaijan * Beirut , Lebanon Cairo , Egypt * Damascus , Syria Doha , Qatar Episkopi , Akrotiri and Dhekelia ( UK ) Jerusalem , Israel (de facto) † Kuwait City , Kuwait Manama , Bahrain Muscat , Oman Nicosia , Cyprus * North Nicosia , Northern Cyprus * Ramallah , Palestine (de facto) † Riyadh , Saudi Arabia Sana'a , Yemen Stepanakert , Nagorno-Karabakh * Sukhumi , Abkhazia * Tbilisi , Georgia * Tehran , Iran Tskhinvali , South Ossetia * Yerevan , Armenia * * Transcontinental country . 
+
+† See: Positions on Jerusalem . Both Israel and Palestinians claim Jerusalem as capital. Jerusalem contains the Israeli parliament and almost all Israeli government ministries. Tel Aviv contains most foreign embassies in Israel; Ramallah is the administrative seat of the Palestinian Authority. 
+
++ According to the 1947 Constitution of the Republic of China , Nanjing is the official capital of the ROC, with Taipei as the seat of government . See also Political status of Taiwan . v t e Portuguese overseas empire North Africa 
+
+15th century 1415–1640 Ceuta 1458–1550 Alcácer Ceguer (El Qsar es Seghir) 1471–1550 Arzila (Asilah) 1471–1662 Tangier 1485–1550 Mazagan (El Jadida) 1487–16th century Ouadane 1488–1541 Safim (Safi) 1489 Graciosa 
+
+16th century 1505–1541 Santa Cruz do Cabo de Gué (Agadir) 1506–1525 Mogador (Essaouira) 1506–1525 Aguz (Souira Guedima) 1506–1769 Mazagan (El Jadida) 1513–1541 Azamor (Azemmour) 1515–1541 São João da Mamora (Mehdya) 1577–1589 Arzila (Asilah) Sub-Saharan Africa 
+
+15th century 1455–1633 Anguim 1462–1975 Cape Verde 1470–1975 São Tomé 1 1471–1975 Príncipe 1 1474–1778 Annobón 1478–1778 Fernando Poo (Bioko) 1482–1637 Elmina (São Jorge da Mina) 1482–1642 Portuguese Gold Coast 1508–1547 2 Madagascar 3 1498–1540 Mascarene Islands 
+
+16th century 1500–1630 Malindi 1501–1975 Portuguese Mozambique 1502–1659 Saint Helena 1503–1698 Zanzibar 1505–1512 Quíloa (Kilwa) 1506–1511 Socotra 1557–1578 Accra 1575–1975 Portuguese Angola 1588–1974 Cacheu 4 1593–1698 Mombassa (Mombasa) 
+
+17th century 1645–1888 Ziguinchor 1680–1961 São João Baptista de Ajudá 1687–1974 Bissau 4 
+
+18th century 1728–1729 Mombassa (Mombasa) 1753–1975 Portuguese São Tomé and Príncipe 
+
+19th century 1879–1974 Portuguese Guinea 1885–1975 Portuguese Congo 1 Part of São Tomé and Príncipe from 1753. 2 Or 1600. 3 A factory ( Anosy Region ) and small temporary coastal bases. 4 Part of Portuguese Guinea from 1879. Southwest Asia 
+
+16th century 1506–1615 Gamru (Bandar Abbas) 1507–1643 Sohar 1515–1622 Hormuz (Ormus) 1515–1648 Quriyat 1515–? Qalhat 1515–1650 Muscat 1515?–? Barka 1515–1633? Julfar (Ras al-Khaimah) 1521–1602 Bahrain ( Muharraq • Manama ) 1521–1529? Qatif 1521?–1551? Tarut Island 1550–1551 Qatif 1588–1648 Matrah 
+
+17th century 1620–? Khor Fakkan 1621?–? As Sib 1621–1622 Qeshm 1623–? Khasab 1623–? Libedia 1624–? Kalba 1624–? Madha 1624–1648 Dibba Al-Hisn 1624?–? Bandar-e Kong Indian subcontinent 
+
+15th century 1498–1545 Laccadive Islands 
+
+(Lakshadweep) 
+
+16th century 
+
+Portuguese India • 1500–1663 Cochim (Kochi) • 1501–1663 Cannanore (Kannur) • 1502–1658 
+
+1659–1661 Quilon 
+
+(Coulão / Kollam) • 1502–1661 Pallipuram (Cochin de Cima) • 1507–1657 Negapatam (Nagapatnam) • 1510–1961 Goa • 1512–1525 
+
+1750 Calicut 
+
+(Kozhikode) • 1518–1619 Portuguese Paliacate outpost (Pulicat) • 1521–1740 Chaul (Portuguese India) • 1523–1662 Mylapore • 1528–1666 Chittagong 
+
+(Porto Grande De Bengala) • 1531–1571 Chaul • 1531–1571 Chalé • 1534–1601 Salsette Island • 1534–1661 Bombay (Mumbai) • 1535 Ponnani • 1535–1739 Baçaím (Vasai-Virar) • 1536–1662 Cranganore (Kodungallur) • 1540–1612 Surat • 1548–1658 Tuticorin (Thoothukudi) • 1559–1961 Daman and Diu • 1568–1659 Mangalore (Portuguese India) • 1579–1632 Hugli • 1598–1610 Masulipatnam (Machilipatnam) 1518–1521 Maldives 1518–1658 Portuguese Ceylon (Sri Lanka) 1558–1573 Maldives 
+
+17th century 
+
+Portuguese India • 1687–1749 Mylapore 
+
+18th century 
+
+Portuguese India • 1779–1954 Dadra and Nagar Haveli East Asia and Oceania 
+
+16th century 1511–1641 Portuguese Malacca 1512–1621 Maluku • 1522–1575 Ternate • 1576–1605 Ambon • 1578–1650 Tidore 1512–1665 Makassar 1537–1999 Macau 1571–1639 Decima (Dejima / Nagasaki) 
+
+17th century 1642–1975 Portuguese Timor ( East Timor ) 1 
+
+19th century 
+
+Portuguese Macau • 1864–1999 Coloane • 1851–1999 Taipa • 1890–1999 Ilha Verde 
+
+20th century 
+
+Portuguese Macau • 1938–1941 Lapa and Montanha (Hengqin) 1 1975 is the year of East Timor's Declaration of Independence and subsequent invasion by Indonesia. In 2002, East Timor's independence was fully recognized. North America and the North Atlantic Ocean 
+
+15th century 1420 Madeira 1432 Azores 
+
+16th century 1500–1579? Terra Nova (Newfoundland) 1500–1579? Labrador 1516–1579? Nova Scotia Central and South America 
+
+16th century 1500–1822 Brazil • 1534–1549 Captaincy Colonies of Brazil • 1549–1572 Brazil • 1572–1578 Bahia • 1572–1578 Rio de Janeiro • 1578–1607 Brazil • 1621–1815 Brazil 1536–1620 Barbados 
+
+17th century 1621–1751 Maranhão 1680–1777 Nova Colónia do Sacramento 
+
+18th century 1751–1772 Grão-Pará and Maranhão 1772–1775 Grão-Pará and Rio Negro 1772–1775 Maranhão and Piauí 
+
+19th century 1808–1822 Cisplatina (Uruguay) 1809–1817 Portuguese Guiana (Amapá) 1822 Upper Peru (Bolivia) Coats of arms of Portuguese colonies Evolution of the Portuguese Empire Portuguese colonial architecture Portuguese colonialism in Indonesia Portuguese colonization of the Americas Theory of the Portuguese discovery of Australia v t e Capitals of Arab countries Africa Asia Algiers , Algeria Cairo , Egypt Djibouti , Djibouti El Aaiun (proclaimed) • Tifariti (de facto) , Sahrawi Arab Democratic Republic 1 Khartoum , Sudan Mogadishu , Somalia Moroni , Comoros Nouakchott , Mauritania Rabat , Morocco Tripoli , Libya Tunis , Tunisia Abu Dhabi , United Arab Emirates Amman , Jordan Baghdad , Iraq Beirut , Lebanon Damascus , Syria Doha , Qatar Jerusalem (proclaimed) • Ramallah (de facto) , Palestine 1 Kuwait City , Kuwait Manama , Bahrain Muscat , Oman Riyadh , Saudi Arabia Sana'a , Yemen 1 An unrecognised or partially-recognised nation Authority control WorldCat Identities VIAF : 147299333 GND : 4100079-1 BNF : cb11963822b (data) (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Manama oldid=744414790 " Categories : Manama Capitals in Asia Former municipalities (regions) of Bahrain Former Portuguese colonies European colonisation in Asia Populated coastal places in Bahrain Populated places in Bahrain Port cities and towns of the Persian Gulf Hidden categories: CS1 French-language sources (fr) Coordinates on Wikidata Settlement articles requiring maintenance Articles containing Arabic-language text Pages containing cite templates with deprecated parameters Use dmy dates from August 2010 Wikipedia articles with VIAF identifiers Wikipedia articles with GND identifiers Wikipedia articles with BNF identifiers Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Wikivoyage Languages Acèh Afrikaans Alemannisch አማርኛ Ænglisc العربية Aragonés Arpetan Azərbaycanca تۆرکجه বাংলা Bân-lâm-gú Беларуская Беларуская (тарашкевіца)‎ Български བོད་ཡིག Bosanski Brezhoneg Català Cebuano Čeština ChiShona Cymraeg Dansk Deutsch Eesti Ελληνικά Español Esperanto Euskara فارسی Fiji Hindi Français Frysk Gaeilge Gàidhlig Galego Gĩkũyũ 客家語/Hak-kâ-ngî 한국어 Հայերեն Hornjoserbsce Hrvatski Ido Ilokano Bahasa Indonesia Interlingue Ирон Íslenska Italiano עברית Kalaallisut ქართული Қазақша Kinyarwanda Kiswahili Kreyòl ayisyen Кыргызча Latina Latviešu Lëtzebuergesch Lietuvių Lumbaart Magyar Македонски Malagasy മലയാളം Malti मराठी მარგალური مصرى Bahasa Melayu Монгол Nederlands 日本語 Нохчийн Norfuk / Pitkern Norsk bokmål Norsk nynorsk Occitan ଓଡ଼ିଆ Oʻzbekcha/ўзбекча ਪੰਜਾਬੀ پنجابی Piemontèis Polski Português Qaraqalpaqsha Română Rumantsch Русский Scots Shqip Sicilianu Simple English Slovenčina کوردیی ناوەندی Српски / srpski Srpskohrvatski / српскохрватски Basa Sunda Suomi Svenska Tagalog தமிழ் Taqbaylit ไทย Тоҷикӣ Türkçe Українська اردو Vepsän kel’ Tiếng Việt Volapük Winaray Yorùbá 粵語 中文 Edit links This page was last modified on 15 October 2016, at 02:09. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.964", "walltime": "1.148", "ppvisitednodes": { "value": 11393, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 363092, "limit": 2097152 }, "templateargumentsize": { "value": 44579, "limit": 2097152 }, "expansiondepth": { "value": 25, "limit": 40 }, "expensivefunctioncount": { "value": 5, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 872.359 1 -total", " 20.60% 179.727 1 Template:Infobox_settlement", " 16.69% 145.630 2 Template:Infobox", " 13.51% 117.855 1 Template:Portuguese_overseas_empire", " 12.58% 109.752 1 Template:Navbox_with_collapsible_groups", " 12.57% 109.639 56 Template:Sfn", " 10.78% 93.999 1 Template:Reflist", " 6.58% 57.419 26 Template:Aligned_table", " 6.26% 54.638 1 Template:Weather_box", " 4.67% 40.708 10 Template:Convert" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.374", "limit": "10.000" }, "limitreport-memusage": { "value": 10497600, "limit": 52428800 } }, "cachereport": { "origin": "mw1265", "timestamp": "20161020153520", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw1258"});});

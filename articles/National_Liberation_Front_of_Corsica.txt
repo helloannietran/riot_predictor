@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>National Liberation Front of Corsica - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"National_Liberation_Front_of_Corsica","wgTitle":"National Liberation Front of Corsica","wgCurRevisionId":734506468,"wgRevisionId":734506468,"wgArticleId":786920,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Italian-language sources (it)","Use dmy dates from July 2014","Articles containing Corsican-language text","All articles with unsourced statements","Articles with unsourced statements from July 2016","Corsican nationalism","Irregular military","Separatism in France","Secessionist organizations in Europe","National liberation movements","Terrorism in France","Banned secessionist parties"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"National_Liberation_Front_of_Corsica","wgRelevantArticleId":786920,"wgRequestId":"WApp5QpAMFYAAL4na7cAAAAS","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgWikibaseItemId":"Q1138646","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/National_Liberation_Front_of_Corsica"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=National_Liberation_Front_of_Corsica&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=National_Liberation_Front_of_Corsica&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/National_Liberation_Front_of_Corsica"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-National_Liberation_Front_of_Corsica rootpage-National_Liberation_Front_of_Corsica skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">National Liberation Front of Corsica</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">For the human gene, see <a href="/wiki/FLNC_(gene)" title="FLNC (gene)">FLNC (gene)</a>.</div>
+<table class="infobox" style="width:22em;width:315px;border-spacing:2px;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:#B0C4DE;text-align:center;vertical-align:middle;font-size:110%;">National Liberation Front of Corsica</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color:#DCDCDC;text-align:center;vertical-align:middle;"><span class="nickname" lang="co" xml:lang="co">Fronte di Liberazione Naziunale Corsu</span></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;text-align:center;border-bottom:1px solid #aaa;line-height:1.5em;"><a href="/wiki/File:Flag_of_Corsica.svg" class="image"><img alt="Flag of Corsica.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_Corsica.svg/200px-Flag_of_Corsica.svg.png" width="200" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_Corsica.svg/300px-Flag_of_Corsica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Flag_of_Corsica.svg/400px-Flag_of_Corsica.svg.png 2x" data-file-width="750" data-file-height="450" /></a></td>
+</tr>
+<tr>
+<th scope="row">Active</th>
+<td><abbr title="circa">c.</abbr> 1976-present<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Ideology</th>
+<td><a href="/wiki/Corsican_nationalism" title="Corsican nationalism">Corsican nationalism</a></td>
+</tr>
+<tr>
+<th scope="row">Area of operations</th>
+<td><a href="/wiki/Corsica" title="Corsica">Corsica</a>, <a href="/wiki/France" title="France">France</a></td>
+</tr>
+<tr>
+<th scope="row">Allies</th>
+<td><a href="/wiki/Corsica_Libera" title="Corsica Libera">Corsica Libera</a></td>
+</tr>
+<tr>
+<th scope="row">Opponents</th>
+<td><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Cabinet_of_France" class="mw-redirect" title="Cabinet of France">Government of France</a></td>
+</tr>
+</table>
+<p>The <b>National Liberation Front of Corsica</b> (<a href="/wiki/Corsican_language" title="Corsican language">Corsican</a>: <span lang="co" xml:lang="co"><i><b>Fronte di Liberazione Naziunale Corsu</b></i></span>, or <span lang="co" xml:lang="co"><b>FLNC</b></span>) is a militant group that advocats an <a href="/wiki/Independence" title="Independence">independent</a> state on the <a href="/wiki/Island" title="Island">island</a> of <a href="/wiki/Corsica" title="Corsica">Corsica</a>, separate from <a href="/wiki/France" title="France">France</a>. They also wanted all currently imprisoned members of the FLNC in France to be put into Corsican <a href="/wiki/Prison" title="Prison">prisons</a>. The organisation's presence was primarily in Corsica and less so on the French mainland. <a href="/w/index.php?title=Conculta_Naziunalista&amp;action=edit&amp;redlink=1" class="new" title="Conculta Naziunalista (page does not exist)">Conculta Naziunalista</a> is often considered to be the political wing of the organisation.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Typical militant acts by the FLNC were <a href="/wiki/Bomb" title="Bomb">bombings</a>, <a href="/wiki/Aggravated_assault" class="mw-redirect" title="Aggravated assault">aggravated assault</a>, armed <a href="/wiki/Bank_robbery" title="Bank robbery">bank robbery</a> and <a href="/wiki/Extortion" title="Extortion">extortion</a> through "<a href="/wiki/Revolution" title="Revolution">revolutionary</a> <a href="/wiki/Tax" title="Tax">taxes</a>", and are mostly aimed at public buildings, banks, <a href="/wiki/Tourism" title="Tourism">tourist infrastructure</a>, <a href="/wiki/Military" title="Military">military</a> buildings and other symbols of French control. Usually the attacks were against buildings and infrastructure and not against people. The overwhelming majority of their attacks on the French mainland took place in or around the cities of <a href="/wiki/Nice" title="Nice">Nice</a>, <a href="/wiki/Marseille" title="Marseille">Marseille</a> and <a href="/wiki/Avignon" title="Avignon">Avignon</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2016)">citation needed</span></a></i>]</sup></p>
+<p>In 2014,<sup id="cite_ref-depose_3-0" class="reference"><a href="#cite_note-depose-3">[3]</a></sup> and again in 2016,<sup id="cite_ref-end_4-0" class="reference"><a href="#cite_note-end-4">[4]</a></sup> the militant group announced the cessation of the armed struggle.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Corse_signalisation.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Corse_signalisation.jpg/220px-Corse_signalisation.jpg" width="220" height="301" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/a/a4/Corse_signalisation.jpg 1.5x" data-file-width="316" data-file-height="432" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Corse_signalisation.jpg" class="internal" title="Enlarge"></a></div>
+This roadsign in Corsica has had the non-Corsican spellings of placenames defaced.</div>
+</div>
+</div>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Foundation_and_objectives"><span class="tocnumber">1</span> <span class="toctext">Foundation and objectives</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Armed_campaign"><span class="tocnumber">2</span> <span class="toctext">Armed campaign</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#1970s_.E2.80.93_.22Drawing_Attention_to_Corsica.22"><span class="tocnumber">2.1</span> <span class="toctext">1970s – "Drawing Attention to Corsica"</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#1980s_.E2.80.93_.22A_New_Offensive.22"><span class="tocnumber">2.2</span> <span class="toctext">1980s – "A New Offensive"</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#1990s_-_Internal_feuds_and_the_assassination_of_Claude_.C3.89rignac"><span class="tocnumber">2.3</span> <span class="toctext">1990s - Internal feuds and the assassination of Claude Érignac</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#2000s_.E2.80.93_.22Reunification_of_the_Internal_Factions.22"><span class="tocnumber">2.4</span> <span class="toctext">2000s – "Reunification of the Internal Factions"</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#2010s:_Cessation_of_hostilities"><span class="tocnumber">2.5</span> <span class="toctext">2010s: Cessation of hostilities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes"><span class="tocnumber">3</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Foundation_and_objectives">Foundation and objectives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Liberation_Front_of_Corsica&amp;action=edit&amp;section=1" title="Edit section: Foundation and objectives">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The FLNC was created from a merger of Ghjustizia Paolina and the Fronte Paesanu Corsu di Liberazione, the two largest <a href="/wiki/Corsica" title="Corsica">Corsican</a> armed organizations. It is an offshoot of the <a href="/wiki/Political_party" title="Political party">political party</a> <a href="/w/index.php?title=A_Cuncolta_Independentista&amp;action=edit&amp;redlink=1" class="new" title="A Cuncolta Independentista (page does not exist)">A Cuncolta Independentista</a> which has members in the <a href="/wiki/Corsican_Assembly" title="Corsican Assembly">Corsican Assembly</a> and some support with the Corsican people.</p>
+<p>The FLNC carried out its first attacks on the night of 4 May 1976 with 21 bombs exploding in <a href="/wiki/Ajaccio" title="Ajaccio">Ajaccio</a>, <a href="/wiki/Bastia" title="Bastia">Bastia</a>, <a href="/wiki/Sart%C3%A8ne" title="Sartène">Sartène</a>, <a href="/wiki/Porto-Vecchio" title="Porto-Vecchio">Porto-Vecchio</a> and other towns.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> The majority of the targets were public buildings and the offices of estate agents. On 5 May the FLNC formally announced its existence when it issued a bilingual manifesto which also claimed responsibility for the previous night's attacks.</p>
+<p>The manifesto contained six demands:<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></p>
+<ul>
+<li>The recognition of the National Right of the Corsican people.</li>
+<li>The removal of all instruments of French <a href="/wiki/Colonialism" title="Colonialism">colonialism</a> – including the <a href="/wiki/French_Army" title="French Army">French Army</a> and the <a href="/wiki/Colonist" class="mw-redirect" title="Colonist">colonists</a>.</li>
+<li>The setting up of a popular democratic government which would express the will and the needs of the Corsican people.</li>
+<li>The confiscation of colonial estates.</li>
+<li>Agrarian reform to fulfill the aspirations of farmers, workers and intellectuals and rid the country of all forms of exploitation.</li>
+<li>The right to self-determination of the Corsican people.</li>
+</ul>
+<h2><span class="mw-headline" id="Armed_campaign">Armed campaign</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Liberation_Front_of_Corsica&amp;action=edit&amp;section=2" title="Edit section: Armed campaign">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="1970s_.E2.80.93_.22Drawing_Attention_to_Corsica.22">1970s – "Drawing Attention to Corsica"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Liberation_Front_of_Corsica&amp;action=edit&amp;section=3" title="Edit section: 1970s – &quot;Drawing Attention to Corsica&quot;">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Liberty_for_Yvan_Colonna.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Liberty_for_Yvan_Colonna.jpg/220px-Liberty_for_Yvan_Colonna.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Liberty_for_Yvan_Colonna.jpg/330px-Liberty_for_Yvan_Colonna.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Liberty_for_Yvan_Colonna.jpg/440px-Liberty_for_Yvan_Colonna.jpg 2x" data-file-width="640" data-file-height="480" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Liberty_for_Yvan_Colonna.jpg" class="internal" title="Enlarge"></a></div>
+A banner erected by members of Ghjuventi Indipendentista calling for the release of <a href="/wiki/Yvan_Colonna" title="Yvan Colonna">Yvan Colonna</a>. Many banners and graffiti, in and around <a href="/wiki/University_of_Corsica_Pascal_Paoli" class="mw-redirect" title="University of Corsica Pascal Paoli">University of Corsica Pascal Paoli</a> in <a href="/wiki/Corte,_Haute-Corse" title="Corte, Haute-Corse">Corte</a>, show support for the FLNC and Corsican independence.</div>
+</div>
+</div>
+<p>Following its opening salvo on 4&#160;May, the FLNC launched another heavy series of bomb attacks across the island on 20&#160;May. The series of attacks and the emergence of the FLNC coincided with the trial of ten members of the recently outlawed Action Régionaliste Corse. The prosecutors claimed that the men had been involved in the shooting dead of two French police officers that summer.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup> During the summer the FLNC became more active, and on the night of 17 July it carried out a fresh wave of attacks which included a rocket and mortar attack on the gendarmerie in <a href="/wiki/Aghione" title="Aghione">Aghione</a> which employed the use of an American <a href="/wiki/M79_grenade_launcher" title="M79 grenade launcher">M79 grenade launcher</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> This increased speculation that the FLNC were being supplied by <a href="/wiki/Libya" title="Libya">Libya</a>, who were at the time supplying other revolutionary groups in Europe, including the <a href="/wiki/Provisional_Irish_Republican_Army" title="Provisional Irish Republican Army">Provisional IRA</a>. By September 1976 the FLNC were attempting assassinations of high-ranking French military officials. In separate incidents in the town of <a href="/wiki/Corte,_Haute-Corse" title="Corte, Haute-Corse">Corte</a>, a general narrowly missed assassination when his car was riddled with bullets; his driver lost an ear in the attack. Meanwhile, the home of another senior officer in the town was targeted in a bomb attack.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> On 7 September, seven masked militiamen hijacked and bombed a <a href="/wiki/Boeing_707" title="Boeing 707">Boeing 707</a> parked at <a href="/wiki/Ajaccio_Napoleon_Bonaparte_Airport" title="Ajaccio Napoleon Bonaparte Airport">Ajaccio's airport</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<p>The beginning of 1977 saw little FLNC activity. In April there were a number of attacks on premises associated with Corsican nationalists and the FLNC. The attacks were claimed by a new group calling itself FRANCIA (Front d'Action Nouvelle Contre l'Indépendance et l'Autonomie).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> Although other anti-autonomist groups existed in Corsica, FRANCIA appeared to be the only group capable of carrying out attacks. On 14&#160;May this group destroyed the printing presses of <i>Arritti</i> (a Corsican nationalist publication) in a bomb attack. The FLNC responded to the attacks on 24 May by carrying out a daring raid on the French army outpost at Fort-Lacroix, near Bastia, where eight armed militants blew up wireless facilities after subduing the sentries. At the beginning of June they destroyed a large section of Bastia railway station in a bomb attack; a month later the FLNC launched an overnight bomb offensive hitting 27 pro-French targets followed by the bombing of the television relay station at <a href="/wiki/Barbaggio" title="Barbaggio">Serra di Pigno</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-:0_13-0" class="reference"><a href="#cite_note-:0-13">[13]</a></sup> On the night of 13 January 1978, nine armed militiamen wearing balaclavas stormed and bombed the NATO radar station at <a href="/wiki/Solenzara_Air_Base" title="Solenzara Air Base">Solenzara</a>.<sup id="cite_ref-:0_13-1" class="reference"><a href="#cite_note-:0-13">[13]</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup></p>
+<p>The FLNC suffered a serious setback in May 1978 when 27 suspected members were arrested both in Corsica and France.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup> The police stumbled upon an FLNC weapons-dump in the town of <a href="/wiki/Cardo" title="Cardo">Cardo</a> during an investigation into an ordinary burglary. While at the scene the police noticed men nearby moving what looked like weapons. The incident resulted in over 300 people being questioned and over 60 detained by the authorities. Other suspects were picked up in <a href="/wiki/Paris" title="Paris">Paris</a>, <a href="/wiki/Nice" title="Nice">Nice</a> and <a href="/wiki/Lyon" title="Lyon">Lyons</a>. In December 1978 the FLNC increased its attacks on police barracks – in one incident the gendarmerie at <a href="/wiki/Borgo,_Haute-Corse" title="Borgo, Haute-Corse">Borgo</a> was raked with heavy machine gun fire – resulting in a fear that the FLNC would now begin to concentrate its attacks on people as well as material targets.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup> At this time the FLNC also began to demand that their prisoners be treated as <a href="/wiki/Political_prisoner" title="Political prisoner">political prisoners</a>.</p>
+<h3><span class="mw-headline" id="1980s_.E2.80.93_.22A_New_Offensive.22">1980s – "A New Offensive"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Liberation_Front_of_Corsica&amp;action=edit&amp;section=4" title="Edit section: 1980s – &quot;A New Offensive&quot;">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1979 the number of FLNC attacks increased; in a two-month period from January to the beginning of March there were over 115 bomb attacks on the island.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup> However, in July a number of their activists were captured and sentenced to long prison terms resulting in a lack of action or activity on the part of the FLNC. The Front announced it would now launch a "new offensive in the liberation struggle" and advised Corsicans who were members of the police or Army to leave the island.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup> On 10&#160;March, ten banks across Corsica were car-bombed by the FLNC. Then on 10 April three banks in Paris were also damaged in explosions, and later the Paris Law Courts were devastated by a time-bomb which cost over 3 million francs worth of damage. The late 1970s and early 1980s marked a decisive change of FLNC policy, similar to the one employed by the IRA. The FLNC now decided to "Bring the Corsican problem to the French" by carrying out bomb attacks on the French mainland. On 6 May 1979 the FLNC managed to bomb 20 banks in Paris and on 30&#160;May more banks were damaged by explosions.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup> The beginning of June saw the FLNC switch back to activities on the island itself with twenty-five major explosions coupled with a carbomb attack on the Police Headquarters in Paris. On 14 May 1980 the FLNC bombed the Law Courts in Paris and also carried out a machine-gun attack on four gendarmes who were guarding the <a href="/wiki/Iran" title="Iran">Iranian</a> embassy, wounding three.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup></p>
+<p>The 1980s also saw FLNC supporters becoming more visible in terms of protests and political activity. The FLNC continued to call for their prisoners to be given political status. Mass demonstrations in support of political status for Corsican prisoners were common and FLNC supporters were active in all protests which could be classified as "Corsican V French".<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> In November 1980, 12 FLNC prisoners in Paris went on hunger-strike in a protest against the inequality of treatment for Corsican nationalist prisoners. This protest overlapped with that of six IRA hungerstrikers in <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup> The Corsican prisoners were force-fed for a number of weeks before they ended their strike. On 1&#160;April 1981 the FLNC called a ceasefire for the duration of the Presidential Elections and following the victory of <a href="/wiki/Fran%C3%A7ois_Mitterrand" title="François Mitterrand">François Mitterrand</a>, announced they would extend the ceasefire to "see how things develop".<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup></p>
+<p>On 18 September the FLNC announced the end of its ceasefire at a press conference held in the mountains of central Corsica. They condemned the autonomists for attempting to use the "usual useless channels" of the political system and opposed French "appeasement policies" before stating that the armed struggle would resume and that the FLNC would not lay down its arms.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup></p>
+<p>On 19&#160;August 1982 the FLNC launched its most spectacular night of violence with the so-called <i>"violente nuit bleue"</i>, during which 99 attacks were carried out against government targets.</p>
+<p>In the mid-1980s the organisation also stepped up its attacks against suspected drug dealers, killing four in the space of twelve months in 1986.</p>
+<p>In 1988 a truce was agreed between the French government and the FLNC. However, the ceasefire did not sit well with certain members of the organisation, resulting in a split within the movement.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup></p>
+<h3><span class="mw-headline" id="1990s_-_Internal_feuds_and_the_assassination_of_Claude_.C3.89rignac">1990s - Internal feuds and the assassination of Claude Érignac</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Liberation_Front_of_Corsica&amp;action=edit&amp;section=5" title="Edit section: 1990s - Internal feuds and the assassination of Claude Érignac">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 1990s saw the FLNC organisation tear itself apart through a series of deadly internal feuds. Much of the reason for the splits and feuds was the political rivalries of the members within the organisation as well as personal disputes.</p>
+<p>1991 saw one of the first shootouts between the FLNC and military gendarmes when an FLNC commando managed to shoot its way out of an ambush and escape. 1991 also saw the FLNC carry out an attack against a <a href="/wiki/Refinery" title="Refinery">refinery</a> on the neighbouring island of <a href="/wiki/Sardinia" title="Sardinia">Sardinia</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2016)">citation needed</span></a></i>]</sup></p>
+<p>In December 1996 the FLNC began a Christmas offensive across Corsica. In <a href="/wiki/Figari" title="Figari">Figari</a> the FLNC launched a machine-gun attack on a military barracks while in <a href="/wiki/Zicavo" title="Zicavo">Zicavo</a> a grenade attack was carried out on the Police Station.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> <sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> In 1997 the FLNC Canal-Habituel faction called a ceasefire which resulted in the Canal Historique faction attempting to take control of the organisation and launch a fresh offensive. In 1998 FLNC attacks soared with policemen and mayors among the dead. The offensive culminated in the assassination of <a href="/wiki/Claude_%C3%89rignac" title="Claude Érignac">Claude Érignac</a> in Ajaccio. Érignac was the French <a href="/wiki/Prefect" title="Prefect">Prefect</a> for Corsica and the top representative of the French Republic on the island. The attack was highly publicized and criticized so strongly that the FLNC were forced to deny that they were responsible.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> Since 1999, splits, internal feuding, ceasefires and breaches of ceasefires have characterized the FLNC.</p>
+<h3><span class="mw-headline" id="2000s_.E2.80.93_.22Reunification_of_the_Internal_Factions.22">2000s – "Reunification of the Internal Factions"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Liberation_Front_of_Corsica&amp;action=edit&amp;section=6" title="Edit section: 2000s – &quot;Reunification of the Internal Factions&quot;">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The FLNC has continued its attacks into the 2000s, although at a much reduced tempo when compared with the late 1970s.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> Many FLNC bombs failed to detonate or attacks had to be aborted. Nevertheless, the FLNC did manage to carry out a number of successful attacks including the 2002 bombing of a military barracks in <a href="/wiki/Lumio" title="Lumio">Lumio</a> which injured a number of gendarmes, bomb attacks against a number of hotels in <a href="/wiki/Marseille" title="Marseille">Marseille</a> in 2004 and rocket attacks against a number of barracks in 2007.</p>
+<p>In 2009 it carried out a car bomb attack against a gendarmerie barracks in <a href="/wiki/Vescovato,_Haute-Corse" title="Vescovato, Haute-Corse">Vescovato</a>. The FLNC also claimed that all the different factions had reunified. During the early 2000s the FLNC had been divided into the FLNC-UC, the FLNC-1976, and the FLNC-22 October.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[31]</a></sup></p>
+<p>The FLNC has continued its attacks against the properties of French mainlanders living on Corsica. At the end of 2011 the group released a statement in which it claimed responsibility for 38 bomb attacks in the preceding 4 months. In the statement the armed group said they "would remain attentive and never let pass an opportunity for peace."<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[32]</a></sup></p>
+<h3><span class="mw-headline" id="2010s:_Cessation_of_hostilities">2010s: Cessation of hostilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Liberation_Front_of_Corsica&amp;action=edit&amp;section=7" title="Edit section: 2010s: Cessation of hostilities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In June 2014, the FLNC-UC announced the cessation of the armed struggle stating that the Front has "decided to engage unilaterally in a process of demilitarisation and a progressive exit from clandestinity."<sup id="cite_ref-depose_3-1" class="reference"><a href="#cite_note-depose-3">[3]</a></sup><sup id="cite_ref-anphoblacht_33-0" class="reference"><a href="#cite_note-anphoblacht-33">[33]</a></sup> On 3 May 2016, the FLNC-22 announced in a statement that they will "end military operations" by October 2016, following the lead of the FLNC-UC, in order to allow the island’s new assembly, led by nationalists to fulfil its mandate calmly.<sup id="cite_ref-end_4-1" class="reference"><a href="#cite_note-end-4">[4]</a></sup><sup id="cite_ref-anphoblacht_33-1" class="reference"><a href="#cite_note-anphoblacht-33">[33]</a></sup> The armed group, however, refused to lay down its weapons. <sup id="cite_ref-end_4-2" class="reference"><a href="#cite_note-end-4">[4]</a></sup> In July 2016, the FLNC-22 warned of a "determined response, without any qualms" for any jihadist attack in Corsica.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">[34]</a></sup></p>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Liberation_Front_of_Corsica&amp;action=edit&amp;section=8" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.rt.com/news/353766-corsica-october22-letter-isis/">‘No qualms’: Corsica militants warn ISIS they will strike back for terrorist attacks</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.independent.co.uk/news/world/paris-tightens-grip-on-corsica-warlords-1276239.html">http://www.independent.co.uk/news/world/paris-tightens-grip-on-corsica-warlords-1276239.html</a> Paris tightens grip on Corsican warlords, <i>The Independent,</i> 1 February 1997.</span></li>
+<li id="cite_note-depose-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-depose_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-depose_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://france3-regions.francetvinfo.fr/corse/2014/06/25/corse-le-flnc-depose-les-armes-506193.html">Le FLNC dépose les armes - Corse ViaStella</a></span></li>
+<li id="cite_note-end-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-end_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-end_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-end_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.euronews.com/2016/05/03/corsican-separatists-to-end-military-campaign/">Corsican separatists to end military campaign</a>", EuroNews, 3 May 2016</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Ramsay, p. 118</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Ramsay pgs. 118–119</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Ramsay p.103</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Ramsay p. 127</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Ramsay p. 134</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Ranter, Harro. <a rel="nofollow" class="external text" href="http://aviation-safety.net/database/record.php?id=19760907-0">"ASN Aircraft accident Boeing 707-328 F-BHSH Ajaccio-Campo Dell'Oro Airport (AJA)"</a>. <i>aviation-safety.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-07-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Liberation+Front+of+Corsica&amp;rft.atitle=ASN+Aircraft+accident+Boeing+707-328+F-BHSH+Ajaccio-Campo+Dell%27Oro+Airport+%28AJA%29&amp;rft.aufirst=Harro&amp;rft.aulast=Ranter&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Faviation-safety.net%2Fdatabase%2Frecord.php%3Fid%3D19760907-0&amp;rft.jtitle=aviation-safety.net&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Ramsay, pgs. 140–141</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Ramsay p. 141</span></li>
+<li id="cite_note-:0-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://laboratoireurbanismeinsurrectionnel.blogspot.com.ar/2011/06/corsica-un-urbanisme-explosif.html">"Laboratoire Urbanisme Insurrectionnel: CORSICA, un urbanisme explosif"</a>. <i>laboratoireurbanismeinsurrectionnel.blogspot.com.ar</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-07-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Liberation+Front+of+Corsica&amp;rft.atitle=Laboratoire+Urbanisme+Insurrectionnel%3A+CORSICA%2C+un+urbanisme+explosif&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Flaboratoireurbanismeinsurrectionnel.blogspot.com.ar%2F2011%2F06%2Fcorsica-un-urbanisme-explosif.html&amp;rft.jtitle=laboratoireurbanismeinsurrectionnel.blogspot.com.ar&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tribunodelpopolo.it/indipendentisti-corsi-sul-piede-di-guerra/">"Indipendentisti corsi sul piede di guerra"</a> (in Italian)<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-07-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Liberation+Front+of+Corsica&amp;rft.btitle=Indipendentisti+corsi+sul+piede+di+guerra&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.tribunodelpopolo.it%2Findipendentisti-corsi-sul-piede-di-guerra%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://archive-fr.com/fr/l/larousse.fr/2012-07-15_128611_183/Archive_Larousse_Journal_de_l_ann%C3%A9e_%C3%89dition_1972_chronologie_Janvier_1972/">Archive Larousse&#160;: Journal de l'année Édition 1978 - chronologie - Janvier, 1978</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Ramsay p. 150</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Ramsay p. 172</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Ramsay p. 173</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Ramsay p. 184</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Ramsay p. 174</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Ramsay p. 191</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Ramsay pgs. 174–175</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Ramsay p. 197</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Rasay pgs. 200–201</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Ramsay p. 205</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Charters p. 104</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.hartford-hwp.com/archives/62/258.html">http://www.hartford-hwp.com/archives/62/258.html</a> "Corsican Separatists Claim responsibility for three recent attacks", <i>Reuters</i>, 30 December 1996.</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://prophetofdoom.net/Islamic_Clubs_National_Front_for_the_Liberation_of_Corsica.Islam">http://prophetofdoom.net/Islamic_Clubs_National_Front_for_the_Liberation_of_Corsica.Islam</a></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Kushner p. 265</span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.britannica.com/EBchecked/topic/138802/Corsican-National-Liberation-Front">http://www.britannica.com/EBchecked/topic/138802/Corsican-National-Liberation-Front</a></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.corsematin.com/ta/vescovato/205162/corse-deux-membres-d-un-flnc-unifie-revendiquent-l-attentat">http://www.corsematin.com/ta/vescovato/205162/corse-deux-membres-d-un-flnc-unifie-revendiquent-l-attentat</a>, Two members of a unified FLNC claimed the attack, <i>Corse Matin,</i> 10 August 2009</span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Moloney, Mark. "Corsica: Europe's hidden independence struggle", Iris - The Republican Magazine, Issue Number 26, April 2012, ISSN 0790-7869</span></li>
+<li id="cite_note-anphoblacht-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-anphoblacht_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-anphoblacht_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="anphoblacht" class="citation news">Moloney, Mark (2016-05-03). <a rel="nofollow" class="external text" href="http://www.anphoblacht.com/contents/25978">"Corsica's last major armed group to decommission to 'boost peace process<span style="padding-right:0.2em;">'</span>"</a>. <i>An Phoblacht</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Liberation+Front+of+Corsica&amp;rft.atitle=Corsica%27s+last+major+armed+group+to+decommission+to+%27boost+peace+process%27&amp;rft.aufirst=Mark&amp;rft.aulast=Moloney&amp;rft.date=2016-05-03&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.anphoblacht.com%2Fcontents%2F25978&amp;rft.jtitle=An+Phoblacht&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bbc.com/news/world-europe-36912541">"Corsican nationalists warn jihadists of tough response - BBC News"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Liberation+Front+of+Corsica&amp;rft.btitle=Corsican+nationalists+warn+jihadists+of+tough+response+-+BBC+News&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-36912541&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Liberation_Front_of_Corsica&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin" style="">
+<ul>
+<li><cite class="citation book">Ramsay, Robert (1983). <i>The Corsican Time-Bomb</i>. Manchester, UK: Manchester University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7190-0893-X" title="Special:BookSources/0-7190-0893-X">0-7190-0893-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Liberation+Front+of+Corsica&amp;rft.aufirst=Robert&amp;rft.aulast=Ramsay&amp;rft.btitle=The+Corsican+Time-Bomb&amp;rft.date=1983&amp;rft.genre=book&amp;rft.isbn=0-7190-0893-X&amp;rft.place=Manchester%2C+UK&amp;rft.pub=Manchester+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Charters, David A. (1994). <i>The deadly sin of terrorism</i>. New Brunswick: Centre of Conflict Studies. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-313-28964-6" title="Special:BookSources/0-313-28964-6">0-313-28964-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Liberation+Front+of+Corsica&amp;rft.aufirst=David+A.&amp;rft.aulast=Charters&amp;rft.btitle=The+deadly+sin+of+terrorism&amp;rft.date=1994&amp;rft.genre=book&amp;rft.isbn=0-313-28964-6&amp;rft.place=New+Brunswick&amp;rft.pub=Centre+of+Conflict+Studies&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><cite class="citation book">Kushner, Harvey (2003). <i>Encyclopedia of Terrorism</i>. California: <a href="/wiki/Sage_Publications" class="mw-redirect" title="Sage Publications">Sage Publications</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7619-2408-6" title="Special:BookSources/0-7619-2408-6">0-7619-2408-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Liberation+Front+of+Corsica&amp;rft.aufirst=Harvey&amp;rft.aulast=Kushner&amp;rft.btitle=Encyclopedia+of+Terrorism&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=0-7619-2408-6&amp;rft.place=California&amp;rft.pub=Sage+Publications&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Liberation_Front_of_Corsica&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/32px-Flag_of_France.svg.png" width="32" height="21" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/48px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/64px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:France" title="Portal:France">France portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.unita-naziunale.org/portail/images.htm">French information site on FLNC</a></li>
+</ul>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:786920-0!*!0!!en!4!* and timestamp 20161003025048 and revision id 734506468
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=National_Liberation_Front_of_Corsica&amp;oldid=734506468">https://en.wikipedia.org/w/index.php?title=National_Liberation_Front_of_Corsica&amp;oldid=734506468</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Corsican_nationalism" title="Category:Corsican nationalism">Corsican nationalism</a></li><li><a href="/wiki/Category:Irregular_military" title="Category:Irregular military">Irregular military</a></li><li><a href="/wiki/Category:Separatism_in_France" title="Category:Separatism in France">Separatism in France</a></li><li><a href="/wiki/Category:Secessionist_organizations_in_Europe" title="Category:Secessionist organizations in Europe">Secessionist organizations in Europe</a></li><li><a href="/wiki/Category:National_liberation_movements" title="Category:National liberation movements">National liberation movements</a></li><li><a href="/wiki/Category:Terrorism_in_France" title="Category:Terrorism in France">Terrorism in France</a></li><li><a href="/wiki/Category:Banned_secessionist_parties" title="Category:Banned secessionist parties">Banned secessionist parties</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Italian-language_sources_(it)" title="Category:CS1 Italian-language sources (it)">CS1 Italian-language sources (it)</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_July_2014" title="Category:Use dmy dates from July 2014">Use dmy dates from July 2014</a></li><li><a href="/wiki/Category:Articles_containing_Corsican-language_text" title="Category:Articles containing Corsican-language text">Articles containing Corsican-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2016" title="Category:Articles with unsourced statements from July 2016">Articles with unsourced statements from July 2016</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=National+Liberation+Front+of+Corsica" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=National+Liberation+Front+of+Corsica" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/National_Liberation_Front_of_Corsica"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:National_Liberation_Front_of_Corsica"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/National_Liberation_Front_of_Corsica" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=National_Liberation_Front_of_Corsica&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=National_Liberation_Front_of_Corsica&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/National_Liberation_Front_of_Corsica" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/National_Liberation_Front_of_Corsica" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=National_Liberation_Front_of_Corsica&amp;oldid=734506468" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=National_Liberation_Front_of_Corsica&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1138646" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=National_Liberation_Front_of_Corsica&amp;id=734506468" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=National+Liberation+Front+of+Corsica">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=National+Liberation+Front+of+Corsica&amp;returnto=National+Liberation+Front+of+Corsica&amp;oldid=734506468&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=National_Liberation_Front_of_Corsica&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Front_d%27Alliberament_Nacional_de_C%C3%B2rsega" title="Front d'Alliberament Nacional de Còrsega – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Fronte_di_Liberazione_Naziunale_di_a_Corsica" title="Fronte di Liberazione Naziunale di a Corsica – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-co"><a href="https://co.wikipedia.org/wiki/Fronte_di_Liberazione_Naziunale_Corsu" title="Fronte di Liberazione Naziunale Corsu – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Frontu_di_Liberazione_Naziunalista_Corsu" title="Frontu di Liberazione Naziunalista Corsu – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Frente_de_Liberaci%C3%B3n_Nacional_de_C%C3%B3rcega" title="Frente de Liberación Nacional de Córcega – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Korsika_Askatzeko_Nazio_Frontea" title="Korsika Askatzeko Nazio Frontea – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Front_de_lib%C3%A9ration_nationale_corse" title="Front de libération nationale corse – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Fronta_za_nacionalno_oslobo%C4%91enje_Korzike" title="Fronta za nacionalno oslobođenje Korzike – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Front_Pembebasan_Nasional_Korsika" title="Front Pembebasan Nasional Korsika – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Fronte_di_Liberazione_Nazionale_Corso" title="Fronte di Liberazione Nazionale Corso – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Front_%C3%ABd_Liberassion_Nassional_%C3%ABd_C%C3%B2rsica" title="Front ëd Liberassion Nassional ëd Còrsica – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Front_Narodowego_Wyzwolenia_Korsyki" title="Front Narodowego Wyzwolenia Korsyki – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Frente_de_Liberta%C3%A7%C3%A3o_Nacional_da_C%C3%B3rsega" title="Frente de Libertação Nacional da Córsega – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%BE%D0%BD%D1%82_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9A%D0%BE%D1%80%D1%81%D0%B8%D0%BA%D0%B8" title="Фронт национального освобождения Корсики – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Fronte_de_Liberassione_Natzionale_Corsicanu" title="Fronte de Liberassione Natzionale Corsicanu – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Frunti_di_Libbirazzioni_Nazziunali_Corsu" title="Frunti di Libbirazzioni Nazziunali Corsu – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Korsikan_kansallinen_vapautusrintama" title="Korsikan kansallinen vapautusrintama – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%9B%E0%B8%A5%E0%B8%94%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%8B%E0%B8%B4%E0%B8%81%E0%B8%B2" title="แนวร่วมปลดปล่อยแห่งชาติคอร์ซิกา – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Korsika_Ulusal_Kurtulu%C5%9F_Cephesi" title="Korsika Ulusal Kurtuluş Cephesi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%A7%91%E8%A5%BF%E5%98%89%E6%B0%91%E6%97%8F%E8%A7%A3%E6%94%BE%E9%98%B5%E7%BA%BF" title="科西嘉民族解放阵线 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1138646#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 14 August 2016, at 20:18.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=National_Liberation_Front_of_Corsica&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.224",
+            "walltime": "0.288",
+            "ppvisitednodes": {
+                "value": 1581,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 24040,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 1857,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 12,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 4,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 0,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  230.669      1 -total",
+                " 27.68%   63.839      1 Template:Reflist",
+                " 17.66%   40.738      4 Template:Cite_web",
+                " 15.59%   35.959      1 Template:Infobox_war_faction",
+                " 14.74%   33.993      2 Template:Citation_needed",
+                " 13.27%   30.604      2 Template:Fix",
+                " 12.71%   29.307      1 Template:Infobox",
+                " 12.53%   28.892      6 Template:Category_handler",
+                "  9.55%   22.039      1 Template:Lang-co",
+                "  9.39%   21.659      1 Template:For"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.081",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 3899858,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1274",
+            "timestamp": "20161003025049",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw1251"});});</script>
+	</body>
+</html>

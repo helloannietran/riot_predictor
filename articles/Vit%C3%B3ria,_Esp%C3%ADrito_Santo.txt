@@ -1,0 +1,1523 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Vitória, Espírito Santo - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Vitória,_Espírito_Santo","wgTitle":"Vitória, Espírito Santo","wgCurRevisionId":740775941,"wgRevisionId":740775941,"wgArticleId":629204,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Portuguese-language sources (pt)","Settlement articles requiring maintenance","Coordinates on Wikidata","Vitória, Espírito Santo","1551 establishments in the Portuguese Empire"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Vitória,_Espírito_Santo","wgRelevantArticleId":629204,"wgRequestId":"WApaJQpAAEIAARSIBn8AAAAK","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":-20.318888888889,"lon":-40.337777777778},"wgWikibaseItemId":"Q168376","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Vit%C3%B3ria,_Esp%C3%ADrito_Santo"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Vit%C3%B3ria,_Esp%C3%ADrito_Santo"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Vitória_Espírito_Santo rootpage-Vitória_Espírito_Santo skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Vitória, Espírito Santo</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">For other uses, see <a href="/wiki/Vit%C3%B3ria_(disambiguation)" class="mw-redirect mw-disambig" title="Vitória (disambiguation)">Vitória (disambiguation)</a>.</div>
+<table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org">Vitória</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><span class="category">Municipality</span></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center"><i>Município de Vitória</i><br />
+Municipality of Vitória</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;padding:0.7em 0.8em"><a href="/wiki/File:Vit%C3%B3ria_ES.jpg" class="image" title="From the top, left to right: Canto's Beach, Boi's Island, Third Bridge, Anchieta Palace, Suá's Beach, and Valentine's Plaza (at night)"><img alt="From the top, left to right: Canto's Beach, Boi's Island, Third Bridge, Anchieta Palace, Suá's Beach, and Valentine's Plaza (at night)" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Vit%C3%B3ria_ES.jpg/250px-Vit%C3%B3ria_ES.jpg" width="250" height="283" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Vit%C3%B3ria_ES.jpg/375px-Vit%C3%B3ria_ES.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Vit%C3%B3ria_ES.jpg/500px-Vit%C3%B3ria_ES.jpg 2x" data-file-width="768" data-file-height="870" /></a>
+<div>From the top, left to right: Canto's Beach, Boi's Island, <a href="/wiki/Third_Bridge" title="Third Bridge">Third Bridge</a>, Anchieta Palace, Suá's Beach, and Valentine's Plaza (at night)</div>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:BandeiraVitoria.png" class="image" title="Flag of Vitória"><img alt="Flag of Vitória" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BandeiraVitoria.png/100px-BandeiraVitoria.png" width="100" height="70" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BandeiraVitoria.png/150px-BandeiraVitoria.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BandeiraVitoria.png/200px-BandeiraVitoria.png 2x" data-file-width="1053" data-file-height="737" /></a><br />
+<small><b>Flag</b></small></td>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:VIT%C3%93RIA.PNG" class="image" title="Official seal of Vitória"><img alt="Official seal of Vitória" src="//upload.wikimedia.org/wikipedia/en/thumb/b/bb/VIT%C3%93RIA.PNG/100px-VIT%C3%93RIA.PNG" width="100" height="121" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/bb/VIT%C3%93RIA.PNG/150px-VIT%C3%93RIA.PNG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/bb/VIT%C3%93RIA.PNG/200px-VIT%C3%93RIA.PNG 2x" data-file-width="904" data-file-height="1098" /></a><br />
+<small><b>Seal</b></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center">Nickname(s): <span class="nickname"><i>Honey Island</i><br />
+<i>Sun City</i><br />
+<i>Vix</i></span></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:EspiritoSanto_Municip_Vitoria.svg" class="image" title="Location in the Espírito Santo"><img alt="Location in the Espírito Santo" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/EspiritoSanto_Municip_Vitoria.svg/250px-EspiritoSanto_Municip_Vitoria.svg.png" width="250" height="370" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/EspiritoSanto_Municip_Vitoria.svg/375px-EspiritoSanto_Municip_Vitoria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/EspiritoSanto_Municip_Vitoria.svg/500px-EspiritoSanto_Municip_Vitoria.svg.png 2x" data-file-width="464" data-file-height="687" /></a><br />
+<small>Location in the Espírito Santo</small></td>
+</tr>
+<tr class="mergedrow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Brazil_State_EspiritoSanto.svg" class="image" title="Location of Vitória"><img alt="Location of Vitória" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Brazil_State_EspiritoSanto.svg/250px-Brazil_State_EspiritoSanto.svg.png" width="250" height="245" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Brazil_State_EspiritoSanto.svg/375px-Brazil_State_EspiritoSanto.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Brazil_State_EspiritoSanto.svg/500px-Brazil_State_EspiritoSanto.svg.png 2x" data-file-width="702" data-file-height="687" /></a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/List_of_countries" class="mw-redirect" title="List of countries">Country</a></th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" />&#160;</span><a href="/wiki/Brazil" title="Brazil">Brazil</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Regions_of_Brazil" title="Regions of Brazil">Region</a></th>
+<td><a href="/wiki/Southeast_Region,_Brazil" title="Southeast Region, Brazil">Southeast</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/States_of_Brazil" title="States of Brazil">State</a></th>
+<td><a href="/wiki/File:Bandeira_do_Esp%C3%ADrito_Santo.svg" class="image"><img alt="Bandeira do Espírito Santo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/22px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/33px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/44px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png 2x" data-file-width="2000" data-file-height="1400" /></a> <a href="/wiki/Esp%C3%ADrito_Santo" title="Espírito Santo">Espírito Santo</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Founded</th>
+<td>September 8, 1551</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Mayor</th>
+<td>Luciano Rezende (<a href="/wiki/Popular_Socialist_Party_(Brazil)" title="Popular Socialist Party (Brazil)">PPS</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Municipality</th>
+<td>93.381&#160;km<sup>2</sup> (36.055&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Metro</th>
+<td>3,204.26&#160;km<sup>2</sup> (1,237.17&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Elevation</th>
+<td>4&#160;m (13&#160;ft)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population <span style="font-weight:normal">(355.875 (2015 estimate))</span></th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Municipality</th>
+<td>355.875</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>3,546.7/km<sup>2</sup> (9,186/sq&#160;mi)</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;<a href="/wiki/Metropolitan_area" title="Metropolitan area">Metro</a></th>
+<td>1,857,616</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th>
+<td><a href="/wiki/UTC" class="mw-redirect" title="UTC">UTC-3</a> (<a href="/wiki/UTC-3" class="mw-redirect" title="UTC-3">UTC-3</a>)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Postal Code</th>
+<td class="adr"><span class="postal-code">29000-000</span></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row"><a href="/wiki/Telephone_numbering_plan" title="Telephone numbering plan">Area code(s)</a></th>
+<td>(+55) 27</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/Demonym" title="Demonym">Demonym</a></th>
+<td><i>vitoriense</i></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.vitoria.es.gov.br">Vitória, Espírito Santo</a></td>
+</tr>
+</table>
+<p><b>Vitória</b> (<small>Portuguese pronunciation:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA_for_Portuguese" title="Help:IPA for Portuguese">[viˈtɔɾjɐ]</a></span>, <i>Victory</i>), spelled Victória until the 1940s, is the capital of the <a href="/wiki/States_of_Brazil" title="States of Brazil">state</a> of <a href="/wiki/Esp%C3%ADrito_Santo" title="Espírito Santo">Espírito Santo</a>, <a href="/wiki/Brazil" title="Brazil">Brazil</a>. It is located on <a href="/wiki/Vit%C3%B3ria_(island)" title="Vitória (island)">a small island</a> within a bay where a few rivers meet the sea. It was founded in 1551. The city proper 93 square kilometres (36 square miles) has a population of 358,875 (2015) whilst the <a href="/wiki/Greater_Vit%C3%B3ria" title="Greater Vitória">Greater Vitória</a> metropolitan area has a population of more than 1,857,616 (2013), the 14th largest in Brazil.</p>
+<p>Vitória is surrounded by the Vitória's Bay. It is an riverine island. In addition to the main island, Vitória, are part of the municipality another 34 islands and a mainland portion, a total of 93.381 square kilometres (36.05 square miles). Originally there were 50 islands, many of which were added through landfill to the largest island.</p>
+<p>In 1998, the <a href="/wiki/United_Nations" title="United Nations">United Nations</a> rated Vitória as the fourth best state <a href="/wiki/Capital_(political)" class="mw-redirect" title="Capital (political)">capital</a> in Brazil to live in, rating cities on health, education, and social improvement projects. Among the Brazilian capitals, Vitória has the current second best <a href="/wiki/Human_development_index" class="mw-redirect" title="Human development index">human development index</a> (HDI) (after <a href="/wiki/Florian%C3%B3polis" title="Florianópolis">Florianópolis</a>) according to a research from <a href="/wiki/Funda%C3%A7%C3%A3o_Get%C3%BAlio_Vargas" title="Fundação Getúlio Vargas">Getulio Vargas Foundation</a>. It was considered the 4th best city to live in Brazil by <a href="/wiki/United_Nations" title="United Nations">United Nations</a> in 2013 (behind <a href="/wiki/S%C3%A3o_Caetano_do_Sul" title="São Caetano do Sul">São Caetano do Sul</a>, <a href="/wiki/%C3%81guas_de_S%C3%A3o_Pedro" title="Águas de São Pedro">Águas de São Pedro</a> and <a href="/wiki/Florian%C3%B3polis" title="Florianópolis">Florianópolis</a>) and the highest <a href="/wiki/Gross_domestic_product_per_capita" class="mw-redirect" title="Gross domestic product per capita">gross domestic product per capita</a>.</p>
+<p>Vitória has two major ports: the Port of Vitória and the <a href="/wiki/Port_of_Tubar%C3%A3o" title="Port of Tubarão">Port of Tubarão</a>. These ports are part of the largest port complex of the country, which are considered the best in quality of Brazil.</p>
+<p>Blessed by an incomparable natural beauty, the city is located on a rocky massif, with the central Morro da Fonte Grande (Big Fountains's Hill) and Pedra dos Dois Olhos (Stone with Two Eyes).</p>
+<p>The city, which lies on the coast, has proximity to the region of mountains of <a href="/wiki/Esp%C3%ADrito_Santo" title="Espírito Santo">Espírito Santo</a> .</p>
+<p>The city manages the <a href="/wiki/Trindade_and_Martim_Vaz" title="Trindade and Martim Vaz">Trindade and Martim Vaz</a> islands, 1,100 kilometres (680 miles) off the coast, which are important meteorological bases because of its strategic position: located in an area of dispersion of air masses.</p>
+<p>Vitória is a great tourism destination for those who want to see a beautiful scenery and a city with good life quality.</p>
+<p><a href="/wiki/Eurico_de_Aguiar_Salles_Airport" title="Eurico de Aguiar Salles Airport">Eurico de Aguiar Salles Airport</a> connects Vitória with many Brazilian cities.</p>
+<p>The city is home to the <a href="/wiki/Universidade_Federal_do_Esp%C3%ADrito_Santo" class="mw-redirect" title="Universidade Federal do Espírito Santo">Federal University of Espírito Santo</a> (UFES).</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Relief"><span class="tocnumber">1.1</span> <span class="toctext">Relief</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Climate"><span class="tocnumber">1.2</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Coastline"><span class="tocnumber">1.3</span> <span class="toctext">Coastline</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Demographics"><span class="tocnumber">3</span> <span class="toctext">Demographics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Religion"><span class="tocnumber">3.1</span> <span class="toctext">Religion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Economy"><span class="tocnumber">4</span> <span class="toctext">Economy</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Trade"><span class="tocnumber">5</span> <span class="toctext">Trade</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Education"><span class="tocnumber">6</span> <span class="toctext">Education</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Educational_institutions"><span class="tocnumber">6.1</span> <span class="toctext">Educational institutions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Transportation"><span class="tocnumber">7</span> <span class="toctext">Transportation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Airport"><span class="tocnumber">7.1</span> <span class="toctext">Airport</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Public_Transportation"><span class="tocnumber">7.2</span> <span class="toctext">Public Transportation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Airlines_and_destinations"><span class="tocnumber">8</span> <span class="toctext">Airlines and destinations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Highways"><span class="tocnumber">8.1</span> <span class="toctext">Highways</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Ports"><span class="tocnumber">8.2</span> <span class="toctext">Ports</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Railways"><span class="tocnumber">8.3</span> <span class="toctext">Railways</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Bridge"><span class="tocnumber">8.4</span> <span class="toctext">Bridge</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Sports"><span class="tocnumber">9</span> <span class="toctext">Sports</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Football"><span class="tocnumber">9.1</span> <span class="toctext">Football</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Kitesurf"><span class="tocnumber">9.2</span> <span class="toctext">Kitesurf</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#Twin_towns_.E2.80.93_Sister_cities"><span class="tocnumber">10</span> <span class="toctext">Twin towns – Sister cities</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Main_sights"><span class="tocnumber">11</span> <span class="toctext">Main sights</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#Other_cities_in_the_greater_Vit.C3.B3ria_Metropolitan_Region"><span class="tocnumber">12</span> <span class="toctext">Other cities in the greater Vitória Metropolitan Region</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#References"><span class="tocnumber">13</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#External_links"><span class="tocnumber">14</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=1" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It has a very jagged coastline and in addition to it, Vitória has 40% of its area covered by hills, making the growth of new urbanized areas in the city harder, and while the city proper has upscale neighborhoods, by other side, the neighbouring municipalities in the metropolitan region, with a notably lower HDI, have more poor suburban areas (in Brazil, the affluent neighbourhoods tend to be relatively close to the city center).</p>
+<p>This formation of a "core of good-looking, affluent districts" close to the historical center isolated by a mountain range from the middle and lower class suburbs is evocative of how <a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a>'s spatial segregation is organizated, although lower class poorly urbanizated neighbourhoods in Vitória's highlands are not as famous, if one can say that <a href="/wiki/Favela" title="Favela">favelas</a> like what is found soon after Rio de Janeiro's affluent neighbourhoods close to the center even exists (it is already present in Vitória metropolitan region, but probably not the city proper).</p>
+<h3><span class="mw-headline" id="Relief">Relief</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=2" title="Edit section: Relief">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The relief of the islands is an extension of the continent, whether granite, surrounded by the sea and native Brazilian restinga-mangue (dunes and sandbanks' bush and mangroves i.e. immediate coastline flora) vegetation. The central massif of the island of Vitória, Morro da Fonte Grande, has an altitude of 308.8 m and the main granitic outcrops are Pedra dos Dois Olhos, with 296m, and Morro de São Benedito, with 194m of altitude. Vitória's highest point is Pico do Desejado, located in the <a href="/wiki/Trindade_and_Martim_Vaz" title="Trindade and Martim Vaz">Trindade Island</a>, with 601m of altitude, eleven hundred kilometers away from the mainland coastline.</p>
+<h3><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=3" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="infobox" style="width: 19.5em; float: left; clear: none; margin-left:0em;margin-right:1em; text-align: center; border: solid 1px silver" cellspacing="0" cellpadding="0">
+<tr>
+<th>Vitória</th>
+</tr>
+<tr>
+<th style="font-size: 90%">Climate chart (<a href="/wiki/Template:Climate_chart/How_to_read_a_climate_chart" title="Template:Climate chart/How to read a climate chart">explanation</a>)</th>
+</tr>
+<tr>
+<td>
+<table class="infobox" style="width: 100%; margin: 0; float: left; clear: none; margin-left:0em;margin-right:1em; text-align: center; border: none; font-size: 90%" cellspacing="0" cellpadding="0">
+<tr>
+<td>J</td>
+<td>F</td>
+<td>M</td>
+<td>A</td>
+<td>M</td>
+<td>J</td>
+<td>J</td>
+<td>A</td>
+<td>S</td>
+<td>O</td>
+<td>N</td>
+<td>D</td>
+</tr>
+<tr>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:1.54em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">77</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.8em;height:1.6em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:14.4em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">32</span></div>
+<div style="color:red;position:absolute;bottom:11.3em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">24</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:1.08em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">54</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.8em;height:1.6em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:14.4em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">32</span></div>
+<div style="color:red;position:absolute;bottom:11.3em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">24</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:1.74em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">87</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.8em;height:1.6em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:14.4em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">32</span></div>
+<div style="color:red;position:absolute;bottom:11.3em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">24</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:1.44em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">72</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.6em;height:1.4em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:14em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">30</span></div>
+<div style="color:red;position:absolute;bottom:11.1em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">23</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:0.92em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">46</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.2em;height:1.6em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.8em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">29</span></div>
+<div style="color:red;position:absolute;bottom:10.7em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">21</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:0.86em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">43</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:11.8em;height:1.8em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.6em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">28</span></div>
+<div style="color:red;position:absolute;bottom:10.3em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">19</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:0.92em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">46</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:11.8em;height:1.6em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.4em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">27</span></div>
+<div style="color:red;position:absolute;bottom:10.3em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">19</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:0.9em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">45</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:11.8em;height:1.6em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.4em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">27</span></div>
+<div style="color:red;position:absolute;bottom:10.3em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">19</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:1.02em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">51</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12em;height:1.4em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.4em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">27</span></div>
+<div style="color:red;position:absolute;bottom:10.5em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">20</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:1.52em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">76</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.4em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.6em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">28</span></div>
+<div style="color:red;position:absolute;bottom:10.9em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">22</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2.86em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">143</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.6em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.8em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">29</span></div>
+<div style="color:red;position:absolute;bottom:11.1em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">23</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:3.5em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">175</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.8em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:14em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">30</span></div>
+<div style="color:red;position:absolute;bottom:11.3em; left:-.4em;width:1.6em;height:1.5em;text-align:right"><span style="font-size:80%">24</span></div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="12" style="padding: 2px; text-align: left; line-height: 1.5em; color: red">Average max. and min. temperatures in °C</td>
+</tr>
+<tr>
+<td colspan="12" style="padding: 2px; text-align: left; line-height: 1.5em; color: blue">Precipitation totals in mm</td>
+</tr>
+<tr>
+<td colspan="12" style="padding: 2px; text-align: left; line-height: 1.5em"><i>Source: <a rel="nofollow" class="external text" href="http://weather.uk.msn.com/monthly_averages.aspx?wealocations=wc:BRXX0259">MSN Weather</a></i></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class="infobox collapsible collapsed" style="width: 100%; margin: 0; float: left; clear: none; margin-left:0em;margin-right:1em; text-align: center; border: none; font-size: 90%" cellspacing="0" cellpadding="0">
+<tr>
+<th colspan="12">Imperial conversion</th>
+</tr>
+<tr>
+<td>J</td>
+<td>F</td>
+<td>M</td>
+<td>A</td>
+<td>M</td>
+<td>J</td>
+<td>J</td>
+<td>A</td>
+<td>S</td>
+<td>O</td>
+<td>N</td>
+<td>D</td>
+</tr>
+<tr>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:1.54em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">3</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.8em;height:1.6em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:14.4em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">90</span></div>
+<div style="color:red;position:absolute;bottom:11.3em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">75</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:1.08em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">2.1</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.8em;height:1.6em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:14.4em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">90</span></div>
+<div style="color:red;position:absolute;bottom:11.3em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">75</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:1.74em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">3.4</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.8em;height:1.6em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:14.4em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">90</span></div>
+<div style="color:red;position:absolute;bottom:11.3em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">75</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:1.44em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">2.8</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.6em;height:1.4em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:14em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">86</span></div>
+<div style="color:red;position:absolute;bottom:11.1em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">73</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:0.92em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">1.8</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.2em;height:1.6em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.8em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">84</span></div>
+<div style="color:red;position:absolute;bottom:10.7em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">70</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:0.86em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">1.7</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:11.8em;height:1.8em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.6em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">82</span></div>
+<div style="color:red;position:absolute;bottom:10.3em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">66</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:0.92em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">1.8</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:11.8em;height:1.6em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.4em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">81</span></div>
+<div style="color:red;position:absolute;bottom:10.3em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">66</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:0.9em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">1.8</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:11.8em;height:1.6em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.4em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">81</span></div>
+<div style="color:red;position:absolute;bottom:10.3em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">66</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:1.02em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">2</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12em;height:1.4em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.4em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">81</span></div>
+<div style="color:red;position:absolute;bottom:10.5em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">68</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:1.52em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">3</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.4em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.6em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">82</span></div>
+<div style="color:red;position:absolute;bottom:10.9em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">72</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:2.86em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">5.6</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.6em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:13.8em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">84</span></div>
+<div style="color:red;position:absolute;bottom:11.1em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">73</span></div>
+</div>
+</td>
+<td>
+<div style="width:1.6em;height:17em;position:relative;padding:0;margin:0">
+<div style="height:0em;bottom:2em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #abc;padding:0;margin:0">&#160;</div>
+<div style="background:#ace;position:absolute;bottom:2em;left:.2em;width:1.2em;height:3.5em;overflow:hidden">&#160;</div>
+<div style="color:blue;position:absolute;bottom:.5em;left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:70%">6.9</span></div>
+<div style="height:0em;bottom:8em;width:1.6em;position:absolute;left:0;border-bottom:dotted 1px #cba;padding:0;margin:0">&#160;</div>
+<div style="overflow:hidden;background:#e44;position:absolute;left:.4em;width:0.8em;bottom:12.8em;height:1.2em;">&#160;</div>
+<div style="color:red;position:absolute;bottom:14em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">86</span></div>
+<div style="color:red;position:absolute;bottom:11.3em; left:0;width:1.6em;height:1.5em;text-align:center"><span style="font-size:80%">75</span></div>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="12" style="padding: 2px; text-align: left; line-height: 1.5em; color: red">Average max. and min. temperatures in °F</td>
+</tr>
+<tr>
+<td colspan="12" style="padding: 2px; text-align: left; line-height: 1.5em; color: blue">Precipitation totals in inches</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p>The city's climate is tropical, with average annual temperature of 23&#160;°C (73&#160;°F) and the occurrence of rainfall specially in the months from October to January. Temperatures can vary greatly in winter and can reach 30&#160;°C (86&#160;°F) in times of drought but 12&#160;°C (54&#160;°F) when cold fronts occur followed by an abnormally cold temperature of the ocean. The highest absolute maximum temperature ever recorded in the city was 39.6&#160;°C (103.3&#160;°F) (INMET) on February 25, 2006 and the minimum was less than 9&#160;°C (48&#160;°F) because of the cold <a href="/wiki/Falkland_Current" title="Falkland Current">Falklands oceanic current</a>.</p>
+<p>Vitória shares with <a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a> the position of the Brazilian capital with lowest rates of rainfall at approximately 918 millimetres (36.1&#160;in) annually. Vitória is also the city that presents the lowest temperature range in practically all the state of Espírito Santo, as result of both its oceanic climate, given by location, and the protection that the mountains create from the major weather changes influenced by air masses.</p>
+<p>Vitória is one of the hottest cities in the state of Espírito Santo, due to <a href="/wiki/Air_pollution" title="Air pollution">atmospherical pollution</a> and the large cluster of buildings, in addition to several mountains on the island, which block the south wind, which traditionally occurs on cold days in the state. This causes the minimum of the city being 2&#160;°C (3.6&#160;°F) warmer than the average in the state. Another contributing factor is that the level of rainfall in the city is lesser than Espírito Santo's average as a whole, by about 350 millimetres (13.8&#160;in). This thermal variation can be easily noticed by comparing the temperatures of Vitória with the nearby town of Vila Velha, noted in all seasons, specially in winter, the minimum of Vila Velha is 1&#160;°C (34&#160;°F), 3&#160;°C (5.4&#160;°F) lower than in Vitória.</p>
+<h3><span class="mw-headline" id="Coastline">Coastline</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=4" title="Edit section: Coastline">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Surrounded by the Bay of Vitória, the main island has many beaches, mangroves, granite formations and many smaller islands. Praia de Camburi, Ilha do Boi, Praia do Canto, Curva da Jurema, Praia da Costa and Praia de Jacaraipe are just a few of the beautiful beaches along Vitoria and nearest cities.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=5" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:VitoriaOldTownHouses.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/VitoriaOldTownHouses.jpg/220px-VitoriaOldTownHouses.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/VitoriaOldTownHouses.jpg/330px-VitoriaOldTownHouses.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/VitoriaOldTownHouses.jpg/440px-VitoriaOldTownHouses.jpg 2x" data-file-width="800" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:VitoriaOldTownHouses.jpg" class="internal" title="Enlarge"></a></div>
+Historic Center of Vitória.</div>
+</div>
+</div>
+<p>Vila Velha, which was the capital of Brazilian Espírito Santo captaincy, found itself in constant attacks from the <a href="/wiki/Tupi-Guarani" class="mw-redirect" title="Tupi-Guarani">Tupi-Guarani</a>-speaking and possibly some <a href="/wiki/Macro-J%C3%AA" class="mw-redirect" title="Macro-Jê">Macro-Jê</a>-speaking indigenous peoples, the French and the Dutch. The Portuguese then decided to move away the capital and chose an island near the mainland, called by some of the native peoples Guanaani Island. Vila Nova do Espírito Santo, as it was called, was founded on September 8, 1551 and later renamed Vitória in memory of the victory in a great battle led by the donee of the captaincy, <a href="/wiki/Vasco_Fernandes_Coutinho,_captain_of_Esp%C3%ADrito_Santo" title="Vasco Fernandes Coutinho, captain of Espírito Santo">Vasco Fernandes Coutinho</a>, against Goytacaz Amerindians.</p>
+<p>Until the last century, the limits of the current capital of Espírito Santo were Fort São João, where is currently located the Club de Regatas Saldanha da Gama, near the city center, and the hill where sits the actual Santa Casa de Misericórdia hospital, in Vila Rubim. The city was built on the highlands, which originated several narrow streets. The lowlands were under attacks and because of that a number of fortresses were built in the coastline.</p>
+<p>On February 24, 1823 (March 17, 1829?) the town of Vitória became a city, but its insular isolation prevented its development. From the year 1894 on, with the coffee cycle, many landfills were implemented in the lower parts of the city, changing the shape of the island and urbanizing it. Several new neighbourhoods were thus inhabited and public stairs built to connect them with the higher grounds. Ancient houses were demolished. Moreover, sanitation was improved. In 1927 the bridge that connected the island to the mainland was opened and 1941 the first harbour pier.</p>
+<p>The port had an important development. Wide avenues were opened over landfills. With these changes the city became the largest urban space of the Espírito Santo state, a metropolis. In 1970 the Vitória Harbour rose to one of the most important in the country, and the city began its industrialization process. The modernization of the island led to the disappearance of almost all traces of the Colonial and Imperial Brazilian époques.</p>
+<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=6" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:322px;"><a href="/wiki/File:Webysther_20131025132658_-_Terceira_Ponte.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Webysther_20131025132658_-_Terceira_Ponte.jpg/320px-Webysther_20131025132658_-_Terceira_Ponte.jpg" width="320" height="128" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Webysther_20131025132658_-_Terceira_Ponte.jpg/480px-Webysther_20131025132658_-_Terceira_Ponte.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Webysther_20131025132658_-_Terceira_Ponte.jpg/640px-Webysther_20131025132658_-_Terceira_Ponte.jpg 2x" data-file-width="8421" data-file-height="3367" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Webysther_20131025132658_-_Terceira_Ponte.jpg" class="internal" title="Enlarge"></a></div>
+View of the city of Vitória from Vila Velha</div>
+</div>
+</div>
+<p>According to the IBGE of 2013, there were 348,265 people residing in the city. The racial makeup of the city was 52.33% <a href="/wiki/White_Brazilian" class="mw-redirect" title="White Brazilian">White</a>, 38.46% <a href="/wiki/Pardo" title="Pardo">Pardo</a> (Mixed-Race), 7.43% <a href="/wiki/Afro-Brazilian" class="mw-redirect" title="Afro-Brazilian">Black</a>, 0.78% <a href="/wiki/Asian_Brazilian" class="mw-redirect" title="Asian Brazilian">Asian</a> or <a href="/wiki/Indigenous_peoples_in_Brazil" title="Indigenous peoples in Brazil">Amerindian</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></p>
+<p>Vitória is the second Brazilian capital with the best quality of life, according to research at the Getúlio Vargas Foundation. This same research institution also claims that Vitória is the 9th best city in Brazil to work. The capital of the Espírito Santo has the highest per capita income among the capitals of Brazil.</p>
+<ul>
+<li>GDP per capita (2007): 60592.00 (1st place among the capitals)</li>
+<li>Life Expectancy (years) at birth: 70.74 (4th place among the capitals)</li>
+<li>IDHM R-index of income: 0.858 (3rd position among the capitals)</li>
+<li>IDHM E-Education Index: 0.948 (3rd position among the capitals)</li>
+<li>IDHM-L Index Longevity: .762 (4th place among the capital)</li>
+<li>ICH index of deprivation in the Provision of Essential Services Housing: 0.882</li>
+<li>Adult literacy rate: 95.48% (5th position among the capitals)</li>
+<li>Average ENEM 2007: 60.225 (1st place among the capitals of Brazil)</li>
+<li>Gross rate of school attendance: 93.36% (3rd position among the capitals)</li>
+<li>Gini Index&#160;: 0.61</li>
+<li>Highest HDI between the capitals of the Southeast and third largest among the capital (0.856)</li>
+<li>Number of voters: 237 554</li>
+<li>Annual population growth rate: 2.36%</li>
+<li>Best capital for young start career</li>
+<li>Ninth best city to work</li>
+<li>Vitória Airport is the 14th in passenger movement in Brazil, and it embarked or disembarked 1,661,192 passengers in 2006. It is the 14th in cargo, and transported 13,023,544 kilograms in 2006.</li>
+<li>Vitória has the largest port in handling a ton of Brazil</li>
+<li>Fleet of vehicles: 120,826</li>
+<li>Smaller population of the capitals of Southeastern</li>
+</ul>
+<h3><span class="mw-headline" id="Religion">Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=7" title="Edit section: Religion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th style="background:#87CEFA; color:white">Religion</th>
+<th style="background:#87CEFA; color:white">Percentage</th>
+<th style="background:#87CEFA; color:white">Number</th>
+</tr>
+<tr align="center">
+<td><a href="/wiki/Catholic" class="mw-redirect" title="Catholic">Catholic</a></td>
+<td>63.36%</td>
+<td>185,211</td>
+</tr>
+<tr align="center">
+<td><a href="/wiki/Protestant" class="mw-redirect" title="Protestant">Protestant</a></td>
+<td>22.18%</td>
+<td>64,846</td>
+</tr>
+<tr align="center">
+<td><a href="/wiki/Atheism" title="Atheism">No religion</a></td>
+<td>10.53%</td>
+<td>30,791</td>
+</tr>
+<tr align="center">
+<td><a href="/wiki/Spiritism" title="Spiritism">Spiritist</a></td>
+<td>2.04%</td>
+<td>5,975</td>
+</tr>
+</table>
+<p><i>Source: <a href="/wiki/Brazilian_Institute_of_Geography_and_Statistics" title="Brazilian Institute of Geography and Statistics">IBGE</a> 2000<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></i></p>
+<h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=8" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sua2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sua2.jpg/220px-Sua2.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sua2.jpg/330px-Sua2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sua2.jpg/440px-Sua2.jpg 2x" data-file-width="2048" data-file-height="1536" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Sua2.jpg" class="internal" title="Enlarge"></a></div>
+Praia do Sua, and one of the malls of the island.</div>
+</div>
+</div>
+<p>Vitória's economy is based on port activities, active trade, industry, and also providing services to tourism. The capital of Espírito Santo has two ports that are the most important of the country: Port of Vitória and the Port of Tubarão. The most important industries are global steelmaker ArcelorMittal Tubarão (formerly CST) and mining company Vale (formerly CVRD / Companhia Vale do Rio Doce.</p>
+<h2><span class="mw-headline" id="Trade">Trade</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=9" title="Edit section: Trade">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The main shopping center in Vitória is the Shopping Vitória, featuring over 400 shops, a large food court and a cineplex. There is also the Shopping Norte Sul, with 99 stores, the Shopping Centro da Praia, Shopping Boulevard, among others.</p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=10" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a> is the official national language, and thus the primary language taught in schools. A secondary language is also required as part of the official curriculum for both <a href="/wiki/Elementary_schools" class="mw-redirect" title="Elementary schools">elementary schools</a> and <a href="/wiki/High_school" class="mw-redirect" title="High school">high school</a>. The second most taught language is <a href="/wiki/English_language" title="English language">English</a>, followed by <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>, <a href="/wiki/French_language" title="French language">French</a> and <a href="/wiki/Italian_language" title="Italian language">Italian</a>.</p>
+<p>Curiously, within the state of <a href="/wiki/Esp%C3%ADrito_Santo" title="Espírito Santo">Espírito Santo</a>, the <a href="/wiki/German_language" title="German language">German language</a> (especially the <a href="/wiki/Pomeranian_language" title="Pomeranian language">Pomeranian language</a> variety) has probably as many speakers as the <a href="/wiki/French_language" title="French language">French</a> and <a href="/wiki/Italian_language" title="Italian language">Italian</a> languages, although it is not available as part of the official curriculum for most of schools.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:VitoriaTeatroCG.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/VitoriaTeatroCG.jpg/220px-VitoriaTeatroCG.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/VitoriaTeatroCG.jpg/330px-VitoriaTeatroCG.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/VitoriaTeatroCG.jpg/440px-VitoriaTeatroCG.jpg 2x" data-file-width="800" data-file-height="600" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:VitoriaTeatroCG.jpg" class="internal" title="Enlarge"></a></div>
+<a href="/wiki/Ant%C3%B4nio_Carlos_Gomes" title="Antônio Carlos Gomes">Carlos Gomes</a> Theatre</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Educational_institutions">Educational institutions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=11" title="Edit section: Educational institutions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.ufes.br/">Universidade Federal do Espírito Santo (UFES)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ifes.edu.br/">Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (IFES)</a> – a.k.a. Centro Federal de Educação Tecnológica do Espírito Santo (CEFET-ES) / Escola Técnica Federal do Espírito Santo (ETFES)</li>
+<li><a rel="nofollow" class="external text" href="http://www.uvv.br/">Universidade Vila Velha (UVV)</a></li>
+<li>Escola Superior de Ciências da Santa Casa de Misericórdia de Vitória (Emescam)</li>
+<li><a rel="nofollow" class="external text" href="http://www.fames.es.gov.br/">Faculdade de Música do Espírito Santo (FAMES)</a></li>
+<li>Faculdade Brasileira de Ensino (UNIVIX)</li>
+<li>Faculdade Cândido Mendes de Vitória (FCMV)</li>
+<li>Faculdades Integradas Espírito-Santenses (FAESA)</li>
+<li>Faculdades Integradas de Vitória (FDV)</li>
+<li>Faculdade Estácio de Sá de Vitória (Fesv)</li>
+<li>Associação Vitoriana de Ensino Superior (Favi)</li>
+<li>Faculdade Metropolitana de Vitória (Metropolitana)</li>
+<li>Faculdade Batista de Vitória (Fabavi)</li>
+<li>Faculdade de Ciências Econômicas de Vitória (Facev)</li>
+<li>Fundação Capixaba de Pesquisa em Economia, Contabilidade e Finanças <a rel="nofollow" class="external text" href="http://www.fucape.br/">(FUCAPE Business)</a></li>
+</ul>
+<p>It formerly hosted the Vitória Japanese School (ヴィトリア日本人学校 <i>Vitoria Nihonjin Gakkō</i>), a <a href="/wiki/Nihonjin_gakko" class="mw-redirect" title="Nihonjin gakko">Japanese international school</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Transportation">Transportation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=12" title="Edit section: Transportation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Vit%C3%B3ria_(Esp%C3%ADrito_Santo)_Brazil_01529.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vit%C3%B3ria_%28Esp%C3%ADrito_Santo%29_Brazil_01529.JPG/220px-Vit%C3%B3ria_%28Esp%C3%ADrito_Santo%29_Brazil_01529.JPG" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vit%C3%B3ria_%28Esp%C3%ADrito_Santo%29_Brazil_01529.JPG/330px-Vit%C3%B3ria_%28Esp%C3%ADrito_Santo%29_Brazil_01529.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vit%C3%B3ria_%28Esp%C3%ADrito_Santo%29_Brazil_01529.JPG/440px-Vit%C3%B3ria_%28Esp%C3%ADrito_Santo%29_Brazil_01529.JPG 2x" data-file-width="2048" data-file-height="1536" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Vit%C3%B3ria_(Esp%C3%ADrito_Santo)_Brazil_01529.JPG" class="internal" title="Enlarge"></a></div>
+Vitória in the afternoon</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Airport">Airport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=13" title="Edit section: Airport">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Eurico_de_Aguiar_Salles_Airport" title="Eurico de Aguiar Salles Airport">Eurico de Aguiar Salles Airport (Goiabeiras)</a> is located on a land plot of just over 5.2 million square meters. Since construction of its first step, finished in 1946, Vitória Airport has undergone several expansions and modernizations, but current demand has surpassed its capacity of 2.9 million passengers a year. The passenger terminal is air conditioned, with a constructed area of nearly 17,000 square meters, a check-in concourse, 25 check-in counters and boarding and arrival lounges. The recent construction of new aircraft parking boxes on the aprons has improved the airport's operational efficiency.</p>
+<p>In 2012, more than 3.7 million passengers used the airport, and in 2013 this rose to almost 4 million. Vitória is one of the 32 airports in the Infraero network that has a cargo terminal. In May 1999, the first direct international freight connection started between Vitoria and the <a href="/wiki/United_States" title="United States">United States</a> (<a href="/wiki/Miami" title="Miami">Miami</a>) began operating to Vitória, facilitating imports to the state of <a href="/wiki/Esp%C3%ADrito_Santo" title="Espírito Santo">Espírito Santo</a>. Today there are five such flights a week.</p>
+<h3><span class="mw-headline" id="Public_Transportation">Public Transportation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=14" title="Edit section: Public Transportation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Vitoria has two urban transportation systems.</p>
+<ul>
+<li>The first one, which only works in the city, known by the locals as "verdinhos" because the colors of the bus, the municipal fleet is divided into three bus companies operating 52 conventional lines and 2 selective lines with air conditioning. The passages payment system is electronic ticketing and has service in all districts of the city.</li>
+<li>Transcol system, linking the capital to other cities of Vitoria, and the lines run along major corridors such as Victoria Av and Beira Mar Av. Some neighborhoods of the city, get out of the axes of the main avenues have specific lines, as Jardim Camburi, which is linked to the Carapina Terminal and Laranjeiras, in the municipality of Serra, through 800 and the Grande Sao Pedro and Grande Santo Antonio line, which are served by lines 518 and 535 and connected to Ibes terminals (Vila Velha) Jardim America (Cariacica), Campo Grande (Cariacica) and Carapina (Serra). It features integration system through bus terminals that are scattered strategic points of the metropolitan area. The state capital, however, no longer has the Transcol system terminals since the extinction of the Terminal Don Bosco in 2009.</li>
+</ul>
+<h2><span class="mw-headline" id="Airlines_and_destinations">Airlines and destinations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=15" title="Edit section: Airlines and destinations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable" style="font-size:95%">
+<tr>
+<th>Airlines</th>
+<th class="unsortable">Destinations</th>
+</tr>
+<tr>
+<td><a href="/wiki/Azul_Brazilian_Airlines" title="Azul Brazilian Airlines">Azul Brazilian Airlines</a></td>
+<td><a href="/wiki/Tancredo_Neves_International_Airport" title="Tancredo Neves International Airport">Belo Horizonte-Confins</a>, <a href="/wiki/Viracopos_International_Airport" title="Viracopos International Airport">Campinas-Viracopos</a>, <a href="/wiki/Recife_Airport" class="mw-redirect" title="Recife Airport">Recife</a>, <a href="/wiki/Salvador_da_Bahia_International_Airport" class="mw-redirect" title="Salvador da Bahia International Airport">Salvador da Bahia</a></td>
+</tr>
+<tr>
+<td>Azul Brazilian Airlines operated by <a href="/wiki/TRIP_Linhas_A%C3%A9reas" title="TRIP Linhas Aéreas">TRIP Linhas Aéreas</a></td>
+<td><a href="/wiki/Tancredo_Neves_International_Airport" title="Tancredo Neves International Airport">Belo Horizonte-Confins</a>, <a href="/wiki/Belo_Horizonte/Pampulha_%E2%80%93_Carlos_Drummond_de_Andrade_Airport" title="Belo Horizonte/Pampulha – Carlos Drummond de Andrade Airport">Belo Horizonte-Pampulha</a>, <a href="/wiki/Bras%C3%ADlia_Airport" class="mw-redirect" title="Brasília Airport">Brasília</a>, <a href="/wiki/Bartolomeu_Lysandro_Airport" title="Bartolomeu Lysandro Airport">Campos dos Goytacazes</a>, <a href="/wiki/Marechal_Rondon_International_Airport" title="Marechal Rondon International Airport">Cuiabá</a>, <a href="/wiki/Goi%C3%A2nia_Airport" class="mw-redirect" title="Goiânia Airport">Goiânia</a>, <a href="/wiki/Governador_Valadares_Airport" title="Governador Valadares Airport">Gov. Valadares</a>, <a href="/wiki/Ilh%C3%A9us_Jorge_Amado_Airport" title="Ilhéus Jorge Amado Airport">Ilhéus</a>, <a href="/wiki/Ipatinga_Airport" class="mw-redirect" title="Ipatinga Airport">Ipatinga</a>, <a href="/wiki/Maca%C3%A9_Airport" title="Macaé Airport">Macaé</a>, <a href="/wiki/Santos_Dumont_Airport" title="Santos Dumont Airport">Rio de Janeiro-Santos Dumont</a>, <a href="/wiki/Salvador_da_Bahia_International_Airport" class="mw-redirect" title="Salvador da Bahia International Airport">Salvador da Bahia</a>, <a href="/wiki/S%C3%A3o_Paulo-Guarulhos" class="mw-redirect" title="São Paulo-Guarulhos">São Paulo-Guarulhos</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Gol_Transportes_A%C3%A9reos" title="Gol Transportes Aéreos">Gol Airlines</a></td>
+<td><a href="/wiki/Boa_Vista_International_Airport" title="Boa Vista International Airport">Boa Vista</a>, <a href="/wiki/Tancredo_Neves_International_Airport" title="Tancredo Neves International Airport">Belo Horizonte-Confins</a>, <a href="/wiki/Bras%C3%ADlia_Airport" class="mw-redirect" title="Brasília Airport">Brasília</a>, <a href="/wiki/Viracopos_International_Airport" title="Viracopos International Airport">Campinas-Viracopos</a>, <a href="/wiki/Afonso_Pena_International_Airport" title="Afonso Pena International Airport">Curitiba-Afonso Pena</a>, <a href="/wiki/Goi%C3%A2nia_Airport" class="mw-redirect" title="Goiânia Airport">Goiânia</a>, <a href="/wiki/Juazeiro_do_Norte_Airport" title="Juazeiro do Norte Airport">Juazeiro do Norte</a>, <a href="/wiki/Recife_Airport" class="mw-redirect" title="Recife Airport">Recife</a>, <a href="/wiki/Rio_de_Janeiro-Gale%C3%A3o" class="mw-redirect" title="Rio de Janeiro-Galeão">Rio de Janeiro-Galeão</a>, <a href="/wiki/Santos_Dumont_Airport" title="Santos Dumont Airport">Rio de Janeiro-Santos Dumont</a>, <a href="/wiki/Salvador_da_Bahia_International_Airport" class="mw-redirect" title="Salvador da Bahia International Airport">Salvador da Bahia</a>, <a href="/wiki/S%C3%A3o_Paulo-Congonhas" class="mw-redirect" title="São Paulo-Congonhas">São Paulo-Congonhas</a>, <a href="/wiki/S%C3%A3o_Paulo-Guarulhos" class="mw-redirect" title="São Paulo-Guarulhos">São Paulo-Guarulhos</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/TAM_Airlines" class="mw-redirect" title="TAM Airlines">TAM Airlines</a></td>
+<td><a href="/wiki/Bras%C3%ADlia_Airport" class="mw-redirect" title="Brasília Airport">Brasília</a>, <a href="/wiki/Salgado_Filho_International_Airport" title="Salgado Filho International Airport">Porto Alegre</a>, <a href="/wiki/Rio_de_Janeiro-Gale%C3%A3o" class="mw-redirect" title="Rio de Janeiro-Galeão">Rio de Janeiro-Galeão</a>, <a href="/wiki/Santos_Dumont_Airport" title="Santos Dumont Airport">Rio de Janeiro-Santos Dumont</a>, <a href="/wiki/S%C3%A3o_Paulo-Congonhas" class="mw-redirect" title="São Paulo-Congonhas">São Paulo-Congonhas</a>, <a href="/wiki/S%C3%A3o_Paulo-Guarulhos" class="mw-redirect" title="São Paulo-Guarulhos">São Paulo-Guarulhos</a></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Es_ponte.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/13/Es_ponte.jpg/220px-Es_ponte.jpg" width="220" height="141" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/13/Es_ponte.jpg/330px-Es_ponte.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/13/Es_ponte.jpg/440px-Es_ponte.jpg 2x" data-file-width="479" data-file-height="308" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Es_ponte.jpg" class="internal" title="Enlarge"></a></div>
+Vitória's harbour entrance with the second tallest bridge in <a href="/wiki/Brazil" title="Brazil">Brazil</a> and Praia de Camburi in the background.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Vit%C3%B3ria,_Esp%C3%ADrito_Santo,_Brazil-12July2009.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Vit%C3%B3ria%2C_Esp%C3%ADrito_Santo%2C_Brazil-12July2009.jpg/220px-Vit%C3%B3ria%2C_Esp%C3%ADrito_Santo%2C_Brazil-12July2009.jpg" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Vit%C3%B3ria%2C_Esp%C3%ADrito_Santo%2C_Brazil-12July2009.jpg/330px-Vit%C3%B3ria%2C_Esp%C3%ADrito_Santo%2C_Brazil-12July2009.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Vit%C3%B3ria%2C_Esp%C3%ADrito_Santo%2C_Brazil-12July2009.jpg/440px-Vit%C3%B3ria%2C_Esp%C3%ADrito_Santo%2C_Brazil-12July2009.jpg 2x" data-file-width="1024" data-file-height="683" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Vit%C3%B3ria,_Esp%C3%ADrito_Santo,_Brazil-12July2009.jpg" class="internal" title="Enlarge"></a></div>
+Bay and bridge</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Highways">Highways</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=16" title="Edit section: Highways">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The main access roads are the <a href="/wiki/BR-101" title="BR-101">BR-101</a>, a motorway linking the Brazilian south and northeast with the Metropolitan Region of Greater Vitória, the BR-262 that connects the Central region with Vitória and the Rodovia do Sol (Sun Motorway) – ES-060 which links the local coastal regions.</p>
+<h3><span class="mw-headline" id="Ports">Ports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=17" title="Edit section: Ports">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The city has two ports: the Port of Vitória and the <a href="/w/index.php?title=Porto_do_Tubar%C3%A3o&amp;action=edit&amp;redlink=1" class="new" title="Porto do Tubarão (page does not exist)">Porto do Tubarão</a>.</p>
+<p>The <b>Porto de Vitória</b> is the most difficult port for ships to access in all of Brazil. The Bay of Vitória is extremely narrow, with stones and mountains that complicate the access by freighters and maritime cruisers to the docks. Ships, cars, and people all compete for space. There are restrictions on traffic, limiting the use of the port. Today the port is mostly used by cruise ships and for the repair of ships and oil platforms.</p>
+<p>The <b><a href="/wiki/Port_of_Tubar%C3%A3o" title="Port of Tubarão">Port of Tubarão</a></b> was designed in the 1960s by <a href="/wiki/Companhia_Vale_do_Rio_Doce" class="mw-redirect" title="Companhia Vale do Rio Doce">Companhia Vale do Rio Doce</a> when the Port of Vitória began showing signs of saturation. It has far easier access to the sea. From its opening in 1966, its capacity has gradually increased, reaching 80 million tonnes/year in the last decade. Although originally created to export iron ore, in recent years it has added silos for storing grains and soybean meal. The port is located at one end of Camburi Beach.</p>
+<h3><span class="mw-headline" id="Railways">Railways</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=18" title="Edit section: Railways">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Vitória-Minas Railway, which carries cargo from the Central Region, also carries passenger from Vitória to Belo Horizonte.</p>
+<h3><span class="mw-headline" id="Bridge">Bridge</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=19" title="Edit section: Bridge">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Deputy_Darcy_Castelo_de_Mendon%C3%A7a" class="mw-redirect" title="Deputy Darcy Castelo de Mendonça">Deputy Darcy Castelo de Mendonça</a> Bridge, also known as the <a href="/wiki/Third_Bridge" title="Third Bridge">Third Bridge</a> (Portuguese: Terceira Ponte), is the second tallest <a href="/wiki/Bridge" title="Bridge">bridge</a> in <a href="/wiki/Brazil" title="Brazil">Brazil</a>, connecting and reducing the distance between the cities of <a href="/wiki/Vila_Velha" title="Vila Velha">Vila Velha</a> and Vitória.</p>
+<h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=20" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Football">Football</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=21" title="Edit section: Football">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are four professional football teams in the city, <a href="/wiki/Rio_Branco_Atl%C3%A9tico_Clube" title="Rio Branco Atlético Clube">Rio Branco Atlético Clube</a>, usually known simply as Rio Branco, <a href="/wiki/Esp%C3%ADrito_Santo_Futebol_Clube" title="Espírito Santo Futebol Clube">Espírito Santo Futebol Clube</a>, usually known simply as Espírito Santo, Doze Futebol Clube, usually known simply as Doze, currently playing in <a href="/wiki/Campeonato_Capixaba" title="Campeonato Capixaba">Campeonato Capixaba</a> first level. And <a href="/wiki/Vit%C3%B3ria_Futebol_Clube_(ES)" title="Vitória Futebol Clube (ES)">Vitória Futebol Clube (ES)</a>, usually known simply as Vitória (or as Vitória-ES), currently playing in Campeonato Capixaba second level.</p>
+<h3><span class="mw-headline" id="Kitesurf">Kitesurf</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=22" title="Edit section: Kitesurf">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Nice place for the practice of kitesurfing. It has constant northeast wind and is safe as its inside the bay.</p>
+<h2><span class="mw-headline" id="Twin_towns_.E2.80.93_Sister_cities">Twin towns – Sister cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=23" title="Edit section: Twin towns – Sister cities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr valign="top">
+<td>
+<ul>
+<li><span class="flagicon"><a href="/wiki/Lebanon" title="Lebanon"><img alt="Lebanon" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/23px-Flag_of_Lebanon.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/35px-Flag_of_Lebanon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/45px-Flag_of_Lebanon.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <b><a href="/wiki/Beirut" title="Beirut">Beirut</a></b>, <a href="/wiki/Lebanon" title="Lebanon">Lebanon</a></li>
+<li><span class="flagicon"><a href="/wiki/Portugal" title="Portugal"><img alt="Portugal" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <b><a href="/wiki/Cascais" title="Cascais">Cascais</a></b>, <a href="/wiki/Portugal" title="Portugal">Portugal</a></li>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Dunkirk" title="Dunkirk">Dunkirk</a></b>, <a href="/wiki/France" title="France">France</a></li>
+<li><span class="flagicon"><a href="/wiki/Cuba" title="Cuba"><img alt="Cuba" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/23px-Flag_of_Cuba.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/35px-Flag_of_Cuba.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/46px-Flag_of_Cuba.svg.png 2x" data-file-width="800" data-file-height="400" /></a></span> <b><a href="/wiki/Havana" title="Havana">Havana</a></b>, <a href="/wiki/Cuba" title="Cuba">Cuba</a></li>
+<li><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <b><a href="/wiki/Mantua" title="Mantua">Mantua</a></b>, <a href="/wiki/Italy" title="Italy">Italy</a></li>
+<li><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <b><a href="/wiki/Miami" title="Miami">Miami</a></b>, <a href="/wiki/United_States" title="United States">United States</a></li>
+<li><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/%C5%8Cita,_%C5%8Cita" title="Ōita, Ōita">Ōita</a></b>, <a href="/wiki/Japan" title="Japan">Japan</a></li>
+<li><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <b><a href="/wiki/Vila_Velha" title="Vila Velha">Vila Velha</a></b>, <a href="/wiki/Brazil" title="Brazil">Brazil</a></li>
+<li><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <b><a href="/wiki/Vitoria-Gasteiz" title="Vitoria-Gasteiz">Vitoria-Gasteiz</a></b>, <a href="/wiki/Spain" title="Spain">Spain</a></li>
+<li><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Zhuhai" title="Zhuhai">Zhuhai</a></b>, <a href="/wiki/China" title="China">China</a><sup id="cite_ref-:0_4-0" class="reference"><a href="#cite_note-:0-4">[4]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <b><a href="/wiki/Qingdao" title="Qingdao">Qingdao</a></b>, <a href="/wiki/China" title="China">China</a><sup id="cite_ref-:0_4-1" class="reference"><a href="#cite_note-:0-4">[4]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <b><a href="/wiki/Mobile,_Alabama" title="Mobile, Alabama">Mobile, Alabama</a></b>, <a href="/wiki/United_States" title="United States">United States</a><sup id="cite_ref-:0_4-2" class="reference"><a href="#cite_note-:0-4">[4]</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Chile" title="Chile"><img alt="Chile" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/35px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/45px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <b><a href="/wiki/Iquique" title="Iquique">Iquique</a></b>, <a href="/wiki/Chile" title="Chile">Chile</a><sup id="cite_ref-:0_4-3" class="reference"><a href="#cite_note-:0-4">[4]</a></sup></li>
+</ul>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Main_sights">Main sights</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=24" title="Edit section: Main sights">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Vitoria-ES11.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Vitoria-ES11.jpg/220px-Vitoria-ES11.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Vitoria-ES11.jpg/330px-Vitoria-ES11.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Vitoria-ES11.jpg/440px-Vitoria-ES11.jpg 2x" data-file-width="1280" data-file-height="960" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Vitoria-ES11.jpg" class="internal" title="Enlarge"></a></div>
+Praia do Canto and Enseda do Suá.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Vitoria-ES9.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vitoria-ES9.jpg/220px-Vitoria-ES9.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vitoria-ES9.jpg/330px-Vitoria-ES9.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Vitoria-ES9.jpg/440px-Vitoria-ES9.jpg 2x" data-file-width="1280" data-file-height="960" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Vitoria-ES9.jpg" class="internal" title="Enlarge"></a></div>
+A view of Vitória.</div>
+</div>
+</div>
+<ul>
+<li><a href="/wiki/Penha_Convent" title="Penha Convent">Penha Convent</a> (<i>Convento da Penha</i>) - Although located in <a href="/wiki/Vila_Velha" title="Vila Velha">Vila Velha</a>, it is widely recognized as a city landmark.</li>
+<li><a href="/w/index.php?title=Carlos_Gomes_Theatre&amp;action=edit&amp;redlink=1" class="new" title="Carlos Gomes Theatre (page does not exist)">Carlos Gomes Theatre</a> (<i>Teatro Carlos Gomes</i>)</li>
+<li><a href="/w/index.php?title=The_Metropolitan_Cathedral&amp;action=edit&amp;redlink=1" class="new" title="The Metropolitan Cathedral (page does not exist)">The Metropolitan Cathedral</a> (<i>Catedral Metropolitana</i>)</li>
+<li><a href="/w/index.php?title=Old_Town_Houses&amp;action=edit&amp;redlink=1" class="new" title="Old Town Houses (page does not exist)">Old Town Houses</a> (<i>Cidade Velha</i>)</li>
+<li><a href="/w/index.php?title=Costa_Pereira_Square&amp;action=edit&amp;redlink=1" class="new" title="Costa Pereira Square (page does not exist)">Costa Pereira Square</a> (<i>Praça Costa Pereira</i>)</li>
+<li><a href="/w/index.php?title=The_Chapel_of_Santa_Luzia&amp;action=edit&amp;redlink=1" class="new" title="The Chapel of Santa Luzia (page does not exist)">The Chapel of Santa Luzia</a> (<i>Capela de Santa Luzia</i>)</li>
+<li><a href="/w/index.php?title=S%C3%A3o_Gon%C3%A7alo_Church&amp;action=edit&amp;redlink=1" class="new" title="São Gonçalo Church (page does not exist)">São Gonçalo Church</a> (<i>Igreja de São Gonçalo</i>)</li>
+<li><a href="/w/index.php?title=Anchieta_Palace&amp;action=edit&amp;redlink=1" class="new" title="Anchieta Palace (page does not exist)">Anchieta Palace</a> (<i>Palácio Anchieta</i>)</li>
+<li><a href="/w/index.php?title=Domingos_Martins_Palace&amp;action=edit&amp;redlink=1" class="new" title="Domingos Martins Palace (page does not exist)">Domingos Martins Palace</a> (<i>Palácio Domingos Martins</i>)</li>
+<li><a href="/w/index.php?title=The_Monastery_of_S%C3%A3o_Francisco&amp;action=edit&amp;redlink=1" class="new" title="The Monastery of São Francisco (page does not exist)">The Monastery of São Francisco</a> (<i>Monastério de São Francisco</i>)</li>
+<li><a href="/w/index.php?title=Ros%C3%A1rio_Church&amp;action=edit&amp;redlink=1" class="new" title="Rosário Church (page does not exist)">Rosário Church</a> (<i>Igreja do Rosário</i>)</li>
+<li><a href="/w/index.php?title=Santo_Ant%C3%B4nio_Sanctuary&amp;action=edit&amp;redlink=1" class="new" title="Santo Antônio Sanctuary (page does not exist)">Santo Antônio Sanctuary</a> (<i>Santuário de Santo Antônio</i>)</li>
+</ul>
+<h2><span class="mw-headline" id="Other_cities_in_the_greater_Vit.C3.B3ria_Metropolitan_Region">Other cities in the greater Vitória Metropolitan Region</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=25" title="Edit section: Other cities in the greater Vitória Metropolitan Region">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Vila_Velha" title="Vila Velha">Vila Velha</a></li>
+<li><a href="/wiki/Fund%C3%A3o,_Esp%C3%ADrito_Santo" title="Fundão, Espírito Santo">Fundão</a></li>
+<li><a href="/wiki/Guarapari" title="Guarapari">Guarapari</a></li>
+<li><a href="/wiki/Serra,_Esp%C3%ADrito_Santo" title="Serra, Espírito Santo">Serra</a></li>
+<li><a href="/wiki/Cariacica" title="Cariacica">Cariacica</a></li>
+<li><a href="/wiki/Viana,_Esp%C3%ADrito_Santo" title="Viana, Espírito Santo">Viana</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=26" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="http://www.sidra.ibge.gov.br/bda/tabela/listabl.asp?z=cd&amp;o=7&amp;i=P&amp;c=2094"><i>Síntese de Indicadores Sociais 2000</i></a> <span style="font-size:85%;">(PDF)</span> (in Portuguese). Vitória, Brazil: <a href="/wiki/Brazilian_Institute_of_Geography_and_Statistics" title="Brazilian Institute of Geography and Statistics">IBGE</a>. 2000. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/85-240-3919-1" title="Special:BookSources/85-240-3919-1">85-240-3919-1</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVit%C3%B3ria%2C+Esp%C3rito+Santo&amp;rft.btitle=S%C3ntese+de+Indicadores+Sociais+2000&amp;rft.date=2000&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.sidra.ibge.gov.br%2Fbda%2Ftabela%2Flistabl.asp%3Fz%3Dcd%26o%3D7%26i%3DP%26c%3D2094&amp;rft.isbn=85-240-3919-1&amp;rft.place=Vit%C3%B3ria%2C+Brazil&amp;rft.pub=IBGE&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.sidra.ibge.gov.br/bda/tabela/protabl.asp?c=2094&amp;z=cd&amp;o=7&amp;i=P">Religion in Vitória by IBGE</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.mext.go.jp/a_menu/shotou/clarinet/002/1338806.htm">過去に指定・認定していた在外教育施設</a>" (<a rel="nofollow" class="external text" href="http://www.webcitation.org/6VaP7xNWl">Archived</a> 2015-01-14 at <a href="/wiki/WebCite" title="WebCite">WebCite</a>). <a href="/wiki/Ministry_of_Education,_Culture,_Sports,_Science_and_Technology" title="Ministry of Education, Culture, Sports, Science and Technology">Ministry of Education, Culture, Sports, Science and Technology</a>. Retrieved on January 15, 2015. "ヴィトリア日本人学校 （小学部及び中学部） ブラジル国ヴィトリア"</span></li>
+<li id="cite_note-:0-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:0_4-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.vitoria.es.gov.br/prefeitura/redes-de-cidades">"Redes de Cidades&#160;:: Prefeitura&#160;:: Prefeitura de Vitória"</a>. <i>www.vitoria.es.gov.br</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-09-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVit%C3%B3ria%2C+Esp%C3rito+Santo&amp;rft.atitle=Redes+de+Cidades+%3A%3A+Prefeitura+%3A%3A+Prefeitura+de+Vit%C3%B3ria&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.vitoria.es.gov.br%2Fprefeitura%2Fredes-de-cidades&amp;rft.jtitle=www.vitoria.es.gov.br&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit&amp;section=27" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks mbox-small" style="padding:0.25em 0.5em 0.5em 0.75em;border:1px solid #aaa;background:#f9f9f9;">
+<tr>
+<td colspan="2" style="padding-bottom:0.75em;border-bottom:1px solid #aaa;text-align:center;">
+<div style="clear:both;">Find more about<br />
+<b>Vitória</b><br />
+at Wikipedia's <a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects">sister projects</a></div>
+</td>
+</tr>
+<tr style="height:25px;">
+<td style="padding-top:0.75em;"><a href="https://en.wiktionary.org/wiki/Special:Search/Vit%C3%B3ria" title="Search Wiktionary"><img alt="Search Wiktionary" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/25px-Wiktionary-logo-v2.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/38px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/50px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></a></td>
+<td style="padding-top:0.75em;"><a href="https://en.wiktionary.org/wiki/Special:Search/Vit%C3%B3ria" class="extiw" title="wikt:Special:Search/Vitória">Definitions</a> from Wiktionary</td>
+</tr>
+<tr style="height:25px;">
+<td><a href="https://commons.wikimedia.org/wiki/Special:Search/Vit%C3%B3ria" title="Search Commons"><img alt="Search Commons" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png" width="18" height="25" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/28px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/37px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></td>
+<td><a href="https://commons.wikimedia.org/wiki/Special:Search/Vit%C3%B3ria" class="extiw" title="c:Special:Search/Vitória">Media</a> from Commons</td>
+</tr>
+<tr style="height:25px;">
+<td><a href="https://en.wikinews.org/wiki/Special:Search/Vit%C3%B3ria" title="Search Wikinews"><img alt="Search Wikinews" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/25px-Wikinews-logo.svg.png" width="25" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/38px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/50px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a></td>
+<td><a href="https://en.wikinews.org/wiki/Special:Search/Vit%C3%B3ria" class="extiw" title="n:Special:Search/Vitória">News</a> from Wikinews</td>
+</tr>
+<tr style="height:25px;">
+<td><a href="https://en.wikiquote.org/wiki/Special:Search/Vit%C3%B3ria" title="Search Wikiquote"><img alt="Search Wikiquote" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/21px-Wikiquote-logo.svg.png" width="21" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/32px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/42px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></td>
+<td><a href="https://en.wikiquote.org/wiki/Special:Search/Vit%C3%B3ria" class="extiw" title="q:Special:Search/Vitória">Quotations</a> from Wikiquote</td>
+</tr>
+<tr style="height:25px;">
+<td><a href="https://en.wikisource.org/wiki/Special:Search/Vit%C3%B3ria" title="Search Wikisource"><img alt="Search Wikisource" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png" width="24" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/36px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/48px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></td>
+<td><a href="https://en.wikisource.org/wiki/Special:Search/Vit%C3%B3ria" class="extiw" title="s:Special:Search/Vitória">Texts</a> from Wikisource</td>
+</tr>
+<tr style="height:25px;">
+<td><a href="https://en.wikibooks.org/wiki/Special:Search/Vit%C3%B3ria" title="Search Wikibooks"><img alt="Search Wikibooks" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/25px-Wikibooks-logo.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/38px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/50px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></td>
+<td><a href="https://en.wikibooks.org/wiki/Special:Search/Vit%C3%B3ria" class="extiw" title="b:Special:Search/Vitória">Textbooks</a> from Wikibooks</td>
+</tr>
+<tr style="height:25px;">
+<td><a href="https://en.wikivoyage.org/wiki/Vit%C3%B3ria" title="Search Wikivoyage"><img alt="Search Wikivoyage" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/25px-Wikivoyage-Logo-v3-icon.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/38px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/50px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></td>
+<td><a href="https://en.wikivoyage.org/wiki/Vit%C3%B3ria" class="extiw" title="voy:Vitória">Travel guide</a> from Wikivoyage</td>
+</tr>
+<tr style="height:25px;">
+<td><a href="https://en.wikiversity.org/wiki/Special:Search/Vit%C3%B3ria" title="Search Wikiversity"><img alt="Search Wikiversity" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/25px-Wikiversity-logo-en.svg.png" width="25" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/38px-Wikiversity-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/50px-Wikiversity-logo-en.svg.png 2x" data-file-width="1000" data-file-height="900" /></a></td>
+<td><a href="https://en.wikiversity.org/wiki/Special:Search/Vit%C3%B3ria" class="extiw" title="v:Special:Search/Vitória">Learning resources</a> from Wikiversity</td>
+</tr>
+</table>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.vitoria.es.gov.br/">Vitória's Municipal Page (in Portuguese)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.vitoria.es.gov.br/turismo.php">Vitória's Government Page - Tourism</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.hotel-vitoria.com">Hotel bookings at Vitória (in Portuguese)</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080611095922/http://www.ibge.gov.br/cidadesat/default.php">IBGE statistics for many Brazilian cities (in Portuguese)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.agrogemeos.com.br/praia_do_canto.html">Images Google Maps of Vitória - ES</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.vitoria-es-brasil.com">Portal with Information about Vitória and Espírito Santo</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.omelhordevitoria.com.br">The Best of Vitória - Guide (in Portuguese)</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby="Links_to_related_articles" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:#e8e8ff;"><span style="float:left;width:6em">&#160;</span>
+<div id="Links_to_related_articles" style="font-size:114%">Links to related articles</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;font-size:114%;">
+<div style="padding:0px;">
+<div role="navigation" class="navbox" aria-labelledby="Capitals_of_Brazilian_states" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Capitals_of_Brazilian_states" title="Template:Capitals of Brazilian states"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Capitals_of_Brazilian_states" title="Template talk:Capitals of Brazilian states"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Capitals_of_Brazilian_states&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Capitals_of_Brazilian_states" style="font-size:114%"><a href="/wiki/List_of_capitals_in_Brazil" class="mw-redirect" title="List of capitals in Brazil">Capitals of</a> <a href="/wiki/States_of_Brazil" title="States of Brazil">Brazilian states</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div><small><a href="/wiki/Bras%C3%ADlia" title="Brasília">Brasília</a> (<a href="/wiki/Federal_District_(Brazil)" title="Federal District (Brazil)">DF</a>)</small></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Northern_Region,_Brazil" class="mw-redirect" title="Northern Region, Brazil">Northern</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bel%C3%A9m" title="Belém">Belém</a> (<a href="/wiki/Par%C3%A1" title="Pará">PA</a>)</li>
+<li><a href="/wiki/Boa_Vista,_Roraima" title="Boa Vista, Roraima">Boa Vista</a> (<a href="/wiki/Roraima" title="Roraima">RR</a>)</li>
+<li><a href="/wiki/Macap%C3%A1" title="Macapá">Macapá</a> (<a href="/wiki/Amap%C3%A1" title="Amapá">AP</a>)</li>
+<li><a href="/wiki/Manaus" title="Manaus">Manaus</a> (<a href="/wiki/Amazonas_(Brazilian_state)" title="Amazonas (Brazilian state)">AM</a>)</li>
+<li><a href="/wiki/Palmas,_Tocantins" title="Palmas, Tocantins">Palmas</a> (<a href="/wiki/Tocantins_(state)" class="mw-redirect" title="Tocantins (state)">TO</a>)</li>
+<li><a href="/wiki/Porto_Velho" title="Porto Velho">Porto Velho</a> (<a href="/wiki/Rond%C3%B4nia" title="Rondônia">RO</a>)</li>
+<li><a href="/wiki/Rio_Branco,_Acre" title="Rio Branco, Acre">Rio Branco</a> (<a href="/wiki/Acre_(state)" title="Acre (state)">AC</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Northeast_Region,_Brazil" title="Northeast Region, Brazil">Northeast</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aracaju" title="Aracaju">Aracaju</a> (<a href="/wiki/Sergipe" title="Sergipe">SE</a>)</li>
+<li><a href="/wiki/Fortaleza" title="Fortaleza">Fortaleza</a> (<a href="/wiki/Cear%C3%A1" title="Ceará">CE</a>)</li>
+<li><a href="/wiki/Jo%C3%A3o_Pessoa" class="mw-redirect" title="João Pessoa">João Pessoa</a> (<a href="/wiki/Para%C3%ADba" title="Paraíba">PB</a>)</li>
+<li><a href="/wiki/Macei%C3%B3" title="Maceió">Maceió</a> (<a href="/wiki/Alagoas" title="Alagoas">AL</a>)</li>
+<li><a href="/wiki/Natal,_Rio_Grande_do_Norte" title="Natal, Rio Grande do Norte">Natal</a> (<a href="/wiki/Rio_Grande_do_Norte" title="Rio Grande do Norte">RN</a>)</li>
+<li><a href="/wiki/Recife" title="Recife">Recife</a> (<a href="/wiki/Pernambuco" title="Pernambuco">PE</a>)</li>
+<li><a href="/wiki/Salvador,_Bahia" title="Salvador, Bahia">Salvador</a> (<a href="/wiki/Bahia" title="Bahia">BA</a>)</li>
+<li><a href="/wiki/S%C3%A3o_Lu%C3%ADs,_Maranh%C3%A3o" title="São Luís, Maranhão">São Luís</a> (<a href="/wiki/Maranh%C3%A3o" title="Maranhão">MA</a>)</li>
+<li><a href="/wiki/Teresina" title="Teresina">Teresina</a> (<a href="/wiki/Piau%C3%AD" title="Piauí">PI</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Central-West_Region,_Brazil" title="Central-West Region, Brazil">Center-West</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Campo_Grande" title="Campo Grande">Campo Grande</a> (<a href="/wiki/Mato_Grosso_do_Sul" title="Mato Grosso do Sul">MS</a>)</li>
+<li><a href="/wiki/Cuiab%C3%A1" title="Cuiabá">Cuiabá</a> (<a href="/wiki/Mato_Grosso" title="Mato Grosso">MT</a>)</li>
+<li><a href="/wiki/Goi%C3%A2nia" title="Goiânia">Goiânia</a> (<a href="/wiki/Goi%C3%A1s" title="Goiás">GO</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Southeast_Region,_Brazil" title="Southeast Region, Brazil">Southeast</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Belo_Horizonte" title="Belo Horizonte">Belo Horizonte</a> (<a href="/wiki/Minas_Gerais" title="Minas Gerais">MG</a>)</li>
+<li><a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a> (<a href="/wiki/Rio_de_Janeiro_(state)" title="Rio de Janeiro (state)">RJ</a>)</li>
+<li><a href="/wiki/S%C3%A3o_Paulo" title="São Paulo">São Paulo</a> (<a href="/wiki/S%C3%A3o_Paulo_(state)" title="São Paulo (state)">SP</a>)</li>
+<li><strong class="selflink">Vitória</strong> (<a href="/wiki/Esp%C3%ADrito_Santo" title="Espírito Santo">ES</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/Southern_Region,_Brazil" class="mw-redirect" title="Southern Region, Brazil">South</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Curitiba" title="Curitiba">Curitiba</a> (<a href="/wiki/Paran%C3%A1_(state)" title="Paraná (state)">PR</a>)</li>
+<li><a href="/wiki/Florian%C3%B3polis" title="Florianópolis">Florianópolis</a> (<a href="/wiki/Santa_Catarina_(state)" title="Santa Catarina (state)">SC</a>)</li>
+<li><a href="/wiki/Porto_Alegre" title="Porto Alegre">Porto Alegre</a> (<a href="/wiki/Rio_Grande_do_Sul" title="Rio Grande do Sul">RS</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="23px_Municipalities_of_Esp.C3.ADrito_Santo" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Municipalities_of_Esp%C3%ADrito_Santo" title="Template:Municipalities of Espírito Santo"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Municipalities_of_Esp%C3%ADrito_Santo" title="Template talk:Municipalities of Espírito Santo"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Municipalities_of_Esp%C3%ADrito_Santo&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="23px_Municipalities_of_Esp.C3.ADrito_Santo" style="font-size:114%"><a href="/wiki/File:Bandeira_do_Esp%C3%ADrito_Santo.svg" class="image"><img alt="Bandeira do Espírito Santo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/23px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png" width="23" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/35px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/46px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png 2x" data-file-width="2000" data-file-height="1400" /></a> <a href="/wiki/List_of_municipalities_in_Esp%C3%ADrito_Santo" title="List of municipalities in Espírito Santo">Municipalities of Espírito Santo</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>Capital: <b><strong class="selflink">Vitória</strong></b></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Mesoregion Central</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Afonso Cláudio</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Afonso_Cl%C3%A1udio" title="Afonso Cláudio">Afonso Cláudio</a></li>
+<li><a href="/wiki/Brejetuba" title="Brejetuba">Brejetuba</a></li>
+<li><a href="/wiki/Concei%C3%A7%C3%A3o_do_Castelo" title="Conceição do Castelo">Conceição do Castelo</a></li>
+<li><a href="/wiki/Domingos_Martins" title="Domingos Martins">Domingos Martins</a></li>
+<li><a href="/wiki/Laranja_da_Terra" title="Laranja da Terra">Laranja da Terra</a></li>
+<li><a href="/wiki/Marechal_Floriano" title="Marechal Floriano">Marechal Floriano</a></li>
+<li><a href="/wiki/Venda_Nova_do_Imigrante" title="Venda Nova do Imigrante">Venda Nova do Imigrante</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Guarapari</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alfredo_Chaves" title="Alfredo Chaves">Alfredo Chaves</a></li>
+<li><a href="/wiki/Anchieta,_Esp%C3%ADrito_Santo" title="Anchieta, Espírito Santo">Anchieta</a></li>
+<li><a href="/wiki/Guarapari" title="Guarapari">Guarapari</a></li>
+<li><a href="/wiki/Iconha" title="Iconha">Iconha</a></li>
+<li><a href="/wiki/Pi%C3%BAma" title="Piúma">Piúma</a></li>
+<li><a href="/wiki/Rio_Novo_do_Sul" title="Rio Novo do Sul">Rio Novo do Sul</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Santa Teresa</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Itagua%C3%A7u" title="Itaguaçu">Itaguaçu</a></li>
+<li><a href="/wiki/Itarana" title="Itarana">Itarana</a></li>
+<li><a href="/wiki/Santa_Leopoldina" title="Santa Leopoldina">Santa Leopoldina</a></li>
+<li><a href="/wiki/Santa_Maria_de_Jetib%C3%A1" title="Santa Maria de Jetibá">Santa Maria de Jetibá</a></li>
+<li><a href="/wiki/Santa_Teresa,_Esp%C3%ADrito_Santo" title="Santa Teresa, Espírito Santo">Santa Teresa</a></li>
+<li><a href="/wiki/S%C3%A3o_Roque_do_Cana%C3%A3" title="São Roque do Canaã">São Roque do Canaã</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Vitória</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cariacica" title="Cariacica">Cariacica</a></li>
+<li><a href="/wiki/Serra,_Esp%C3%ADrito_Santo" title="Serra, Espírito Santo">Serra</a></li>
+<li><a href="/wiki/Viana,_Esp%C3%ADrito_Santo" title="Viana, Espírito Santo">Viana</a></li>
+<li><a href="/wiki/Vila_Velha" title="Vila Velha">Vila Velha</a></li>
+<li><strong class="selflink">Vitória</strong></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class="navbox-image" rowspan="7" style="width:0%;padding:0px 0px 0px 2px">
+<div><a href="/wiki/File:Brazil_State_EspiritoSanto.svg" class="image"><img alt="Brazil State EspiritoSanto.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Brazil_State_EspiritoSanto.svg/130px-Brazil_State_EspiritoSanto.svg.png" width="130" height="127" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Brazil_State_EspiritoSanto.svg/195px-Brazil_State_EspiritoSanto.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Brazil_State_EspiritoSanto.svg/260px-Brazil_State_EspiritoSanto.svg.png 2x" data-file-width="702" data-file-height="687" /></a></div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Mesoregion Litoral Norte</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Linhares</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aracruz,_Esp%C3%ADrito_Santo" title="Aracruz, Espírito Santo">Aracruz</a></li>
+<li><a href="/wiki/Fund%C3%A3o,_Esp%C3%ADrito_Santo" title="Fundão, Espírito Santo">Fundão</a></li>
+<li><a href="/wiki/Ibira%C3%A7u" title="Ibiraçu">Ibiraçu</a></li>
+<li><a href="/wiki/Jo%C3%A3o_Neiva" title="João Neiva">João Neiva</a></li>
+<li><a href="/wiki/Linhares" title="Linhares">Linhares</a></li>
+<li><a href="/wiki/Rio_Bananal" title="Rio Bananal">Rio Bananal</a></li>
+<li><a href="/wiki/Sooretama" title="Sooretama">Sooretama</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Montanha</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Montanha,_Esp%C3%ADrito_Santo" title="Montanha, Espírito Santo">Montanha</a></li>
+<li><a href="/wiki/Mucurici" title="Mucurici">Mucurici</a></li>
+<li><a href="/wiki/Pinheiros,_Esp%C3%ADrito_Santo" title="Pinheiros, Espírito Santo">Pinheiros</a></li>
+<li><a href="/wiki/Ponto_Belo" title="Ponto Belo">Ponto Belo</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">São Mateus</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Concei%C3%A7%C3%A3o_da_Barra" title="Conceição da Barra">Conceição da Barra</a></li>
+<li><a href="/wiki/Jaguar%C3%A9" title="Jaguaré">Jaguaré</a></li>
+<li><a href="/wiki/Pedro_Can%C3%A1rio" title="Pedro Canário">Pedro Canário</a></li>
+<li><a href="/wiki/S%C3%A3o_Mateus,_Esp%C3%ADrito_Santo" title="São Mateus, Espírito Santo">São Mateus</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Mesoregion Noroeste</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Barra de São Francisco</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%C3%81gua_Doce_do_Norte" title="Água Doce do Norte">Água Doce do Norte</a></li>
+<li><a href="/wiki/Barra_de_S%C3%A3o_Francisco" title="Barra de São Francisco">Barra de São Francisco</a></li>
+<li><a href="/wiki/Ecoporanga,_Esp%C3%ADrito_Santo" title="Ecoporanga, Espírito Santo">Ecoporanga</a></li>
+<li><a href="/wiki/Manten%C3%B3polis" title="Mantenópolis">Mantenópolis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Colatina</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alto_Rio_Novo" title="Alto Rio Novo">Alto Rio Novo</a></li>
+<li><a href="/wiki/Baixo_Guandu" title="Baixo Guandu">Baixo Guandu</a></li>
+<li><a href="/wiki/Colatina" title="Colatina">Colatina</a></li>
+<li><a href="/wiki/Governador_Lindenberg" title="Governador Lindenberg">Governador Lindenberg</a></li>
+<li><a href="/wiki/Maril%C3%A2ndia" title="Marilândia">Marilândia</a></li>
+<li><a href="/wiki/Pancas" title="Pancas">Pancas</a></li>
+<li><a href="/wiki/S%C3%A3o_Domingos_do_Norte" title="São Domingos do Norte">São Domingos do Norte</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Nova Venécia</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/%C3%81guia_Branca" title="Águia Branca">Águia Branca</a></li>
+<li><a href="/wiki/Boa_Esperan%C3%A7a,_Esp%C3%ADrito_Santo" title="Boa Esperança, Espírito Santo">Boa Esperança</a></li>
+<li><a href="/wiki/Nova_Ven%C3%A9cia" title="Nova Venécia">Nova Venécia</a></li>
+<li><a href="/wiki/S%C3%A3o_Gabriel_da_Palha" title="São Gabriel da Palha">São Gabriel da Palha</a></li>
+<li><a href="/wiki/Vila_Pav%C3%A3o" title="Vila Pavão">Vila Pavão</a></li>
+<li><a href="/wiki/Vila_Val%C3%A9rio" title="Vila Valério">Vila Valério</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Mesoregion Sul</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Alegre</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alegre,_Esp%C3%ADrito_Santo" title="Alegre, Espírito Santo">Alegre</a></li>
+<li><a href="/wiki/Divino_de_S%C3%A3o_Louren%C3%A7o" title="Divino de São Lourenço">Divino de São Lourenço</a></li>
+<li><a href="/wiki/Dores_do_Rio_Preto" title="Dores do Rio Preto">Dores do Rio Preto</a></li>
+<li><a href="/wiki/Gua%C3%A7u%C3%AD" title="Guaçuí">Guaçuí</a></li>
+<li><a href="/wiki/Ibatiba" title="Ibatiba">Ibatiba</a></li>
+<li><a href="/wiki/Ibitirama" title="Ibitirama">Ibitirama</a></li>
+<li><a href="/wiki/Irupi" title="Irupi">Irupi</a></li>
+<li><a href="/wiki/I%C3%BAna" title="Iúna">Iúna</a></li>
+<li><a href="/wiki/Muniz_Freire,_Esp%C3%ADrito_Santo" title="Muniz Freire, Espírito Santo">Muniz Freire</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Cachoeiro de Itapemirim</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Apiac%C3%A1,_Esp%C3%ADrito_Santo" title="Apiacá, Espírito Santo">Apiacá</a></li>
+<li><a href="/wiki/At%C3%ADlio_Vivacqua" title="Atílio Vivacqua">Atílio Vivacqua</a></li>
+<li><a href="/wiki/Bom_Jesus_do_Norte" title="Bom Jesus do Norte">Bom Jesus do Norte</a></li>
+<li><a href="/wiki/Cachoeiro_de_Itapemirim" title="Cachoeiro de Itapemirim">Cachoeiro de Itapemirim</a></li>
+<li><a href="/wiki/Castelo,_Esp%C3%ADrito_Santo" title="Castelo, Espírito Santo">Castelo</a></li>
+<li><a href="/wiki/Jer%C3%B4nimo_Monteiro" title="Jerônimo Monteiro">Jerônimo Monteiro</a></li>
+<li><a href="/wiki/Mimoso_do_Sul" title="Mimoso do Sul">Mimoso do Sul</a></li>
+<li><a href="/wiki/Muqui,_Esp%C3%ADrito_Santo" title="Muqui, Espírito Santo">Muqui</a></li>
+<li><a href="/wiki/S%C3%A3o_Jos%C3%A9_do_Cal%C3%A7ado" title="São José do Calçado">São José do Calçado</a></li>
+<li><a href="/wiki/Vargem_Alta" title="Vargem Alta">Vargem Alta</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="padding-left:0;padding-right:0;">
+<div style="padding:0em 0.75em;">Itapemirim</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Itapemirim,_Esp%C3%ADrito_Santo" title="Itapemirim, Espírito Santo">Itapemirim</a></li>
+<li><a href="/wiki/Marata%C3%ADzes" title="Marataízes">Marataízes</a></li>
+<li><a href="/wiki/Presidente_Kennedy,_Esp%C3%ADrito_Santo" title="Presidente Kennedy, Espírito Santo">Presidente Kennedy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Vit%C3%B3ria%2C_Esp%C3%ADrito_Santo&amp;params=20_19_08_S_40_20_16_W_scale:75000"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">20°19′08″S</span> <span class="longitude">40°20′16″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">20.31889°S 40.33778°W</span><span style="display:none">﻿ / <span class="geo">-20.31889; -40.33778</span></span></span></a></span></span></span></div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:629204-0!*!0!!en!4!* and timestamp 20161012124057 and revision id 740775941
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Vitória,_Espírito_Santo&amp;oldid=740775941">https://en.wikipedia.org/w/index.php?title=Vitória,_Espírito_Santo&amp;oldid=740775941</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Vit%C3%B3ria,_Esp%C3%ADrito_Santo" title="Category:Vitória, Espírito Santo">Vitória, Espírito Santo</a></li><li><a href="/wiki/Category:1551_establishments_in_the_Portuguese_Empire" title="Category:1551 establishments in the Portuguese Empire">1551 establishments in the Portuguese Empire</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Portuguese-language_sources_(pt)" title="Category:CS1 Portuguese-language sources (pt)">CS1 Portuguese-language sources (pt)</a></li><li><a href="/wiki/Category:Settlement_articles_requiring_maintenance" title="Category:Settlement articles requiring maintenance">Settlement articles requiring maintenance</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Vit%C3%B3ria%2C+Esp%C3%ADrito+Santo" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Vit%C3%B3ria%2C+Esp%C3%ADrito+Santo" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Vit%C3%B3ria,_Esp%C3%ADrito_Santo"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Vit%C3%B3ria,_Esp%C3%ADrito_Santo"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Vit%C3%B3ria,_Esp%C3%ADrito_Santo" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Vit%C3%B3ria,_Esp%C3%ADrito_Santo" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Vit%C3%B3ria,_Esp%C3%ADrito_Santo" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;oldid=740775941" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q168376" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Vit%C3%B3ria%2C_Esp%C3%ADrito_Santo&amp;id=740775941" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Vit%C3%B3ria%2C+Esp%C3%ADrito+Santo">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Vit%C3%B3ria%2C+Esp%C3%ADrito+Santo&amp;returnto=Vit%C3%B3ria%2C+Esp%C3%ADrito+Santo&amp;oldid=740775941&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Vit%C3%B3ria_(Esp%C3%ADrito_Santo)" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Vit%C3%B3ria" hreflang="en">Wikivoyage</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D8%AA%D9%88%D8%B1%D9%8A%D8%A7%D8%8C_%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%B2%D9%8A%D9%84" title="فيتوريا، البرازيل – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Guarani" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="ভিতরিয়া – Bengali" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B0%D0%B4_%D0%92%D1%96%D1%82%D0%BE%D1%80%D1%8B%D1%8F,_%D0%91%D1%80%D0%B0%D0%B7%D1%96%D0%BB%D1%96%D1%8F" title="Горад Віторыя, Бразілія – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%92%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_(%D0%95%D1%81%D0%BF%D0%B8%D1%80%D0%B8%D1%82%D0%BE_%D0%A1%D0%B0%D0%BD%D1%82%D0%BE)" title="Витория (Еспирито Санто) – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Vit%C3%B3ria_(Esp%C3%ADrito_Santo)" title="Vitória (Espírito Santo) – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Vit%C3%B3ria_(Esp%C3%ADrito_Santo)" title="Vitória (Espírito Santo) – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Vit%C3%B3ria_(kapital_sa_estado)" title="Vitória (kapital sa estado) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%92%CE%B9%CF%84%CF%8C%CF%81%CE%B9%CE%B1_(%CE%92%CF%81%CE%B1%CE%B6%CE%B9%CE%BB%CE%AF%CE%B1)" title="Βιτόρια (Βραζιλία) – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-eml"><a href="https://eml.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Emiliano-Romagnolo" lang="eml" hreflang="eml" class="interlanguage-link-target">Emiliàn e rumagnòl</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Vit%C3%B3ria_(Esp%C3%ADrito_Santo)" title="Vitória (Espírito Santo) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Vit%C3%B3ria_(Espirito-Santo)" title="Vitória (Espirito-Santo) – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Vit%C3%B3ria_(Brasil)" title="Vitória (Brasil) – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%D8%AA%D9%88%D8%B1%DB%8C%D8%A7%D8%8C_%D8%A7%D8%B3%D9%BE%D8%B1%DB%8C%D8%AA%D9%88_%D8%B3%D8%A7%D9%86%D8%AA%D8%A7" title="ویتوریا، اسپریتو سانتا – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Vit%C3%B3ria_(Esp%C3%ADrito_Santo)" title="Vitória (Espírito Santo) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Vit%C3%B3ria,_Esp%C3%ADrito_Santo" title="Vitória, Espírito Santo – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B9%84%ED%86%A0%EB%A6%AC%EC%95%84_(%EB%B8%8C%EB%9D%BC%EC%A7%88)" title="비토리아 (브라질) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Vit%C3%B3ria_(Esp%C3%ADrito_Santo)" title="Vitória (Espírito Santo) – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%AD%E0%A6%BF%E0%A6%9F%E0%A7%8B%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="ভিটোরিয়া – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Vit%C3%B3ria_(citate)" title="Vitória (citate) – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%D0%92%D0%B8%D1%82%D0%BE%D1%80%D0%B8_(%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8)" title="Витори (Бразили) – Ossetic" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%98%D7%95%D7%A8%D7%99%D7%94_(%D7%91%D7%A8%D7%96%D7%99%D7%9C)" title="ויטוריה (ברזיל) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%95%E1%83%98%E1%83%A2%E1%83%9D%E1%83%A0%E1%83%98%E1%83%90_(%E1%83%91%E1%83%A0%E1%83%90%E1%83%96%E1%83%98%E1%83%9A%E1%83%98%E1%83%90)" title="ვიტორია (ბრაზილია) – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Vit%C3%B3ria,_Esp%C3%ADrito_Santo" title="Vitória, Espírito Santo – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Vitorija_(Brazilija)" title="Vitorija (Brazilija) – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Vit%C3%B3ria_(gemeente)" title="Vitória (gemeente) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%88%E3%83%BC%E3%83%AA%E3%82%A2_(%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB)" title="ヴィトーリア (ブラジル) – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Vit%C3%B3ria_(Brasil)" title="Vitória (Brasil) – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%88%DB%8C%D8%AA%D9%88%D8%B1%DB%8C%D8%A7" title="ویتوریا – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Vit%C3%B3ria_(Esp%C3%ADrito_Santo)" title="Vitória (Espírito Santo) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F_(%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F)" title="Витория (Бразилия) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Vit%C3%B3ria,_Esp%C3%ADrito_Santo" title="Vitória, Espírito Santo – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Vit%C3%B3ria,_Esp%C3%ADrito_Santo" title="Vitória, Espírito Santo – Simple English" lang="simple" hreflang="simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Vit%C3%B3ria_(Braz%C3%ADlia)" title="Vitória (Brazília) – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%92%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%98%D0%B0_(%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB)" title="Виторија (Бразил) – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tet"><a href="https://tet.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B5%E0%B8%95%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2" title="วีตอเรีย – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%92%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F" title="Витория – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Vit%C3%B3ria,_Brezilya" title="Vitória, Brezilya – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D1%82%D0%BE%D1%80%D1%96%D1%8F_(%D0%95%D1%81%D0%BF%D1%96%D1%80%D1%96%D1%82%D1%83-%D0%A1%D0%B0%D0%BD%D1%82%D1%83)" title="Віторія (Еспіріту-Санту) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%88%DB%8C%D8%AA%D9%88%D8%B1%DB%8C%D8%A7%D8%8C_%D8%A7%D8%B3%D9%BE%DB%8C%D8%B1%DB%8C%D8%AA%D9%88_%D8%B3%D8%A7%D9%86%D8%AA%D9%88" title="ویتوریا، اسپیریتو سانتو – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Vit%C3%B3ria,_Brasil" title="Vitória, Brasil – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Vit%C3%B3ria" title="Vitória – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Vit%C3%B3ria,_Esp%C3%ADrito_Santo" title="Vitória, Espírito Santo – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A_(%E5%B7%B4%E8%A5%BF)" title="维多利亚 (巴西) – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q168376#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 23 September 2016, at 06:12.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Vit%C3%B3ria,_Esp%C3%ADrito_Santo&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.644",
+            "walltime": "0.776",
+            "ppvisitednodes": {
+                "value": 7444,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 212355,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 39070,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 23,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 2,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  552.487      1 -total",
+                " 36.96%  204.213      1 Template:Infobox_settlement",
+                " 27.09%  149.671      2 Template:Infobox",
+                " 17.59%   97.164      1 Template:Navboxes",
+                " 13.96%   77.151      6 Template:Navbox",
+                " 11.87%   65.603      1 Template:Reflist",
+                "  9.76%   53.908     13 Template:Convert",
+                "  8.48%   46.853      1 Template:Municipalities_of_Espírito_Santo",
+                "  7.92%   43.740     13 Template:Flagicon",
+                "  6.84%   37.787      1 Template:Cite_book"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.173",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 5424028,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1184",
+            "timestamp": "20161012124057",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1271"});});</script>
+	</body>
+</html>

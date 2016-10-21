@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cañete Province - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Cañete_Province","wgTitle":"Cañete Province","wgCurRevisionId":684503107,"wgRevisionId":684503107,"wgArticleId":1450431,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Spanish-language text","Articles with Spanish-language external links","Provinces of the Lima Region","Provinces of Peru","Coordinates on Wikidata","All stub articles","Lima Region geography stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cañete_Province","wgRelevantArticleId":1450431,"wgRequestId":"WApr3ApAMEwAAB-C7AQAAAAG","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":-13.078474,"lon":-76.383905},"wgWikibaseItemId":"Q1431156","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.ReferenceTooltips%2Cfeatured-articles-links%2Cteahouse%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.22"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ca%C3%B1ete_Province"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ca%C3%B1ete_Province&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ca%C3%B1ete_Province&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ca%C3%B1ete_Province"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Cañete_Province rootpage-Cañete_Province skin-vector action-view feature-footer-v2">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Cañete Province</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox geography vcard" style="width:22em;width:23em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><span class="fn org">Cañete</span></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><span class="category">Province</span></td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" class="maptable" style="text-align:center">
+<table style="width:100%; background:none;">
+<tr>
+<td style="vertical-align:middle; text-align:center;"><a href="/wiki/File:COA_Ca%C3%B1ete_Province_in_Lima_Region.png" class="image" title="Coat of arms of Cañete"><img alt="Coat of arms of Cañete" src="//upload.wikimedia.org/wikipedia/en/thumb/4/46/COA_Ca%C3%B1ete_Province_in_Lima_Region.png/100px-COA_Ca%C3%B1ete_Province_in_Lima_Region.png" width="100" height="95" srcset="//upload.wikimedia.org/wikipedia/en/4/46/COA_Ca%C3%B1ete_Province_in_Lima_Region.png 1.5x" data-file-width="142" data-file-height="135" /></a><br />
+<small><b>Coat of arms</b></small></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="mergedtoprow">
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Location_of_the_province_Ca%C3%B1ete_in_Lima.png" class="image" title="Location of Cañete in the Lima Region"><img alt="Location of Cañete in the Lima Region" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Location_of_the_province_Ca%C3%B1ete_in_Lima.png/250px-Location_of_the_province_Ca%C3%B1ete_in_Lima.png" width="250" height="328" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Location_of_the_province_Ca%C3%B1ete_in_Lima.png/375px-Location_of_the_province_Ca%C3%B1ete_in_Lima.png 1.5x, //upload.wikimedia.org/wikipedia/commons/5/5f/Location_of_the_province_Ca%C3%B1ete_in_Lima.png 2x" data-file-width="491" data-file-height="645" /></a><br />
+<small>Location of Cañete in the <a href="/wiki/Lima_Region" title="Lima Region">Lima</a> Region</small></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Country</th>
+<td><a href="/wiki/Peru" title="Peru">Peru</a></td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">Region</th>
+<td><a href="/wiki/Lima_Region" title="Lima Region">Lima</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Capital</th>
+<td><a href="/wiki/San_Vicente_de_Ca%C3%B1ete" title="San Vicente de Cañete">San Vicente de Cañete</a></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Government</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Mayor</th>
+<td>Alexander Julio Bazán Guzmán <small>(2015-2018)</small></td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Area</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>4,577.16&#160;km<sup>2</sup> (1,767.25&#160;sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th colspan="2" style="text-align:center;text-align:left">Population</th>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Total</th>
+<td>191,409</td>
+</tr>
+<tr class="mergedrow">
+<th scope="row">&#160;•&#160;Density</th>
+<td>42/km<sup>2</sup> (110/sq&#160;mi)</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row"><a href="/wiki/UBIGEO" title="UBIGEO">UBIGEO</a></th>
+<td>1505</td>
+</tr>
+<tr class="mergedtoprow">
+<th scope="row">Website</th>
+<td><a rel="nofollow" class="external text" href="http://www.municanete.gob.pe">www.municanete.gob.pe</a></td>
+</tr>
+</table>
+<p><b>Cañete</b> is a <a href="/wiki/Province" title="Province">province</a> located in southern <a href="/wiki/Lima_Region" title="Lima Region">Lima Region</a>, <a href="/wiki/Peru" title="Peru">Peru</a>. It is bordered by the <a href="/wiki/Lima_Province" title="Lima Province">Lima Province</a> on the north, the <a href="/wiki/Ica_Region" title="Ica Region">Ica Region</a> on the south, the <a href="/wiki/Huarochir%C3%AD_Province" title="Huarochirí Province">Huarochirí</a> and <a href="/wiki/Yauyos_Province" title="Yauyos Province">Yauyos</a> provinces on the east, and the <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a> on the west. Its capital is the town of <a href="/wiki/San_Vicente_de_Ca%C3%B1ete_District" title="San Vicente de Cañete District">San Vicente de Cañete District</a>. San Luis is the Capital of the <a href="/wiki/Afro-Peruvian" title="Afro-Peruvian">Afro-Peruvian</a> <a href="/wiki/Folklore" title="Folklore">Folklore</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Climate"><span class="tocnumber">1</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Political_division"><span class="tocnumber">2</span> <span class="toctext">Political division</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Attractions"><span class="tocnumber">3</span> <span class="toctext">Attractions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ca%C3%B1ete_Province&amp;action=edit&amp;section=1" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The weather of the province's coastal area has two well-defined seasons:</p>
+<ul>
+<li>The sunny season, with temperatures of around 30&#160;°C (86.4&#160;°F), during daytime.</li>
+<li>The "sunless" season (May–December), during which the sun is covered by clouds. The extreme <a href="/wiki/Humidity" title="Humidity">humidity</a> causes a sensation of cold during this season, even if the temperature never gets lower than 11&#160;°C (51.8&#160;°F).</li>
+</ul>
+<h2><span class="mw-headline" id="Political_division">Political division</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ca%C3%B1ete_Province&amp;action=edit&amp;section=2" title="Edit section: Political division">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The province is divided into sixteen <a href="/wiki/District" title="District">districts</a> (<a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>: <span lang="es" xml:lang="es"><i>distritos</i></span>, singular: <i>distrito</i>):</p>
+<ul>
+<li><a href="/wiki/San_Vicente_de_Ca%C3%B1ete_District" title="San Vicente de Cañete District">San Vicente de Cañete</a> (seat)</li>
+<li><a href="/wiki/Asia_District,_Peru" title="Asia District, Peru">Asia</a></li>
+<li><a href="/wiki/Calango_District" title="Calango District">Calango</a></li>
+<li><a href="/wiki/Cerro_Azul_District" title="Cerro Azul District">Cerro Azul</a></li>
+<li><a href="/wiki/Chilca_District,_Ca%C3%B1ete" title="Chilca District, Cañete">Chilca</a></li>
+<li><a href="/wiki/Coayllo_District" title="Coayllo District">Coayllo</a></li>
+<li><a href="/wiki/Imperial_District" title="Imperial District">Imperial</a></li>
+<li><a href="/wiki/Lunahuan%C3%A1_District" title="Lunahuaná District">Lunahuaná</a></li>
+<li><a href="/wiki/Mala_District" title="Mala District">Mala</a></li>
+<li><a href="/wiki/Nuevo_Imperial_District" title="Nuevo Imperial District">Nuevo Imperial</a></li>
+<li><a href="/wiki/Pacar%C3%A1n_District" title="Pacarán District">Pacarán</a></li>
+<li><a href="/wiki/Quilman%C3%A1_District" title="Quilmaná District">Quilmaná</a></li>
+<li><a href="/wiki/San_Antonio_District,_Ca%C3%B1ete" title="San Antonio District, Cañete">San Antonio</a></li>
+<li><a href="/wiki/San_Luis_District,_Ca%C3%B1ete" title="San Luis District, Cañete">San Luis</a></li>
+<li><a href="/wiki/Santa_Cruz_de_Flores_District" title="Santa Cruz de Flores District">Santa Cruz de Flores</a></li>
+<li><a href="/wiki/Z%C3%BA%C3%B1iga_District" title="Zúñiga District">Zúñiga</a></li>
+</ul>
+<h2><span class="mw-headline" id="Attractions">Attractions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ca%C3%B1ete_Province&amp;action=edit&amp;section=3" title="Edit section: Attractions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ca%C3%B1ete_River_May_2012.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ab/Ca%C3%B1ete_River_May_2012.jpg/220px-Ca%C3%B1ete_River_May_2012.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ab/Ca%C3%B1ete_River_May_2012.jpg/330px-Ca%C3%B1ete_River_May_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ab/Ca%C3%B1ete_River_May_2012.jpg/440px-Ca%C3%B1ete_River_May_2012.jpg 2x" data-file-width="3648" data-file-height="2736" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:Ca%C3%B1ete_River_May_2012.jpg" class="internal" title="Enlarge"></a></div>
+Cañete River</div>
+</div>
+</div>
+<p>The coast of Cañete, with beaches such as Asia, Chilca, Puerto Viejo, León Dormido,Costa del Campo, Totoritas, Chocaya, Chepeconde, Puerto Fiel, Gallardo and Cerro Azul, is one of the province's main touristic attractions. The pleasant valley of <a href="/wiki/Lunahuan%C3%A1" title="Lunahuaná">Lunahuaná</a>, a paradise for adventure sports lovers, is just half an hour from San Vicente de Cañete. The main attraction is the fast running <a href="/w/index.php?title=Ca%C3%B1ete_River&amp;action=edit&amp;redlink=1" class="new" title="Cañete River (page does not exist)">Cañete River</a>, which features <a href="/wiki/Rapids" title="Rapids">rapids</a> up to Class IV. Each year, the valley hosts a festival involving rafting, trekking, gliding, mountain biking and fishing competitions. There are a few annual festivals in Cañete. The most important ones are Festival of <a href="/wiki/Musica_negra" class="mw-redirect" title="Musica negra">Black Art</a> in late August and Adventure Sports Festival in Lunahuaná, held in February.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ca%C3%B1ete_Province&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Afro-Peruvian" title="Afro-Peruvian">Afro-Peruvian</a></li>
+<li><a href="/wiki/Inka_Wasi,_Lima" title="Inka Wasi, Lima">Inka Wasi</a></li>
+<li><a href="/wiki/Musica_negra" class="mw-redirect" title="Musica negra">Musica Negra</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ca%C3%B1ete_Province&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(Spanish)</span> <a rel="nofollow" class="external text" href="http://www.municanete.gob.pe">Official website of the Cañete province</a></li>
+</ul>
+<div role="navigation" class="navbox" aria-labelledby=".2A_25px.7CFlag_of_Peru.0A.2A_Provinces_of_Lima_Region.0A.2A_Peru" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Provinces_of_Lima_Region" title="Template:Provinces of Lima Region"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Provinces_of_Lima_Region" title="Template talk:Provinces of Lima Region"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Provinces_of_Lima_Region&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id=".2A_25px.7CFlag_of_Peru.0A.2A_Provinces_of_Lima_Region.0A.2A_Peru" style="font-size:114%">
+<ul>
+<li><a href="/wiki/File:Flag_of_Peru_(state).svg" class="image" title="Flag of Peru"><img alt="Flag of Peru" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/25px-Flag_of_Peru_%28state%29.svg.png" width="25" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/38px-Flag_of_Peru_%28state%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/50px-Flag_of_Peru_%28state%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></li>
+<li>Provinces of <a href="/wiki/Lima_Region" title="Lima Region">Lima Region</a></li>
+<li><a href="/wiki/Peru" title="Peru">Peru</a></li>
+</ul>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barranca_Province" title="Barranca Province">Barranca</a></li>
+<li><a href="/wiki/Cajatambo_Province" title="Cajatambo Province">Cajatambo</a></li>
+<li><strong class="selflink">Cañete</strong></li>
+<li><a href="/wiki/Canta_Province" title="Canta Province">Canta</a></li>
+<li><a href="/wiki/Huaral_Province" title="Huaral Province">Huaral</a></li>
+<li><a href="/wiki/Huarochir%C3%AD_Province" title="Huarochirí Province">Huarochirí</a></li>
+<li><a href="/wiki/Huaura_Province" title="Huaura Province">Huaura</a></li>
+<li><a href="/wiki/Oy%C3%B3n_Province" title="Oyón Province">Oyón</a></li>
+<li><a href="/wiki/Yauyos_Province" title="Yauyos Province">Yauyos</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p><br />
+<span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Ca%C3%B1ete_Province&amp;params=13.078474_S_76.383905_W_type:adm2nd_source:itwiki"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">13°04′43″S</span> <span class="longitude">76°23′02″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">13.078474°S 76.383905°W</span><span style="display:none">﻿ / <span class="geo">-13.078474; -76.383905</span></span></span></a></span></span></span></p>
+<p><br /></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a href="/wiki/File:Location_of_Lima_Provincias_region.png" class="image"><img alt="Stub icon 2" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Location_of_Lima_Provincias_region.png/20px-Location_of_Lima_Provincias_region.png" width="20" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Location_of_Lima_Provincias_region.png/30px-Location_of_Lima_Provincias_region.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Location_of_Lima_Provincias_region.png/40px-Location_of_Lima_Provincias_region.png 2x" data-file-width="238" data-file-height="347" /></a></td>
+<td><i>This <a href="/wiki/Lima_Region" title="Lima Region">Lima Region</a> <a href="/wiki/Geography" title="Geography">geography</a> article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Ca%C3%B1ete_Province&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:LimaRegion-geo-stub" title="Template:LimaRegion-geo-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:LimaRegion-geo-stub" title="Template talk:LimaRegion-geo-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:LimaRegion-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1450431-0!*!0!!en!4!* and timestamp 20161013015410 and revision id 684503107
+ -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");});</script><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cañete_Province&amp;oldid=684503107">https://en.wikipedia.org/w/index.php?title=Cañete_Province&amp;oldid=684503107</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Provinces_of_the_Lima_Region" title="Category:Provinces of the Lima Region">Provinces of the Lima Region</a></li><li><a href="/wiki/Category:Provinces_of_Peru" title="Category:Provinces of Peru">Provinces of Peru</a></li><li><a href="/wiki/Category:Lima_Region_geography_stubs" title="Category:Lima Region geography stubs">Lima Region geography stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Spanish-language_text" title="Category:Articles containing Spanish-language text">Articles containing Spanish-language text</a></li><li><a href="/wiki/Category:Articles_with_Spanish-language_external_links" title="Category:Articles with Spanish-language external links">Articles with Spanish-language external links</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ca%C3%B1ete+Province" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ca%C3%B1ete+Province" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Ca%C3%B1ete_Province"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Ca%C3%B1ete_Province"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Ca%C3%B1ete_Province" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Ca%C3%B1ete_Province&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ca%C3%B1ete_Province&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ca%C3%B1ete_Province" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ca%C3%B1ete_Province" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ca%C3%B1ete_Province&amp;oldid=684503107" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ca%C3%B1ete_Province&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q1431156" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ca%C3%B1ete_Province&amp;id=684503107" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ca%C3%B1ete+Province">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Ca%C3%B1ete+Province&amp;returnto=Ca%C3%B1ete+Province&amp;oldid=684503107&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ca%C3%B1ete_Province&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Ca%C3%B1ete,_Peru" hreflang="en">Wikimedia Commons</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ay"><a href="https://ay.wikipedia.org/wiki/Ka%C3%B1iti_jisk%27a_suyu" title="Kañiti jisk'a suyu – Aymara" lang="ay" hreflang="ay" class="interlanguage-link-target">Aymar aru</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Ca%C3%B1ete_S%C3%A9ng" title="Cañete Séng – Chinese (Min Nan)" lang="zh-min-nan" hreflang="zh-min-nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Provinz_Ca%C3%B1ete" title="Provinz Cañete – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Provincia_de_Ca%C3%B1ete" title="Provincia de Cañete – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Province_de_Ca%C3%B1ete" title="Province de Cañete – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Provincia_di_Ca%C3%B1ete" title="Provincia di Cañete – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%9C%E1%83%98%E1%83%94%E1%83%A2%E1%83%94%E1%83%A1_%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%95%E1%83%98%E1%83%9C%E1%83%AA%E1%83%98%E1%83%90" title="კანიეტეს პროვინცია – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-xmf"><a href="https://xmf.wikipedia.org/wiki/%E1%83%99%E1%83%90%E1%83%9C%E1%83%98%E1%83%94%E1%83%A2%E1%83%94_(%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%95%E1%83%98%E1%83%9C%E1%83%AA%E1%83%98%E1%83%90)" title="კანიეტე (პროვინცია) – Mingrelian" lang="xmf" hreflang="xmf" class="interlanguage-link-target">მარგალური</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Ca%C3%B1ete_(provincie)" title="Cañete (provincie) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ca%C3%B1ete_(prov%C3%ADncia)" title="Cañete (província) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Ka%C3%B1iti_pruwinsya" title="Kañiti pruwinsya – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%8C%D0%B5%D1%82%D0%B5_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Каньете (провинция) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ca%C3%B1ete_(t%E1%BB%89nh)" title="Cañete (tỉnh) – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Ca%C3%B1ete_(lalawigan)" title="Cañete (lalawigan) – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%B6%85%E7%89%B9%E7%9C%81" title="卡涅特省 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q1431156#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 October 2015, at 01:18.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ca%C3%B1ete_Province&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.272",
+            "walltime": "0.330",
+            "ppvisitednodes": {
+                "value": 2576,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 24383,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 2699,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 26,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 3,
+                "limit": 500
+            },
+            "entityaccesscount": {
+                "value": 1,
+                "limit": 400
+            },
+            "timingprofile": [
+                "100.00%  289.689      1 -total",
+                " 71.51%  207.144      1 Template:Infobox_Province_Peru",
+                " 69.56%  201.508      1 Template:Infobox_settlement",
+                " 49.24%  142.654      2 Template:Infobox",
+                " 11.05%   32.016      1 Template:Lang-es",
+                " 10.40%   30.126      1 Template:Language_with_name",
+                " 10.35%   29.994      1 Template:Infobox_settlement/areadisp",
+                "  9.52%   27.584      1 Template:Lang",
+                "  9.13%   26.435      2 Template:Category_handler",
+                "  8.72%   25.262      2 Template:Infobox_settlement/metric"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.082",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 1764758,
+                "limit": 52428800
+            }
+        },
+        "cachereport": {
+            "origin": "mw1167",
+            "timestamp": "20161013015410",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":61,"wgHostname":"mw1241"});});</script>
+	</body>
+</html>

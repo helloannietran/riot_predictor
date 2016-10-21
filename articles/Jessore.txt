@@ -1,0 +1,161 @@
+Jessore District - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Jessore_District","wgTitle":"Jessore District","wgCurRevisionId":744312325,"wgRevisionId":744312325,"wgArticleId":1897974,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["EngvarB from July 2016","Use dmy dates from July 2016","Wikipedia page with obscure country or subdivision","Coordinates on Wikidata","Articles to be expanded from July 2014","All articles to be expanded","Articles with empty sections from July 2014","All articles with empty sections","Articles using small message boxes","All articles with unsourced statements","Articles with unsourced statements from February 2014","Commons category with page title different than on Wikidata","Official website different in Wikidata and Wikipedia","Jessore District","Districts of Bangladesh","Districts of Bangladesh established before 1971","Khulna Division"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Jessore_District","wgRelevantArticleId":1897974,"wgRequestId":"WApgwwpAIC8AAAZNVvEAAAAM","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Jessore","wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgInternalRedirectTargetUrl":"/wiki/Jessore_District","wgCoordinates":{"lat":23.17,"lon":89.2},"wgWikibaseItemId":"Q1862981","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.action.view.redirect","mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Jessore District From Wikipedia, the free encyclopedia   (Redirected from Jessore ) Jump to: navigation , search Jessore 
+
+যশোর Municipality Central Jessore Town Nickname(s): "ঐতিহ্যবাহী শহর"(Historical Jessore) Jessore Location of Jessore in Bangladesh Coordinates: 23°10′N 89°12′E ﻿ / ﻿ 23.17°N 89.20°E ﻿ / 23.17; 89.20 Coordinates : 23°10′N 89°12′E ﻿ / ﻿ 23.17°N 89.20°E ﻿ / 23.17; 89.20 Country Bangladesh Region Southwest Government • Mayor Jahirul Islam Chaklader Rentu ( Awami League (2016–present)) Area • Total 2,606.94 km 2 (1,006.55 sq mi) Elevation 7 m (23 ft) Population (2011 Census) • Total 2,764,547 Demonym(s) Bangladeshi Website jessore .gov .bd 
+
+Jessore is a district in the southwestern region of Bangladesh . It is bordered by India to the west, Khulna District and Satkhira District to the south, Magura and Narail to the east, and Jhenaidah District to the north. The district produces a variety of crops year-round. Date sugar , called patali, is made from the sap of locally grown date trees. It is cooked, thickened and crystallised using a traditional method. Patali is mainly produced in Khajura , but many date trees are cultivated in the Keshabpur Upazila and Manirampur Upazila areas. 
+
+Jessore district was established in 1781. It consists of 4 municipalities, 36 wards, 8 upazilas, 92 unions, 1329 mouzas, 1434 villages and 120 mahallas. Upazilas are Abhaynagar Upazila , Bagherpara Upazila , Chaugachha Upazila , Jessore Sadar Upazila , Jhikargachha Upazila , Keshabpur Upazila , Manirampur Upazila , and Sharsha Upazila . 
+
+
+
+
+
+Contents 1 Etymology 2 History 3 Geography 3.1 Climate 4 Demographics 5 Economy 5.1 Benapol Land Port 6 Arts and culture 7 Points of interest 8 Transport 9 Education 9.1 University 9.2 Polytechnic Institute 9.3 College 9.4 School 10 Media 10.1 Local newspapers and magazines 11 Notable residents 12 See also 13 References 14 External links 
+
+Etymology [ edit ] This section is empty. You can help by adding to it . (July 2014) History [ edit ] 
+
+Jessore district once belonged to the ancient Janapada kingdom of Samatat Janapada. In the 15th century, Jessore was a part of the kingdom of Pratapaditya . 
+
+Jessore district was established in 1781. In 1947, Jessore was divided among India and (then) Pakistan . Except for the Bangaon and Gaighata thanas, the district became part of East Bengal . [1] 
+
+The Bengali soldiers stationed at Jessore cantonment mutinied against the Pakistan Army on 29 March 1971. They were led by Captain Hafiz Uddin and Lieutenant Anwar in an uprising where 300 soldiers were killed. The rebels killed 50 Pakistani soldiers with machine gun fire at Chanchara . 
+
+On 6 December 1971, Jessore became the first district of Bengal to be liberated from Pakistani forces. [ citation needed ] Geography [ edit ] 
+
+Jessore District encompasses 2606.98 km². It is bounded by Jhenaidaha and Magura districts at the north, Satkhira and Khulna districts at the south, Narail and Khulna districts at the east, and West Bengal of India at the west. Major rivers that flow through this region are the Bhairab , Chitra , Betna , Kobadak , and the Mukteshwari. [2] Climate [ edit ] 
+
+Annual average temperature range from 9 to 41 °C (48 to 106 °F). The annual rainfall is 1,537 millimetres (60.5 in). Climate data for Jessore Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Average high °C (°F) 22.9 
+
+(73.2) 27.0 
+
+(80.6) 33.4 
+
+(92.1) 41.0 
+
+(105.8) 38.1 
+
+(100.6) 32.6 
+
+(90.7) 31.4 
+
+(88.5) 31.6 
+
+(88.9) 32.1 
+
+(89.8) 31.5 
+
+(88.7) 29.2 
+
+(84.6) 24.9 
+
+(76.8) 31.31 
+
+(88.36) Daily mean °C (°F) 15.4 
+
+(59.7) 19.3 
+
+(66.7) 26.1 
+
+(79) 34.6 
+
+(94.3) 33.0 
+
+(91.4) 29.2 
+
+(84.6) 28.4 
+
+(83.1) 28.6 
+
+(83.5) 28.7 
+
+(83.7) 27.2 
+
+(81) 23.1 
+
+(73.6) 17.8 
+
+(64) 25.95 
+
+(78.72) Average low °C (°F) 9.0 
+
+(48.2) 11.7 
+
+(53.1) 18.9 
+
+(66) 28.3 
+
+(82.9) 27.9 
+
+(82.2) 25.8 
+
+(78.4) 25.5 
+
+(77.9) 25.6 
+
+(78.1) 25.4 
+
+(77.7) 23.0 
+
+(73.4) 17.0 
+
+(62.6) 10.6 
+
+(51.1) 20.73 
+
+(69.3) Average precipitation mm (inches) 11 
+
+(0.43) 19 
+
+(0.75) 40 
+
+(1.57) 77 
+
+(3.03) 168 
+
+(6.61) 314 
+
+(12.36) 304 
+
+(11.97) 293 
+
+(11.54) 245 
+
+(9.65) 133 
+
+(5.24) 28 
+
+(1.1) 8 
+
+(0.31) 1,640 
+
+(64.56) Average relative humidity (%) 46 35 36 44 60 76 75 76 74 70 51 44 57.3 Source: National news papers Demographics [ edit ] 
+
+Jessore District had a population of 2,764,547 at the 2011 Census. 85.5% of the population are Muslims , 14.21% are Hindus and the remaining 0.29% practise another religion. 
+
+The main occupations are agriculture 39.84%, agricultural labourer 24.13%, wage labourer 2.68%, commerce 11.99%, service 8.66%, industry 1.41%, transport 3.11% and others 8.18%. 
+
+Jessore District's administrative framework was established in 1781. It consists of the following eight Upazilas 
+
+(data from Banglapedia): Upazila Area in 
+
+km 2 2011 Census 
+
+population Upazila Area in 
+
+km 2 2011 Census 
+
+population Abhaynagar Upazila 247.21 262,434 Keshabpur Upazila 258.44 253,291 Bagherpara Upazila 308.29 216,897 Jessore Sadar Upazila 435.22 742,898 Chaugachha Upazila 269.31 231,370 Manirampur Upazila 444.20 417,421 Jhikargachha Upazila 307.96 298,908 Sharsha Upazila 336.28 341,328 
+
+The upazilas are further divided into 9 municipalities, 36 wards, 92 unions, 1329 mouzas, 1434 villages and 120 mahallas. Economy [ edit ] Benapol Land Port [ edit ] 
+
+The main factor of economics of Jessore is Benapol Land Port which is situated in Sharsha upajela. Much of the import and export trading between bangladesh and India is done through this port. On the other side of the border is Petropool. The port is important for making govt. import taxes. Arts and culture [ edit ] This section is empty. You can help by adding to it . (July 2014) Points of interest [ edit ] The Capital City of flower in Bangladesh, Godkhali At Abhaynagar Upazila , there is a small village called Dhoolgraam. It once had a magnificent complex of 17 Hindu temples, but only one remains today. Most of the temples were destroyed by the Bhairab River. A beautiful terracotta design can be seen all over the temple. It is considered a very holy place by Bengali Hindus . The main gate of the house of Michael Madhusudan Dutta at Sagardari village in Jessore. This house is currently being used as a museum. In Vaatnogor at Abhaynagar Upazila , ruins of eleven temple complex, dedicated to Lord Shiva , remains. Though the central temple is partially destroyed, the site still shows the majesty of Bengal 's glorious past. A terracotta plaque bearing the image of Mallinath, a female tirthankar (saint) of the Jain religion, was found at the Mound of Dam Dam Peer in Manirampur Upazila . [3] Mound of Dam Dam Peer in Manirampur Upazila . It is believed to be the most ancient relic discovered from this part of the world. [4] The Department at Khulna said that the plaque is at least 1800 years old. It is currently kept at the Khulna Museum. [5] [6] Besides, "Neelkuthi" at village Joypur "Kachari Ghar" are important Archaeological sites in Manirampur Near the town of Jessore is the suburb Chanchra. A Chanchra Rajbari once stood but has deteriorated. Visitors can see the Lord Shiva Temple, which is almost restored; the remains of the Dosh Mohabid-da Temple, unique in Bengal; and Jora Shiv Temple at Murali in a deteriorated condition. Imam Bara, at Murolir Mor beside the Dhaka-Khulna Highway , is a historical building constructed by Hazi Muhammad Mohsin. The Jessore Collectorate Building, in Doratana, is one of the oldest buildings in Jessore. Shaagordaari is the birthplace of the poet Michael Madhusudan Dutta . His large villa consists of a huge garden, a small museum and houses. The front gate has a solid sculpture work. The Kopotak-kho River is at a stone's throw away. Near Jessore Sadar Upazila village Hamidpur has an ancient mosque, known as "Shani mosque." It is an example of the high architecture of Muslim Sultani period. Godkhali kalibari Panchpukur Baganchara Binodia Park Jessore Board-club Jess-garden Park Rajgong Baor Vobodaho Bil Gazir Dorgah Jessore Airport , Jessore Cantonment and Air Force Base Matiur Rahman. India 's daul at Kesobpur Khanjalir Dighi Mirzanagar Hammamkhana Avaynogor's Khanjahan Ali Jame Mosque Jamidar Bari at Shridhorpur Konnadah Archajjo Baor at Sarsha Benapole port Fakhir Tika at Godkhali Shimulia Mission (Saheb Bari) Grave of Birshrestho Lance Nayek Noor Muhammad Sheikh Transport [ edit ] 
+
+Jessore has communication links with nearby districts. It has highways for transportation to West and East Bengal. 
+
+Jessore is a junction on the broad gauge -based network of the Eastern Railway . The network has links extended into Indian territory. Service linking the capital Dhaka and the Indian city Kolkata was to start April 2008. Jessore is about midway along the route. 
+
+The Jessore Airport , near the city, is an airbase for the Bangladesh Air Force . Alongside military service, its runways cater to some commercial airlines, such as Regent Airlines, United Airways and Novo Airlines, for domestic flights. 
+
+
+
+Education [ edit ] University [ edit ] Jessore University of Science and Technology Jessore Medical College Michael Modhushudon (MM) College Army Medical College,Jessore Polytechnic Institute [ edit ] Jessore Polytechnic Institute BCMC College of Engineering Technology - The Largest Private Polytechnic College In Bangladesh Bangladesh Technical College Model Polytechnic Institute College [ edit ] Jessore Cantonment College Dr. Abdur Razzak Municipal College BAF Shaheen college Jessore Govt. City college Dawood Public School, Jessore Manirampur Degree College Jessore College, Jessore Rajganj Degree College Bakra Degree college Navran Degree college Natunhat Public College School [ edit ] Jessore Zilla School Momen Girls High School, Jessore MSTP girls High School Manirampur Government High School Manirampur Government Girls' High School Police Line Secondary School Jessore Chandipur High School, Manirampur Rajganj High School Media [ edit ] Local newspapers and magazines [ edit ] List of daily newspapers [7] Daily Kalyan Daily Purobi Daily Deshitaishy (দৈনিক দেশহিতৈষী) Daily Sfulingo (দৈনিক স্ফুলিঙ্গ ) Daily Jessore Daily Loksamaj Daily Gramer kagoj Daily Pravat Feri Daily Samajer Kagoj Daily Spandan Daily Ranar Daily Samajer Katha Daily Gramer Kantha Daily Telegram Daily Satya Path List of weekly magazines Weekly Sonali Din Weekly Nawapara Weekly Banglalok Weekly Manabadhikar Sangbad Weekly Bojro kolom Weekly Sharsha Barta Weekly Prattohiki Weekly Ganomanos List of Fortnightly Mot-Motantar List of monthly magazines Monthly Ghumonter Dak Monthly Gramer Sangbad Monthly Photo Report List of literary magazines Bangla Literature edited by Sayeed Abubakar Notable residents [ edit ] Haridasa Thakur - great Vaisnava Saint, acarya of the Holy Name. Michael Madhusudan Datta – poet and dramatist; Mashiur Rahman – politician of the Awami League ; Mahendra Lal Bose – philanthropist and educationist; Mashrafe Mortaza , cricketer, Bangladesh cricket team ; Munshi Mohammad Meherullah - Muslim poet, religious leader and social reformer ; Syed Rasel , cricketer, Bangladesh cricket team ; Bobita , actress; Pori Moni , actress; Suvra Mukherjee - former first lady of India, wife of President Pranab Mukherjee . See also [ edit ] Bangladesh portal Bengal portal Khulna Division References [ edit ] Wikimedia Commons has media related to Jessore District . Wikivoyage has a travel guide for Jessore . ^ Westland, James (1871). A Report on the District of Jessore: Its Antiquities, Its History, and Its Commerce . Oxford University Press. ^ Mahibullah Siddiqui (2012). "Jessore District" . In Arif Hossain and Ahmed A. Jamal. Banglapedia: National Encyclopedia of Bangladesh (Second ed.). Asiatic Society of Bangladesh . ^ Duke Khan (2013). "Tourism in Jessore." . Retrieved 13 September 2013 . ^ Duke Khan (2013). "Dam Dam Peerosthan in Manirampur Upazilla." . Retrieved 13 September 2013 . ^ Duke Khan (2013). "A short description of archaeological sights – Khulna Division" . Retrieved 17 November 2013 . ^ Duke Khan, and Md. Shariful Islam. "Mound of Dam Dam Peer in Manirampur Upazilla." . Jessore Info . Archived from the original on 12 March 2007 . Retrieved 13 September 2013 . ^ "পত্র পত্রিকা" . jessore.gov.bd . External links [ edit ] Official website v t e Jessore District Upazila/Thana: Abhaynagar Bagherpara Chaugachha Jhikargachha Keshabpur Jessore Sadar Manirampur Sharsha v t e Cities of Bangladesh Barisal Brahmanbaria Bogra Chittagong Comilla Cox's Bazar Dhaka Gazipur Khulna Mymensingh Narayanganj Rangpur Pabna Tangail Rajshahi Sylhet v t e Divisions and districts of Bangladesh Barisal Division Barguna Barisal Bhola Jhalokati Patuakhali Pirojpur Chittagong Division Bandarban Brahmanbaria Chandpur Chittagong Comilla Cox's Bazar Feni Khagrachari Lakshmipur Noakhali Rangamati Dhaka Division Dhaka Faridpur Gazipur Gopalganj Kishoreganj Madaripur Manikganj Munshiganj Narayanganj Narsingdi Rajbari Shariatpur Tangail Khulna Division Bagerhat Chuadanga Jessore Jhenaidah Khulna Kushtia Magura Meherpur Narail Satkhira Mymensingh Division Jamalpur Mymensingh Netrokona Sherpur Rajshahi Division Bogra Jaipurhat Naogaon Natore Chapai Nawabganj Pabna Rajshahi Sirajganj Rangpur Division Dinajpur Gaibandha Kurigram Lalmonirhat Nilphamari Panchagarh Rangpur Thakurgaon Sylhet Division Habiganj Moulvibazar Sunamganj Sylhet (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Jessore_District oldid=744312325 " Categories : Jessore District Districts of Bangladesh Districts of Bangladesh established before 1971 Khulna Division Hidden categories: EngvarB from July 2016 Use dmy dates from July 2016 Wikipedia page with obscure country or subdivision Coordinates on Wikidata Articles to be expanded from July 2014 All articles to be expanded Articles with empty sections from July 2014 All articles with empty sections Articles using small message boxes All articles with unsourced statements Articles with unsourced statements from February 2014 Commons category with page title different than on Wikidata Official website different in Wikidata and Wikipedia Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Languages বাংলা Català Deutsch Español فارسی Français हिन्दी বিষ্ণুপ্রিয়া মণিপুরী Italiano Nederlands 日本語 پنجابی Português Русский Simple English اردو Tiếng Việt 中文 Edit links This page was last modified on 14 October 2016, at 12:27. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.440", "walltime": "0.557", "ppvisitednodes": { "value": 5173, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 99326, "limit": 2097152 }, "templateargumentsize": { "value": 5306, "limit": 2097152 }, "expansiondepth": { "value": 23, "limit": 40 }, "expensivefunctioncount": { "value": 8, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 463.956 1 -total", " 41.09% 190.633 1 Template:Infobox_settlement", " 33.06% 153.390 2 Template:Infobox", " 12.42% 57.631 1 Template:Weather_box", " 11.18% 51.866 1 Template:Reflist", " 7.85% 36.418 1 Template:Geobox_coor", " 6.37% 29.541 2 Template:Empty_section", " 5.75% 26.678 2 Template:Cite_book", " 5.69% 26.381 2 Template:Convert", " 5.58% 25.881 2 Template:Ambox" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.162", "limit": "10.000" }, "limitreport-memusage": { "value": 7552732, "limit": 52428800 } }, "cachereport": { "origin": "mw1236", "timestamp": "20161016202547", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1177"});});

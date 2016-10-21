@@ -1,0 +1,353 @@
+Tacoma, Washington - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tacoma,_Washington","wgTitle":"Tacoma, Washington","wgCurRevisionId":744557609,"wgRevisionId":744557609,"wgArticleId":138165,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from June 2016","Articles with dead external links from September 2016","Articles with permanently dead external links","Coordinates on Wikidata","Articles using small message boxes","Wikipedia articles needing copy edit from September 2016","All articles needing copy edit","Articles needing additional references from November 2015","All articles needing additional references","Commons category with local link same as on Wikidata","Articles with DMOZ links","Wikipedia articles with VIAF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Tacoma, Washington","Cities in the Seattle metropolitan area","Cities in Washington (state)","Cities in Pierce County, Washington","County seats in Washington (state)","Port settlements in Washington (state)","Populated places established in 1864","Populated places on Puget Sound","Ukrainian communities in the United States","1864 establishments in Washington Territory"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tacoma,_Washington","wgRelevantArticleId":138165,"wgRequestId":"WAo22QpAMEsAAFEKN9YAAAAK","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":47.241388888889,"lon":-122.45944444444},"wgWikibaseItemId":"Q199797","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Tacoma, Washington From Wikipedia, the free encyclopedia Jump to: navigation , search "Tacoma" redirects here. For other uses, see Tacoma (disambiguation) . Tacoma, Washington City City of Tacoma 
+
+Flag 
+
+Seal Nickname(s): City of Destiny, Grit City 
+
+Location of Tacoma in 
+
+Pierce County and Washington State Tacoma, Washington Location in the United States Coordinates: 47°14′29″N 122°27′34″W ﻿ / ﻿ 47.24139°N 122.45944°W ﻿ / 47.24139; -122.45944 Coordinates : 47°14′29″N 122°27′34″W ﻿ / ﻿ 47.24139°N 122.45944°W ﻿ / 47.24139; -122.45944 Country United States State Washington County Pierce Incorporated November 12, 1875 Government • Type Council-manager • Mayor Marilyn Strickland (D) Area [1] • City 62.34 sq mi (161.46 km 2 ) • Land 49.72 sq mi (128.77 km 2 ) • Water 12.62 sq mi (32.69 km 2 ) Elevation 243 ft (74 m) Population ( 2010 ) [2] • City 198,397 • Estimate (2015) [3] 207,948 • Rank US: 106th • Density 3,990.3/sq mi (1,540.7/km 2 ) • Metro 3,733,580 (US: 15th ) Demonym(s) Tacoman (plural: Tacomans) Time zone PST ( UTC−8 ) • Summer ( DST ) PDT ( UTC−7 ) ZIP codes Zip codes [4] 98001, 98002, 98071, 98092, 98401-98409, 98411-98413, 98415, 98416, 98418, 98421, 98422, 98424, 98430, 98431, 98433, 98438, 98439, 98442-98447, 98450, 98455, 98460, 98464, 98466, 98467, 98471, 98477, 98481, 98492, 98493, 98497-98499 Area code 253 FIPS code 53-70000 GNIS feature ID 1512713 [5] Website www.cityoftacoma.org 
+
+Tacoma ( / t ə ˈ k oʊ m ə / , US dict: tə·kō′·mə ) is a mid-sized urban port city in and the county seat of Pierce County, Washington , United States. [6] The city is on Washington's Puget Sound , 32 miles (51 km) southwest of Seattle , 31 miles (50 km) northeast of the state capital, Olympia , and 58 miles (93 km) northwest of Mount Rainier National Park . The population was 198,397, according to the 2010 census . [7] Tacoma is the second-largest city in the Puget Sound area and the third largest in the state. Tacoma also serves as the center of business activity for the South Sound region, which has a population of around 1 million people. 
+
+Tacoma adopted its name after the nearby Mount Rainier , originally called Takhoma or Tahoma. It is locally known as the "City of Destiny" because the area was chosen to be the western terminus of the Northern Pacific Railroad in the late 19th century. The decision of the railroad was influenced by Tacoma's neighboring deep-water harbor, Commencement Bay . By connecting the bay with the railroad, Tacoma's motto became "When rails meet sails." Today, Commencement Bay serves the Port of Tacoma , a center of international trade on the Pacific Coast and Washington State's largest port. 
+
+Like most central cities, Tacoma suffered a prolonged decline in the mid-20th century as a result of suburbanization and divestment. Since the 1990s, developments in the downtown core include the University of Washington Tacoma ; Tacoma Link , the first modern electric light rail service in the state; the state's highest density of art and history museums; and a restored urban waterfront, the Thea Foss Waterway . Neighborhoods such as the 6th Avenue District have become revitalized. 
+
+Tacoma-Pierce County has been named one of the most livable areas in the United States. [8] In 2006, Tacoma was listed as one of the "most walkable" cities in the country. [9] That same year, the women's magazine Self named Tacoma the "Most Sexually Healthy City" in the United States. [10] In contrast, Tacoma was also ranked as the "most stressed-out" city in the country in a 2004 survey. [11] 
+
+Tacoma gained notoriety in 1940 for the collapse of the Tacoma Narrows Bridge , which earned the nickname "Galloping Gertie". 
+
+Contents 1 History 1.1 20th century 1.1.1 The Great Depression 1.1.2 Tacoma's own Hooverville 1.1.3 Timeline events of Tacoma's Hooverville "Hollywood on the Tide Flats" 1.2 21st century 1.3 Downtown revival 2 Geography 2.1 Climate 2.2 Surrounding cities 3 Demographics 3.1 2010 census 4 Government 5 Commerce and industry 5.1 Top employers 6 Transportation 6.1 Roads and highways 6.2 Public transportation 7 Public utilities 8 Parks 9 Architecture 9.1 Historic landmarks 10 Education 11 Cultural attractions 12 Mass media 13 Sports 14 Notable Tacomans 15 Neighborhoods 16 Sister cities 17 See also 18 References 19 External links 
+
+History [ edit ] This section may require copy editing . (September 2016) View from Brown's Point of Mt. Rainier and the Port of Tacoma 
+
+The city of Tacoma and surrounding areas were inhabited for thousands of years by American Indians , predominantly the Puyallup people, who lived in settlements on the delta. 
+
+In 1852, a Swede named Nicolas Delin constructed a sawmill powered by water on a creek near the head of Commencement Bay, but the small settlement that grew up around it was abandoned during the Indian War of 1855–56 . In 1864, pioneer and postmaster Job Carr, a Civil War veteran and land speculator who hoped to profit from the selection of Commencement Bay as the terminus of the Transcontinental Railroad, built a cabin (a replica of Job Carr's cabin, which also served as Tacoma's first post office, was erected in "Old Town" in 2000 near the original site), and later sold most of his claim to developer Morton M. McCarver (1807–1875), who named his project Tacoma City, derived from the indigenous name for the mountain. 
+
+Tacoma was incorporated on November 12, 1875, following the merger of Old Tacoma and New Tacoma on January 7, 1884. Its hopes to be the "City of Destiny" were stimulated by selection in 1873 as the western terminus of the Northern Pacific Railroad , thanks to lobbying by McCarver, future mayor John Wilson Sprague , and others. The transcontinental link was effected in 1887, but the railroad built its depot on "New Tacoma", two miles (3 km) south of the Carr-McCarver development. The two communities grew together and joined. The population grew from 1,098 in 1880 to 36,006 in 1890. Rudyard Kipling visited Tacoma in 1889 and said it was "literally staggering under a boom of the boomiest". [12] The Commencement Bay Land and Improvement Co. played a major role in the city's early growth. 
+
+George Francis Train was a resident for a few years in the late 19th century. In 1890, he staged a global circumnavigation starting and ending in Tacoma to promote the city. A plaque in downtown Tacoma marks the start and finish line. 
+
+In November 1885, white citizens led by then-mayor Jacob Weisbach expelled several hundred Chinese residents peacefully living in the city. As described by the account prepared by the Chinese Reconciliation Project Foundation, on the morning of November 3, 1885, "several hundred men, led by the mayor and other city officials, evicted the Chinese from their homes, corralled them at 7th Street and Pacific Avenue, marched them to the railway station at Lakeview and forced them aboard the morning train to Portland, Oregon . The next day two Chinese settlements were burned to the ground." 
+
+The discovery of gold in the Klondike in 1898 led Tacoma's prominence in the region to be eclipsed by the booming development of Seattle. 20th century [ edit ] 
+
+A major tragedy marred the end of the 19th century, when a streetcar accident resulted in significant loss of life on July 4, 1900. Downtown, early 20th century 
+
+From May to August 1907, the city was the site of a smelter workers' strike organized by Local 545 of the Industrial Workers of the World (IWW), with the goal of a fifty-cent per day pay raise. [13] [14] The strike was strongly opposed by the local business community, and the smelter owners threatened to blacklist organizers and union officials. The IWW opposed this move by trying to persuade inbound workers to avoid Tacoma for the duration of the strike. [15] By August, the strike had ended without meeting its demands. [13] 
+
+Tacoma was briefly (1915–22) a major destination for big-time automobile racing, with one of the nation's top-rated racing venues located just outside the city limits, at the site of today's Clover Park Technical College . The Great Depression [ edit ] 
+
+The 1929 crash of the Stock Market crash, also known as the Great Depression , was only the first event in a series of bad misfortunes to hit Tacoma in the winter of 1929–30. One of the coldest winters on record, Tacoma experienced mass power outages and eventually the shut down of major power supply dams, leaving the city without sufficient power and heat. [16] During the 30-day power shortage in the winter of 1929 and 1930, Tacoma was provided with electricity from the engines of the aircraft carrier USS Lexington . [17] [18] 
+
+A power grid failure paired with a newly rewritten city constitution put in to place in order to keep political power away from a single entity such as the railroad, created a stand still in the ability to further the local economy. Local businesses felt the pinch as the sudden stop of loans limited progression of expansion and renewal funds for maintenance leading to foreclosures. [19] Families all over the city experience the fallout of economic depression growing the problem of "where" and "how" breadwinners were going to find the food that their families needed to survive. Local makeshift inner shanty town politics began to develop as the occupants needed some form of leadership to keep the peace. [20] Tacoma's own Hooverville [ edit ] 
+
+At the intersection of Dock Street EXD and East D Street in the train yard, a shantytown became the solution to the growing scar of the depression. Tacoma's Hooverville grew in 1924 as the homeless community moved onto the waterfront as a place to settle. The population boomed in November 1930 through early 1931 as families from the neighboring McKinley and Hill Top areas fell victim to eviction notices and the inability to find steady work. 
+
+Collecting scraps of metal and wood from local lumber stores and recycling centers, families began building shanties (shacks) in order to supply a roof over their heads. Alcohol and suicide became a common event in the Hooverville that eventually gave it its nickname of "Hollywood", because of the Hollywood -style crimes and events taking place in the camp. It would not be until 1956 when the last occupant of "Hollywood" was evicted and the police used fire to level the grounds and make room for industrial growth. [21] Timeline events of Tacoma's Hooverville "Hollywood on the Tide Flats" [ edit ] 1924 – Tacoma starts feeling the coming pinch of the economical crises. 1927 – Tacoma's Hooverville is coined "Hollywood" due to the "Hollywood" type crimes coming from the camp. 1932–34 – Hollywood breaks out in a rash of problems stemming from alcohol and suicides. 1937 – Tacoma holds a committee to assess the "Real Social Problem" in regards to the shantytown. 1940 – After eviction notices fail to evacuate the Hooverville, the local police department burns down "Hollywood", their first attempt. 1956 – The last occupant of "Hollywood" is removed and the police, for a second time, burn down the remains and flatten the area for industrial growth. 
+
+(Timeline constructed from following sources: Tacoma News Tribune (1940–74) [22] and The Tacoma Daily Ledger (1924–40) [23] 
+
+In 1935, Tacoma received national attention when George Weyerhaeuser , the nine-year-old son of prominent lumber industry executive J.P. Weyerhaeuser , was kidnapped [24] while walking home from school. FBI agents from Portland handled the case, in which payment of a ransom of $200,000 secured release of the victim. Four persons were apprehended and convicted. The last to be released was paroled from McNeil Island in 1963. George Weyerhaeuser went on to become chairman of the Board of the Weyerhaeuser Company . 
+
+In 1951, an investigation by a state legislative committee revealed widespread corruption in Tacoma's government, which had been organized commission-style since 1910. Voters approved a mayor and city-manager system in 1952. 
+
+Tacoma was featured prominently in the garage rock sound of the mid-1960s with bands including The Wailers and The Sonics . The surf rock band The Ventures were also from Tacoma. 
+
+Downtown Tacoma experienced a long decline through the mid-20th century. Harold Moss , later the city's mayor, characterized late 1970s Tacoma as looking "bombed out" like "downtown Beirut " (a reference to the Lebanese Civil War that occurred at that time); "Streets were abandoned, storefronts were abandoned and City Hall was the headstone and Union Station the footstone" on the grave of downtown. [25] Aerial view of central Tacoma. Commencement Bay is at lower right. 
+
+This picture began to change somewhere around 1990. Among the projects associated with the downtown renaissance were the federal courthouse in the former Union Station (1991); the Washington State History Museum (1996), echoing the architecture of Union Station; the adaptation of a group of century-old brick warehouses into the University of Washington Tacoma campus; the numerous privately financed renovation projects near that UW Tacoma campus; the Museum of Glass (2002); the Tacoma Art Museum (2003); and the region's first light-rail line (2003). [26] 
+
+The first local referendums in the U.S. on computerized voting occurred in Tacoma in 1982 and 1987. On both occasions, voters rejected 3-1 the computer voting systems that local officials sought to purchase. The campaigns, organized by Eleanora Ballasiotes, a conservative Republican, focused on the vulnerabilities of computers to fraud. [27] 
+
+In 1998, Tacoma installed a high-speed fiber optic network throughout the community. The municipally owned power company, Tacoma Power , wired the city. 21st century [ edit ] 
+
+Tacoma's Hilltop neighborhood started struggling with crime in the 1980s and early 1990s. Due to its high crime rate, Washington residents nicknamed the city "Tacompton", in reference to Compton, California . [28] The beginning of the 21st Century has seen a marked reduction in crime, as neighborhoods have enacted community policing and other policies. [29] Bill Baarsma (mayor from 2002–2010) is a member of the Mayors Against Illegal Guns Coalition , [30] a bi-partisan group with a stated goal of "making the public safer by getting illegal guns off the streets." The coalition was co-chaired by Boston Mayor Thomas Menino and New York City Mayor Michael Bloomberg . 
+
+In 2004, Tacoma was ranked among the top 30 Most Livable Communities in an annual survey conducted by the Partners for Livable Communities. [31] In 2009 Tacoma elected its second African-American mayor, Marilyn Strickland . Downtown revival [ edit ] Hotel Bostwick, located in Tacoma 
+
+Beginning in the early 1990s, city residents and planners have taken steps to revitalize Tacoma, particularly its downtown. The University of Washington established a branch campus in Tacoma in 1990. The same year, Union Station (Tacoma) was restored. The Museum of Glass opened in downtown Tacoma in 2002, showing glass art from the region and around the world. It includes a glassblowing studio and is connected to the rest of the Museum District by the Bridge of Glass, which features works by Tacoma native glass artist Dale Chihuly . 
+
+Tacoma's downtown Cultural District is the site of the Washington State History Museum (1996) and the Tacoma Art Museum (2003). America's Car Museum was completed in late 2011 and resides near the Tacoma Dome in Tacoma. The glass and steel Greater Tacoma Convention and Trade Center opened in November 2004. [32] 
+
+The Theatre District of downtown Tacoma is anchored by the Pantages Theater (first opened in 1918). The Broadway Center for the Performing Arts [33] manages the Pantages, the Rialto Theater, and the Theatre on the Square, as well as Tacoma Little Theatre. Other attractions include the Grand Cinema and the Temple Theatre. Geography [ edit ] 
+
+Tacoma is at 47°14′29″N 122°27′34″W ﻿ / ﻿ 47.24139°N 122.45944°W ﻿ / 47.24139; -122.45944 (47.241371, -122.459389). [34] Its elevation is 381 feet (116 m). 
+
+According to the United States Census Bureau , the city has a total area of 62.34 square miles (161.46 km 2 ), of which 49.72 square miles (128.77 km 2 ) is land and 12.62 square miles (32.69 km 2 ) is water. [1] 
+
+Tacoma straddles the neighboring Commencement Bay with several smaller cities surrounding it. Large areas of Tacoma have excellent views of Mt. Rainier. In the event of a major eruption of Mount Rainier, portions of Tacoma's industrial area are at risk from lahars . 
+
+The city is located several miles north of Joint Base Lewis-McChord , formerly known separately as Fort Lewis and McChord Air Force Base . Climate [ edit ] 
+
+According to the Köppen climate classification , Tacoma lies has a Mediterranean Oceanic climate (Köppen Csb ). Climate data for Tacoma, Washington Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Record high °F (°C) 66 
+
+(19) 68 
+
+(20) 77 
+
+(25) 82 
+
+(28) 92 
+
+(33) 94 
+
+(34) 94 
+
+(34) 93 
+
+(34) 89 
+
+(32) 82 
+
+(28) 71 
+
+(22) 68 
+
+(20) 94 
+
+(34) Average high °F (°C) 48 
+
+(9) 51 
+
+(11) 56 
+
+(13) 60 
+
+(16) 66 
+
+(19) 72 
+
+(22) 77 
+
+(25) 77 
+
+(25) 71 
+
+(22) 61 
+
+(16) 53 
+
+(12) 47 
+
+(8) 61.6 
+
+(16.4) Average low °F (°C) 37 
+
+(3) 37 
+
+(3) 40 
+
+(4) 43 
+
+(6) 48 
+
+(9) 53 
+
+(12) 56 
+
+(13) 56 
+
+(13) 52 
+
+(11) 46 
+
+(8) 40 
+
+(4) 36 
+
+(2) 45.3 
+
+(7.4) Record low °F (°C) 17 
+
+(−8) 11 
+
+(−12) 15 
+
+(−9) 29 
+
+(−2) 34 
+
+(1) 37 
+
+(3) 47 
+
+(8) 41 
+
+(5) 34 
+
+(1) 26 
+
+(−3) 5 
+
+(−15) 6 
+
+(−14) 5 
+
+(−15) Average precipitation inches (mm) 5.93 
+
+(150.6) 4.00 
+
+(101.6) 4.06 
+
+(103.1) 3.00 
+
+(76.2) 2.11 
+
+(53.6) 1.57 
+
+(39.9) 0.68 
+
+(17.3) 0.82 
+
+(20.8) 1.29 
+
+(32.8) 3.70 
+
+(94) 6.68 
+
+(169.7) 5.52 
+
+(140.2) 39.36 
+
+(999.7) Source #1: NOAA [35] Source #2: The Weather Channel [36] Surrounding cities [ edit ] Gig Harbor Vashon Island Federal Way Fox Island Fife Tacoma Lakewood Parkland Puyallup Demographics [ edit ] Historical population Census Pop. %± 1870 73 — 1880 1,098 1,404.1% 1890 36,006 3,179.2% 1900 37,714 4.7% 1910 83,743 122.0% 1920 96,965 15.8% 1930 106,817 10.2% 1940 109,408 2.4% 1950 143,673 31.3% 1960 147,979 3.0% 1970 154,407 4.3% 1980 158,501 2.7% 1990 176,664 11.5% 2000 193,556 9.6% 2010 198,397 2.5% Est. 2015 207,948 [37] 4.8% source: [38] U.S. Decennial Census [39] 
+
+2015 Estimate [3] 
+
+As of 2000 the median income for a household in the city was $37,879, and the median income for a family was $45,567. Males had a median income of $35,820, versus $27,697 for females. The per capita income for the city was $19,130. About 11.4% of families and 15.9% of the population were below the poverty line , including 20.6% of those under the age of 18 and 10.9% of those 65 and older. 2010 census [ edit ] 
+
+As of the census [2] of 2010, there were 198,397 people, 78,541 households, and 45,716 families residing in the city. The population density was 3,864.9 inhabitants per square mile (1,492.2/km 2 ). There were 81,102 housing units at an average density of 1,619.4 per square mile (625.3/km 2 ). The racial makeup of the city was 64.9% White (60.5% Non-Hispanic White [40] ), 12.2% African American , 8.2% Asian (2.1% Vietnamese, 1.6% Cambodian, 1.3% Korean, 1.3% Filipino, 0.4% Chinese, 0.4% Japanese, 0.2% Indian, 0.2% Laotian, 0.1% Thai), 1.8% Native American , 1.2% Pacific Islander (0.7% Samoan, 0.2% Guamanian, 0.1% Native Hawaiian), and 8.1% were from two or more races . Hispanic or Latino residents of any race were 11.3% of the population (8.1% Mexican, 1.1% Puerto Rican). 
+
+There were 78,541 households of which 31.0% had children under the age of 18 living with them, 37.8% were married couples living together, 14.8% had a female householder with no husband present, 5.6% had a male householder with no wife present, and 41.8% were non-families. 32.3% of all households were made up of individuals and 9.6% had someone living alone who was 65 years of age or older. The average household size was 2.44 and the average family size was 3.10. 
+
+The median age in the city was 35.1 years. 23% of residents were under the age of 18; 10.9% were between the ages of 18 and 24; 29.6% were from 25 to 44; 25.3% were from 45 to 64; and 11.3% were 65 years of age or older. The gender makeup of the city was 49.4% male and 50.6% female. Government [ edit ] 
+
+The government of the city of Tacoma operates under a council-manager system. The city council consists of an elected mayor ( Marilyn Strickland ) and eight elected council members, five from individual city council districts and three others from the city at-large. All serve four-year terms and are elected in odd-numbered years. The council adopts and amends city laws, approves a two-year budget, establishes city policy, appoints citizens to boards and commissions, and performs other actions. The council also meets in "standing committees", which break down the council's work into more defined areas, such as "Environment Public Works", "Neighborhoods Housing", and "Public Safety, Human Services Education". The council meets as a whole most Tuesdays at 5:00 p.m. in the council chambers at 747 Market St. Meetings are open to the public and provide for public input.. 
+
+Normal day-to-day operations of the city government are administered by Tacoma's city manager, who is appointed by the city council.Tacoma's City Manager, T.C. Broadnax, was appointed to the office in January 2012. [41] Commerce and industry [ edit ] The Port of Tacoma , on Commencement Bay , is one of the largest seaports in the Pacific Northwest . 
+
+Tacoma is the home of several international companies including staffing company True Blue Inc. (formerly Labor Ready ), lumber company Simpson and the food companies Roman Meal and Brown and Haley . 
+
+Frank C. Mars founded Mars, Incorporated in 1911 in Tacoma. 
+
+Beginning in the 1930s, Tacoma became known for the " Tacoma Aroma ", a distinctive, acrid odor produced by paper manufacturing on the industrial tide flats. In the late 1990s, Simpson Tacoma Kraft reduced total sulfur emissions by 90%. This largely eliminated the problem; where once the aroma was ever-present, it is now only noticeable occasionally downtown, primarily when the wind is coming from the east. 
+
+U.S. Oil and Refining operates an oil refinery on the tide flats in the Port of Tacoma . Built in Tacoma in 1952, it currently refines 39,000 barrels of petroleum per day. 
+
+The Tacoma Mall is the largest shopping center in Tacoma. It is owned by Simon Property Group . Anchor tenants include JC Penney , Sears , Macy's , and Nordstrom . 
+
+An economic setback for the city occurred in September 2009 when Russell Investments , which has been located in downtown Tacoma since its inception in 1936, announced it was moving its headquarters to Seattle along with several hundred white collar jobs. [42] 
+
+Hospitals in Tacoma are operated by MultiCare Health System and Franciscan Health System . Hospitals include MultiCare Tacoma General Hospital , Mary Bridge Children's Hospital , MultiCare Allenmore Hospital and St. Joseph Medical Center . Top employers [ edit ] 
+
+According to Tacoma's 2011 Comprehensive Annual Financial Report, [43] the top employers in Pierce County are: # Employer # of Employees 1 Joint Base Lewis-McChord 55,603 2 Local public school districts 13,735 3 MultiCare Health System 6,756 4 State of Washington 6,662 5 Franciscan Health System 5,507 6 City of Tacoma 3,670 7 Pierce County 2,947 8 Washington state higher education 2,720 9 Emerald Queen Casino 2,230 10 Boeing 1,450 Transportation [ edit ] 
+
+Tacoma's system of transportation is based primarily on the automobile . The majority of the city has a system of gridded streets oriented in relation to A Street (one block east of Pacific Avenue) and 6th Avenue or Division Avenue, both beginning in downtown Tacoma . Within the city, and with a few exceptions, east-to-west streets are numbered and north-to-south streets are given a name or a letter. Some east-to-west streets are also given names, such as S. Center St. and N. Westgate Blvd. Streets are generally labeled "North", "South", "East", or "North East" according to their relationship with 6th Avenue or Division Avenue (west of 'Division Ave' '6th Avenue' is the lowest-numbered street, making it the dividing street between "North" and "South"), 'A' Street (which is the dividing line between "East" and "South"), or 1st Street NE (which is the dividing line between "East" and "North East"). This can lead to confusion, as most named streets intersect streets of the same number in both north and south Tacoma. For example, the intersection of South 11th Street and South Union Avenue is just ten blocks south of North 11th Street and North Union Avenue. 
+
+To the east of the Thea Foss waterway and 'A' Street, streets are similarly divided into "East" and "Northeast", with 1st Street NE being in-line with the Pierce-King county line. "North East" covers a small wedge of Tacoma and unincorporated Pierce County (around Browns Point and Dash Point) lying on the hill across the tideflats from downtown. Tacoma does have some major roads which do not seem to follow any naming rules. These roads include Schuster Pkwy, Pacific Ave, Puyallup Ave, Tacoma Mall Blvd, Marine View Dr (SR 509), and Northshore Pkwy. Tacoma also has some major roads which appear to change names in different areas (most notable are Tyler St/Stevens St, Oakes St/Pine St/Cedar St/Alder St, and S. 72nd St/S. 74th St). These major arterials actually shift over to align with other roads, which causes them to have the name changed. 
+
+This numeric system extends to the furthest reaches of unincorporated Pierce County (with roads outside of the city carrying "East", "West", "North West", and "South West", except on the Key Peninsula , which retains the north-south streets but chooses the Pierce-Kitsap county line as the zero point for east-west streets. Key Peninsula's roads also carry a "KP N" or "KP S" designation at the end of the street name. 
+
+In portions of the city dating back to the Tacoma Streetcar Period (1888–1938), denser mixed use business districts exist alongside single family homes . Twelve such districts have active, city-recognized business associations and hold "small town"-style parades and other festivals. The Proctor District, Tacoma , Old Town, Dome, 6th Avenue , Stadium , Lincoln Business District, and South Tacoma Business Districts are some of the more prominent and popular of these and coordinate their efforts to redevelop urban villages through the Cross District Association of Tacoma . In newer portions of the city to the west and south, residential culs-de-sac , four-lane collector roads and indoor shopping centers are more commonplace. Roads and highways [ edit ] 
+
+Seven highways end in or pass through Tacoma: I-5 , I-705 , SR 7 , SR 16 , SR 163 , SR 167 , and SR 509 . [44] 
+
+The dominant intercity transportation link between Tacoma and other parts of the Puget Sound is Interstate 5 , which links Tacoma with Seattle to the north and Portland, Oregon , to the south. State Route 16 runs along a concrete viaduct through Tacoma's Nalley Valley, connecting Interstate 5 with Central and West Tacoma, the Tacoma Narrows Bridge , and the Kitsap Peninsula . Seattle-Tacoma International Airport lies 22 miles (35 km) north, in the city of SeaTac . Public transportation [ edit ] A Tacoma Link light rail train on Commerce Street 
+
+Public transportation in Tacoma includes buses, commuter rail, light rail , and ferries . Public bus service is provided by Pierce Transit , which serves Tacoma and Pierce County . Pierce Transit operates a total of 43 bus routes (5 of which through Sound Transit), using mostly buses powered by compressed natural gas . Bus service operates at 30-60 minute frequencies daily, while three heavily ridden "trunk" routes are mostly served every 20 minutes on weekdays and every half hour to an hour on weekends as of October 2, 2011 
+
+Sound Transit , the regional transit authority, provides weekday Sounder Commuter Rail service and daily express bus service to and from Seattle. Sound Transit has also established Tacoma Link light rail , a 1.6-mile (2.6 km) free electric streetcar line linking Tacoma Dome Station with the University of Washington, Tacoma , Tacoma's Museum District, and the Theater District. Expansion of the city's rail transit system is currently in planning stages by the city of Tacoma and Sound Transit. The line will be extended north along Commerce St/Stadium Way and then west along Division Ave. It will then turn south along Martin Luther King Jr Way and end near South 19th Street. 
+
+The Washington State Ferries system, which has a dock at Point Defiance , provides ferry access to Tahlequah at the southern tip of Vashon Island . The Amtrak station in Tacoma. 
+
+Greyhound intercity bus service is accessible via Tacoma Dome Station. 
+
+Amtrak , the national passenger rail system, provides service to Tacoma from a station on Puyallup Avenue , one block east of the Tacoma Dome Station. The Cascades trains, operating as far north as Vancouver, British Columbia and as far south as Eugene, Oregon , serve Tacoma several times daily in both directions. The long-distance Coast Starlight operates daily between Seattle and Los Angeles via the San Francisco Bay Area . Public utilities [ edit ] 
+
+Tacoma's relationship with public utilities extends back to 1893. At that time the city was undergoing a boom in population, causing it to exceed the available amount of fresh water supplied by Charles B. Wright's Tacoma Light Water Company. In response to both this demand and a growing desire to have local public control over the utility system, the city council put up a public vote to acquire and expand the private utility. The measure passed on July 1, 1893, with 3,195 in favor of acquiring the utility system and 1,956 voting against. Since then, Tacoma Public Utilities (TPU) has grown from a small water and light utility to be the largest department in the city's government, employing about 1,200 people. 
+
+Tacoma Power , a division of TPU, provides residents of Tacoma and several bordering municipalities with electrical power generated by eight hydroelectric dams located on the Skokomish River and elsewhere. Environmentalists, fishermen, and the Skokomish Indian Tribe have criticized TPU's operation of Cushman Dam on the North Fork of the Skokomish River; the tribe's $6 billion claim [45] was denied by the U.S. Supreme court [46] in January 2006. The capacity of Tacoma's hydroelectric system as of 2004 was 713,000 kilowatts , or about 50% of the demand made up by TPU's customers (the rest is purchased from other utilities). According to TPU, hydroelectricity provides about 87% of Tacoma's power; coal 3%; natural gas 1%; nuclear 9%; and biomass and wind at less than 1%. Tacoma Power also operates the Click! Network , a municipally owned cable television and internet service. The residential cost per kilowatt hour of electricity is just over 6 cents. 
+
+Tacoma Water provides customers in its service area with water from the Green River Watershed. As of 2004, Tacoma Water provided water services to 93,903 customers. The average annual cost for residential supply was $257.84. 
+
+Tacoma Rail , initially a municipally owned street railway line running to the tideflats, was converted to a common-carrier rail switching utility. Tacoma Rail is self-supporting and employs over 90 people. 
+
+In addition to municipal garbage collection, Tacoma offers commingled recycling services for paper, cardboard, plastics, and metals. Parks [ edit ] Owen Beach at Point Defiance Park 
+
+Parks and recreation services in and around Tacoma are governed by Metro Parks Tacoma , a municipal corporation established as a separate entity from the city government in 1907. Metro Parks maintains over fifty parks and open spaces in Tacoma. [47] 
+
+Point Defiance Park , one of the largest urban parks in the country (at 700 acres), is located in Tacoma. [48] Scenic Five-Mile Drive allows access to many of the park's attractions, such as Owen Beach, Camp Six, Fort Nisqually , and the Point Defiance Zoo Aquarium . There are many historic structures within the park, including the Pagoda, which was originally built as a streetcar waiting room. It was restored in 1988 and now serves as a rental facility for weddings and private parties. [49] The Pagoda was nearly destroyed by fire on August 15, 2011. [50] Repair work began immediately after the fire and continued until January 2013, at which time the Pagoda was reopened for public use. 
+
+Ruston Way is a waterfront area along Commencement Bay north of downtown Tacoma that hosts several public parks connected by a multi-use trail and interspersed with restaurants and other businesses. Public parks along Ruston Way include Jack Hyde Park, Old Town Dock, Hamilton Park, Dickman Mill Park, Les Davis Pier, Marine Park, and Cummings Park. [51] The trail is popular with walkers, runners, cyclists, and other recreationalists. There are several beaches along Ruston Way with public access, some of which are also popular for scuba diving. 
+
+Another large park in Tacoma is Wapato Park, which has a lake and walking trails that circle the lake. Wapato is located in the south end of Tacoma, at Sheridan and 72nd St. 
+
+Titlow Beach , located at the end of 6th Avenue, is a popular scuba diving area. Wright Park 
+
+Wright Park, located near downtown, is a large, English-style park designed in the late 19th century by Edward Otto Schwagerl and Ebenezer Rhys Roberts. It contains Wright Park Arboretum and the W. W. Seymour Botanical Conservatory . This beautiful historic park is also the home of local festivals such as Ethnic Fest , [52] Out in the Park (Tacoma's Pride festival [53] ), and the Tacoma Hempfest (Tacoma's annual gathering advocating decriminalization of marijuana). 
+
+Jefferson Park in North Tacoma is the location of a new sprayground, an area designed to be a safe and unique play area where water is sprayed from structures or ground sprays and then drained away before it can accumulate. 
+
+Frost Park in downtown Tacoma is often utilized for sidewalk chalk contests. 
+
+In response to the Tacoma area's growing dog population, dog parks have become a natural addition to the city. Rogers Off-Leash Dog Park is a metro public park established in 1949 Tacoma. The park's homepage Architecture [ edit ] 
+
+Tacoma includes several landmarks and was home to some prolific architects, including Everett Phipps Babcock , Frederick Heath , Ambrose J. Russell , and Silas E. Nelsen . 
+
+Two suspension bridges currently span a narrow section of the Salish Sea called the Tacoma Narrows. The Tacoma Narrows Bridges link Tacoma to Gig Harbor and the Kitsap Peninsula . The failure of the first Tacoma Narrows Bridge , which was the third longest suspension bridge in the world, is a famous case study in architecture textbooks. Historic landmarks [ edit ] See also: National Register of Historic Places listings in Pierce County, Washington § Tacoma Fireboat No. 1 
+
+Tacoma has many properties that are listed on the City of Tacoma Register of Historic Places, the Washington State Heritage Register, and the National Register of Historic Places . 
+
+The city of Tacoma has an active municipal historic preservation program, which includes 165 individual City Landmarks and over 1,000 historic properties included within five locally regulated historic overlay zones. 
+
+Engine House No. 9 is a fire station built in 1907. The building was placed on the National Register of Historic Places in 1975. Currently, the building houses a pub that brews its own beer. 
+
+Stadium High School and the Stadium Bowl , part of the Tacoma School District, provided a setting for the movie 10 Things I Hate About You starring Heath Ledger and Julia Stiles . 
+
+Fireboat No. 1 was built in 1929 for the Port of Tacoma by the Coastline Shipbuilding Company. After 54 years of service in waterfront fire protection, harbor security patrols, search and rescue missions, and water pollution control, Fireboat No. 1 was put up on a permanent dry berth at a public beach near Tacoma's Old Town neighborhood. She is one of only five fireboats designated as a National Historic Landmark . Visitors are able to walk around her exterior, but her interior is closed to the public. 
+
+William Ross Rust House is a home in Colonial/Classic Revival style built in 1905 by Ambrose J. Russell (architect) and Charles Miller (contractor). 
+
+Murray Morgan Bridge is a 1911 steel lift bridge across the Thea Foss Waterway ; it closed in 2007 to all automobile traffic due to its deteriorating condition but was reopened in February 2013 to all traffic following a substantial rehabilitation. 
+
+Other notable buildings include the National Realty Building , Lincoln High School (Tacoma, Washington) , Rhodes House (Tacoma) , Pythian Temple (Tacoma, Washington) , Perkins Building , Tacoma Dome , Rhodesleigh , and Engine House No. 9 (Tacoma, Washington) . The famous Luzon Building and Nihon Go Gakko (Tacoma) school house have been demolished, and the MV Kalakala was scrapped in early 2015. University of Puget Sound , Cushman Dam No. 1 , Cushman Dam No. 2 , Rialto Theater (Tacoma, Washington) , and Tacoma Union Station are also noteworthy. East 21st Street Bridge Education [ edit ] Stadium High School 
+
+Tacoma's main public school district is Tacoma Public Schools . The district contains 36 elementary schools, eleven middle schools, five high schools, one alternative high school, a Science and Math Institute ( SAMI ), and one school of the arts ( SOTA ). Henry Foss High School operates an International Baccalaureate program. Sheridan Elementary School operated three foreign language immersion programs (Spanish, French, and Japanese). Mount Tahoma High School opened a brand new building in South Tacoma in the fall of 2004. Stadium High School and Wilson High School were remodeled/refurbished and reopened in September 2006. 
+
+Tacoma School of the Arts , opened in 2001, is an arts-focused high school that serves as a national model for educational innovation. SOTA is a public school, part of the Tacoma Public Schools and is one of the first schools in the nation to implement standards based instruction, as well as influence the design of many schools in the nation. SOTA is located in multiple venues around Downtown Tacoma and uses Community Museums and Universities for instructional space. The Science and math institute partners with SOTA, sharing administrators and class space. SAMI and SOTA are the only schools in Tacoma to offer University of Washington in the Classroom college credit options from the University of Washington. Lincoln High School reopened in the fall of 2007 after a $75 million renovation and expansion. [54] [55] The Annie Wright School 
+
+The area also has numerous private schools, including the Annie Wright School , Bellarmine Preparatory School , Life Christian Academy, Charles Wright Academy and Seabury School . Tacoma's Covenant High School [56] is associated with Faith Presbyterian Church. [57] [58] 
+
+Tacoma's institutions of higher learning include the University of Puget Sound , Tacoma Community College , City University of Seattle-Tacoma , Bates Technical College , The Evergreen State College Tacoma Campus, Corban University School of Ministry/Tacoma Campus, and University of Washington Tacoma . Pacific Lutheran University is located in Parkland , just south of the city; nearby Lakewood is the home of Clover Park Technical College and Pierce College . Cultural attractions [ edit ] The Museum of Glass boasts an iconic structure standing near the Thea Foss Waterway; the steel cone of the hot shop is one of the most recognizable structures in the city. America's Car Museum opened in June 2012 and displays 300 vehicles in various exhibits on vintage to modern automobiles. The museum pays respects to Harold LeMay's collection, one of the world's largest, with a permanent display entitled "Lucky's Garage". The rest of Harold LeMay's collection can be viewed at the Marymount Event Center, home of the LeMay Family Collection Foundation . Tacoma Art Museum was founded in 1935 and reopened in 2003 in a new building on Pacific Avenue in Tacoma – now one of three organizations forming the "museum district" (others are Museum of Glass and Washington State History Museum ). It is considered a model for mid-sized regional museums. The Broadway Center for the Performing Arts is home to three theaters, two of which are on the National Register of Historic Places. Performing within the three theaters are several performing arts organizations, including the Tacoma Opera, Tacoma Symphony Orchestra, Northwest Sinfionetta, Tacoma City Ballet, Tacoma Concert Band, Tacoma Philharmonic, Tacoma Youth Symphony, Theatre Northwest, and Puget Sound Revels, one of ten Revels organizations nationwide. Tacoma's Pantages Theater, a remnant of the vaudeville circuit founded by Alexander Pantages . The Tacoma Film Festival [59] takes place annually at the Grand Cinema. [60] Tacoma is home to the first ever legal marijuana farmers market . [61] [62] [63] The downtown Tacoma farmers' market runs every Thursday, from May through September, in the Theatre District. [64] There are also seasonal farmers markets in the Proctor District (along Sixth Avenue ), [65] and in South Tacoma. [66] Tacoma hosts part of the annual four-part Daffodil Parade , which takes place every April in Tacoma, Puyallup , Sumner , and Orting . Shakespeare in the Parking Lot [67] celebrated its 15th anniversary in 2014. Its motto is "taking the fear out of Shakespeare". They offer both educational opportunities and inspired theater in and around Tacoma. Fort Nisqually is a prominent local attraction featuring historical reenactments. The Tacoma Police Department is the site of a public memorial for officers, dominated by the sculptures "Memories in Blue" and "For All They Gave", by James Kelsey . Mass media [ edit ] 
+
+The city's major daily newspaper is The News Tribune , a subsidiary of McClatchy Newspapers since 1986. Its circulation is about 85,000 (100,000 on Sundays), making it the third-largest newspaper in the state of Washington. A daily newspaper has been in circulation in Tacoma since 1883. Between 1907 and 1918, four dailies were published: The Tacoma Ledger , The News , The Tacoma Tribune , and The Tacoma Times . 
+
+Tacoma receives Seattle-area TV and radio stations. 
+
+Tacoma is home to KBTC Public Television, a PBS member station serving viewers throughout western Washington. KBTC is housed at the former home of long-time Tacoma broadcaster, KSTW. The property was purchased from KSTW when that station moved to Renton in 2001. It broadcasts on digital channel 27, (28.1, 28.2, MHz Worldview, and 28.3, TVW). KBTC Public Television is a service of Bates Technical College. 
+
+Local papers include the Tacoma Weekly , the legal paper Tacoma Daily Index , the South Sound alternative newsweekly Weekly Volcano and the military publication the Fort Lewis Ranger . [68] Sports [ edit ] Club Sport Founded League Venue Tacoma Rainiers Baseball 1960 Pacific Coast League Cheney Stadium Tacoma Tide Basketball 2005 International Basketball League Stadium High School Seattle Sounders FC U-23 Soccer 2006 Premier Development League Curtis Senior High School Tacoma Stars Indoor Soccer 2010 Professional Arena Soccer League Tacoma Soccer Center Tacoma Cobras Football 2009 Professional Developmental Football League Franklin Pierce Stadium 
+
+The city has struggled to keep a minor league hockey franchise. The Tacoma Rockets of the WHL were lost to relocation and moved to Kelowna, British Columbia. The Tacoma Sabercats of the former West Coast Hockey League closed their doors due to financial woes. The Tacoma Dome still hosts traveling sports and other events, such as pro wrestling, figure skating tours, and the Harlem Globetrotters . At one point, the Tacoma Dome was home to a professional indoor soccer team, the Tacoma Stars . For the 1994–95 season, the Seattle SuperSonics played in the Tacoma Dome while the Seattle Center Coliseum was renovated (and renamed KeyArena ). The Tacoma Dome also hosted the 1988 and 1989 Women's NCAA Final Four. Tacoma is home to the all-female flat track roller derby league Dockyard Derby Dames, [69] which fields an away team. [70] Notable Tacomans [ edit ] See also: Category:People from Tacoma, Washington Neighborhoods [ edit ] Tacoma with a view of Mount Rainier . The cupola of the First Presbyterian Church in the Stadium District. Houses in the South J Street Historic District. Central Tacoma Hilltop (shared with Downtown) Delong Park The Wedge McCarver (shared with New Tacoma/Downtown) Bryant College Heights New Tacoma Downtown Tacoma St. Helens Neighborhood Theater District Central Business District Warehouse/Brewery District Foss Waterway The McCarver Neighborhood (shared with Central Tacoma/Hilltop) Stadium District (shared with North Tacoma) Dome District Nalley Valley Port of Tacoma East Tacoma McKinley Hill Salishan Hillsdale Swan Creek Strawberry Hill North Tacoma North Slope Old Tacoma Proctor District Prospect Hill Ruston (separately incorporated) Ruston Way Sixth Ave District , Tacoma, Washington Skyline Stadium District (shared with Downtown) Westgate (shared with West Tacoma) Yakima Hill Northeast Tacoma Browns Point (unincorporated) Crescent Heights South End Fern Hill Lincoln International District Wapato Stewart Heights Larchmont South Tacoma Edison South Park Manitou Oakland/Madrona Tacoma Mall West Tacoma Highlands Narrows Titlow Salmon Beach Westgate (shared with North Tacoma) Sister cities [ edit ] This section does not cite any sources . Please help improve this section by adding citations to reliable sources . Unsourced material may be challenged and removed . (November 2015) ( Learn how and when to remove this template message ) Country City Year of Partnership Japan Kitakyushu , Fukuoka Prefecture 1959 South Korea Gunsan 1978 Israel Kiryat Motzkin 1979 Norway Ålesund 1986 Russia Vladivostok 1992 People's Republic of China Fuzhou , Fujian 1994 Philippines Davao City 1994 South Africa George 1997 Cuba Cienfuegos 2000 Taiwan Taichung 2000 Morocco El Jadida 2007 France Biot 2012 Croatia Hvar 2015 Chile La Pintana 2016 See also [ edit ] Seattle portal Washington portal Aroma of Tacoma Tacoma Public Library References [ edit ] ^ a b "US Gazetteer files 2010" . United States Census Bureau . Archived from the original on 2012-01-24 . Retrieved 2012-12-19 . ^ a b "American FactFinder" . United States Census Bureau . Retrieved 2012-12-19 . ^ a b "Population Estimates" . United States Census Bureau . Retrieved June 13, 2016 . ^ "Zip Code Lookup" . USPS . Retrieved December 31, 2014 . ^ "US Board on Geographic Names" . United States Geological Survey . 2007-10-25 . Retrieved 2008-01-31 . ^ "Find a County" . National Association of Counties. Archived from the original on 2011-05-31 . Retrieved 2011-06-07 . ^ "2010 Census Redistricting Data (Public Law 94-171) Summary File" . American FactFinder . United States Census Bureau . Archived from the original on 21 July 2011 . Retrieved 16 September 2012 . ^ "Mostlivable.org" . [ dead link ] ^ "100 Best Walking Cities" . Prevention.com . 2006-03-09 . Retrieved 2008-03-27 . ^ Sound Politics: Garbage In, Garbage Out ^ "Tacoma ranks as most stressful U.S. city" . CNN.com . Reuters . 2004-01-10 . Retrieved 2008-03-27 . ^ Gallacci, Caroline Denyer (2001). The City of Destiny and the South Sound: An Illustrated History of Tacoma and Pierce County . Carlsbad, California: Heritage Media Corp. p. 49. ^ a b Hermida, Arianne. "IWW Yearbook 1907" . IWW History Project . University of Washington . Retrieved 5 May 2016 . ^ "To Whom It May Concern" . Industrial Union Bulletin . 1 (20). 13 July 1907. p. 2. ^ "The Strike at Tacoma" . Industrial Union Bulletin . 1 (12). 18 May 1907. p. 2. ^ Hollywood-on-the-Tideflats, 1938. Richard Studio Collection, Northwest Room Tacoma Public Library, Tacoma, WA. ^ U.S.S. Lexington provides electricity to Tacoma beginning about December 17, 1929 ^ In late 1929, Tacoma had no electricity; the USS Lexington brought the power ^ Mullins, William H. The Depression and the Urban West Coast, 1929–1933: Los Angeles, San Francisco, Seattle, and Portland. Indiana : Indiana University Press, 1991. ^ Schmid, Calvin F. "Social Trends in Seattle, 1944." University of Washington Publications in The Social Sciences Vol 14 (1944): 286-293. http://depts.washington.edu/depress/resources/Jessie%20Jackson_The%20Story%20of%20Hooverville/Jackson_Story%20of%20Hooverville.pdf ^ Anderson, Hilary. "A Tale of Two Shantytowns." Columbia: The Magazine of Northwest History 26, no. 2 (Summer 2012): 10-14. Academic Search Complete, EBSCOhost. ^ Tacoma News Tribune . Tacoma Hooverville Archive, 04/09/1940 – 07/24/1974. Northwest Room Special Collections and Archives, Tacoma Public Library. Tacoma, Washington. ^ Tacoma Daily Ledger . Tacoma Hooverville Archive, 07/18/1924 – 04/09/1940. Northwest Room Special Collections and Archives, Tacoma Public Library. Tacoma, Washington. ^ "Famous Cases: The Weyerhaeuser Kidnapping" . Federal Bureau of Investigation . Archived from the original on 2008-03-12 . Retrieved 2008-03-27 . ^ Erik Hanberg, An Exercise in Hope, Faith, Vision, and Guts , Weekly Volcano (Tacoma), December 24, 2008. Accessed online 2009-12-04. ^ Lawrence W. Cheek, On Architecture: Tacoma's downtown renaissance stumbles with the bland Marriott Courtyard , Seattle Post-Intelligencer , April 5, 2005. Accessed online 2009-12-05. ^ Dugger, Ronnie (1988-11-07). "Counting Votes". New Yorker . ^ "Off-Duty Soldiers Trade Gunfire At a House Linked to Drug Sales". The New York Times . 1989-09-27. pp. A23. ^ Robinson, Sean (2009-09-27). "Ash Street shootout: The night that changed Tacoma's Hilltop" . The News Tribune . [ permanent dead link ] ^ "Mayors Against Illegal Guns: Coalition Members" . Archived from the original on 2008-02-19 . Retrieved 2008-03-27 . ^ "America's most livable places" . USA Today . 2004-04-12 . Retrieved 2010-05-24 . ^ Greater Tacoma Convention and Trade Center ^ Broadway Center For the Performing Arts ^ "US Gazetteer files: 2010, 2000, and 1990" . United States Census Bureau . 2011-02-12 . Retrieved 2011-04-23 . ^ http://www.nws.noaa.gov/climate/xmacis.php?wfo=sew ^ "Monthly Averages for Tacoma, WA – Temperature and Precipitation" . The Weather Channel. ^ "Annual Estimates of the Resident Population for Incorporated Places: April 1, 2010 to July 1, 2015" . Retrieved July 2, 2016 . ^ Moffatt, Riley. Population History of Western U.S. Cities Towns, 1850–1990 . Lanham : Scarecrow, 1996, 333. ^ United States Census Bureau . "Census of Population and Housing" . Archived from the original on May 11, 2015 . Retrieved July 25, 2014 . ^ "Tacoma (city), Washington" . State County QuickFacts . U.S. Census Bureau. ^ "City of Tacoma – City Council" . CityOfTacoma.org . Retrieved 2008-03-27 . ^ http://www.thenewstribune.com/topstory/story/873008.html ^ "City of Takoma CAFR" (PDF) . Retrieved November 17, 2011 . ^ City of Tacoma Community Economic Development Department, GIS Analysis Data Services (2009-10-08). "City of Tacoma Streets" (PDF) . Retrieved 2009-10-15 . ^ Sherman, Chris (2006-01-12). "Court Ends Fight Over Dams" . Foundation for Water and Energy Education, quoting The News Tribune . Retrieved 2008-03-27 . ^ "Docket for 05-434" . ^ Metro Parks Tacoma ^ On the waterfront :: Winter 2008 :: Washington State Magazine ^ Metro Parks Tacoma ^ http://www.exit133.com/6223/pagoda-at-point-defiance-park-on-fire-this-morning ^ Metro Parks Tacoma ^ MetroParksTacoma – Ethnic Fest ^ TacomaPride – Pride Festival ^ "History intact at renovated Lincoln High" . The News Tribune . 2007-03-22. Archived from the original on 2007-09-30 . Retrieved 2008-03-27 . ^ "It's awesome, say Abes" . The News Tribune . 2007-09-16. [ permanent dead link ] ^ Covenant High School ^ Faith Presbyterian Church ^ YouTube – waltzingmatsuda ^ Facebook – Tacoma Film Festival ^ Tacoma Film Festival official site ^ "Tacoma Cannabis Farmers Market" , Farmer's Market Online. Retrieved 1/27/2013. ^ "About Us" , Cannabis Farmer's Market. Retrieved 1/27/2013. ^ "Pot plants, hash cakes and jars of marijuana: Hundreds roll up for first cannabis farmers market" , Daily Mail . Retrieved 1/27/2013. ^ Tacoma Farmers Market – Broadway Farmers Market ^ Tacoma Farmers Market – Sixth Avenue Farmers Market ^ Tacoma Farmers Market – South Tacoma Farmers Market ^ Facebook – Shakespeare in the Parking Lot ^ Fort Lewis Ranger ^ http://www.dockyardderbydames.com/ ^ Utah Local News – Salt Lake City News, Sports, Archive – The Salt Lake Tribune External links [ edit ] Wikimedia Commons has media related to Tacoma, Washington . Wikivoyage has a travel guide for Tacoma, Washington . Wikisource has the text of the 1911 Encyclopædia Britannica article Tacoma . Official site of City of Tacoma Port of Tacoma Tacoma-Pierce County Chamber of Commerce Destiny of Tacoma Website "Tacoma -- Thumbnail History", Online Encyclopedia of Washington State History Tacoma Regional Convention and Visitor Bureau Alvin H. Waite Photography Collection Prolific Photographer of Tacoma; University of Washington Library Tacoma, Washington at DMOZ v t e Municipalities and communities of Pierce County, Washington , United States County seat : Tacoma Cities Auburn ‡ Bonney Lake Buckley DuPont Edgewood Enumclaw ‡ Fife Fircrest Gig Harbor Lakewood Milton ‡ Orting Pacific ‡ Puyallup Roy Ruston Sumner Tacoma University Place Towns Carbonado Eatonville South Prairie Steilacoom Wilkeson CDPs Alder Alderton Anderson Island Artondale Ashford Browns Point Canterwood Clear Lake Clover Creek Crocker Dash Point Elbe Elk Plain Fife Heights Fort Lewis Fox Island Frederickson Graham Greenwater Herron Island Home Kapowsin Ketron Island Key Center La Grande Lake Tapps Longbranch Maplewood McChord AFB McKenna McMillin Midland North Fort Lewis North Puyallup Parkland Prairie Heights Prairie Ridge Purdy Raft Island Rosedale South Creek South Hill Spanaway Stansberry Lake Summit Summit View Vaughn Waller Wauna Wollochet Other 
+
+unincorporated 
+
+communities Bee Burnett Cromwell Electron Firwood Gertrude Glencove Lakebay Leber McNeil Island Paradise Tehaleh Indian reservation Muckleshoot ‡ Puyallup Military bases Joint Base Lewis–McChord ( Fort Lewis , McChord Field ) Ghost towns Fairfax Hillhurst Melmont Footnotes ‡This populated place also has portions in an adjacent county or counties v t e State of Washington Olympia (capital) Topics Cities Towns Census-designated places Federal lands Indian reservations History Geography Earthquakes People Music Parks Highways Symbols Visitor attractions Society Culture Crime Demographics Economy Education Politics Politics Government Law Governors Legislature Legislative districts Senate House Legislative initiatives Popular initiatives Congressional delegation Congressional districts City governments State agencies Agriculture Archaeology and Historic Preservation Commerce Corrections Early Learning Ecology Employment Security Enterprise Services Financial Institutions Fish and Wildlife Health Higher Education Coordinating Board Information Services Labor and Industries Licensing Military Natural Resources Parks Institute for Public Policy Public Stadium Authority Public Disclosure Commission Retirement Systems Revenue Services for the Blind Social and Health Services Transportation Utilities and Transportation Regions Western Kitsap Peninsula Long Beach Peninsula Olympic Peninsula Puget Sound San Juan Islands Skagit Valley Eastern / Inland Central Washington Columbia Plateau Methow Valley Okanogan Country Palouse Yakima Valley Shared Cascade Range Columbia Gorge Columbia River Largest 
+
+cities Seattle Spokane Tacoma Vancouver Bellevue Kent Everett Renton Yakima Federal Way Spokane Valley Kirkland Bellingham Kennewick Auburn Pasco Marysville Lakewood Redmond Shoreline Richland Metropolitan areas Greater Seattle Greater Spokane Tri-Cities Wenatchee metropolitan area Greater Portland and Vancouver Counties Adams Asotin Benton Chelan Clallam Clark Columbia Cowlitz Douglas Ferry Franklin Garfield Grant Grays Harbor Island Jefferson King Kitsap Kittitas Klickitat Lewis Lincoln Mason Okanogan Pacific Pend Oreille Pierce San Juan Skagit Skamania Snohomish Spokane Stevens Thurston Wahkiakum Walla Walla Whatcom Whitman Yakima v t e Seattle metropolitan area Central cities Seattle Tacoma Bellevue Everett Outer cities Bremerton Mount Vernon Oak Harbor Silverdale Anacortes Shelton Olympia Central counties King Pierce Snohomish Outer counties Thurston Kitsap Skagit Island Mason v t e Mayors of cities with populations exceeding 100,000 in Washington State capital : Stephen Buxbaum ( Olympia ) Ed Murray 
+
+( Seattle ) David Condon 
+
+( Spokane ) Marilyn Strickland 
+
+( Tacoma ) Tim Leavitt 
+
+( Vancouver ) Grant Degginger 
+
+( Bellevue ) Suzette Cooke 
+
+( Kent ) Ray Stephanson 
+
+( Everett ) Other states AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY v t e All-America City Award: Hall of Fame Akron, Ohio Anchorage, Alaska Asheville, North Carolina Baltimore, Maryland Boston, Massachusetts Cincinnati, Ohio Cleveland, Ohio Columbus, Ohio Dayton, Ohio Des Moines, Iowa Edinburg, Texas Fayetteville, North Carolina Fort Wayne, Indiana Fort Worth, Texas Gastonia, North Carolina Grand Island, Nebraska Grand Rapids, Michigan Hickory, North Carolina Independence, Missouri Kansas City, Missouri Laurinburg, North Carolina New Haven, Connecticut Peoria, Illinois Philadelphia, Pennsylvania Phoenix, Arizona Roanoke, Virginia Rockville, Maryland Saint Paul, Minnesota San Antonio, Texas Seward, Alaska Shreveport, Louisiana Tacoma, Washington Toledo, Ohio Tupelo, Mississippi Wichita, Kansas Worcester, Massachusetts Authority control WorldCat Identities VIAF : 234980080 LCCN : n79071274 GND : 4238523-4 (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Tacoma,_Washington oldid=744557609 " Categories : Tacoma, Washington Cities in the Seattle metropolitan area Cities in Washington (state) Cities in Pierce County, Washington County seats in Washington (state) Port settlements in Washington (state) Populated places established in 1864 Populated places on Puget Sound Ukrainian communities in the United States 1864 establishments in Washington Territory Hidden categories: All articles with dead external links Articles with dead external links from June 2016 Articles with dead external links from September 2016 Articles with permanently dead external links Coordinates on Wikidata Articles using small message boxes Wikipedia articles needing copy edit from September 2016 All articles needing copy edit Articles needing additional references from November 2015 All articles needing additional references Commons category with local link same as on Wikidata Articles with DMOZ links Wikipedia articles with VIAF identifiers Wikipedia articles with LCCN identifiers Wikipedia articles with GND identifiers Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Wikivoyage Languages العربية Bân-lâm-gú Беларуская Беларуская (тарашкевіца)‎ Български Brezhoneg Català Čeština Cymraeg Deutsch Ελληνικά Español Esperanto فارسی Français Frysk Gaeilge Gàidhlig Galego 한국어 Hrvatski Bahasa Indonesia Italiano עברית Қазақша Kernowek Kreyòl ayisyen Lumbaart Македонски Malagasy Nederlands 日本語 Norsk bokmål پنجابی Polski Português Română Русский Scots Simple English Slovenčina Српски / srpski Srpskohrvatski / српскохрватски Suomi Svenska Tagalog Türkçe Українська اردو Tiếng Việt Volapük Winaray 粵語 中文 Edit links This page was last modified on 16 October 2016, at 01:03. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.912", "walltime": "1.134", "ppvisitednodes": { "value": 9692, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 273650, "limit": 2097152 }, "templateargumentsize": { "value": 27235, "limit": 2097152 }, "expansiondepth": { "value": 16, "limit": 40 }, "expensivefunctioncount": { "value": 10, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 802.387 1 -total", " 24.06% 193.062 1 Template:Reflist", " 20.87% 167.470 1 Template:Infobox_settlement", " 16.71% 134.112 2 Template:Infobox", " 13.21% 106.005 24 Template:Cite_web", " 8.15% 65.426 1 Template:Weather_box", " 6.40% 51.324 11 Template:Convert", " 6.39% 51.278 8 Template:Navbox", " 5.86% 47.036 1 Template:US_Census_population", " 3.83% 30.763 1 Template:Copy_edit-section" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.300", "limit": "10.000" }, "limitreport-memusage": { "value": 11729637, "limit": 52428800 } }, "cachereport": { "origin": "mw1305", "timestamp": "20161021013714", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw1240"});});

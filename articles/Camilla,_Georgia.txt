@@ -1,0 +1,117 @@
+Camilla, Georgia - Wikipedia document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" ); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Camilla,_Georgia","wgTitle":"Camilla, Georgia","wgCurRevisionId":740119716,"wgRevisionId":740119716,"wgArticleId":110260,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from September 2013","Coordinates on Wikidata","All articles with unsourced statements","Articles with unsourced statements from April 2015","Wikipedia articles in need of updating from November 2012","All Wikipedia articles in need of updating","Articles needing additional references from December 2012","All articles needing additional references","Cities in Georgia (U.S. state)","Cities in Mitchell County, Georgia","County seats in Georgia (U.S. state)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Camilla,_Georgia","wgRelevantArticleId":110260,"wgRequestId":"WAmgyQpAMEsAAKe3ovQAAAAD","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCoordinates":{"lat":31.230277777778,"lon":-84.209166666667},"wgWikibaseItemId":"Q2872512","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user.cssprefs":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0j3lz3q",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) { mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/; });mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.interface","ext.quicksurveys.init","skins.vector.js"]);}); Camilla, Georgia From Wikipedia, the free encyclopedia Jump to: navigation , search Camilla, Georgia City Camilla City Hall 
+
+Location in Mitchell County and the state of Georgia Coordinates: 31°13′49″N 84°12′33″W ﻿ / ﻿ 31.23028°N 84.20917°W ﻿ / 31.23028; -84.20917 Coordinates : 31°13′49″N 84°12′33″W ﻿ / ﻿ 31.23028°N 84.20917°W ﻿ / 31.23028; -84.20917 Country United States State Georgia County Mitchell Area • Total 6.1 sq mi (15.8 km 2 ) • Land 6.1 sq mi (15.8 km 2 ) • Water 0 sq mi (0 km 2 ) Elevation 177 ft (54 m) Population (2010) • Total 5,360 • Density 880/sq mi (340/km 2 ) Time zone Eastern (EST) ( UTC-5 ) • Summer ( DST ) EDT ( UTC-4 ) ZIP code 31730 Area code(s) 229 FIPS code 13-12624 [1] GNIS feature ID 0331312 [2] Website http://www.camillaga.net/ 
+
+Camilla is a city in Mitchell County , Georgia , United States, and is its county seat . [3] As of the 2010 census , the city had a population of 5,360. [4] 
+
+Contents 1 History 2 Geography 2.1 Climate 3 Demographics 4 Education 4.1 Mitchell County School District 4.2 Charter school 4.3 Private education 5 Law and government 6 Transportation 7 Notable people 8 References 9 External links 
+
+History [ edit ] 
+
+The city was incorporated in 1858. The name Camilla was chosen in honor of the granddaughter of Henry Mitchell, an American Revolutionary War general for whom Mitchell County was named. [5] 
+
+Camilla and Mitchell County were originally Creek country surrendered to the United States in the 1814 Treaty at Fort Jackson. Georgia divided the land ceded by Native Americans into lots to be given away in land lotteries. The lottery of 1820 awarded lands covering much of the southwest section of the state (applying only to land south of the future Lee County line and extending west to Chattahoochee and east to settled counties in east Georgia), including the area later known as Mitchell County. Despite having access to free land, few people moved to the region. Citizens hesitated to improve land, according to an early twentieth-century history the region, “"which God Almighty had left in an unfinished condition." It took approximately forty years (1820–1857) for the area to obtain its necessary legal population to become a separate county, after which Camilla became the county’s seat. [6] 
+
+Camilla became the site of a racially motivated political riot on Saturday, September 19, 1868. Determined to promote political and social reform with an organized rally, 150 [6] –300 freedmen , along with Republican political candidates, marched toward the town’s courthouse square for the rally. [7] The local sheriff and " citizens committee " in the majority-white town warned the black and white activists of the impending violence and demanded that they forfeit their guns, even though carrying weapons was customary at the time. [7] The marchers refused to give up their guns and continued to the courthouse square, where a group of local whites, quickly deputized by the sheriff, fired upon them. This assault forced the Republicans and freedmen to retreat as locals gave chase into the swamps, killing an estimated nine to fifteen of the black rally participants while wounding forty others. "Whites proceeded through the countryside over the next two weeks, beating and warning Negroes that they would be killed if they tried to vote in the coming election." [7] The Camilla Massacre was the culmination of smaller acts of violence committed by white inhabitants that had plagued southwest Georgia since the end of the Civil War. [6] (pp. 1–2) 
+
+On 23 July 1962, a group of civil rights activists tried to visit fellow demonstrators from Albany, Georgia that had been jailed in Camilla. While the rally took place, Marion King, wife of Albany Movement 's vice president Slater King, was beaten to the ground and kicked by Camilla police guards until she was unconscious. Mrs. King was pregnant at the time and had her young children with her. She suffered a miscarriage after the ordeal. [8] The 2012 song Camilla from the eponymous album by Caroline Herring pays a tribute to Mrs. King's memory. [9] 
+
+In the early 2000s, the city was hit by two disastrous sets of tornadoes , both occurring in the dark hours of the early morning and both going through roughly the same area. The first outbreak was on February 14, 2000; [10] the second was on March 20, 2003. [11] Geography [ edit ] 
+
+Camilla is located at 31°13′49″N 84°12′33″W ﻿ / ﻿ 31.23028°N 84.20917°W ﻿ / 31.23028; -84.20917 (31.230243, −84.209102). [12] 
+
+According to the United States Census Bureau , the city has a total area of 6.1 square miles (16 km 2 ), of which 0.16% is water. Climate [ edit ] 
+
+The climate in this area is characterized by hot, humid summers and generally mild to cool winters. According to the Köppen Climate Classification system, Camilla has a humid subtropical climate , abbreviated "Cfa" on climate maps. [13] Camilla has a relatively wet climate with high precipitation year round, as typical of the eastern United States. Its southerly latitude in Georgia causes a greater tropical influence resulting in very mild winters in comparison with Atlanta for example. Climate data for Camilla, Georgia Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Year Average high °C (°F) 17 
+
+(62) 19 
+
+(66) 23 
+
+(73) 27 
+
+(80) 31 
+
+(87) 33 
+
+(91) 33 
+
+(92) 33 
+
+(92) 31 
+
+(88) 27 
+
+(81) 22 
+
+(72) 18 
+
+(64) 26 
+
+(79) Average low °C (°F) 4 
+
+(39) 6 
+
+(42) 9 
+
+(48) 12 
+
+(54) 17 
+
+(62) 21 
+
+(69) 22 
+
+(71) 22 
+
+(71) 19 
+
+(67) 13 
+
+(55) 8 
+
+(46) 4 
+
+(40) 13 
+
+(55) Average precipitation mm (inches) 117 
+
+(4.6) 114 
+
+(4.5) 140 
+
+(5.5) 104 
+
+(4.1) 91 
+
+(3.6) 130 
+
+(5.1) 150 
+
+(5.9) 122 
+
+(4.8) 99 
+
+(3.9) 56 
+
+(2.2) 80 
+
+(3) 100 
+
+(4) 1,306 
+
+(51.4) Source: Weatherbase [14] Demographics [ edit ] Historical population Census Pop. %± 1870 289 — 1880 672 132.5% 1890 866 28.9% 1900 1,051 21.4% 1910 1,827 73.8% 1920 2,136 16.9% 1930 2,025 −5.2% 1940 2,588 27.8% 1950 3,745 44.7% 1960 4,753 26.9% 1970 4,987 4.9% 1980 5,414 8.6% 1990 5,008 −7.5% 2000 5,669 13.2% 2010 5,360 −5.5% Est. 2015 5,089 [15] −5.1% U.S. Decennial Census [16] 
+
+As of the census [1] of 2000, there were 5,669 people, 1,994 households, and 1,405 families residing in the city. The population density was 929.4 people per square mile (358.8/km²). There were 2,128 housing units at an average density of 348.9 per square mile (134.7/km²). The racial makeup of the city was 65.23% African American , 32.30% White , 0.12% Native American , 0.44% Asian , 0.04% Pacific Islander , 1.25% from other races , and 0.62% from two or more races. Hispanic or Latino of any race were 2.20% of the population. 
+
+There were 1,994 households out of which 34.1% had children under the age of 18 living with them, 33.5% were married couples living together, 33.1% had a female householder with no husband present, and 29.5% were non-families. 26.3% of all households were made up of individuals and 11.4% had someone living alone who was 65 years of age or older. The average household size was 2.76 and the average family size was 3.32. 
+
+In the city the population was spread out with 30.3% under the age of 18, 10.6% from 18 to 24, 26.8% from 25 to 44, 18.9% from 45 to 64, and 13.5% who were 65 years of age or older. The median age was 31 years. For every 100 females there were 81.1 males. For every 100 females age 18 and over, there were 73.0 males. 
+
+The median income for a household in the city was $22,485, and the median income for a family was $24,232. Males had a median income of $23,581 versus $20,000 for females. The per capita income for the city was $13,117. About 34.3% of families and 37.7% of the population were below the poverty line , including 54.9% of those under age 18 and 20.0% of those age 65 or over. Education [ edit ] Mitchell County School District [ edit ] 
+
+The Mitchell County School District holds grades pre-school to grade twelve, and consists of two elementary schools, a middle school, a high school, and a charter school. [17] The district has 176 full-time teachers and over 2,855 students. [18] The Mitchell County Head Start Center opened in 2001. District schools include: [ citation needed ] South Mitchell County Elementary School North Mitchell County Elementary School Mitchell County Middle School Mitchell County High School Charter school [ edit ] Baconton Community Charter School [ citation needed ] Private education [ edit ] Westwood Schools [ citation needed ] Law and government [ edit ] This section needs to be updated . Please update this article to reflect recent events or newly available information. (November 2012) 
+
+The legislative authority of the government of the City of Camilla is vested in the six-member Council. Council members serve for terms of four years and until their respective successors are elected and qualified. Three members are elected from and by the voters of Council District No. 1, and three members are elected from and by the voters of Council District No. 2. Mayor Mayor Rufus Davis (term expires January 11, 2020) Councilmembers W.D. Palmer, III (District 2; term expires January 8, 2018) Annie Doris Willingham (District 1; term expires January 8, 2018) Derek J. Hadley (District 1; term expires January 11, 2016) Ronald Hays (District 2; term expires January 11, 2016) Vivian G. Smith (District 1; term expires January 8, 2018) Lewis Bryant Campbell, Jr (District 2; term expires January 8, 2018) Transportation [ edit ] U.S. Highway 19 is the major travel route through the city, connecting Camilla to Albany in the north and Thomasville to the south Georgia State Route 112 connects Cairo to the south and Sylvester to the northeast Georgia State Route 37 connects Moultrie to the east Notable people [ edit ] This section needs additional citations for verification . Please help improve this article by adding citations to reliable sources . Unsourced material may be challenged and removed. (December 2012) ( Learn how and when to remove this template message ) Kathryn Stripling Byer (born 1944) – American poet and teacher; North Carolina Poet Laureate 2005–2009 Oscar Branch Colquitt (1861–1940) – former Governor of Texas [19] Danny Copeland (born 1966) – NFL defensive back ; Super Bowl winner with Washington Redskins [20] Tiger Flowers (1895–1927) – first black middleweight boxing champion of the world James Griffin (born 1961) – ex-NFL safety with Detroit Lions [21] Jumaine Jones (born 1979), professional basketball forward for Bnei HaSharon of Israel Fred Nixon (born 1958) – ex-NFL player with Green Bay Packers [22] Orson Swindle (born 1937) – US Marine Corps Colonel and former POW with John McCain in Vietnam References [ edit ] ^ a b "American FactFinder" . United States Census Bureau . Retrieved 2008-01-31 . ^ "US Board on Geographic Names" . United States Geological Survey . 2007-10-25 . Retrieved 2008-01-31 . ^ "Find a County" . National Association of Counties . Retrieved 2011-06-07 . ^ http://quickfacts.census.gov/qfd/states/13/1312624.html ^ camillaga.com Retrieved September 11, 2009. ^ a b c Joshua Butler, "'Almost too Terrible to Believe': The Camilla, Georgia Race Riot and Massacre, September 1868," (M.A. Thesis: Valdosta State University, 2012), pp. 17–18 (Content taken from the work with permission of the author). ^ a b c Johnson, Nicholas (2014). Negroes and The Gun: the black tradition of arms . Amherst, New York: Prometheus. pp. 90–92. ISBN 978-1-61614-839-3 . ^ "WSB-TV newsfilm clip of Marion King, interviewed after her beating by Camilla police" . Civil Rights Digital Library . Retrieved 2015-12-12 . ^ "The Story Behind Camilla" . Caroline Herring . Retrieved 2015-12-12 . ^ 10.5 SOUTHWEST GEORGIA TORNADO OUTBREAK OF 13–14 FEBRUARY 2000 – noaa.gov Retrieved September 11, 2009. ^ Tornado Outbreak of March 20, 2003 – noaa.gov Retrieved September 11, 2009. ^ "US Gazetteer files: 2010, 2000, and 1990" . United States Census Bureau . 2011-02-12 . Retrieved 2011-04-23 . ^ Climate Summary for Camila, Georgia ^ "Weatherbase.com" . Weatherbase. 2013. Retrieved on October 15, 2013. ^ "Annual Estimates of the Resident Population for Incorporated Places: April 1, 2010 to July 1, 2015" . Retrieved July 2, 2016 . ^ "Census of Population and Housing" . Census.gov . Retrieved June 4, 2015 . ^ Georgia Board of Education , Retrieved June 24, 2010. ^ School Stats , Retrieved June 24, 2010. ^ "Texas Governor Oscar Branch Colquitt" . National Governors Association . Retrieved December 21, 2012 . ^ "Danny Lamar Copeland" . databaseFootball.com . Retrieved December 21, 2012 . ^ "James Victor Griffin" . databaseFootball.com . Retrieved December 21, 2012 . ^ "Frederick Lenar Nixon" . databaseFootball.com . Retrieved December 21, 2012 . External links [ edit ] City of Camilla official website Camilla Chamber of Commerce Unofficial Camilla history website Mitchell County official website Civil Unrest in Camilla, Georgia, 1868 : Reconstruction, Republicanism, and Race in the Digital Library of Georgia [1] ' Almost too Terrible to Believe': The Camilla, Georgia Race Riot and Massacre, September 1868 v t e Municipalities and communities of Mitchell County, Georgia , United States County seat : Camilla Cities Baconton Camilla Meigs ‡ Pelham Town Sale City Unincorporated 
+
+communities Adelaide Akridge Branchville Cotton County Line DeWitt Flint Greenough Greenwood Hinsonton Hopeful Laney Lester Pebble City Petty Rogerville Saco Vada ‡ Footnotes ‡This populated place also has portions in an adjacent county or counties (window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"teahouse\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");mw.log.warn("Gadget \"featured-articles-links\" styles loaded twice. Migrate to type=general. See \u003Chttps://phabricator.wikimedia.org/T42284\u003E.");}); Retrieved from " https://en.wikipedia.org/w/index.php?title=Camilla,_Georgia oldid=740119716 " Categories : Cities in Georgia (U.S. state) Cities in Mitchell County, Georgia County seats in Georgia (U.S. state) Hidden categories: Use mdy dates from September 2013 Coordinates on Wikidata All articles with unsourced statements Articles with unsourced statements from April 2015 Wikipedia articles in need of updating from November 2012 All Wikipedia articles in need of updating Articles needing additional references from December 2012 All articles needing additional references Navigation menu Personal tools Not logged in Talk Contributions Create account Log in Namespaces Article Talk Variants Views Read Edit View history More Search Navigation Main page Contents Featured content Current events Random article Donate to Wikipedia Wikipedia store Interaction Help About Wikipedia Community portal Recent changes Contact page Tools What links here Related changes Upload file Special pages Permanent link Page information Wikidata item Cite this page Print/export Create a book Download as PDF Printable version In other projects Wikimedia Commons Languages العربية Bân-lâm-gú Català Čeština Español Euskara فارسی Français 한국어 Ido Italiano Kreyòl ayisyen Nederlands नेपाल भाषा Oʻzbekcha/ўзбекча Polski Português Српски / srpski Srpskohrvatski / српскохрватски Svenska اردو Volapük Edit links This page was last modified on 19 September 2016, at 04:59. Text is available under the Creative Commons Attribution-ShareAlike License ; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy . Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc. , a non-profit organization. Privacy policy About Wikipedia Disclaimers Contact Wikipedia Developers Cookie statement Mobile view (window.RLQ=window.RLQ||[]).push(function(){mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set( { "wgPageParseReport": { "limitreport": { "cputime": "0.480", "walltime": "0.566", "ppvisitednodes": { "value": 6151, "limit": 1000000 }, "ppgeneratednodes": { "value": 0, "limit": 1500000 }, "postexpandincludesize": { "value": 95821, "limit": 2097152 }, "templateargumentsize": { "value": 7760, "limit": 2097152 }, "expansiondepth": { "value": 23, "limit": 40 }, "expensivefunctioncount": { "value": 4, "limit": 500 }, "entityaccesscount": { "value": 1, "limit": 400 }, "timingprofile": [ "100.00% 493.882 1 -total", " 31.39% 155.054 1 Template:Infobox_settlement", " 24.24% 119.709 2 Template:Infobox", " 19.35% 95.574 1 Template:Columns-list", " 18.35% 90.624 1 Template:Reflist", " 13.05% 64.449 13 Template:Cite_web", " 11.37% 56.152 1 Template:Weather_box", " 11.18% 55.219 3 Template:Citation_needed", " 10.31% 50.913 3 Template:Fix", " 6.72% 33.202 1 Template:US_Census_population" ] }, "scribunto": { "limitreport-timeusage": { "value": "0.187", "limit": "10.000" }, "limitreport-memusage": { "value": 7129907, "limit": 52428800 } }, "cachereport": { "origin": "mw1200", "timestamp": "20161021034907", "ttl": 2592000, "transientcontent": false } } } );}); (window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":61,"wgHostname":"mw1240"});});
