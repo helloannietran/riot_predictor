@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import requests
 # import pandas as pd 
 import numpy as np
+import re
 
 # df = pd.DataFrame()
 
@@ -26,28 +27,24 @@ soup = BeautifulSoup(data)
 
 for li in soup.find_all('li'):
 	if(RepresentsInt(li.get_text()[0:4])):
-		if(li.get_text()[0:4]>=2006):
+		if(int(li.get_text()[0:4])>=2006):
 			for link in li.find_all('a'):
 				if(link.get_text()[0:1]!='['):
 					if(link.get('href')[0:5]=='/wiki'):
 						link_str = "https://en.wikipedia.org" + link.get('href')
 					else:
 						link_str = link.get('href')
-					# print(link_str)
-					np_arr = np.append(np_arr,link_str)
+					if(('riot' in link_str.lower()) or ('unrest' in link_str.lower()) or ('protest' in link_str.lower()) or ('uprising' in link_str.lower())):
+						np_arr = np.append(np_arr,link_str)
 
 print(np_arr.shape)
 np_arr=np_arr[1:]
-print(np_arr)
-# with open('test.txt','wb') as f:
-# # np.savetxt(f,x,fmt='%.5f')
-# 	np.savetxt(f, np_arr, delimiter=',')
 
-fileobj = open('test.csv', mode='wb')
+
+
+fileobj = open('test.txt', mode='w')
 for obj in np_arr:
-	fileobj.write(obj + '\n')
-
-
+	fileobj.write(str(obj) + '\n')
 
 # remove these
 # protest, unrest, riot, uprising
