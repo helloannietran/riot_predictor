@@ -42,12 +42,12 @@ def dehtml(text):
 
 def main():
 
-    with open("test.csv","r") as f:
+    with open("test.txt","r") as f:
         lines = f.read()
         for url in lines.split():
             text = urllib2.urlopen(url).read()
             plain_text = dehtml(text)
-            print url.split('/')[4]
+            print(url.split('/')[4])
             with open(url.split('/')[4]+"."+"txt", "w") as f:
                 f.write(plain_text)
 
