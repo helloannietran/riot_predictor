@@ -4,6 +4,8 @@ from re import sub
 from sys import stderr
 from traceback import print_exc
 import urllib2
+import wikipedia
+import re
 
 class _DeHTMLParser(HTMLParser):
     def __init__(self):
@@ -42,14 +44,22 @@ def dehtml(text):
 
 def main():
 
-    with open("test.csv","r") as f:
+    with open("test.txt","r") as f:
         lines = f.read()
         for url in lines.split():
-            text = urllib2.urlopen(url).read()
-            plain_text = dehtml(text)
-            print url.split('/')[4]
-            with open(url.split('/')[4]+"."+"txt", "w") as f:
-                f.write(plain_text)
+            try:
+            #text = urllib2.urlopen(url).read()
+                y=url.split('/')[4]
+                r1 = wikipedia.page(url.split('/')[4])
+                x= r1.content            
+                #plain_text = dehtml(text)
+                #print url.split('/')[4]
+                with open('articles/' + str(url.split('/')[4])+"."+"txt", "w") as f:
+                    f.write(x.encode('ascii', 'ignore'))
+            except:
+
+                print 'error happened', url
+                pass
 
 if __name__ == '__main__':
     main()
