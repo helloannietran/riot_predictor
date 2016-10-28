@@ -20,7 +20,7 @@ def does_match_group(group, text):
     for word in bag_of_words[group]:
         text = text.lower()
         if text.find(word) is not -1:
-            print word
+            #print word
             return True
     return False
 
@@ -34,6 +34,19 @@ def has_number(text):
     if len (words) > 0:
         return True
     return False
+
+def get_number(group, text):
+    words = word_tokenize(text)
+    words = [word for word in words if word.isdigit()]
+    if len (words) > 0:
+        for word in bag_of_words[group]:
+            text = text.lower()
+            if text.find(word) is not -1:
+                #print word
+                for number in words:
+                    sample = number + " " + word
+                    if text.find(sample) is not -1:
+                        print number
 
 def match_rule_population(text):
     if does_match_group("people", text) and has_number(text):
@@ -118,7 +131,7 @@ class Tokenizer(TokenizerI):
 
 fill_words()
 # generate_paragraphs("example.txt")
-check_for_place("example.txt")
+# check_for_place("example.txt")
 # generate_paragraphs()
 # print does_match_group("riot", "a riot happened in 1996")
 

@@ -30,7 +30,7 @@
 
 'sport': ['sport'],
 
-'people': ['people', 'population', 'crowd', 'community', 'citizen', 'mass', 'group', 'resident']
+'people': ['people', 'population', 'crowd', 'community', 'citizen', 'mass', 'group', 'resident', 'protestor']
 
 
 }
