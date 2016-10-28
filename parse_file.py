@@ -179,6 +179,8 @@ def find_and_write_to_csv_cities():
         for file in all_files:
             most_common = check_for_place(file, 15)
             out_file.write('%s\t %s\t %s\n' %(file, most_common[0][0], str(most_common))) 
+
+find_and_write_to_csv_cities()
 # check_for_place("articles/18_May_Riot.txt")
 # check_for_place("/Users/BARNES_3/Documents/niki/courses/Decision making/riot_predictor/articles/18_May_Riot.txt")
 # check_for_population("example.txt")
