@@ -75,10 +75,9 @@ def get_sentences(group, text):
     for sentence in all_sentences_with_numbers:
         for word in bag_of_words[group]:
             sentence = sentence.lower()
-            for number in words:
-                sample = number + " " + word
-                if sentence.find(sample) is not -1:
-                    sentences.add(sentence)
+            my_regex = r"\b[0-9]+\s" + word
+            if re.search(my_regex, sentence, re.IGNORECASE):
+                sentences.add(sentence)
     print sentences
     
 def get_people_count(group, text):
