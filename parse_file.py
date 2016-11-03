@@ -172,13 +172,25 @@ fill_words()
 
 def find_and_write_to_csv_cities():
 # generate_paragraphs("example.txt")
-    all_files = get_all_files_in_dir('articles/')
-    all_files = ['articles/' + file for file in all_files]
-    with open("results_place.csv", 'w') as out_file:
-
-        for file in all_files:
-            most_common = check_for_place(file, 15)
-            out_file.write('%s\t %s\t %s\n' %(file, most_common[0][0], str(most_common))) 
+    with open("results_place2.csv", 'a') as out_file:
+        for i in xrange(7, 11):
+            directory = 'Riots/riot%d/' % i
+            all_files = get_all_files_in_dir(directory)
+            all_files = [directory + file for file in all_files]
+            bests = {}
+            for file in all_files:
+                # name = file.split("/")[2]
+                # name = name[:len(name)-4]
+                most_common = check_for_place(file, 3)
+                if most_common:
+                    if most_common[0][0] not in bests:
+                        bests[most_common[0][0]] = 0
+                    bests[most_common[0][0]] += most_common[0][1]
+            m = -1
+            for item in bests.keys():
+                if len(item) > 1 and item != '\xe2\x80\x93' and (m == -1 or bests[item] > bests[m]):
+                    m = item
+            out_file.write('%d\t %s \t %s\n' %(i, m, str(bests))) 
 
 find_and_write_to_csv_cities()
 # check_for_place("articles/18_May_Riot.txt")
