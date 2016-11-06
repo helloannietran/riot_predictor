@@ -13,10 +13,10 @@ from os.path import isfile, join
 # propernouns = [word for word,pos in tagged_sent if pos == 'NNP']
 # ...
 def startswith_nonchar(word):
-    special_chars = ['!', '@', '#', '*', '\\', '/', '=', '-', '_', '<', '>', '`', 'riot', '|', '+', 'united', 'states', 'us', 'usa']
+    special_chars = ['!', '(', ')', '"', "'", '.', '}', '{', ':', ';', ',', '$', '%', '^', '&', '@', '#', '*', '\\', '/', '=', '-', '_', '<', '>', '`', 'riot', '|', '+', 'united', 'states', 'us', 'usa']
     # ret_val = False
     for c in special_chars:
-        if word.lower().startswith(c):
+        if word.lower().find(c) > -1:
             return True
     return False
 
@@ -31,9 +31,29 @@ def startswith_nonchar(word):
 #         l2[i] += j
 #     l3 = [(k, l2[k]) for k in l2.keys()]
 #     return l3
+# import nltk
+from nltk.collocations import *
+# >>> bigram_measures = nltk.collocations.BigramAssocMeasures()
+# >>> trigram_measures = nltk.collocations.TrigramAssocMeasures()
+# >>> finder = BigramCollocationFinder.from_words(
+# ...     nltk.corpus.genesis.words('english-web.txt'))
+# >>> finder.nbest(bigram_measures.pmi, 10)  # doctest: +NORMALIZE_WHITESPACE
+# [(u'Allon', u'Bacuth'), (u'Ashteroth', u'Karnaim'), (u'Ben', u'Ammi'),
+#  (u'En', u'Mishpat'), (u'Jegar', u'Sahadutha'), (u'Salt', u'Sea'),
+#  (u'Whoever', u'sheds'), (u'appoint', u'overseers'), (u'aromatic', u'resin'),
+#  (u'cutting', u'instrument')]
+
+
+def find_collocations(words):
+    regex = re.compile('[^a-zA-Z]')
+    words = [re.sub(r'[^\x00-\x7F]+',' ', w).strip() for w in words if not startswith_nonchar(w) and len(w)<20 and w.isalpha()]
+    bigram_measures = nltk.collocations.BigramAssocMeasures()
+    finder = BigramCollocationFinder.from_words(words)
+    return finder.nbest(bigram_measures.pmi, 10)
 
 def find_most_frequent_noun(text, count):
     words = text.split()
+    collocations = find_collocations(words)
     tagged_sent = pos_tag(words)
     regex = re.compile('[^a-zA-Z]')
     tagged_ascii_words = [(re.sub(r'[^\x00-\x7F]+',' ', w[0]).strip(), w[1]) for w in tagged_sent]
@@ -43,14 +63,15 @@ def find_most_frequent_noun(text, count):
     #First parameter is the replacement, second parameter is your input string
 # [('Michael', 'NNP'), ('Jackson', 'NNP'), ('likes', 'VBZ'), ('to', 'TO'), ('eat', 'VB'), ('at', 'IN'), ('McDonalds', 'NNP')]
 
-    propernouns = [word for word,pos in tagged_filtered_words if (pos == 'NNP' and not startswith_nonchar(word))]
+    propernouns = [word for word,pos in tagged_filtered_words if (pos == 'NNP' and not startswith_nonchar(word) and len(word)<20 and word.isalpha())]
 
     # words = word_tokenize(text)
     fdist1 = FreqDist(propernouns)
     most_common = fdist1.most_common(count)
 
+    # print 'coming together: ', collocations
     # print most_common
-    return most_common
+    return most_common, collocations
     # filtered_words = [word for word in word_list if word not in stopwords.words('english')]
 
 bag_of_words = {}
@@ -218,25 +239,47 @@ fill_words()
 def find_and_write_to_csv_cities():
 # generate_paragraphs("example.txt")
     with open("results_place2.csv", 'a') as out_file:
-        for i in xrange(51, 71):
+        for i in [ 71]: #xrange(71, 91):
             directory = 'Riots/riot%d/' % i
             all_files = get_all_files_in_dir(directory)
             all_files = [directory + file for file in all_files]
             bests = {}
+            happening_together = {}
             for file in all_files:
                 # name = file.split("/")[2]
                 # name = name[:len(name)-4]
-                most_common = check_for_place(file, 20)
+                most_common, collocations = check_for_place(file, 20)
+                for c in collocations:
+                    if c[0] not in happening_together:
+                        happening_together[c[0]] = []
+                    if c[1] not in happening_together:
+                        happening_together[c[1]] = []
+                    happening_together[c[0]].append(c[1])
+                    happening_together[c[1]].append(c[0])
                 if most_common:
                     for common_word in most_common:
                         if common_word[0] not in bests:
                             bests[common_word[0]] = 0
                         bests[common_word[0]] += common_word[1]
             m = -1
-            for item in bests.keys():
-                if len(item) > 1 and item != '\xe2\x80\x93' and (m == -1 or bests[item] > bests[m]):
-                    m = item
-            out_file.write('%d\t %s\n' %(i, m)) 
+            bests_list = [(k, bests[k]) for k in bests.keys()]
+            bests_list.sort(key=lambda x: x[1], reverse=True)
+            ans = bests_list[0][0]
+            if bests_list[0][0].lower() == 'new':
+                if 'York' in bests.keys():
+                    ans = 'New York'
+                else:
+                    ans = 'New\t%s' % str(bests_list[0:5]) 
+
+            # if bests[0][0] in happening_together:
+            #     ans = bests[0][0] + ' ' + str(happening_together[bests[0][0]])
+            # for item in bests.keys():
+            #     if len(item) > 1 and (m == -1 or bests[item] > bests[m]):
+            #         m = item
+            # res = bests_list[0:5]
+            # res = [r[0] for r in res]
+
+            out_file.write('%d\t %s \t\n' %(i, ans)) 
 
 find_and_write_to_csv_cities()
 # check_for_place("articles/18_May_Riot.txt")
