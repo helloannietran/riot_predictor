@@ -13,7 +13,7 @@ from os.path import isfile, join
 # propernouns = [word for word,pos in tagged_sent if pos == 'NNP']
 # ...
 def startswith_nonchar(word):
-    special_chars = ['!', '(', ')', '"', "'", '.', '}', '{', ':', ';', ',', '$', '%', '^', '&', '@', '#', '*', '\\', '/', '=', '-', '_', '<', '>', '`', 'riot', '|', '+', 'united', 'states', 'us', 'usa']
+    special_chars = ['!', '(', ')', '"', "'", '.', '}', '{', ':', ';', ',', '$', '%', '^', '&', '@', '#', '*', '\\', '/', '=', '-', '_', '<', '>', '`', 'riot', '|', '+', 'united', 'states', 'us', 'usa', 'news']
     # ret_val = False
     for c in special_chars:
         if word.lower().find(c) > -1:
@@ -239,10 +239,13 @@ fill_words()
 def find_and_write_to_csv_cities():
 # generate_paragraphs("example.txt")
     with open("results_place2.csv", 'a') as out_file:
-        for i in [ 71]: #xrange(71, 91):
-            directory = 'Riots/riot%d/' % i
-            all_files = get_all_files_in_dir(directory)
-            all_files = [directory + file for file in all_files]
+        for i in xrange(1, 361):
+            try:
+                directory = 'Riots/riot%d/' % i
+                all_files = get_all_files_in_dir(directory)
+                all_files = [directory + file for file in all_files]
+            except:
+                continue
             bests = {}
             happening_together = {}
             for file in all_files:
