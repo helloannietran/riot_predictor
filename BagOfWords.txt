@@ -18,13 +18,13 @@
 
 'discrimination': ['ethnic', 'discrimination'],
 
-'religion': ['religion'],
+'religion': ['religion','religious','muslim','muslims','violence','christians','christian','jews','jewish','arab','arabs','jerusalem','palestine','massacre','hindus','hindu','temple','temples','tension','caste'],
 
-'education': ['education'],
+'education': ['education','students','university','protesters','student','fees','school','government','young','people','police','african','apartheid'],
 
 'foregin_affairs': ['foreign'],
 
-'domestic': ['domestic'],
+'domestic': ['domestic','black','men','riots','blacks','white','police','rioters','attacked','mob','state','union','war','military','police','workers''street'],
 
 'human_rights': ['human', 'right','civil','movement','black','white','blacks','freedom','act','public','segregation','states','federal','racial','discrimination','government','bill','governments','court','children','violence','young'],
 
