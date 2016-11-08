@@ -16,13 +16,13 @@
 
 'env': ['environment', 'pollution', "waste"],
 
-'discrimination': ['ethnic', 'discrimination'],
+'discrimination': ['ethnic', 'discrimination','riots','government','violence','killed','legislation','racist','racism',incidents','race','racial','chinese','curfew','arrested','political','communal'],
 
 'religion': ['religion','religious','muslim','muslims','violence','christians','christian','jews','jewish','arab','arabs','jerusalem','palestine','massacre','hindus','hindu','temple','temples','tension','caste'],
 
 'education': ['education','students','university','protesters','student','fees','school','government','young','people','police','african','apartheid'],
 
-'foregin_affairs': ['foreign'],
+'foregin_affairs': ['foreign','prices','policy','economic','crisis','missionaries','mission','foreigners','government','campaign','economic'],
 
 'domestic': ['domestic','black','men','riots','blacks','white','police','rioters','attacked','mob','state','union','war','military','police','workers''street'],
 
