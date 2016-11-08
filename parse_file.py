@@ -61,7 +61,27 @@ def has_number(text):
         return True
     return False
 
-def get_number(group, text):
+def get_sentences(group, text):
+    words = word_tokenize(text)
+    words = [word for word in words if word.isdigit()]
+    text = text.lower() 
+    all_sentences_with_numbers = set()
+    for line in text.split("."):
+        for word in words:
+            if(line.find(word)) is not -1:
+                all_sentences_with_numbers.add(line)
+    #print all_sentences_with_numbers
+    sentences = set()
+    for sentence in all_sentences_with_numbers:
+        for word in bag_of_words[group]:
+            sentence = sentence.lower()
+            for number in words:
+                sample = number + " " + word
+                if sentence.find(sample) is not -1:
+                    sentences.add(sentence)
+    print sentences
+    
+def get_people_count(group, text):
     words = word_tokenize(text)
     words = [word for word in words if word.isdigit()]
     if len (words) > 0:
@@ -179,6 +199,8 @@ def find_and_write_to_csv_cities():
         for file in all_files:
             most_common = check_for_place(file, 15)
             out_file.write('%s\t %s\t %s\n' %(file, most_common[0][0], str(most_common))) 
+
+#find_and_write_to_csv_cities()
 # check_for_place("articles/18_May_Riot.txt")
 # check_for_place("/Users/BARNES_3/Documents/niki/courses/Decision making/riot_predictor/articles/18_May_Riot.txt")
 # check_for_population("example.txt")

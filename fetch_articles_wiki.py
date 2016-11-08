@@ -44,17 +44,22 @@ def dehtml(text):
 
 def main():
 
-    with open("/Users/sathani/Downloads/riot_predictor-master/test.csv","r") as f:
+    with open("test.txt","r") as f:
         lines = f.read()
         for url in lines.split():
+            try:
             #text = urllib2.urlopen(url).read()
-            y=url.split('/')[4]
-            r1 = wikipedia.page(url.split('/')[4])
-            x= r1.content            
-            #plain_text = dehtml(text)
-            #print url.split('/')[4]
-            with open(str(url.split('/')[4])+"."+"txt", "w") as f:
-                f.write(x.encode('ascii', 'ignore'))
+                y=url.split('/')[4]
+                r1 = wikipedia.page(url.split('/')[4])
+                x= r1.content            
+                #plain_text = dehtml(text)
+                #print url.split('/')[4]
+                with open('articles/' + str(url.split('/')[4])+"."+"txt", "w") as f:
+                    f.write(x.encode('ascii', 'ignore'))
+            except:
+
+                print 'error happened', url
+                pass
 
 if __name__ == '__main__':
     main()
