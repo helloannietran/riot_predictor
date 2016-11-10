@@ -14,7 +14,7 @@
 
 'food': ['food', 'water'],
 
-'env': ['environment', 'pollution', "waste"],
+'env': ['environment', 'pollution', 'waste','police','protesters','power','energy','corporate','change','climate','environmental','violence','resource','mine','minerals','core','activities','natural','extraction'],
 
 'discrimination': ['ethnic', 'discrimination','riots','government','violence','killed','legislation','racist','racism','incidents','race','racial','chinese','curfew','arrested','political','communal'],
 
