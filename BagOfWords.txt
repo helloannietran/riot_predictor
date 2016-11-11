@@ -30,7 +30,7 @@
 
 'sport': ['sport','fans','bowl','game','crowd','super','crowds','baseball','ballpark','stadium','students','campus','tear','cup','hockey','team','club','match','football','section','liverpool','gate'],
 
-'people': ['people', 'population', 'crowd', 'community', 'citizen', 'mass', 'group', 'resident']
+'people': ['people', 'population', 'crowd', 'community', 'citizen', 'mass', 'group', 'resident', 'civilian']
 
 
 }
