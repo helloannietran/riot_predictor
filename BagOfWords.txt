@@ -12,7 +12,7 @@
 
 'jobs': ['jobs', 'economy','economic','currency','dollar','revenues','price','prices','high','government','workers','labor','labor rights','unpaid','industries','factories','rights','wages','capital','growth',],
 
-'food': ['food', 'water'],
+'food': ['food', 'riots', 'people', 'supermarkets', 'police', 'government', 'inflation', 'shortage', 'rioting', 'shouts', 'protest', 'shop', 'demonstration', 'store', 'attacked', 'starvation', 'prices'],
 
 'env': ['environment', 'pollution', 'waste','police','protesters','power','energy','corporate','change','climate','environmental','violence','resource','mine','minerals','core','activities','natural','extraction'],
 
