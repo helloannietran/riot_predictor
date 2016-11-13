@@ -15,9 +15,9 @@ from os.path import isfile, join
 def startswith_nonchar(word):
     special_chars = ['!', '(', ')', '"', "'", '.', '}', '{', ':', ';', ',', '$', '%', '^', '&', '@', '#', '*', '\\', '/', '=', '-', '_', '<', '>', '`', 'riot', '|', '+', 'united', 'states', 'us', 'usa', 'news']
     # ret_val = False
-    for c in special_chars:
-        if word.lower().find(c) > -1:
-            return True
+    # for c in special_chars:
+    #     if word.lower().find(c) > -1:
+    #         return True
     return False
 
 # def sum_up_vars(l):
@@ -51,10 +51,41 @@ def find_collocations(words):
     finder = BigramCollocationFinder.from_words(words)
     return finder.nbest(bigram_measures.pmi, 10)
 
+def find_most_frequent_noun_any(text, count):
+    # from nltk.tag.sequential.TrigramTagger import tagger
+    import pickle
+    tagger_file = open('/Users/BARNES_3/nltk_data/taggers/treebank_aubt.pickle')
+    tagger = pickle.load(tagger_file)
+    words = text.split()
+    # collocations = find_collocations(words)
+    tagged_sent = tagger.tag(words)
+    regex = re.compile('[^a-zA-Z]')
+    tagged_ascii_words = [(re.sub(r'[^\x00-\x7F]+',' ', w[0]).strip(), w[1]) for w in tagged_sent]
+    tagged_ascii_words = [(regex.sub('', w[0]).strip(), w[1]) for w in tagged_ascii_words]
+    # tagged_ascii_words = sum_up_vars(tagged_ascii_words)
+    tagged_filtered_words = [w for w in tagged_ascii_words if w[0]]
+    #First parameter is the replacement, second parameter is your input string
+# [('Michael', 'NNP'), ('Jackson', 'NNP'), ('likes', 'VBZ'), ('to', 'TO'), ('eat', 'VB'), ('at', 'IN'), ('McDonalds', 'NNP')]
+
+    propernouns = [word for word,pos in tagged_filtered_words if (pos == 'NN' and not startswith_nonchar(word) and len(word)>1 and len(word)<20 and word.isalpha())]
+
+    # words = word_tokenize(text)
+    fdist1 = FreqDist(propernouns)
+    most_common = fdist1.most_common(count)
+
+    # print 'coming together: ', collocations
+    # print most_common
+    return most_common
+    # filtered_words = [word for word in word_list if word not in stopwords.words('english')]
+
 def find_most_frequent_noun(text, count):
+    import pickle
+    tagger_file = open('/Users/BARNES_3/nltk_data/taggers/treebank_aubt.pickle')
+    tagger = pickle.load(tagger_file)
+
     words = text.split()
     collocations = find_collocations(words)
-    tagged_sent = pos_tag(words)
+    tagged_sent = tagger.tag(words)
     regex = re.compile('[^a-zA-Z]')
     tagged_ascii_words = [(re.sub(r'[^\x00-\x7F]+',' ', w[0]).strip(), w[1]) for w in tagged_sent]
     tagged_ascii_words = [(regex.sub('', w[0]).strip(), w[1]) for w in tagged_ascii_words]
@@ -197,40 +228,6 @@ def generate_paragraphs(file):
         # t = Tokenizer()
         # t.tokenize(text)
 
-BLOCK_COMPARISON, VOCABULARY_INTRODUCTION = 0, 1
-LC, HC = 0, 1
-DEFAULT_SMOOTHING = [0]
-
-
-class Tokenizer(TokenizerI):
-    def __init__(self,
-             w=20,
-             k=10,
-             similarity_method=BLOCK_COMPARISON,
-             stopwords=None,
-             smoothing_method=DEFAULT_SMOOTHING,
-             smoothing_width=2,
-             smoothing_rounds=1,
-             cutoff_policy=HC,
-             demo_mode=False):
-
-
-        if stopwords is None:
-            from nltk.corpus import stopwords
-            stopwords = stopwords.words('english')
-        self.__dict__.update(locals())
-        del self.__dict__['self']
-
-    def tokenize(self, text):
-        """Return a tokenized copy of *text*, where each "token" represents
-        a separate topic."""
-
-        lowercase_text = text.lower()
-        paragraph_breaks = self._mark_paragraph_breaks(text)
-        print "ppp: %s" % paragraph_breaks
-        # text_length = len(lowercase_text)
-
-
 def get_all_files_in_dir(mypath):
     onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
     return onlyfiles
@@ -240,13 +237,14 @@ fill_words()
 def find_and_write_to_csv_cities():
 # generate_paragraphs("example.txt")
 
-    with open("results_place2.csv", 'a') as out_file:
-        for i in xrange(1, 361):
+    with open("results_place3.csv", 'a') as out_file:
+        for i in [0,1,2,3,4,5]:# xrange(1, 361):
             try:
-                directory = 'Riots/riot%d/' % i
+                directory = 'riots_bing/riot_%02d/' % i
                 all_files = get_all_files_in_dir(directory)
                 all_files = [directory + file for file in all_files]
-            except:
+            except Exception as e:
+                print e
                 continue
             bests = {}
             happening_together = {}
@@ -284,8 +282,78 @@ def find_and_write_to_csv_cities():
             # res = bests_list[0:5]
             # res = [r[0] for r in res]
 
-            out_file.write('%d\t %s \t\n' %(i, ans)) 
+            out_file.write('%d\t %s \n' %(i, ans )
 
+def find_category(most_common):
+    global bag_of_words
+    categories = ['election', 'jobs', 'food', 'env', 'discrimination', 'religion', 'education', 'foregin_affairs', 'domestic', 'human_rights', 'sport']
+    occurance = {}
+    for cat in categories:
+        occurance[cat] = 0
+    for word in most_common:
+        for cat in categories:
+            if does_match_group(cat, word):
+                occurance[cat] += most_common[word]
+    occ_list = [(occurance[k], k) for k in occurance if occurance[k]>0]
+    print occ_list
+    if not occ_list:
+        return "No category"
+    else:
+        occ_list.sort(key=lambda x: x[0], reverse=True)
+        print occ_list[0][0], occ_list[0][1]
+        return occ_list[0][1]
+
+
+def find_and_write_to_csv_categories():
+# generate_paragraphs("example.txt")
+
+    with open("results_categories.csv", 'a') as out_file:
+        for i in [1, 2, 3, 4, 5]:#xrange(1, 361):
+            try:
+                directory = 'Riots/riot%d/' % i
+                all_files = get_all_files_in_dir(directory)
+                all_files = [directory + file for file in all_files]
+            except:
+                continue
+            bests = {}
+            # happening_together = {}
+            for file in all_files:
+                # name = file.split("/")[2]
+                # name = name[:len(name)-4]
+                with open(file, 'r') as in_file:
+                    print 'processing %s' %file
+                    text = in_file.read()
+                    most_common = find_most_frequent_noun_any(text, 20)
+                
+                if most_common:
+                    for common_word in most_common:
+                        if common_word[0] not in bests:
+                            bests[common_word[0]] = 0
+                        bests[common_word[0]] += common_word[1]
+
+            cat = find_category(bests)
+            # m = -1
+            # bests_list = [(k, bests[k]) for k in bests.keys()]
+            # bests_list.sort(key=lambda x: x[1], reverse=True)
+            # ans = bests_list[0][0]
+            # if bests_list[0][0].lower() == 'new':
+            #     if 'York' in bests.keys():
+            #         ans = 'New York'
+            #     else:
+            #         ans = 'New\t%s' % str(bests_list[0:5]) 
+
+            # if bests[0][0] in happening_together:
+            #     ans = bests[0][0] + ' ' + str(happening_together[bests[0][0]])
+            # for item in bests.keys():
+            #     if len(item) > 1 and (m == -1 or bests[item] > bests[m]):
+            #         m = item
+            # res = bests_list[0:5]
+            # res = [r[0] for r in res]
+
+            out_file.write('%d\t %s \t\n' %(i, cat)) 
+
+fill_words()
+# find_and_write_to_csv_categories()
 find_and_write_to_csv_cities()
 # check_for_place("articles/18_May_Riot.txt")
 # check_for_place("/Users/BARNES_3/Documents/niki/courses/Decision making/riot_predictor/articles/18_May_Riot.txt")
