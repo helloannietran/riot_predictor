@@ -282,11 +282,11 @@ def find_and_write_to_csv_cities():
             # res = bests_list[0:5]
             # res = [r[0] for r in res]
 
-            out_file.write('%d\t %s \n' %(i, ans )
+            out_file.write('%d\t %s \n' %(i, ans ))
 
 def find_category(most_common):
     global bag_of_words
-    categories = ['election', 'jobs', 'food', 'env', 'discrimination', 'religion', 'education', 'foregin_affairs', 'domestic', 'human_rights', 'sport']
+    categories = ['election', 'jobs', 'food', 'env', 'religion', 'education', 'foreign_affairs', 'domestic', 'human_rights', 'sport']
     occurance = {}
     for cat in categories:
         occurance[cat] = 0
@@ -310,10 +310,11 @@ def find_and_write_to_csv_categories():
     with open("results_categories.csv", 'a') as out_file:
         for i in [1, 2, 3, 4, 5]:#xrange(1, 361):
             try:
-                directory = 'Riots/riot%d/' % i
+                directory = 'riots_bing_html/riot_%02d/' % i
                 all_files = get_all_files_in_dir(directory)
                 all_files = [directory + file for file in all_files]
-            except:
+            except Exception as e:
+                print e
                 continue
             bests = {}
             # happening_together = {}
@@ -353,8 +354,8 @@ def find_and_write_to_csv_categories():
             out_file.write('%d\t %s \t\n' %(i, cat)) 
 
 fill_words()
-# find_and_write_to_csv_categories()
-find_and_write_to_csv_cities()
+find_and_write_to_csv_categories()
+# find_and_write_to_csv_cities()
 # check_for_place("articles/18_May_Riot.txt")
 # check_for_place("/Users/BARNES_3/Documents/niki/courses/Decision making/riot_predictor/articles/18_May_Riot.txt")
 # check_for_population("example.txt")
