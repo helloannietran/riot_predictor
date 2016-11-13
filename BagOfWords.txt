@@ -19,11 +19,11 @@
 
 'religion': ['religion','religious','muslim','muslims', 'christians','christian','jews','jewish','arab','arabs','jerusalem','palestine','massacre','hindus','hindu','temple','temples', 'caste'],
 
-'education': ['education','students','university', 'student','fees','school', 'young', 'apartheid’,’teacher’,’teach’],
+'education': ['education','students','university', 'student','fees','school','young', 'apartheid','teacher','teach'],
 
 'foreign_affairs': ['foreign', 'policy','economic','crisis','missionaries','mission','foreigners', 'economic'],
 
-'domestic': ['domestic’,’civil war’ , 'war','military','workers’,’draft’,’secession’],
+'domestic': ['domestic','civil war' , 'war','military','workers','draft','secession'],
 
 'human_rights': ['human', 'right','civil','movement','black','white','blacks','freedom','act', 'federal','racial','discrimination', 'bill','children','young', 'ethnic', 'discrimination','legislation','racist','racism', 'race','racial','chinese', 'communal'],
 
