@@ -8,27 +8,26 @@
 
 'country': ['Afghanistan', 'Albania', 'Algeria', 'Andorra', 'Angola', 'Antigua and Barbuda', 'Argentina', 'Armenia', 'Aruba', 'Australia', 'Austria', 'Azerbaijan', 'Bahamas, The', 'Bahrain', 'Bangladesh', 'Barbados', 'Belarus', 'Belgium', 'Belize', 'Benin', 'Bhutan', 'Bolivia', 'Bosnia and Herzegovina', 'Botswana', 'Brazil', 'Brunei ', 'Bulgaria', 'Burkina Faso', 'Burma', 'Burundi', 'Cambodia', 'Cameroon', 'Canada', 'Cabo Verde', 'Central African Republic', 'Chad', 'Chile', 'China', 'Colombia', 'Comoros', 'Congo, Democratic Republic of the', 'Congo, Republic of the', 'Costa Rica', "Cote d'Ivoire", 'Croatia', 'Cuba', 'Curacao', 'Cyprus', 'Czech Republic', 'Denmark', 'Djibouti', 'Dominica', 'Dominican Republic', 'East Timor', 'Ecuador', 'Egypt', 'El Salvador', 'Equatorial Guinea', 'Eritrea', 'Estonia', 'Ethiopia', 'Fiji', 'Finland', 'France', 'Gabon', 'Gambia, The', 'Georgia', 'Germany', 'Ghana', 'Greece', 'Grenada', 'Guatemala', 'Guinea', 'Guinea-Bissau', 'Guyana', 'Haiti', 'Holy See', 'Honduras', 'Hong Kong', 'Hungary', 'Iceland', 'India', 'Indonesia', 'Iran', 'Iraq', 'Ireland', 'Israel', 'Italy', 'Jamaica', 'Japan', 'Jordan', 'Kazakhstan', 'Kenya', 'Kiribati', 'Korea, North', 'Korea, South', 'Kosovo', 'Kuwait', 'Kyrgyzstan', 'Laos', 'Latvia', 'Lebanon', 'Lesotho', 'Liberia', 'Libya', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Macau', 'Macedonia', 'Madagascar', 'Malawi', 'Malaysia', 'Maldives', 'Mali', 'Malta', 'Marshall Islands', 'Mauritania', 'Mauritius', 'Mexico', 'Micronesia', 'Moldova', 'Monaco', 'Mongolia', 'Montenegro', 'Morocco', 'Mozambique', 'Namibia', 'Nauru', 'Nepal', 'Netherlands', 'New Zealand', 'Nicaragua', 'Niger', 'Nigeria', 'North Korea', 'Norway', 'Oman', 'Pakistan', 'Palau', 'Palestinian Territories', 'Panama', 'Papua New Guinea', 'Paraguay', 'Peru', 'Philippines', 'Poland', 'Portugal', 'Qatar', 'Romania', 'Russia', 'Rwanda', 'Saint Kitts and Nevis', 'Saint Lucia', 'Saint Vincent and the Grenadines', 'Samoa ', 'San Marino', 'Sao Tome and Principe', 'Saudi Arabia', 'Senegal', 'Serbia', 'Seychelles', 'Sierra Leone', 'Singapore', 'Sint Maarten', 'Slovakia', 'Slovenia', 'Solomon Islands', 'Somalia', 'South Africa', 'South Korea', 'South Sudan', 'Spain ', 'Sri Lanka', 'Sudan', 'Suriname', 'Swaziland ', 'Sweden', 'Switzerland', 'Syria', 'Taiwan', 'Tajikistan', 'Tanzania', 'Thailand ', 'Timor-Leste', 'Togo', 'Tonga', 'Trinidad and Tobago', 'Tunisia', 'Turkey', 'Turkmenistan', 'Tuvalu', 'Uganda', 'Ukraine', 'United Arab Emirates', 'United Kingdom', 'Uruguay', 'Uzbekistan', 'Vanuatu', 'Venezuela', 'Vietnam', 'Yemen', 'Zambia', 'Zimbabwe'],
 
-'election': ['election', 'voting','vote', 'president','presidency', 'debate', 'government','poll','results','constitutional','court','supporters','capital','leader','opposition','party','parties','province','electoral','politics','policy','electing','elect','opponent','liberals','governors','assembly','population'],
+'election': ['election', 'voting','vote', 'president','presidency', 'debate','poll','results','constitutional','court','supporters','capital','leader','opposition','party','parties','province','electoral','politics','policy','electing','elect','opponent','liberals','governors','assembly'],
 
-'jobs': ['jobs', 'economy','economic','currency','dollar','revenues','price','prices','high','government','workers','labor','labor rights','unpaid','industries','factories','rights','wages','capital','growth',],
+'jobs': ['jobs', 'economy','economic','currency','dollar','revenues','price','prices','workers','labor','labor rights', 'unpaid','industries','factories' ,'wages','capital'],
 
-'food': ['food', 'riots', 'people', 'supermarkets', 'police', 'government', 'inflation', 'shortage', 'rioting', 'shouts', 'protest', 'shop', 'demonstration', 'store', 'attacked', 'starvation', 'prices'],
+'food': ['food', 'supermarkets', 'inflation', 'shortage', 'shop', 'demonstration', 'store', 'starvation', 'prices'],
 
-'env': ['environment', 'pollution', 'waste','police','protesters','power','energy','corporate','change','climate','environmental','violence','resource','mine','minerals','core','activities','natural','extraction'],
+'env': ['environment', 'pollution', 'waste','power','energy','corporate', 'climate','environmental', 'resource','mine','minerals','core', 'natural','extraction'],
 
-'discrimination': ['ethnic', 'discrimination','riots','government','violence','killed','legislation','racist','racism','incidents','race','racial','chinese','curfew','arrested','political','communal'],
 
-'religion': ['religion','religious','muslim','muslims','violence','christians','christian','jews','jewish','arab','arabs','jerusalem','palestine','massacre','hindus','hindu','temple','temples','tension','caste'],
+'religion': ['religion','religious','muslim','muslims', 'christians','christian','jews','jewish','arab','arabs','jerusalem','palestine','massacre','hindus','hindu','temple','temples', 'caste'],
 
-'education': ['education','students','university','protesters','student','fees','school','government','young','people','police','african','apartheid'],
+'education': ['education','students','university', 'student','fees','school', 'young','people', 'apartheid'],
 
-'foregin_affairs': ['foreign','prices','policy','economic','crisis','missionaries','mission','foreigners','government','campaign','economic'],
+'foreign_affairs': ['foreign', 'policy','economic','crisis','missionaries','mission','foreigners', 'economic'],
 
-'domestic': ['domestic','black','men','riots','blacks','white','police','rioters','attacked','mob','state','union','war','military','police','workers''street'],
+'domestic': ['domestic','black', 'blacks','white' , 'war','military','workers'],
 
-'human_rights': ['human', 'right','civil','movement','black','white','blacks','freedom','act','public','segregation','states','federal','racial','discrimination','government','bill','governments','court','children','violence','young'],
+'human_rights': ['human', 'right','civil','movement','black','white','blacks','freedom','act', 'federal','racial','discrimination', 'bill','children','young', 'ethnic', 'discrimination','legislation','racist','racism', 'race','racial','chinese', 'communal'],
 
-'sport': ['sport','fans','bowl','game','crowd','super','crowds','baseball','ballpark','stadium','students','campus','tear','cup','hockey','team','club','match','football','section','liverpool','gate'],
+'sport': ['sport','fans','bowl','game', 'super', 'baseball','ballpark','stadium','students','campus','tear','cup','hockey','team','club','match','football','section','liverpool','gate'],
 
 'people': ['people', 'population', 'crowd', 'community', 'citizen', 'mass', 'group', 'resident', 'civilian']
 
