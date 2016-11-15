@@ -18,7 +18,7 @@ with open("new_list_of_riots.csv", 'r') as riots_file:
         line_list = line.split("\t")
         # print 'line: %s' % (str(line_list))
         kwrd_dict[i] = []
-        kwrd_dict[i].append(line_list[0].strip())
+        # kwrd_dict[i].append(line_list[0].strip())
         # kwrd_dict[i].append(line_list[1])
         if line_list[1].strip():
             subj = line_list[1].strip()
@@ -28,7 +28,7 @@ with open("new_list_of_riots.csv", 'r') as riots_file:
             kwrd_dict[i] += nouns
         if line_list[2].strip():
             kwrd_dict[i].append(line_list[2].strip())
-        kwrd_dict[i].append(line_list[3].strip())
+        # kwrd_dict[i].append(line_list[3].strip())
 
 with open('keywords.txt', 'w') as keywords_file:
     keywords_file.write(str(kwrd_dict))

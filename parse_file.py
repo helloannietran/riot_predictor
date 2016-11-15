@@ -3,7 +3,7 @@ from nltk import word_tokenize, FreqDist
 from nltk.tokenize.api import TokenizerI
 from nltk.corpus import stopwords
 from nltk.tag import pos_tag
-from os import listdir
+from os import listdir, mkdir
 from os.path import isfile, join
 
 # sentence = "Michael Jackson likes to eat at McDonalds"
@@ -241,7 +241,7 @@ def find_and_write_to_csv_cities():
 # generate_paragraphs("example.txt")
 
     with open("results_place4.csv", 'a') as out_file:
-        for i in xrange(1, 361):
+        for i in xrange(0, 361):
             try:
                 directory = 'riots_bing/riot_%02d/' % i
                 all_files = get_all_files_in_dir(directory)
@@ -311,13 +311,14 @@ def find_and_write_to_csv_categories():
 # generate_paragraphs("example.txt")
 
     with open("results_categories.csv", 'a') as out_file:
-        for i in [0]:#xrange(1, 361):
+        for i in xrange(0, 361):
             try:
-                directory = 'riots_bing_html/riot_%02d/' % i
+                # directory = 'riots_bing_html/riot_%02d/' % i
+                directory = 'LexisNexis/riots/%03d/' % i
                 all_files = get_all_files_in_dir(directory)
                 all_files = [directory + file for file in all_files]
             except Exception as e:
-                print e
+                # print e
                 continue
             bests = {}
             # happening_together = {}
@@ -357,8 +358,8 @@ def find_and_write_to_csv_categories():
             out_file.write('%d\t %s \t\n' %(i, cat)) 
 
 fill_words()
-find_and_write_to_csv_cities()
 # find_and_write_to_csv_cities()
+find_and_write_to_csv_categories()
 # check_for_place("articles/18_May_Riot.txt")
 # check_for_place("/Users/BARNES_3/Documents/niki/courses/Decision making/riot_predictor/articles/18_May_Riot.txt")
 # check_for_population("example.txt")
