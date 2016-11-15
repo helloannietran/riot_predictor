@@ -14,10 +14,13 @@ from os.path import isfile, join
 # ...
 def startswith_nonchar(word):
     special_chars = ['!', '(', ')', '"', "'", '.', '}', '{', ':', ';', ',', '$', '%', '^', '&', '@', '#', '*', '\\', '/', '=', '-', '_', '<', '>', '`', 'riot', '|', '+', 'united', 'states', 'us', 'usa', 'news']
+    months = ['jan', 'january', 'feb', 'february', 'mar', 'march', 'apr', 'april', 'may', 'jun', 'june', 'jul', 'july', 'aug', 'august', 'sep', 'september', 'oct', 'october', 'nov', 'november', 'dec', 'december']
     # ret_val = False
-    # for c in special_chars:
-    #     if word.lower().find(c) > -1:
-    #         return True
+    for c in special_chars:
+        if word.lower().find(c) > -1:
+            return True
+        if word.lower.strip() in months:
+            return True
     return False
 
 # def sum_up_vars(l):
@@ -237,8 +240,8 @@ fill_words()
 def find_and_write_to_csv_cities():
 # generate_paragraphs("example.txt")
 
-    with open("results_place3.csv", 'a') as out_file:
-        for i in [0,1,2,3,4,5]:# xrange(1, 361):
+    with open("results_place4.csv", 'a') as out_file:
+        for i in xrange(1, 361):
             try:
                 directory = 'riots_bing/riot_%02d/' % i
                 all_files = get_all_files_in_dir(directory)
@@ -268,11 +271,11 @@ def find_and_write_to_csv_cities():
             bests_list = [(k, bests[k]) for k in bests.keys()]
             bests_list.sort(key=lambda x: x[1], reverse=True)
             ans = bests_list[0][0]
-            if bests_list[0][0].lower() == 'new':
+            if bests_list[0][0].lower() in ['new', 'south', 'north', 'west', 'east']:
                 if 'York' in bests.keys():
-                    ans = 'New York'
+                    ans = '%s York' % (s, bests_list[0][0]) 
                 else:
-                    ans = 'New\t%s' % str(bests_list[0:5]) 
+                    ans = '%s \t %s' % (bests_list[0][0], str(bests_list[0:5]))
 
             # if bests[0][0] in happening_together:
             #     ans = bests[0][0] + ' ' + str(happening_together[bests[0][0]])
@@ -308,7 +311,7 @@ def find_and_write_to_csv_categories():
 # generate_paragraphs("example.txt")
 
     with open("results_categories.csv", 'a') as out_file:
-        for i in [1, 2, 3, 4, 5]:#xrange(1, 361):
+        for i in [0]:#xrange(1, 361):
             try:
                 directory = 'riots_bing_html/riot_%02d/' % i
                 all_files = get_all_files_in_dir(directory)
@@ -354,7 +357,7 @@ def find_and_write_to_csv_categories():
             out_file.write('%d\t %s \t\n' %(i, cat)) 
 
 fill_words()
-find_and_write_to_csv_categories()
+find_and_write_to_csv_cities()
 # find_and_write_to_csv_cities()
 # check_for_place("articles/18_May_Riot.txt")
 # check_for_place("/Users/BARNES_3/Documents/niki/courses/Decision making/riot_predictor/articles/18_May_Riot.txt")
