@@ -19,7 +19,7 @@ def startswith_nonchar(word):
     for c in special_chars:
         if word.lower().find(c) > -1:
             return True
-        if word.lower.strip() in months:
+        if word.lower().strip() in months:
             return True
     return False
 
@@ -273,7 +273,7 @@ def find_and_write_to_csv_cities():
             ans = bests_list[0][0]
             if bests_list[0][0].lower() in ['new', 'south', 'north', 'west', 'east']:
                 if 'York' in bests.keys():
-                    ans = '%s York' % (s, bests_list[0][0]) 
+                    ans = '%s York' % (bests_list[0][0]) 
                 else:
                     ans = '%s \t %s' % (bests_list[0][0], str(bests_list[0:5]))
 
