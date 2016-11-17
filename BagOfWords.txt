@@ -12,7 +12,7 @@
 
 'jobs': ['jobs', 'economy','economic','currency','dollar','revenues','price','prices','workers','labor','labor rights', 'unpaid','industries','factories' ,'wages','capital'],
 
-'food': ['food', 'supermarkets', 'inflation', 'shortage', 'shop', 'demonstration', 'store', 'starvation', 'prices'],
+'food': ['food', 'supermarkets', 'inflation', 'shortage', 'starvation', 'prices','starve','hungry'],
 
 'env': ['environment', 'pollution', 'waste','power','energy','corporate', 'climate','environmental', 'resource','mine','minerals','core', 'natural','extraction'],
 
@@ -27,7 +27,7 @@
 
 'human_rights': ['human', 'right','civil','movement','black','white','blacks','freedom','act', 'federal','racial','discrimination', 'bill','children','young', 'ethnic', 'discrimination','legislation','racist','racism', 'race','racial','chinese', 'communal'],
 
-'sport': ['sport','fans','bowl','game', 'super', 'baseball','ballpark','stadium','students','campus','tear','cup','hockey','team','club','match','football','section','liverpool','gate'],
+'sport': ['sport','fans','bowl','game', 'super', 'baseball','ballpark','stadium','students','cup','hockey','team','club','match','football','section','liverpool','gate'],
 
 'people': ['people', 'population', 'crowd', 'community', 'citizen', 'mass', 'group', 'resident', 'civilian']
 
