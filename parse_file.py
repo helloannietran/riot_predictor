@@ -165,6 +165,7 @@ def get_sentences(group, text):
 def get_people_count(group, text):
     words = word_tokenize(text)
     words = [word for word in words if word.isdigit()]
+    people = []
     if len (words) > 0:
         for word in bag_of_words[group]:
             text = text.lower()
@@ -173,8 +174,48 @@ def get_people_count(group, text):
                 for number in words:
                     sample = number + " " + word
                     if text.find(sample) is not -1:
-                        print number
+                        people.append(int(number))
+    if len(people) > 0: 
+        return max(people)
+    else:
+        return 0
 
+def get_people_dead_count(group, text):
+    words = word_tokenize(text)
+    words = [word for word in words if word.isdigit()]
+    people = []
+    if len (words) > 0:
+        for word in bag_of_words[group]:
+            text = text.lower()
+            if text.find(word) is not -1:
+                #print word
+                for number in words:
+                    sample = number + " " + word
+                    if text.find(sample) is not -1:
+                        return number
+#    if len(people) > 0: 
+#        return max(people)
+#    else:
+#        return 0
+
+def get_people_injured_count(group, text):
+    words = word_tokenize(text)
+    words = [word for word in words if word.isdigit()]
+    people = []
+    if len (words) > 0:
+        for word in bag_of_words[group]:
+            text = text.lower()
+            if text.find(word) is not -1:
+                #print word
+                for number in words:
+                    sample = number + " " + word
+                    sample1 = number + " " + "people" + " " + word 
+                    if (text.find(sample) is not -1 or text.find(sample1) is not -1):
+                        return number
+#    if len(people) > 0: 
+#        return max(people)
+#    else:
+#        return 0
 def match_rule_population(text):
     if does_match_group("people", text) and has_number(text):
         # print text
