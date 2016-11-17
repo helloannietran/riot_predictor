@@ -13,7 +13,7 @@ root_dir = 'D:/riot_predictor/Riots'
 os.chdir(root_dir)
 list_folders = os.listdir(root_dir)
 
-for i in range(32, 361):
+for i in range(1, 361):
     folder = 'riot'+ str(i)
     print folder
     dir = root_dir + '/' + folder
