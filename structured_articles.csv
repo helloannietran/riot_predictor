@@ -1,0 +1,378 @@
+,subj,city,state,country,npart,crime rate,target,issue,violence rating,riot,population,npart,death
+0,Seattle Mardi Gras riot,Seattle,Washington,United-States,,347.723531383,,human_rights,,1.0,,90.0,58.0
+1,University of Maryland student riots following team's loss in the 2001 NCAA tournament,College Park,Maryland,United-States,,347.723531383,,sport,,1.0,,700.0,3.0
+2,"Cincinnati Riots, April 2001",Cincinnati,Ohio,United-States,,347.723531383,,human_rights,,1.0,,800.0,1.0
+3,"Quebec City Summit of the Americas, April 2001
+",Quebec,,Canada,,269.502914962,,human_rights,,1.0,,92.0,2.0
+4,"Oldham Riots, May 2001
+",Oldham,Greater Manchester,United-Kingdom,,0.84898911353,,human_rights,,1.0,,915.0,2.0
+5,"Gothenburg Riots, June 2001
+",Gothenburg,,Sweden,,678.689919267,,human_rights,,1.0,,5000.0,2.0
+6,"Harehills riot Leeds, June 2001",Harehills,West Yorkshire,United-Kingdom,,0.84898911353,,human_rights,,1.0,,15000.0,2.0
+7,"Canada Day Riot, July 2001
+",Edmonton,,Canada,,269.502914962,,sport,,1.0,,5000.0,44.0
+8,"Bradford Riot, July 2001
+",Bradford,,United-Kingdom,,0.84898911353,,human_rights,,1.0,,5000.0,2.0
+9,"Genoa Group of Eight Summit protest, July 2001
+",Genoa,,Italy,,278.546222159,,env,,1.0,,5000.0,6.0
+10,"Holy Cross dispute, Summer 2001",Belfast,,Ireland,,413.345237544,,election,,1.0,,8000.0,2.0
+11,"December 2001 Riots
+",Buenos Aires,,Argentina,,718.289866699,,jobs,,1.0,,200.0,22.0
+12,"Ohio State University, First Chittfest block party riot, April
+",Columbus,Ohio,United-States,,347.723531383,,election,,1.0,,5000.0,6.0
+13,"2002 San Salvador Atenco Airport Riot
+",San Salvador,Mexico State,Mexico,,359.577167974,,human_rights,,1.0,,207.0,2.0
+14,"Post Godhra Riots after the Godhra train burning, Feb 2002
+",,Gujarat,India,,15.8234886831,,religion,,1.0,,3000.0,7.0
+15,"2002 Naroda Patiya massacre, happened on 28 February, resulted in the death of 97 Muslims by approximately a mob of 5000 people
+",Ahmedabad,,India,,15.8234886831,,domestic,,1.0,,10000.0,800.0
+16,"2002 Urso Branco prison riot
+",,Rondonia,Brazil,,335.394677759,,human_rights,,1.0,,20000.0,44.0
+17,2002 Chinese textile worker riot,,Guangdong,China,,0.8,,jobs,,1.0,,20000.0,44.0
+18,"University of Maryland students following their teams victory in the 2002 NCAA tournament
+",College Park,Maryland,United-States,,347.723531383,,sport,,1.0,,950.0,2.0
+19,"Ohio State University post University of Michigan football game riot, November 2002
+",Columbus,Ohio,United-States,,347.723531383,,sport,,1.0,,2000.0,7.0
+20,"Ohio State University, Second Chittfest block party riot, April 21",Columbus,Ohio,United-States,,347.723531383,,human_rights,,1.0,,6000.0,58.0
+21," Riot in Neos Marmaras against the EU-Summit, June 20
+",,Chalkidiki,Greece,,357.231218343,,human_rights,,1.0,,5000.0,44.0
+22,"Benton Harbor Riot, June 2003",Benton Harbor,Michigan,United-States,,347.723531383,,human_rights,,1.0,,700.0,2.0
+23," Wroclaw football riot March 30, 2003
+", Wroclaw,,Poland,,144.427988492,,sport,,1.0,,5000.0,44.0
+24,"Maldives civil unrest, September 2003",Male,,Maldives,,276.535143873,,human_rights,,1.0,,5000.0,2.0
+25,2003 Riot over bad policy during a SARS outbreak,,,China,,0.8,,foreign_affairs,,1.0,,20000.0,6.0
+26,"The Exploited Montreal riot October 14, 2003
+",Montreal,,Canada,,269.502914962,,human_rights,,1.0,,5000.0,2.0
+27,"2004 Han Hui riot
+",,Henan Province,China,,0.8,,human_rights,,1.0,,5000.0,2.0
+28,2004 Fans rioted after England lost to France in their first game of the UEFA Euro 2004 group stage,"Boston, Lincolnshire, Croydon, and other UK towns",,United-Kingdom,,0.84898911353,,sport,,1.0,3.0,5000.0,2.0
+29,2004 Urso Branco prison riot,,Rondonia,Brazil,,335.394677759,,human_rights,,1.0,,20000.0,39.0
+30,"2004 Chinese riot in response to a beating
+",,Guangdong,China,,0.8,,human_rights,,1.0,,20167.0,44.0
+31,"2004 Citizens in Benghu riot in response to inflating prices and poor healthcare
+",,Anhui,China,,0.8,,human_rights,,1.0,,20000.0,7.0
+32,"2004 Farmers riot when their land is taken and given to real-estate companies
+",Zhengzhou,,China,,0.8,,human_rights,,1.0,,5000.0,4.0
+33,2004 Chinese soccer fans riot when a Japanese team wins the final,Beijing,,China,,0.8,,sport,,1.0,,5000.0,2.0
+34,"Rioters attack police station December 30, 2004",Athens,,Greece,,357.231218343,,sport,,1.0,,5000.0,44.0
+35,2005 Dongzhou protest,,Guangdong,China,,0.8,,jobs,,1.0,,5000.0,2.0
+36,"Macquarie Fields riots, February 2005, southwestern suburb of Sydney, Australia
+",Sydney,,Australia,,529.923390162,,human_rights,,1.0,,5000.0,2.0
+37,"Cedar Revolution, February 2005",,,Lebanon,,155.252856146,,election,,1.0,,20.0,0.0
+38,"Anti-Japanese riots, April 2005","Beijing, Shenzhen, and Guangzhou",,China,,0.8,,human_rights,,1.0,,5000.0,2.0
+39,2005 Riots in response to land taken for a power plant,Dingzhou,Hebei,China,,0.8,,env,,1.0,,5000.0,8.0
+40,2005 Riots over excessive pollution,,Zhejiang,China,,0.8,,sport,,1.0,,5000.0,2.0
+41,"Perpignan ethnic violence, May 2005",Perpignan,,France,,377.43942704,,human_rights,,1.0,,5000.0,2.0
+42,"Maldives civil unrest, August 2005",Male,,Maldives,,276.535143873,,election,,1.0,,5000.0,2.0
+43,"Chinese worker riot, July 2005. The government admitted to 87,000 riots and demonstrations across China",,,China,,0.8,,jobs,,1.0,3.0,5000.0,8.0
+44,"2005 Street clashes in central Athens. September 2007
+",Athens,,Greece,,357.231218343,,human_rights,,1.0,,5000.0,31.0
+45,"civil unrest in France, October 2005",,,France,,377.43942704,,human_rights,,1.0,3.0,8654.0,1.0
+46,"Toledo Riot, October 2005",Toledo,Ohio,United-States,,347.723531383,,human_rights,,1.0,,8654.0,58.0
+47,"Anti-Muslim Riots of Mau, October 2005",Mau,Uttar Pradesh,India,,15.8234886831,,religion,,1.0,,100000.0,8.0
+48,"Mar del Plata Summit of the Americas, November 2005",Mar del Plata,,Argentina,,718.289866699,,foreign_affairs,,1.0,,40000.0,70.0
+49,"Cronulla riots, December 2005",Sydney,,Australia,,529.923390162,,human_rights,,1.0,,5000.0,31.0
+50, Birmingham race riots,Birmingham,,US,,347.723531383,,human_rights,,1.0,,5000.0,2.0
+51,Stanley Cup Western Conference Finals (Edmonton Oilers victory),Edmonton,Alberta,Canada,,269.502914962,,sport,,1.0,,8654.0,2.0
+52,Cartoon Riots,,,Denmark,,211.986059757,,religion,,1.0,,8654.0,2.0
+53,Nuku'alofa riots,Nuku'alofa,,Tonga,,0.1,,human_rights,,1.0,,570.0,8.0
+54, Dublin riots,Dublin,,Ireland,,413.345237544,,sport,,1.0,,5000.0,2.0
+55,San Bernardino punk riot,San Bernardino,,United-States,,347.723531383,,human_rights,,1.0,,5000.0,2.0
+56,labor protests in France,Paris,,France,,377.43942704,,human_rights,,1.0,,5000.0,31.0
+57,Burj Khalifa riot,,,United-Arab-Emirates,,31.0080530771,,human_rights,,1.0,,5000.0,2.0
+58,Hindu/Muslim Aligarh Riots,Aligarh,,India,,15.8234886831,,human_rights,,1.0,,20000.0,2.0
+59,Haredi rioted Brooklyn,Brooklyn,New York,US,,347.723531383,,human_rights,,1.0,,5000.0,44.0
+60,Venezuela prison riot,,,Venezuela,,39.1394924531,,election,,1.0,,20000.0,44.0
+61,civil unrest in San Salvador Atenco,San Salvador Atenco,,Mexico,,359.577167974,,human_rights,,1.0,,350.0,1.0
+62,"Shengda Economics, Trade and Management College diploma riot",Zhengzhou,,China,,0.8,,education,,,,5000.0,2.0
+63,Riot after a hospital doesn't treat a patient,Sichuan,,China,,0.8,,human_rights,,1.0,,5000.0,7.0
+64,Riot over government response to a whistleblower,Shandong,,China,,0.8,,domestic,,1.0,,5000.0,9.0
+65,Riot follows after a traffic accident incites violence,Chizhou,,China,,0.8,,human_rights,,1.0,,20000.0,44.0
+66,Riot over a land dispute,Sanzhou,,China,,0.8,,human_rights,,1.0,,20167.0,44.0
+67,2006 – 2006 protests in Hungary,,,Hungary,,218.026212054,,human_rights,,1.0,,5000.0,3.0
+68,"Mangalore riots were a set of riots in Mangalore, India triggered after Hindu extremist group Bajrang Dal attacked a Van which was transporting cows. Government imposed the curfew for a weak. Two people were killed and up to 50 people were injured.",Mangalore,,India,,15.8234886831,,human_rights,,1.0,,5000.0,2.0
+69,Copenhagen Riot,Copenhagen,,Denmark,,211.986059757,,human_rights,,1.0,,5000.0,31.0
+70,Anti-immigrant riots,Madrid,,Spain,,314.54384902,,human_rights,,1.0,,5000.0,44.0
+71,Guinea-Bissau riot,,,Guinea,,7.73160714286,,human_rights,,1.0,,350.0,1.0
+72,Chinese immigrants clash with riot police,Milan,,Italy,,278.546222159,,human_rights,,1.0,,5000.0,2.0
+73,Riot starts when a company takes over the bus routes and doubles the fares,Zhushan,,China,,0.8,,education,,1.0,,20000.0,44.0
+74,Karachi riots,Karachi,,Pakistan,,7.8,,election,,1.0,,400.0,5.0
+75,Bronze soldier riot,Tallinn,,Estonia,,110.806490749,,sport,,1.0,,1000.0,36.0
+76,Muslim-Tibetan riot,Qinghai,,China,,0.8,,religion,,1.0,,20000.0,44.0
+77,Muslim_Han riot,Shandong,,China,,0.8,,sport,,1.0,,5000.0,2.0
+78,Romani riots,Sofia,,Bulgaria,,135.37547367,,sport,,1.0,,5000.0,44.0
+79,Georgian anti-government protests,,,Georgia,,31.3285135779,,election,,1.0,,5000.0,2.0
+80,Burmese anti-government protests,,,Burmese,,3.54309165527,,human_rights,,1.0,,6000.0,2.0
+81,Riots in Villiers-le-Bel,Villiers-le-Bel,,France,,377.43942704,,human_rights,,1.0,,350.0,3.0
+82,Food riots in West Bengal,West Bengal,,India,,15.8234886831,,sport,,1.0,,62.0,1.0
+83,Kenyan Presidential Election Riots,,,Kenya,,19.2913746313,,election,,1.0,,5000.0,30.0
+84,Striking dock workers clash with riot police at state-controlled Piraeus (OLP) and Thessaloniki (OLTH) ports Greece,"Piraeus, Thessaloniki",,Greece,,357.231218343,,human_rights,,1.0,3.0,5000.0,44.0
+85,Protests in Serbia _ Riots in Belgrade on embassy's of countries recognizing the independence of Kosovo by Serbian nationalists.,Belgrade,,Serbia,,189.764684279,,sport,,1.0,,5000.0,2.0
+86,Political crisis in Lebanon _ Riots and engagements between Islamists and progressives.,,,Lebanon,,155.252856146,,religion,,1.0,,5000.0,44.0
+87,Tibetan unrest,,,China,,0.8,,human_rights,,1.0,,600.0,1.0
+88,Food riots,,,India,,15.8234886831,,human_rights,,1.0,3.0,5000.0,2.0
+89,UEFA Cup Final riots,Manchester,,United-Kingdom,,0.84898911353,,sport,,1.0,,5000.0,31.0
+90,South Africa riots - Attacks on foreign nationals,,,South-Africa,,27.9049150207,,sport,,1.0,,5000.0,6.0
+91,Fishermen riots in Paris - French fishermen clashed with police as they protested over rising fuel costs[89],Paris,,France,,377.43942704,,food,,1.0,,5000.0,44.0
+92,Fishermen riots in Brussels[90],Brussels,,Belgium,,426.432103817,,env,,1.0,,5000.0,44.0
+93,"Kamagasaki G8 Riots Osaka, June 2008 Repression and Revolt, General Union",Osaka,,Japan,,48.8134645494,,jobs,,1.0,,5000.0,7.0
+94,Guizhou riot in Guizhou,Guizhou,,China,,0.8,,sport,,1.0,,5000.0,2.0
+95,"Kanmen riot in the coastal province of Zhejiang. According to the Ministry of Public Security, there were 87,000 riots and protests reported in 2005 and this number increases every year.[93]",,Zhejiang,China,,0.8,,env,,1.0,,5000.0,7.0
+96,"riot in Mongolia, following the legislative election",,,Mongolia,,199.009229585,,election,,1.0,,5000.0,500.0
+97,Montreal North Riot,,Montreal,Canada,,269.502914962,,human_rights,,1.0,,5000.0,2.0
+98,Riots throughout Greece after police shot dead a teenager.,,,Greece,,357.231218343,,education,,1.0,,5000.0,2.0
+99,Mangalore Church attacks : Riot erupted after Hindu extremist groups Bajrang Dal and Sri Ram Sena attacked on Churches in Mangalore. Damaged the Churches and injured the people include Nuns.,Mangalore,,India,,15.8234886831,,religion,,1.0,,10000.0,9.0
+100,"Riots in Oslo, Copenhagen, London, Belfast, Los Angeles, San Francisco, and other cities following the 2008_2009 Israel_Gaza conflict.","Oslo, Copenhagen, London, Belfast, Los Angeles, San Francisco, and other cities",,France,,377.43942704,,education,,1.0,3.0,570.0,44.0
+101,"Riot in Riga, Latvia, after a peaceful demonstration of people, demanding parliament (Saeima) dissolution.",Riga,,Latvia,,45.5621680539,,human_rights,,1.0,,6000.0,8.0
+102,"Icelandic riots Reykjavík, Iceland (From: Mail Online, London 1/23/09)[not specific enough to verify]",Reykjavik,,Iceland,,225.985510312,,human_rights,,1.0,,5000.0,60.0
+103,"Anti-government Riots in Bangkok, Thailand. Protesters are demanding the resignation of Prime Minister Abhisit Vejjajiva. hundreds of protesters injured. Thai Army were deployed on the streets of Bangkok and the State of Emergency was declared.",Bangkok,,Thailand,,12.7751953374,,election,,1.0,,5000.0,9.0
+104,2009 Iranian election protests,,,Iran,,131.33497139,,election,,1.0,,700.0,4.0
+105,July 2009 Ürümqi riots in Ürümqi,Ürümqi,,China,,0.8,,human_rights,,1.0,,1680.0,5.0
+106,"Riots in Pakistan's central Punjab, 8 dead.",Punjab,,Pakistan,,7.8,,human_rights,,1.0,,199180.0,6.0
+107,"Riots in Birmingham, United Kingdom when far-right activists clash with anti-racism protesters and local members of the Muslim and Afro-Caribbean community on August 8",Birmingham,,United-Kingdom,,0.84898911353,,human_rights,,1.0,,5000.0,44.0
+108,Arab protesters clashed with Israeli security forces during riots near Temple Mount in Jerusalem,Jerusalem,,Israel,,394.462481029,,religion,,1.0,,5000.0,4.0
+109,Football riot,Široki Brijeg,,Bosnia-and-Herzegovina,,186.242363794,,sport,,1.0,,5000.0,8.0
+110,Riots in Corsica between police force and supporters of the FLNC,Corsica,,France,,377.43942704,,sport,,1.0,,70.0,2.0
+111,Prison riot in Venezuela,,,Venezuela,,39.1394924531,,human_rights,,1.0,,80.0,5.0
+112,Immigrants riots in Rosarno,Rosarno,,Italy,,278.546222159,,sport,,1.0,,2007.0,31.0
+113,Riots in Nigeria between Muslim and Christian gangs,,,Nigeria,,7.71025969071,,domestic,,1.0,,5000.0,7.0
+114,Riots in Vancouver,Vancouver,,Canada,,269.502914962,,sport,,1.0,,1976.0,6.0
+115,Kyrgyzstani uprising,,,Kyrgyzstan,,96.3103565365,,domestic,,1.0,,5000.0,44.0
+116,Political protests in Thailand,,,Thailand,,12.7751953374,,human_rights,,1.0,,5000.0,60.0
+117,Springfest Riot,Harrisonburg,Virginia,United-States,,347.723531383,,human_rights,,1.0,,5000.0,8.0
+118,Riots in Indonesia,,,Indonesia,,14.4544819558,,human_rights,,1.0,,5000.0,2.0
+119,Riots in Kyrgyzstan,,,Kyrgyzstan,,96.3103565365,,human_rights,,1.0,,5000.0,3.0
+120,Riots in Santa Cruz,Santa Cruz,California,United-States,,347.723531383,,foreign_affairs,,1.0,,5000.0,8.0
+121,Riots in Greece,,,Greece,,357.231218343,,education,,1.0,,100000.0,8.0
+122,Prison riot in Venezuela,,,Venezuela,,39.1394924531,,human_rights,,1.0,,5000.0,7.0
+123,Riots in northeast India,,,India,,15.8234886831,,human_rights,,1.0,,5000.0,73.0
+124,Riots in Kyrgyzstan between Kyrgyz and Uzbeks,,,Kyrgyzstan,,96.3103565365,,human_rights,,1.0,,5000.0,7.0
+125,Riots in Jamaica,,,Jamaica,,102.176604027,,human_rights,,1.0,,5000.0,60.0
+126,Riots in Kyrgyzstan,,,Kyrgyzstan,,96.3103565365,,election,,1.0,,5000.0,2.0
+127,Prison riot in Mexico,,,Mexico,,359.577167974,,human_rights,,1.0,,5000.0,9.0
+128,Drake Seaport riot,,New York,United-States,,347.723531383,,human_rights,,1.0,,5000.0,6.0
+129,Riots in Bariloche,,Bariloche,Argentina,,718.289866699,,sport,,1.0,,5000.0,61.0
+130,"Riots in Toronto, during the 2010 G-20 Toronto summit, 1105 arrests",,Toronto,Canada,,269.502914962,,human_rights,,1.0,,5000.0,8.0
+131,Prison riot in Venezuela,,,Venezuela,,39.1394924531,,sport,,1.0,,5000.0,7.0
+132,Riots in Indian Kashmir,,Kashmir,India,,15.8234886831,,human_rights,,1.0,,5000.0,6.0
+133,Riots in Yemen,,,Yemen,,5.01006987995,,human_rights,,1.0,,5000.0,2.0
+134,Riots in Panama,,,Panama,,171.178650656,,human_rights,,1.0,,5000.0,7.0
+135,"Riots in Oakland, after not-guilty verdict returned in Oscar Grant case",Oakland,California,United-States,,347.723531383,,human_rights,,1.0,,5000.0,500.0
+136,Riots in Northern Ireland,,,Ireland,,413.345237544,,election,,1.0,,5000.0,44.0
+137,Riots in Nigeria,,,Nigeria,,7.71025969071,,sport,,1.0,,5000.0,8.0
+138,Prison riot in Quebec,,Quebec,Canada,,269.502914962,,sport,,1.0,,600.0,90.0
+139,Riots in Indian Kashmir,,Kashmir,India,,15.8234886831,,human_rights,,1.0,,5000.0,52.0
+140,Riots in Karachi,,Karachi,Pakistan,,7.8,,human_rights,,1.0,,5000.0,50.0
+141,Prison riot in Mexico,,,Mexico,,359.577167974,,human_rights,,1.0,,5000.0,28.0
+142,Prison riot in Kazakhstan,,,Kazakhstan,,260.765111915,,sport,,1.0,,5000.0,9.0
+143,Farmers riot in Uttar Pradesh,,Uttar Pradesh,India,,15.8234886831,,human_rights,,1.0,,2010150.0,2.0
+144,Riots in Punjab province,,Punjab,Pakistan,,7.8,,human_rights,,1.0,,5000.0,7.0
+145,Riots in Mozambique,,,Mozambique,,16.066263221,,human_rights,,1.0,,5000.0,7.0
+146,Riots in Indonesia,,,Indonesia,,14.4544819558,,human_rights,,1.0,,400.0,5.0
+147,Riots in Afghanistan,,,Afghanistan,,6.6,,religion,,1.0,,5000.0,8.0
+148,Riots in Karachi,,Karachi,Pakistan,,7.8,,election,,1.0,,2009.0,7.0
+149,Riots in Ecuador,,,Ecuador,,383.8530633,,human_rights,,1.0,,5000.0,476.0
+150,Riots in East Kalimantan,,Kalimantan,Indonesia,,14.4544819558,,human_rights,,1.0,,5000.0,44.0
+151,Prison Riots in Venezuela,,,Venezuela,,39.1394924531,,human_rights,,1.0,,5000.0,7.0
+152,Belgrade anti-gay riot,,Belgrade,Serbia,,189.764684279,,human_rights,,1.0,,5000.0,2.0
+153,Riots in Karachi,,Karachi,Pakistan,,7.8,,sport,,1.0,,5000.0,9.0
+154,Prison riot in Haiti,,,Haiti,,10.0,,human_rights,,1.0,,5000.0,8.0
+155,Riots in Cross River State,,,Nigeria,,7.71025969071,,education,,1.0,,5000.0,8.0
+156,Riots in Western Sahara,,,Morocco,,142.014470202,,human_rights,,1.0,,5000.0,2.0
+157,Riot in Maranhão,,Maranhão,Brazil,,335.394677759,,sport,,1.0,,5000.0,6.0
+158,Student riots in London,,,United-Kingdom,,0.84898911353,,human_rights,,1.0,,5000.0,2.0
+159,Riots in Haiti,,,Haiti,,10.0,,sport,,1.0,,5000.0,2.0
+160,Riots in Cairo,,Cairo,Egypt,,16.2019727776,,election,,1.0,,5000.0,26.0
+161,Riots in Rio de Janeiro,,Rio de Janeiro,Brazil,,335.394677759,,human_rights,,1.0,,5000.0,22.0
+162,Riots in Ivory Coast,,,Ivory-Coast,,38.2966473792,,election,,1.0,,5000.0,45.0
+163,More student riots in London,,,United-Kingdom,,0.84898911353,,human_rights,,1.0,,5000.0,44.0
+164,Riots in Buenos Aires,,Buenos Aires,Argentina,,718.289866699,,foreign_affairs,,1.0,,5000.0,20.0
+165,Riots in Bangladesh,,,Bangladesh,,4.8414342468,,human_rights,,1.0,,5000.0,44.0
+166,Ethnic riots in Moscow,,Moscow,Russia,,96.8147863574,,human_rights,,1.0,,5000.0,8.0
+167,Riots in Ivory Coast,,,Ivory-Coast,,38.2966473792,,sport,,1.0,,1883124.0,6.0
+168,Riots in the Constitución neighborhood,,Buenos Aires,Argentina,,718.289866699,,foreign_affairs,,1.0,,800.0,5.0
+169,Riots in Tunisia,,,Tunisia,,3.1,,election,,1.0,,201613.0,9.0
+170,New park riots _ pupils riot in a newly built park,Glasgow,,Scotland,,341.7285714,,domestic,,1.0,,5000.0,4.0
+171,Riots in Assam,Meghalaya,Assam,India,,15.8234886831,,human_rights,,1.0,,5000.0,5.0
+172,Riots in Arusha,Arusha,,Tanzania,,7.9,,human_rights,,1.0,,30000.0,60.0
+173,Riots in Algeria. 2 dead and four hundred people injured in riots linked to food price increases and unemployment.,,,Algeria,,88.9091769193,,human_rights,,1.0,,5000.0,7.0
+174,Riots in Tunisia,,,Tunisia,,3.1,,election,,1.0,,5000.0,4.0
+175,Riots in Jos,Jos,,Nigeria,,7.71025969071,,election,,1.0,,5000.0,4.0
+176,Riots in Tirana - including three seriously along with 22 civilians,Tirana,,Albania,,33.3614592527,,human_rights,,1.0,,5000.0,7.0
+177,"Riots in Lebanon, following the fall of Saad Hariri's government",,,Lebanon,,155.252856146,,human_rights,,1.0,,201330.0,8.0
+178,Riots in Egypt,,,Egypt,,16.2019727776,,election,,1.0,,5000.0,4.0
+179,Riots in Tafawa Balewa,Tafawa Balewa,,Nigeria,,7.71025969071,,human_rights,,1.0,,5000.0,44.0
+180,Prison riot in Sao Luis,Sao Luis,,Brazil,,335.394677759,,election,,1.0,,5000.0,29.0
+181,Religious riot in Banten,Banten,,Indonesia,,14.4544819558,,human_rights,,1.0,,5000.0,5.0
+182,Riots in Manama - 2 security forces injured,Manama,,Bahrain,,223.353696321,,human_rights,,1.0,,5000.0,4.0
+183,Riots in Sulaimaniya,Sulaimaniya,,Iraq,,0.679494449189,,domestic,,1.0,,5000.0,6.0
+184,Riots in Al Hoceima,Al Hoceima,,Morocco,,142.014470202,,foreign_affairs,,1.0,,5000.0,3.0
+185,Riots in Libya,,,Libya,,2.5,,election,,1.0,,5000.0,6.0
+186,Riots in Iraq,,,Iraq,,0.679494449189,,election,,1.0,,5000.0,8.0
+187,Riots in Yemen,,,Yemen,,5.01006987995,,election,,1.0,,5000.0,6.0
+188,Riots in Tunis,Tunis,,Tunisia,,3.1,,election,,1.0,,5000.0,6.0
+189,Miners riot in Peru,,,Peru,,186.603654531,,jobs,,1.0,,5000.0,6.0
+190,Riots in Cairo,Cairo,,Egypt,,16.2019727776,,election,,1.0,,5000.0,7.0
+191,Riot in Kissidougou,Kissidougou,,Guinea,,7.73160714286,,election,,1.0,,200115.0,44.0
+192,Prison riot in Tikrit,Tikrit,,Iraq,,0.679494449189,,domestic,,1.0,,5000.0,52.0
+193,Riots in Syria,,,Syria,,9.71382934006,,domestic,,1.0,,5000.0,6.0
+194,Riots in Sana'a,Sana'a,,Yemen,,5.01006987995,,election,,1.0,,5000.0,44.0
+195,Prison Riot in Hyderabad,Hyderabad,,Pakistan,,7.8,,religion,,1.0,,19000.0,2.0
+196,Riot in London,London,,United-Kingdom,,0.84898911353,,sport,,1.0,,5000.0,6.0
+197,Riots in Nigeria,,,Nigeria,,7.71025969071,,human_rights,,1.0,,5000.0,9.0
+198,Riots in Mazar-e Sharif and Kandahar,Mazar-e Sharif,,Afghanistan,,6.6,,domestic,,1.0,3.0,5500.0,49.0
+199,Riots in Jessore,Jessore,,Bangladesh,,4.8414342468,,human_rights,,1.0,,5000.0,9.0
+200,Riots in Cairo,Cairo,,Egypt,,16.2019727776,,election,,1.0,,5000.0,5.0
+201,Prison riot in Rumieh prison,Rumieh,,Lebanon,,155.252856146,,human_rights,,1.0,,5000.0,44.0
+202,Riot in Parwan province,Parwan,,Afghanistan,,6.6,,human_rights,,1.0,,10000.0,44.0
+203,Riots in Uganda,,,Uganda,,22.8380248791,,human_rights,,1.0,,5000.0,2.0
+204,Riots in Yemen,,,Yemen,,5.01006987995,,election,,1.0,,100.0,11.0
+205,Riots in Jaitapur,Jaitapur,Maharashtra,India,,15.8234886831,,env,,1.0,,5000.0,44.0
+206,Riots in Diyarbakir,Diyarbakir,,Turkey,,235.347969476,,sport,,1.0,,5000.0,44.0
+207,Riots in Dakar,Dakar,,Senegal,,13.3609633827,,jobs,,1.0,,5000.0,800.0
+208,Riots in Tyre,Tyre,,Lebanon,,155.252856146,,sport,,1.0,,5000.0,21.0
+209,Riots in Mansa,Mansa,Luapula Province,Zambia,,5.61710213777,,election,,1.0,,846.0,53.0
+210,Riots in Nigeria,,,Nigeria,,7.71025969071,,human_rights,,1.0,,5000.0,4.0
+211,Riots in Kampala,Kampala,,Uganda,,22.8380248791,,human_rights,,1.0,,5000.0,44.0
+212,Riots in Cairo,Cairo,,Egypt,,16.2019727776,,election,,1.0,,5000.0,5.0
+213,Riots in Hesarak District,,Nangarhar province,Afghanistan,,6.6,,domestic,,1.0,,5000.0,3.0
+214,Riots on Israel's borders,,,Israel,,394.462481029,,human_rights,,1.0,,5000.0,44.0
+215,Riots in West Bengal,,West Bengal,India,,15.8234886831,,jobs,,1.0,,5000.0,44.0
+216,Riots in Taloqan,Taloqan,Takhar province,Afghanistan,,6.6,,human_rights,,1.0,,5000.0,44.0
+217,Riots in Tbilisi,Tbilisi,,Georgia,,31.3285135779,,election,,1.0,,5000.0,3.0
+218,Riots in Choucha refugee camp,,,Tunisia,,3.1,,election,,1.0,,5000.0,90.0
+219,Riots in Sri Lanka,,,Sri-Lanka,,242.814174326,,domestic,,1.0,,5000.0,7.0
+220,Riots in Greater Noida,Greater Noida,Uttar Pradesh,India,,15.8234886831,,human_rights,,1.0,,5000.0,58.0
+221,Riots in Metlaoui,Metlaoui,,Tunisia,,3.1,,election,,1.0,,301.0,7.0
+222,Riots in Mogadishu,Mogadishu,,Somalia,,5.6,,election,,1.0,,5000.0,7.0
+223,Riots in El Rodeo I prison,El Rodeo,Caracas,Venezuela,,39.1394924531,,human_rights,,1.0,,5000.0,5.0
+224,Riots in Vancouver,Vancouver,,Canada,,269.502914962,,sport,,1.0,,6800.0,88.0
+225,Riots in Tripoli,Tripoli,,Lebanon,,155.252856146,,religion,,1.0,,5000.0,4.0
+226,"Riots, three separate outbreaks in June and July, Northern Ireland, United Kingdom, over 300 injured.",,,Ireland,,413.345237544,,election,,1.0,,5000.0,3.0
+227,Riots in Huancavelica,Huancavelica,,Peru,,186.603654531,,human_rights,,1.0,,5000.0,2.0
+228,Riots in Guwahati,Guwahati,Assam,India,,15.8234886831,,human_rights,,1.0,,5000.0,9.0
+229,Riots in Juliaca,Juliaca,,Peru,,186.603654531,,foreign_affairs,,1.0,,5000.0,4.0
+230,Riots in Dadaab - 2 killed and 13 injured,Dabaab,,Kenya,,19.2913746313,,human_rights,,1.0,,5000.0,44.0
+231,Riots in Karachi - at least 114 killed,Karachi,,Pakistan,,7.8,,election,,1.0,,5000.0,7.0
+232,Riots in Ganjam - at least 2 killed,Ganjam,Odisha,India,,15.8234886831,,religion,,1.0,,270.0,7.0
+233,Riot in Karaganda - at least 7 killed in a prison riot,Karaganda,,Kazakhstan,,260.765111915,,human_rights,,1.0,,3000.0,7.0
+234,Riot in Nuevo Laredo - 7 killed in a prison riot,Nuevo Laredo,,Mexico,,359.577167974,,human_rights,,1.0,,250.0,5.0
+235,Riot in Hotan - 4 killed,Hotan,,China,,0.8,,election,,1.0,,4383.0,8.0
+236,Riots in Homs - at least 30 killed in sectarian violence,Homs,,Syria,,9.71382934006,,domestic,,1.0,,310.0,52.0
+237,Riots in Sidi Bouzid - 1 killed,Sidi Bouzid,,Tunisia,,3.1,,election,,1.0,,5000.0,6.0
+238,Riots in Malawi - at least 18 killed,Malawi,,Malawi,,1.8,,election,,1.0,,700.0,36.0
+239,Riots in Ciudad Juárez - 17 people killed in a prison riot,Ciudad Juárez,,Mexico,,359.577167974,,human_rights,,1.0,,100000.0,8.0
+240,Riots in Papua - 18 killed in rioting between rival clans,Papua,,Indonesia,,14.4544819558,,human_rights,,1.0,,1100.0,4.0
+241,Riots in Qalad District - at least 4 killed,Qalad,Zabul province,Afghanistan,,6.6,,election,,1.0,,148.0,500.0
+242,Riots in Pimpri-Chinchwad - 3 killed,Pimpri-Chinchwad,Maharashtra,India,,15.8234886831,,human_rights,,1.0,,5000.0,5.0
+243,Riots in London which spread to other cities in England - over a hundred injured and 5 killed,London,,United-Kingdom,,0.84898911353,,human_rights,,1.0,,5000.0,2.0
+244,Riots in Mogadishu - at least 10 killed,Mogadishu,,Somalia,,5.6,,food,,1.0,,5000.0,44.0
+245,"Riots in Chile - scores of demonstrators and police injured, 1 killed",,,Chile,,517.97345277,,education,,1.0,,5000.0,70.0
+246,Riots in Hakkari province - 1 killed,,Hakkari,Turkey,,235.347969476,,domestic,,1.0,,5000.0,4.0
+247,Riots in Jos - at least 22 killed,Jos,,Nigeria,,7.71025969071,,education,,1.0,,5000.0,33.0
+248,Riots in Sbeitla - 1 teenage girl killed - 4 injured,Sbeitla,,Tunisia,,3.1,,religion,,1.0,,270.0,55.0
+249,Riots in Cairo - 3 killed and more than 1000 injured in anti-Israel protests,Cairo,,Egypt,,16.2019727776,,election,,1.0,,100000.0,8.0
+250,Riots in Ambon - 5 dead and 80 injured in clashes between Christians and Muslims,Ambon,,Indonesia,,14.4544819558,,human_rights,,1.0,,5000.0,9.0
+251,Riots in Paramakudi - 7 killed,Paramakudi,Tamil Nadu,India,,15.8234886831,,human_rights,,1.0,,522.0,300.0
+252,Riots in Ujjain - 2 killed and 16 injured in a religious riot,Ujjain,Madhya Pradesh,India,,15.8234886831,,religion,,1.0,,5000.0,44.0
+253,"Riots in Bharatpur - at least 9 killed, Over a dozen injured",Bharatpur,Rajasthan,India,,15.8234886831,,religion,,1.0,,5020052183.0,44.0
+254,Riots in Nablus - 1 killed,Nablus,,Palestine,,66.9842072539,,human_rights,,1.0,,400.0,98.0
+255,Riots in Katunitsa - at least 6 injured in ethnic clashes,Katunitsa,,Bulgaria,,135.37547367,,human_rights,,1.0,,846.0,4.0
+256,Riots in Dakhla - at least 20 injured,Dakhla,Western Sahara,Morocco,,142.014470202,,sport,,1.0,,5000.0,2.0
+257,Riots in Conakry - at least 4 killed,Conakry,,Guinea,,7.73160714286,,election,,1.0,,2016.0,100.0
+258,Riots in Cairo - at least 24 killed,Cairo,,Egypt,,16.2019727776,,election,,1.0,,5000.0,2.0
+259,Riots in Darrang district - 4 killed,Darrang,Assam,India,,15.8234886831,,human_rights,,1.0,,5000.0,74.0
+260,"Riots in Papua - 1 killed, 5 injured",Papua,,Indonesia,,14.4544819558,,human_rights,,1.0,,5000.0,44.0
+261,"Riots in Athens - 1 died of heart attack, 16 injured",Athens,,Greece,,357.231218343,,education,,1.0,,1000.0,73.0
+262,Riots in Monrovia - at least 1 killed and several others wounded,Monrovia,,Liberia,,2.88684210526,,election,,1.0,,5000.0,88.0
+263,Riots in Nicaragua - at least 4 people killed in post-election violence and 46 officers have been injured,Nicaragua,,Nicaragua,,400.3472736,,election,,1.0,,129.0,50.0
+264,Riots in Damietta - 1 killed and at least 11 injured,Damietta,,Egypt,,16.2019727776,,election,,1.0,,5000.0,6.0
+265,Riots in Cairo - 33 killed,Cairo,,Egypt,,16.2019727776,,election,,1.0,,5000.0,3.0
+266,Riots in Kinshasa - at least 1 dead,Kinshasa,,Democratic-Republic-of-the-Congo,,12.1777074309,,election,,1.0,,5000.0,74.0
+267,Riots in Karachi - at least 2 killed and 8 injured,Karachi,,Pakistan,,7.8,,sport,,1.0,,550.0,1.0
+268,Riots in Zakho - at least 30 injured,Zakho,,Iraq,,0.679494449189,,foreign_affairs,,1.0,,5000.0,2.0
+269,Riots in Canete - at least 1 killed and 20 injured,Canete,,Peru,,186.603654531,,sport,,1.0,,2009.0,17.0
+270,Riots in Nabi Saleh - 1 killed,Nabi Saleh,,Palestine,,66.9842072539,,human_rights,,1.0,,700.0,4.0
+271,Riot in Jagatsinghpur district - at least 1 killed and 2 injured,,Odisha,India,,15.8234886831,,religion,,1.0,,5000.0,73.0
+272,Riots in Kinshasa - 6 killed,Kinshasa,,Democratic-Republic-of-the-Congo,,12.1777074309,,election,,1.0,,5000.0,5.0
+273,Riots in Zhanaozen - at least 11 people killed and 86 injured,Zhanaozen,,Kazakhstan,,260.765111915,,sport,,1.0,,5000.0,20.0
+274,Riots in Cairo - at least 13 people killed and hundreds injured,Cairo,,Egypt,,16.2019727776,,election,,1.0,,838.0,4.0
+275,Riots in Bima - at least 2 people were killed and 8 wounded,Bima,West Nusa Tenggara,Indonesia,,14.4544819558,,human_rights,,1.0,,5000.0,50.0
+276,Riots in Rome - at least 100 injured,,,Italy,,278.546222159,,human_rights,,1.0,,723.0,3.0
+277,Riots in Uri - 1 killed and 4 injured,Uri,Indian Kashmir,India,,15.8234886831,,domestic,,1.0,,5000.0,74.0
+278,Riots in Ebonyi State - at least 50 killed,Ebonyi,,Nigeria,,7.71025969071,,sport,,1.0,,5000.0,44.0
+279,Riots in Qatif - several killed and 3 injured,Qatif,,Saudi-Arabia,,6.2,,human_rights,,1.0,,5000.0,8.0
+280,Riots in Bahrain - at least 100 killed and dozens injured within 2011_2012,,,Bahrain,,223.353696321,,human_rights,,1.0,,318.0,74.0
+281,Riots in Dakar and Podor - 3 killed,Dakar and Podor,,Senegal,,13.3609633827,,election,,1.0,,572.0,74.0
+282,Riots in Bangladesh - 4 killed,,,Bangladesh,,4.8414342468,,human_rights,,1.0,,5000.0,3.0
+283,Riots in Port Said - at least 74 killed and at least 1000 people injured,Port Said,,Egypt,,16.2019727776,,sport,,1.0,,80.0,6.0
+284,Riots in Cairo and Suez - 7 dead,Cairo and Suez,,Egypt,,16.2019727776,,election,,1.0,,2012.0,52.0
+285,Riots in Qatif - 1 killed and at least 6 injured,Qatif,,Saudi-Arabia,,6.2,,human_rights,,1.0,,5000.0,8.0
+286,Riots in Chilaw - 1 killed and 4 injured,Chilaw,,Sri-Lanka,,242.814174326,,jobs,,1.0,,5000.0,9.0
+287,Riots in Apodaca - 44 killed in a prison riot,Apodaca,Nuevo León,Mexico,,359.577167974,,sport,,1.0,,5000.0,8.0
+288,Riots in Rustenburg - 2 killed,Rustenburg,,South-Africa,,27.9049150207,,jobs,,1.0,,5000.0,2.0
+289,Riots in Afghanistan - 23 killed,,,Afghanistan,,6.6,,religion,,1.0,,5000.0,43.0
+290,Riots. 2 killed ,Songea,,Tanzania,,7.9,,religion,,1.0,,79414269.0,44.0
+291,Riots. 1 killed and several injured.,Aysén,,Chile,,517.97345277,,education,,1.0,,5000.0,5.0
+292,Riots. 2 killed and dozens wounded.,,,Macedonia,,506.853834052,,sport,,1.0,,1000.0,74.0
+293,Riots. 3 killed and more than 30 injured.,Puerto Maldonado,,Peru,,186.603654531,,human_rights,,1.0,,741.0,7.0
+294,Riots.1 killed,,,Turkey,,235.347969476,,religion,,1.0,,18.0,11.0
+295,Riots. 1 killed and 65 injured.,Port Said,,Egypt,,16.2019727776,,sport,,1.0,,5000.0,8.0
+296,Riots. 1 killed and scores injured.,West Bank and Gaza,,Israel,,394.462481029,,human_rights,,1.0,,5000.0,44.0
+297,Riots. at least 18 killed,San Pedro Sula,,Honduras,,153.382232741,,sport,,1.0,,600.0,74.0
+298,Riots. at least 17 killed and nearly 50 injured,Gilgit Baltistan,,Pakistan,,7.8,,human_rights,,1.0,,600.0,6.0
+299,Riot. 25000 protesters fired upon by police using water cannons and tear gas,Kuala Lumpur,,Malaysia,,222.038220025,,human_rights,,1.0,,5000.0,3.0
+300,Riots. at least 20 killed,Cairo,,Egypt,,16.2019727776,,election,,1.0,,300.0,8.0
+301,Riots. 1 killed,Tunis,,Tunisia,,3.1,,election,,1.0,,2012.0,5.0
+302,Riots. 1 killed and 4 injured,Papua Province,,Indonesia,,14.4544819558,,human_rights,,1.0,,5000.0,5.0
+303,Riots. 50 killed,,Rakhine State,Myanmar,,3.54309165527,,human_rights,,1.0,,5000.0,80.0
+304,Riots. more than 90 killed.,Kaduna,,Nigeria,,7.71025969071,,election,,1.0,,2000.0,3.0
+305,Riots. at least 3 killed.,Celendín,,Peru,,186.603654531,,sport,,1.0,,100000.0,965.0
+306,Riots.1 killed.,Potosi,,Bolivia,,93.1236866559,,religion,,1.0,,5000.0,44.0
+307,Riots. 2 killed.,Qatif,,Saudi-Arabia,,6.2,,election,,1.0,,5000.0,8.0
+308,Riots.1 killed and more than 85 injured.,Delhi,,India,,15.8234886831,,human_rights,,1.0,,5000.0,8.0
+309,Riots. At least 3 killed.,Linden,,Guyana,,549.182425402,,domestic,,1.0,,1050.0,58.0
+310,Riots. At least 22 killed.,,Mérida state,Venezuela,,39.1394924531,,election,,1.0,,5000.0,2.0
+311,Riots. At least 36 killed.,,Assam,India,,15.8234886831,,human_rights,,1.0,,5000.0,8.0
+312,Riots. Several injuries and 24 arrested.,Anaheim,California,United-States,,347.723531383,,election,,1.0,,40000.0,2.0
+313,Riots. 6 killed.,Nyala,,Sudan,,9.02334018337,,domestic,,1.0,,2016.0,4.0
+314,Riots. 5 killed.,Zogota,,Guinea,,7.73160714286,,election,,1.0,,3000.0,5.0
+315,Riots. 2 killed and at least 55 injured.,Mumbai,,India,,15.8234886831,,religion,,1.0,,5000.0,2.0
+316,Riots. 9 killed.,,North West Province,South-Africa,,27.9049150207,,human_rights,,1.0,,5000.0,31.0
+317,Riots. 34 killed. 78 wounded.,,North West Province,South-Africa,,27.9049150207,,jobs,,1.0,,5000.0,3.0
+318,Riots. 6 killed and 200 injured.,,"Santa Fe Province, Tucumán Province, Buenos Aires Province",Argentina,,718.289866699,,jobs,,1.0,,5000.0,44.0
+319,Project X Haren. Over 30 injured.,"Haren, Groningen",,Netherlands,,159.02486625,,election,,1.0,,8654.0,30.0
+320,Muslims Riot. 25 Injured. Over anti-Islam Film,Sydney,,Australia,,529.923390162,,religion,,1.0,,100.0,12.0
+321,Riots caused by the Mexican general election,Mexico City,,Mexico,,359.577167974,,human_rights,,1.0,,2014.0,45.0
+322,Riots. Dozens injured. 3 dead,,,Bulgaria,,135.37547367,,sport,,1.0,,939.0,4.0
+323,Riots,Stockholm,,Sweden,,678.689919267,,human_rights,,1.0,,5000.0,2.0
+324,Riots,,,Bangladesh,,4.8414342468,,religion,,1.0,,500.0,10.0
+325,Riots,Istanbul,,Turkey,,235.347969476,,sport,,1.0,,200.0,27.0
+326,Riots,"Rio de Janeiro, Brasilia, Belo Horizonte, Salvador, Recife, Curitiba, Porto Alegre, Vitória, São Paulo",,Brazil,,335.394677759,,food,,1.0,,8654.0,31.0
+327,Riots. Following July 12 parade and over several days. Dozens injured mainly Police Officers.,Belfast,,Ireland,,413.345237544,,election,,1.0,,5000.0,22.0
+328,Riots. 27 people were killed in riots.,Shanshan County (Xinjiang),,China,,0.8,,human_rights,,1.0,,8654.0,6.0
+329,Riots,Trappes,,France,,377.43942704,,human_rights,,1.0,,400.0,8.0
+330,Riots.1 injured.,Huntington Beach,California,United-States,,347.723531383,,human_rights,,1.0,,304.0,36.0
+331,Riots,Cape Town,,South-Africa,,27.9049150207,,election,,1.0,,780.0,4.0
+332,Riots.18 injured.,,,Singapore,,6.27306122449,,human_rights,,1.0,,5000.0,3.0
+333,"Euromaidan. 1,880 injured. 106 dead. 1,340 hospitalized. 320 arrested for mass rioting and 125+ police officers injured",Kiev.,,Ukraine,,59.9506758696,,election,,1.0,,129.0,2.0
+334,Hrushevskoho Street riots,,,Ukraine,,59.9506758696,,election,,1.0,,900.0,35.0
+335,20 January Haredi rioted Brooklyn,,,US,,347.723531383,,human_rights,,1.0,,5000.0,58.0
+336,Riots in Mombasa Kenya after a raid on a mosque by police,Mombasa,,Kenya,,19.2913746313,,domestic,,1.0,,5000.0,6.0
+337,2014 unrest in Bosnia and Herzegovina The 2014 unrest in Bosnia and Herzegovina is a series of demonstrations and riots that began in the northern town of Tuzla on 4 February 2014 but quickly spread to multiple cities in Bosnia and Herzegovina including Sarajevo,,"Zenica, Mostar",Bosnia-and-Herzegovina,,186.242363794,,human_rights,,1.0,,5000.0,8.0
+338,Riots in Tampa Florida After Cigar City Brewing Company prematurely ran out of beer at their annual release of their highly acclaimed Hunahpu's Imperial Stout angry attendees began a small riot. Police were called to the scene and dispersed the angry crowd. The riot prompted the brewery's owners to cancel the event in the future. No lives were lost,Tampa,Florida,US,,347.723531383,,sport,,1.0,,148.0,2.0
+339,Riots in Mexico caused by the 2014 Iguala mass kidnapping,,,Mexico,,359.577167974,,human_rights,,1.0,,5000.0,31.0
+340,Riots in Ferguson - Missouri caused by the shooting of Michael Brown and charges against the accused officer being dropped,Ferguson,Missouri,US,,347.723531383,,human_rights,,1.0,,30121.0,70.0
+341,Baltimore riots erupted in Baltimore,Baltimore,Maryland,US,,347.723531383,,human_rights,,1.0,,1000.0,14.0
+342,Corsican protests follow the rise of Corsican nationalism and resulted in the burning of a mosque in Ajaccio and continuing protests.,,,France,,377.43942704,,election,,1.0,,400.0,8.0
+343,Mong Kok civil unrest,Mong Kok,,Hong-Kong,,62.7556784969,,election,,1.0,,5000.0,7.0
+344,Riots after the shooting of Abdi Mohamed in Salt Lake City,Salt Lake City,Utah,US,,347.723531383,,human_rights,,1.0,,800000.0,60.0
+345,Donald Trump rally takes a violent turn in Chicago,Chicago,Illinois,US,,347.723531383,,human_rights,,1.0,,20.0,11.0
+346,Riot in Melbourne,Melbourne,,Australia,,529.923390162,,human_rights,,1.0,,5000.0,2.0
+347,A series of violent riots Melbourne,Melbourne,,Australia,,529.923390162,,human_rights,,1.0,,300.0,35.0
+348,Protesters outside a Trump rally rioted in Albuquerque,,,New-Mexico,,597.0,,election,,1.0,,10000.0,5.0
+349,"June 2: San Jose, California, Trump rally turns violent when protesters attacked supporters and one Police Officer was assaulted[373]",San Jose,California,US,,347.723531383,,human_rights,,1.0,,2000.0,6.0
+350,Milwaukee riots,Milwaukee,Wisconsin,US,,347.723531383,,human_rights,,1.0,,791.0,35.0
+351,Riots break out in Kalgoorlie Australia after Aboriginal boy murdered,,,Australia,,529.923390162,,human_rights,,1.0,,8654.0,31.0
+352,Kaveri River water dispute,,,India,,15.8234886831,,human_rights,,1.0,,8654.0,31.0
+353,Riots in Charlotte,Charlotte,North Carolina,US,,347.723531383,,human_rights,,1.0,,8654.0,31.0
