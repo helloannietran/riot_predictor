@@ -52,5 +52,5 @@ with open("unstructured_centiment.csv", 'w') as out_file:
                 poses += positive_count
                 total += total_count
         # print 'negative: %d, positive: %d, total: %d' %(negs, poses, total)
-        out_val = (poses - negs)*100.0/total
-        out_file.write("%f\n" % out_val)
+        out_val = (poses - negs)*100.0/total if total > 0 else 'None'
+        out_file.write("%s\n" % str(out_val))
