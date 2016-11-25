@@ -4,8 +4,8 @@ from py_bing_search import PyBingWebSearch
 import urllib2, time, os, shutil, requests
 
 api_key = 'OP14ieri+Elhn7fChsHgYTJKCnasjdy783spq7QVFlM'
-# riots_file = 'africa_list_of_riots.txt'
-riots_file = 'south_america_list_of_riots.txt'
+riots_file = 'africa_list_of_riots.txt'
+# riots_file = 'south_america_list_of_riots.txt'
 
 def write_text():
 	with open(riots_file) as listofriots:
@@ -32,8 +32,8 @@ def write_text():
 				continue
 
 def write_html():
-	cur_dir = 'riots_LA'
-	# cur_dir = 'riots_africa'
+	# cur_dir = 'riots_LA'
+	cur_dir = 'riots_africa'
 	with open(riots_file) as listofriots:
 		for i, l in enumerate(listofriots):
 			if i < 0:
