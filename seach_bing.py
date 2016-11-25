@@ -32,7 +32,7 @@ def write_text():
 				continue
 
 def write_html():
-	cur_dir = 'protests_LA'
+	cur_dir = 'riots_LA'
 	# cur_dir = 'riots_africa'
 	with open(riots_file) as listofriots:
 		for i, l in enumerate(listofriots):
@@ -40,8 +40,8 @@ def write_html():
 				continue
 			try:
 				print "looking at riot %d" %i
-				name  = l.split("\t")[1].strip()
-				idx = int(l.split("\t")[0].strip())
+				name  = l.strip()
+				# idx = int(l.split("\t")[0].strip())
 				# name  = l.split("-")[1].strip().split('(')[0].strip()
 				bing_news = PyBingNewsSearch(api_key, name)
 				news = bing_news.search(limit=5, format='json')
