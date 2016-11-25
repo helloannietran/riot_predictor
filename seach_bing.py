@@ -32,6 +32,8 @@ def write_text():
 				continue
 
 def write_html():
+	cur_dir = 'protests_LA'
+	# cur_dir = 'riots_africa'
 	with open(riots_file) as listofriots:
 		for i, l in enumerate(listofriots):
 			if i < 0:
@@ -45,12 +47,12 @@ def write_html():
 				news = bing_news.search(limit=5, format='json')
 				time.sleep(3)
 				try:
-				    shutil.rmtree("riots_africa/riot_%04d" % idx)
+				    shutil.rmtree("%s/riot_%04d" % (cur_dir, idx))
 				except OSError:
 				    pass
-				os.mkdir("riots_africa/riot_%04d" % idx)
+				os.mkdir("%s/riot_%04d" % (cur_dir, idx))
 				for j, new in enumerate(news):
-					with open('riots_africa/riot_%04d/%d.html' %(idx, j), 'w') as riot_file:
+					with open('%s/riot_%04d/%d.html' %(cur_dir, idx, j), 'w') as riot_file:
 						web = requests.get(new.url)
 						riot_file.write(web.text.encode('utf-8').strip())
 						# riot_file.write(new.description.encode('utf-8').strip())
