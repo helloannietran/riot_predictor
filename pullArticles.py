@@ -7,7 +7,6 @@ Created on Fri Oct 14 19:57:02 2016
 
 
 import urllib
-import json
 import numpy as np
 import pandas as pd
 import pylab as pl 
@@ -37,18 +36,18 @@ listofriots=codecs.open('/Users/isarasuntichotinun/Desktop/ANNIE/CSC 591/Data/li
 
 listofriots=listofriots.splitlines()
 #using regex to remove stuff in brackets (messes with search result)
-for row in range(len(listofriots)):
-#    listofriots[row]=re.sub("[\(\[].*?[\)\]]",'', listofriots[row])
-     listofriots[row]=re.sub("[\[].*?[\]*]",'', listofriots[row])
-     listofriots[row]=listofriots[row].decode('utf-8').strip()
-     listofriots[row]=re.sub(u'\u2013','', listofriots[row]) #gets rid of the dash
-     
+#for row in range(len(listofriots)):
+##    listofriots[row]=re.sub("[\(\[].*?[\)\]]",'', listofriots[row])
+#     listofriots[row]=re.sub("[\[].*?[\]*]",'', listofriots[row])
+#     listofriots[row]=listofriots[row].decode('utf-8').strip()
+#     listofriots[row]=re.sub(u'\u2013','', listofriots[row]) #gets rid of the dash
+#     
 
 ##############################################End
 
 #This function pulls contents from the list of links
 def getarticles(ls,m):
-    ls=ls[2:32] #remove the stuff that are not links
+    ls=ls[2:7] #remove the stuff that are not links only pull the top 5 links
     numlinks=len(ls)
     n=1
     for l in range(numlinks):
