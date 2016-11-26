@@ -49,7 +49,7 @@ listofriots=listofriots.splitlines()
 def getarticles(ls,m):
     ls=ls[2:7] #remove the stuff that are not links only pull the top 5 links
     numlinks=len(ls)
-    n=1
+    n=0
     for l in range(numlinks):
         try:
             content = myopener.open(ls[l][0]).read()
@@ -94,7 +94,7 @@ def searchengine(searchphrase,m):
     getarticles(uniquelinks,m)
 
 #loops through the list of riots and make a search for each
-m=1    
+m=0 
 for r in range(len(listofriots)):
     phrase=listofriots[r]
     searchengine(phrase,m)
