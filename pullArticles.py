@@ -31,10 +31,11 @@ class MyOpener(FancyURLopener):
 
 myopener = MyOpener()
 
-listofriots=codecs.open('/Users/isarasuntichotinun/Desktop/ANNIE/CSC 591/Data/listofriots.txt').read()
+listofriots=codecs.open('/Users/isarasuntichotinun/Desktop/ANNIE/CSC 591/Data/searchkeys.txt').read()
 
 
 listofriots=listofriots.splitlines()
+listofriots = listofriots[4001:]
 #using regex to remove stuff in brackets (messes with search result)
 #for row in range(len(listofriots)):
 ##    listofriots[row]=re.sub("[\(\[].*?[\)\]]",'', listofriots[row])
@@ -58,10 +59,10 @@ def getarticles(ls,m):
             continue
         parsed=BeautifulSoup(content)
         article = parsed.get_text().replace('\n','\n\n')
-        mypath= '/Users/isarasuntichotinun/Desktop/ANNIE/CSC 591/Data/Riots/riot{0}'.format(m)
+        mypath= '/Users/isarasuntichotinun/Desktop/ANNIE/CSC 591/Data/structured_riots_data/riot{0}'.format(m-1)
         if not os.path.isdir(mypath):
             os.makedirs(mypath)
-        file= open(mypath+'/riot{0}-{1}.txt'.format(m,n),'w')
+        file= open(mypath+'/riot{0}-{1}.txt'.format(m-1,n),'w')
         article=article.encode('utf8')
         article = article.splitlines()
         for line in article:
