@@ -35,7 +35,9 @@ listofriots=codecs.open('/Users/isarasuntichotinun/Desktop/ANNIE/CSC 591/Data/se
 
 
 listofriots=listofriots.splitlines()
-listofriots = listofriots[4001:]
+listofriots = listofriots[4000:] #subset the list here
+
+
 #using regex to remove stuff in brackets (messes with search result)
 #for row in range(len(listofriots)):
 ##    listofriots[row]=re.sub("[\(\[].*?[\)\]]",'', listofriots[row])
@@ -48,7 +50,8 @@ listofriots = listofriots[4001:]
 
 #This function pulls contents from the list of links
 def getarticles(ls,m):
-    ls=ls[2:7] #remove the stuff that are not links only pull the top 5 links
+    print 'm=', m
+    ls=ls[2:7] #remove the stuff that are not links and only pull the top 5 links
     numlinks=len(ls)
     n=0
     for l in range(numlinks):
@@ -59,10 +62,10 @@ def getarticles(ls,m):
             continue
         parsed=BeautifulSoup(content)
         article = parsed.get_text().replace('\n','\n\n')
-        mypath= '/Users/isarasuntichotinun/Desktop/ANNIE/CSC 591/Data/structured_riots_data/riot{0}'.format(m-1)
+        mypath= '/Users/isarasuntichotinun/Desktop/ANNIE/CSC 591/Data/structured_riots_data/riot{0}'.format(m)
         if not os.path.isdir(mypath):
             os.makedirs(mypath)
-        file= open(mypath+'/riot{0}-{1}.txt'.format(m-1,n),'w')
+        file= open(mypath+'/riot{0}-{1}.txt'.format(m,n),'w')
         article=article.encode('utf8')
         article = article.splitlines()
         for line in article:
@@ -98,6 +101,7 @@ def searchengine(searchphrase,m):
 m=0 
 for r in range(len(listofriots)):
     phrase=listofriots[r]
+    phrase = phrase.replace('"','')
     searchengine(phrase,m)
     m=m+1
     
