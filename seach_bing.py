@@ -3,7 +3,8 @@ from py_bing_search import PyBingWebSearch
 
 import urllib2, time, os, shutil, requests
 
-api_key = 'OP14ieri+Elhn7fChsHgYTJKCnasjdy783spq7QVFlM'
+api_key = 'aP0oY75eDmNNfQnJS9BpFFwsBJMGpnh6eukHl8ME/CY'
+# api_key = 'OP14ieri+Elhn7fChsHgYTJKCnasjdy783spq7QVFlM'
 riots_file = 'africa_list_of_riots.txt'
 # riots_file = 'south_america_list_of_riots.txt'
 

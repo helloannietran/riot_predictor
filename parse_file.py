@@ -97,7 +97,10 @@ def find_most_frequent_noun(text, count):
     #First parameter is the replacement, second parameter is your input string
 # [('Michael', 'NNP'), ('Jackson', 'NNP'), ('likes', 'VBZ'), ('to', 'TO'), ('eat', 'VB'), ('at', 'IN'), ('McDonalds', 'NNP')]
 
-    propernouns = [word for word,pos in tagged_filtered_words if (pos == 'NNP' and not startswith_nonchar(word) and len(word)<20 and word.isalpha())]
+    # for i, (word,pos) in enumerate(tagged_filtered_words):
+    #     if (pos == 'NNP' and not startswith_nonchar(word) and len(word)<20 and word.isalpha() and tagged_filtered_words[i-1] == 'in'):
+
+    propernouns = [word for i, (word,pos) in enumerate(tagged_filtered_words) if (not startswith_nonchar(word) and len(word)<20 and word.isalpha() and i>0 and tagged_filtered_words[i-1] == 'in')]
 
     # words = word_tokenize(text)
     fdist1 = FreqDist(propernouns)
@@ -280,11 +283,11 @@ fill_words()
 
 def find_and_write_to_csv_cities():
 # generate_paragraphs("example.txt")
-
-    with open("results_place4.csv", 'a') as out_file:
-        for i in xrange(0, 361):
+    data_dir = 'riots_bing_html'
+    with open("results_place5.csv", 'a') as out_file:
+        for i in xrange(0, 4):
             try:
-                directory = 'riots_bing/riot_%02d/' % i
+                directory = '%s/riot_%02d/' % (data_dir, i)
                 all_files = get_all_files_in_dir(directory)
                 all_files = [directory + file for file in all_files]
             except Exception as e:
@@ -309,6 +312,9 @@ def find_and_write_to_csv_cities():
                             bests[common_word[0]] = 0
                         bests[common_word[0]] += common_word[1]
             m = -1
+            if not bests:
+                print 'none found'
+                continue
             bests_list = [(k, bests[k]) for k in bests.keys()]
             bests_list.sort(key=lambda x: x[1], reverse=True)
             ans = bests_list[0][0]
@@ -398,9 +404,9 @@ def find_and_write_to_csv_categories():
 
             out_file.write('%d\t %s \t\n' %(i, cat)) 
 
-fill_words()
+# fill_words()
 # find_and_write_to_csv_cities()
-find_and_write_to_csv_categories()
+# find_and_write_to_csv_categories()
 # check_for_place("articles/18_May_Riot.txt")
 # check_for_place("/Users/BARNES_3/Documents/niki/courses/Decision making/riot_predictor/articles/18_May_Riot.txt")
 # check_for_population("example.txt")
