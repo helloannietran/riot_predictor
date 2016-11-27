@@ -98,8 +98,8 @@ def searchengine(searchphrase,m):
     getarticles(uniquelinks,m)
 
 #loops through the list of riots and make a search for each
-m=0 
-for r in range(len(listofriots)):
+m=1283
+for r in range(1283,len(listofriots)):
     phrase=listofriots[r]
     phrase = phrase.replace('"','')
     searchengine(phrase,m)
