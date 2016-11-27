@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block content %}
+{% from "_formhelpers.html" import render_field %}
+<!-- background animation BEGIN-->
+<canvas></canvas>
+<!-- background animation END -->
+<div id='div_content'>
+    <div id="content" class = "container">
+        <form method="POST" action="submit">
+            <p class="important" style="color: #000000;">
+               {{ render_field(form.search_tweet) }}
+            </p>
+            <input type="submit" class="btn btn-primary" id= "submitButton" value="Submit"> 
+        </form>
+    </div>
+</div>
+
+
+<style type="text/css">
+input, select, textarea{
+    color: #ff0000;
+}
+
+textarea:focus, input:focus {
+    color: #ff0000;
+}
+</style>
+
+{% endblock %}
+
