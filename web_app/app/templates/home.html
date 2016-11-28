@@ -6,26 +6,23 @@
 <div id='div_content'>
 
   <h1 align="center">Riot Predictor</h1>
-  <p>Hello this is home</p>
+  <!-- <p>Hello this is home</p> -->
 
   <br>
 
   <div class="row" id="intro_left">
-    <div class="row">
-      <div class="col-md-2"></div>
-      <div class="col-md-2">
-              <p>search bow will go here?? maybe</p>
-      </div>
-      <div class="col-md-2"></div>
-    </div>
-
     <div class="col-md-12">
         <h3>Goal</h3>
         <p>
-          <!-- <ul> -->
             <li>Predict the Riots before they actually happen</li>
-          <!-- </ul> -->
         </p>
+    </div>
+
+    <div class="col-md-6">
+        <a class="btn btn-default" href="#" role="button">Use Articles</a>
+    </div>
+    <div class="col-md-6">
+        <a class="btn btn-default" href="{{ url_for('twitter.home') }}" role="button">Use Twitter</a>
     </div>
 
   </div>
