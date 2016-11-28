@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+{% block content %}
+{% from "_formhelpers.html" import render_field %}
+<!-- background animation BEGIN-->
+<canvas></canvas>
+<!-- background animation END -->
+<div id='div_content'>
+    <div id="content" class = "container">
+        <form method="POST" action="submit">
+
+             <div class="col-md-12">
+                <p class="important" style="color: #000000;">
+                   {{ render_field(form.crime_rate) }}
+                </p>
+            </div>
+
+            <div class="col-md-6">
+                <p class="important" style="color: #000000;">
+                   {{ render_field(form.city) }}
+                </p>
+            </div>
+            <div class="col-md-6">
+                <p class="important" style="color: #000000;">
+                   {{ render_field(form.country) }}
+                </p>
+            </div>
+
+            <div class="col-md-4">
+                <p class="important" style="color: #000000;">
+                   {{ render_field(form.participants) }}
+                </p>
+            </div>
+            <div class="col-md-4">
+                <p class="important" style="color: #000000;">
+                   {{ render_field(form.deaths) }}
+                </p>
+            </div>
+            <div class="col-md-4">
+                <p class="important" style="color: #000000;">
+                   {{ render_field(form.injuries) }}
+                </p>
+            </div>
+            
+            <div class="col-md-12">
+                <p class="important" style="color: #000000;">
+                   {{ render_field(form.target) }}
+                </p>
+            </div>
+            <div class="col-md-12">
+                <p class="important" style="color: #000000;">
+                   {{ render_field(form.issue) }}
+                </p>
+            </div>
+            <input type="submit" class="btn btn-primary" id= "submitButton" value="Submit"> 
+        </form>
+    </div>
+</div>
+
+
+<style type="text/css">
+input, select, textarea{
+    color: #ff0000;
+}
+
+textarea:focus, input:focus {
+    color: #ff0000;
+}
+</style>
+
+{% endblock %}
+
