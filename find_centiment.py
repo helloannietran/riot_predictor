@@ -38,7 +38,7 @@ unstructured_dir = join(PATH, unstructured_data)
 structured_dir = join(PATH, structured_data)
 with open("structured_centiment_1905-58.csv", 'w') as out_file:
     # out_file.write("centiment_percents\n")
-    for i in xrange(2086, 2113):
+    for i in xrange(2013, 2042):
         try:
             print "checking riot %d" % i
             data_dir = join(structured_dir, "riot%04d" %i)
