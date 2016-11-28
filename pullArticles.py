@@ -31,11 +31,11 @@ class MyOpener(FancyURLopener):
 
 myopener = MyOpener()
 
-listofriots=codecs.open('/Users/isarasuntichotinun/Desktop/ANNIE/CSC 591/Data/searchkeys.txt').read()
+listofriots=codecs.open('/Users/BARNES_3/Documents/niki/courses/Decision making/riot_predictor/listofriots.txt').read()
 
 
 listofriots=listofriots.splitlines()
-listofriots = listofriots[4000:] #subset the list here
+# listofriots = listofriots[4000:] #subset the list here
 
 
 #using regex to remove stuff in brackets (messes with search result)
@@ -62,7 +62,11 @@ def getarticles(ls,m):
             continue
         parsed=BeautifulSoup(content)
         article = parsed.get_text().replace('\n','\n\n')
+<<<<<<< Updated upstream
         mypath= '/Users/isarasuntichotinun/Desktop/ANNIE/CSC 591/Data/structured_riots_data/riot{0}'.format(m)
+=======
+        mypath= '/Users/BARNES_3/Documents/niki/courses/Decision making/riot_predictor/Data/structured_riots_data/riot{0}'.format(m)
+>>>>>>> Stashed changes
         if not os.path.isdir(mypath):
             os.makedirs(mypath)
         file= open(mypath+'/riot{0}-{1}.txt'.format(m,n),'w')
@@ -79,7 +83,12 @@ def getarticles(ls,m):
 
 def searchengine(searchphrase,m):
     encoded=searchphrase.encode('utf-8')
-    data=urllib.urlopen('http://duckduckgo.com/html/?q='+encoded).read()
+    while True:
+        try:
+            data=urllib.urlopen('http://duckduckgo.com/html/?q='+encoded).read()
+            break
+        except:
+            continue
     soup=BeautifulSoup(data)
     n=len(soup.find_all('a'))
     links = np.empty([n, 1],dtype='S150')
@@ -98,37 +107,11 @@ def searchengine(searchphrase,m):
     getarticles(uniquelinks,m)
 
 #loops through the list of riots and make a search for each
-m=0 
+m=2422
 for r in range(len(listofriots)):
     phrase=listofriots[r]
     phrase = phrase.replace('"','')
     searchengine(phrase,m)
+    # if m == 3958:
+    #     break
     m=m+1
-    
-
-    
-    
-    
-    #######################Ignore this part
-#google pulls out of order links, not gonna work
-#def searchengine(searchphrase):
-#    encoded=searchphrase.encode('utf8')
-#    rawData=urllib.urlopen('https://www.googleapis.com/customsearch/v1?key=AIzaSyCy0yWoW6zu3Xw8zVd4NGmttmL6JXCBTog&cx=017576662512468239146:omuauf_lfve&q='+encoded).read()    
-#    jsonData = json.loads(rawData) #convert to dictionary
-#    searchResults = jsonData['items']
-#    links = np.empty([4, 1], dtype="S25")
-#    i = 0
-#    for er in searchResults:
-#         link = er['displayLink']
-#         link1 = urlparse(link).netloc
-#         links[i,0]=link1
-#         i = i + 1
-#    target = "No Match found" 
-#    if links[0,0] == links[1,0] or links[0,0] == links[2,0] or links[0,0] == links[3,0]:
-#        target = links[0,0] 
-#    if links[1,0] == links[2,0] or links[1,0] == links[3,0]:
-#        target = links[1,0] 
-#    if links[2,0] == links[3,0] :
-#        target = links[2,0] 
-#    return [target]
-#######################  
