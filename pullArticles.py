@@ -29,12 +29,12 @@ import codecs
 class MyOpener(FancyURLopener):
     version = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11)Gecko/20071127 Firefox/2.0.0.11'
 
-myopener = MyOpener()
+# myopener = MyOpener()
 
-listofriots=codecs.open('/Users/BARNES_3/Documents/niki/courses/Decision making/riot_predictor/listofriots.txt').read()
+# listofriots=codecs.open('/Users/BARNES_3/Documents/niki/courses/Decision making/riot_predictor/listofriots.txt').read()
 
 
-listofriots=listofriots.splitlines()
+# listofriots=listofriots.splitlines()
 # listofriots = listofriots[4000:] #subset the list here
 
 
@@ -50,23 +50,21 @@ listofriots=listofriots.splitlines()
 
 #This function pulls contents from the list of links
 def getarticles(ls,m):
-    print 'm=', m
+    # print 'm=', m
     ls=ls[2:7] #remove the stuff that are not links and only pull the top 5 links
     numlinks=len(ls)
+    myopener = MyOpener()
     n=0
     for l in range(numlinks):
         try:
             content = myopener.open(ls[l][0]).read()
-        except:
+        except Exception as e:
+            print e
             print ls[l][0]
             continue
         parsed=BeautifulSoup(content)
         article = parsed.get_text().replace('\n','\n\n')
-<<<<<<< Updated upstream
-        mypath= '/Users/isarasuntichotinun/Desktop/ANNIE/CSC 591/Data/structured_riots_data/riot{0}'.format(m)
-=======
-        mypath= '/Users/BARNES_3/Documents/niki/courses/Decision making/riot_predictor/Data/structured_riots_data/riot{0}'.format(m)
->>>>>>> Stashed changes
+        mypath= '/Users/BARNES_3/Documents/niki/courses/Decision making/riot_predictor/web_app/app/downloaded_articles/{0}'.format(m)
         if not os.path.isdir(mypath):
             os.makedirs(mypath)
         file= open(mypath+'/riot{0}-{1}.txt'.format(m,n),'w')
@@ -106,12 +104,19 @@ def searchengine(searchphrase,m):
             uniquelinks.append(item)
     getarticles(uniquelinks,m)
 
+def save_articles(keyword):
+    m = keyword
+    mypath= '/Users/BARNES_3/Documents/niki/courses/Decision making/riot_predictor/web_app/app/downloaded_articles/{0}'.format(m)
+    if os.path.isdir(mypath):
+        return
+    searchengine(keyword,m)
+save_articles("obama")
 #loops through the list of riots and make a search for each
-m=2422
-for r in range(len(listofriots)):
-    phrase=listofriots[r]
-    phrase = phrase.replace('"','')
-    searchengine(phrase,m)
-    # if m == 3958:
-    #     break
-    m=m+1
+# m=2422
+# for r in range(len(listofriots)):
+#     phrase=listofriots[r]
+#     phrase = phrase.replace('"','')
+#     searchengine(phrase,m)
+#     # if m == 3958:
+#     #     break
+#     m=m+1
