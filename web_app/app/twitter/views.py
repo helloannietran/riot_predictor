@@ -11,7 +11,7 @@ import os
 from os.path import join
 import re
 import pickle
-from app.utils import violence_rating
+from app.utils import violence_rating, get_cr_based_on_country
 
 
 negative_words = []
@@ -20,9 +20,24 @@ positive_words = []
 twitter = Blueprint('twitter', __name__,
                    template_folder='templates')
 
+issue_list = [ ('1','Election'), ('2','Economy'), ('2','Jobs'), ('3','Food'), ('3','Water'), ('4','Environment Degradation'),
+                ('5','Ethnic Discrimination'), ('6','Religion'), ('7','Education'), ('8','Foreign Affairs'), ('9','Domestic War'), 
+                ('9','Violence'), ('10','Human Rights'), ('11','Sport')]
+
+
 
 class MyForm(Form):
     search_tweet = StringField("Hastag")
+    # city = StringField("City")
+    country = StringField("Country")
+    participants = StringField("# Participants")
+    deaths = StringField("# Deaths")
+    injuries = StringField("# Injuries")
+    target = SelectField("Target", choices=[('something','something'),('works','works')])
+    issue = SelectField("Issue", choices=issue_list)
+    keyword = StringField("Search keyword")
+
+
 
 
 @twitter.route('/')
@@ -52,36 +67,23 @@ def submit():
     tweets = [ tweet['text'] for tweet in search['statuses']]
     # return(str(tweets))
     ##Changed here
-    v_rating = violence_rating(str(tweets))
-    riot_prob = str(calculate_riot_prob(v_rating))
+    country = request.form['country']
+    issue = int(request.form['issue'])
 
-    crime_rate = request.form['search_tweet']
-    target = request.form['search_tweet']
-    deaths = request.form['search_tweet']
-    npart = request.form['search_tweet']
-    issue = request.form['search_tweet']
-    [crime_rate,target,deaths,npart,violence_rating,issue]
-    # str(calculate_riot_prob(violence_rating(str(tweets)))
-    return riot_prob
-    ##Chenge ended here
-    # return tweets
-    # for tweet in tweets:
-    #   # print(tweet['id_str'])
-    #   print(tweet['text'])
+    v_rating = violence_rating(tweets)
+    crime_rate = get_cr_based_on_country(country)
+    target = int(request.form['target'])
+    deaths = int(request.form['deaths'])
+    npart = int(request.form['participants'])
+    issue = int(request.form['issue'])
+    
+    values_list = [crime_rate,target,deaths,npart,v_rating,issue]
+    riot_prob = str(calculate_riot_prob(values_list))
+    return str(crime_rate)
 
 def calculate_riot_prob(values_list):
-    # print(os.getcwd())
     f = open(str(os.getcwd()) + '/app/predictor/rfmodel.pickle', 'rb')
-    # result = pickle.load(f)
-    # f.close()
-    # crime_rate = 2.34
-    # target = 4
-    # duration = 40
-    # deaths = 40
-    # npart = 100
-    # violence_rating = out_val
-    # issue = 3
-    return 1
-    # return result.predict([crime_rate,target,deaths,npart,violence_rating,issue])
+    result = pickle.load(f)
+    return result.predict(values_list)
 
 
