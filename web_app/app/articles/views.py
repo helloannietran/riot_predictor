@@ -9,10 +9,15 @@ from twython import Twython
 import os
 import re
 import pickle
+from app.utils import get_cr_based_on_country
 
 
 articles = Blueprint('articles', __name__,
                    template_folder='templates')
+
+issue_list = [ ('1','Election'), ('2','Economy'), ('2','Jobs'), ('3','Food'), ('3','Water'), ('4','Environment Degradation'),
+                ('5','Ethnic Discrimination'), ('6','Religion'), ('7','Education'), ('8','Foreign Affairs'), ('9','Domestic War'), 
+                ('9','Violence'), ('10','Human Rights'), ('11','Sport')]
 
 
 class MyForm(Form):
@@ -23,7 +28,7 @@ class MyForm(Form):
     deaths = StringField("# Deaths")
     injuries = StringField("# Injuries")
     target = SelectField("Target", choices=[('something','something'),('works','works')])
-    issue = SelectField("Issue", choices=[('something','something'),('works','works')])
+    issue = SelectField("Issue", choices=issue_list)
 
 
 @articles.route('/')
@@ -35,16 +40,13 @@ def home():
 @articles.route('/submit', methods=('GET', 'POST'))
 def submit():
     country = request.form['country']
+    issue = int(request.form['issue'])
+    print(issue)
     crime_rate = get_cr_based_on_country(country)
-    return ("This works!!")
+    return(str(crime_rate))
 
 
-def get_cr_based_on_country(country):
-    path = '/home/nikhil/Desktop/dddm/main/riot_predictor/Data for final presentation/crime_dictionary.txt'
-    with open(path, 'r') as myfile:
-        data=myfile.read().replace('\n', '').lower()
-    country_dict = eval(data)
-    return(country_dict[country.lower()])
+
 
 
 

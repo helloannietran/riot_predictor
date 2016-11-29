@@ -36,3 +36,10 @@ def count_words(text, ref_words):
             count += 1
     total_count = len(all_words)
     return count, total_count
+
+def get_cr_based_on_country(country):
+    path = '/home/nikhil/Desktop/dddm/main/riot_predictor/Data for final presentation/crime_dictionary.txt'
+    with open(path, 'r') as myfile:
+        data=myfile.read().replace('\n', '').lower()
+    country_dict = eval(data)
+    return(country_dict[country.lower()])

@@ -33,7 +33,7 @@ def home():
 def submit():
     query = request.form['search_tweet']
     if(query == ""):
-        return("no keyword here")
+        return("no keyword")
     oauth_token = "802218282954747905-aibLqJnV93MWB8ZFEvhpQa5HTjNaNVX"
     oauth_token_secret = "lWnLP0MiJrNanfILvX48SerOXiiUYr9zo8UxnochCcqJz"
     app_key = "pLeOpV3TP1l3SGyNFjGfPUdgM"
