@@ -6,11 +6,11 @@ def violence_rating(tweets):
     negs=0
     poses=0
     total=0
-    with open("negative_words.txt") as negative_file:
+    with open("info_files/negative_words.txt") as negative_file:
         for l in negative_file:
             negative_words.append(l.strip())
 
-    with open("positive_words.txt") as positive_file:
+    with open("info_files/positive_words.txt") as positive_file:
         for l in positive_file:
             positive_words.append(l.strip())
 
@@ -38,7 +38,7 @@ def count_words(text, ref_words):
     return count, total_count
 
 def get_cr_based_on_country(country):
-    path = '/home/nikhil/Desktop/dddm/main/riot_predictor/Data for final presentation/crime_dictionary.txt'
+    path = 'info_files/crime_dictionary.txt'
     with open(path, 'r') as myfile:
         data=myfile.read().replace('\n', '').lower()
     country_dict = eval(data)

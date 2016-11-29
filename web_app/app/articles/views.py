@@ -9,7 +9,8 @@ from twython import Twython
 import os
 import re
 import pickle
-from app.utils import get_cr_based_on_country
+from app.utils import get_cr_based_on_country, violence_rating
+from article_handler import save_articles
 
 
 articles = Blueprint('articles', __name__,
@@ -40,8 +41,21 @@ def home():
 @articles.route('/submit', methods=('GET', 'POST'))
 def submit():
     country = request.form['country']
+<<<<<<< Updated upstream
     issue = int(request.form['issue'])
     print(issue)
+=======
+    articles = save_articles(request.form['keyword'])
+    v_rating = violence_rating(articles)
+    riot_prob = str(calculate_riot_prob(v_rating))
+
+    crime_rate = request.form['search_tweet']
+    target = request.form['search_tweet']
+    deaths = request.form['search_tweet']
+    npart = request.form['search_tweet']
+    issue = request.form['search_tweet']
+    [crime_rate,target,deaths,npart,violence_rating,issue]
+>>>>>>> Stashed changes
     crime_rate = get_cr_based_on_country(country)
     return(str(crime_rate))
 
@@ -49,5 +63,18 @@ def submit():
 
 
 
+def calculate_riot_prob(values_list):
+    # print(os.getcwd())
+    f = open(str(os.getcwd()) + '/app/predictor/rfmodel.pickle', 'rb')
+    # result = pickle.load(f)
+    # f.close()
+    # crime_rate = 2.34
+    # target = 4
+    # duration = 40
+    # deaths = 40
+    # npart = 100
+    # violence_rating = out_val
+    # issue = 3
+    return 1
 
 

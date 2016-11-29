@@ -14,9 +14,9 @@ from lasagne import layers as lasagne, nonlinearities as nl
 # 0.793671519159 in 1000
 # 0.77 1300
 # 0.79 for 800
+# 0.80 800
 # 0.76 500
 # 0.78 700
-# 0.80 800
 def make_neural_network():
     dataset = np.loadtxt("/Users/BARNES_3/Documents/niki/courses/Decision making/riot_predictor/data_for_neural.csv", delimiter=",")
 
