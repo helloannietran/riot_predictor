@@ -5,33 +5,53 @@
 <canvas></canvas>
 <!-- background animation END -->
 <div id='div_content'>
+<h1 align="center">
+  <a href="{{ url_for('home') }}" style="color: #ffffff; text-decoration: none">Riot Predictor</a>
+</h1>
+  <!-- <p>Hello this is home</p> -->
+
+  <br>
+
+    <div class="row" id="intro_left">
+        <div class="col-md-12">
+            <h3>Goal</h3>
+            <p>
+                Predict the Riots before they actually happen
+            </p>
+        </div>
+    </div>
+
+
     <div id="content" class = "container">
         <form method="POST" action="submit">
-
-  
-            <div class="col-md-6">
-                <p class="important" style="color: #000000;">
-                   {{ render_field(form.country) }}
-                </p>
+            <div class="row">
+                <div class="col-md-6">
+                    <p class="important" style="color: #000000;">
+                       {{ render_field(form.search_tweet) }}
+                    </p>
+                </div>  
+                <div class="col-md-6">
+                    <p class="important" style="color: #000000;">
+                       {{ render_field(form.country) }}
+                    </p>
+                </div>
+            </div> 
+            
+            <div class="row">
+                <div class="col-md-3"></div>
+                <div class="col-md-3">
+                    <p class="important" style="color: #000000;">
+                       {{ render_field(form.deaths) }}
+                    </p>
+                </div>
+                <div class="col-md-3">
+                    <p class="important" style="color: #000000;">
+                       {{ render_field(form.participants) }}
+                    </p>
+                </div>
+                <div class="col-md-3"></div>
             </div>
-
-            <div>
-                
-            <p class="important" style="color: #000000;">
-               {{ render_field(form.search_tweet) }}
-            </p>
-
-            </div>
-            <div class="col-md-4">
-                <p class="important" style="color: #000000;">
-                   {{ render_field(form.participants) }}
-                </p>
-            </div>
-            <div class="col-md-4">
-                <p class="important" style="color: #000000;">
-                   {{ render_field(form.deaths) }}
-                </p>
-            </div>
+            
 
             
             <div class="col-md-12">
@@ -44,7 +64,9 @@
                    {{ render_field(form.issue) }}
                 </p>
             </div>
-            <input type="submit" class="btn btn-primary" id= "submitButton" value="Submit"> 
+            <div class="col-md-12">
+                <input type="submit" class="btn btn-primary" id= "submitButton" value="Submit">
+            </div> 
         </form>
     </div>
 </div>
@@ -52,13 +74,20 @@
 
 <style type="text/css">
 input, select, textarea{
-    color: #ff0000;
+    color: #000000;
 }
 
 textarea:focus, input:focus {
     color: #ff0000;
 }
+a:link {
+    color: white;
+}
 </style>
+
+<script>
+$('#intro_left').addClass('animated bounceInLeft');
+</script>
 
 {% endblock %}
 

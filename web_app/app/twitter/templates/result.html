@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block content %}
+{% from "_formhelpers.html" import render_field %}
+<!-- background animation BEGIN-->
+<canvas></canvas>
+<!-- background animation END -->
+<link rel="stylesheet" href="http://github.hubspot.com/odometer/themes/odometer-theme-digital.css" />
+<script src="http://github.hubspot.com/odometer/odometer.js"></script>
+<div id='div_content'>
+<h1 align="center">
+  <a href="{{ url_for('home') }}" style="color: #ffffff; text-decoration: none">Riot Predictor</a>
+</h1>
+  <!-- <p>Hello this is home</p> -->
+
+  <br>
+
+    <div class="row" id="intro_left">
+        <div class="col-md-12">
+            <h3>Goal</h3>
+            <p>
+                Predict the Riots before they actually happen
+            </p>
+        </div>
+    </div>
+    <h2>Riot Likelihood(%age)</h2>
+    <h1 id="odometer" class="odometer">00</h1>
+    <p id="result" style="display: none">{{ par }}</p>
+
+</div>
+
+
+<style type="text/css">
+input, select, textarea{
+    color: #000000;
+}
+
+textarea:focus, input:focus {
+    color: #ff0000;
+}
+</style>
+
+<script>
+$('#intro_left').addClass('animated bounceInLeft');
+setTimeout(function(){
+    odometer.innerHTML = parseInt(document.getElementById('result').innerHTML);
+}, 1000);
+// console.log(parseInt(document.getElementById('result').value));
+</script>
+
+{% endblock %}
+

@@ -120,12 +120,12 @@ def submit():
     issue = int(request.form['issue'])
     
     values_list = [crime_rate,target,deaths,npart,v_rating,issue]
-    riot_prob = str(calculate_riot_prob(values_list))
-    return str(riot_prob)
+    riot_prob = str(calculate_riot_prob(values_list)[0][1]*100)
+    return render_template('result.html', par = riot_prob)
 
 def calculate_riot_prob(values_list):
     f = open(str(os.getcwd()) + '/app/predictor/rfmodel.pickle', 'rb')
     result = pickle.load(f)
-    return result.predict_proba(values_list), result.predict(values_list) 
+    return result.predict_proba(values_list) 
 
 
