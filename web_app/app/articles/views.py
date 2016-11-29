@@ -60,10 +60,11 @@ country_list = [('Canada', 'Canada'), ('Saudi-Arabia', 'Saudi-Arabia'), ('Ethiop
 
 class MyForm(Form):
     # crime_rate = StringField("Crime Rate")
-    city = StringField("City")
+    # city = StringField("City")
     country = SelectField("Country", choices=country_list)
     participants = SelectField("# Participants", choices=participants_list)
     deaths = StringField("# Deaths")
+    keyword = StringField("Search Keyword")
     injuries = StringField("# Injuries")
     target = SelectField("Target", choices=target_list)
     issue = SelectField("Issue", choices=issue_list)
@@ -77,33 +78,37 @@ def home():
 
 @articles.route('/submit', methods=('GET', 'POST'))
 def submit():
+    print '1111'
     country = request.form['country']
+    print '1112'
     issue = int(request.form['issue'])
 
+    print '1113'
     print(issue)
     articles = save_articles(request.form['keyword'])
     v_rating = violence_rating(articles)
-    riot_prob = str(calculate_riot_prob(v_rating))
+    # riot_prob = str(calculate_riot_prob(v_rating))
+    print '1114'
 
-    crime_rate = request.form['search_tweet']
-    target = request.form['search_tweet']
-    deaths = request.form['search_tweet']
-    npart = request.form['search_tweet']
-    issue = request.form['search_tweet']
     # [crime_rate,target,deaths,npart,violence_rating,issue]
 
 
     # articles = save_articles(request.form['keyword'])
     # v_rating = violence_rating(articles)
     crime_rate = get_cr_based_on_country(country)
+    print '1115'
     target = int(request.form['target'])
     deaths = int(request.form['deaths'])
     npart = int(request.form['participants'])
     issue = int(request.form['issue'])
+    print '1116'
     
     values_list = [crime_rate,target,deaths,npart,v_rating,issue]
+    print '1117'
+    print 'vals1: ', values_list
     riot_prob = str(calculate_riot_prob(values_list))
-    return str(crime_rate)
+    print '1118'
+    return str(riot_prob)
 
 
 
@@ -111,6 +116,9 @@ def submit():
 
 def calculate_riot_prob(values_list):
     # print(os.getcwd())
+    # values_list = []
+    print 'values: ', values_list
+    # value
     f = open(str(os.getcwd()) + '/app/predictor/rfmodel.pickle', 'rb')
     result = pickle.load(f)
     return result.predict(values_list)

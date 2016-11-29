@@ -48,7 +48,9 @@ def home():
 
 @twitter.route('/submit', methods=('GET', 'POST'))
 def submit():
+    print '111'
     query = request.form['search_tweet']
+    print '112'
     if(query == ""):
         return("no keyword")
     oauth_token = "802218282954747905-aibLqJnV93MWB8ZFEvhpQa5HTjNaNVX"
@@ -57,19 +59,24 @@ def submit():
     app_secret = "xoGYtBc2SujcWnWEDxNYd07Zv1MCTW57aBQVhwK90d0FhaqWIH"
 
 
+    print '113'
     twitter = Twython(app_key=app_key, 
                 app_secret=app_secret, 
                 oauth_token=oauth_token, 
                 oauth_token_secret=oauth_token_secret)
+    print '114', query
 
     search = twitter.search(q=query,count=100)
 
+    print '115'
     tweets = [ tweet['text'] for tweet in search['statuses']]
     # return(str(tweets))
     ##Changed here
     country = request.form['country']
+    print '116'
     issue = int(request.form['issue'])
 
+    print '117'
     v_rating = violence_rating(tweets)
     crime_rate = get_cr_based_on_country(country)
     target = int(request.form['target'])

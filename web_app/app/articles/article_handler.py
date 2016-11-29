@@ -83,8 +83,9 @@ def searchengine(searchphrase,m):
     getarticles(uniquelinks,m)
 
 def has_word(content, words):
+    content_text = re.sub(r'[^\x00-\x7F]+',' ', content).strip()
     for word in words:
-        if content.find(word) < 0:
+        if content.find(content_text) < 0:
             return False
     return True
 
