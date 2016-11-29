@@ -1,4 +1,6 @@
 import re
+import os
+
 negative_words = []
 positive_words = []
 def violence_rating(tweets):
@@ -38,7 +40,9 @@ def count_words(text, ref_words):
     return count, total_count
 
 def get_cr_based_on_country(country):
-    path = '/home/nikhil/Desktop/dddm/main/riot_predictor/Data for final presentation/crime_dictionary.txt'
+    path = os.getcwd()
+    path = os.path.abspath(os.path.join(path, os.pardir))
+    path +='/Data for final presentation/crime_dictionary.txt'
     with open(path, 'r') as myfile:
         data=myfile.read().replace('\n', '').lower()
     country_dict = eval(data)
