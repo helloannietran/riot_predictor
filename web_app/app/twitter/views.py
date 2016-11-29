@@ -6,6 +6,7 @@ from wtforms import StringField, SelectField, SelectMultipleField, widgets, Hidd
 from wtforms.fields.html5 import DateField
 from sqlalchemy import create_engine
 from twython import Twython
+import os
 #from parse_file import get_all_files_in_dir
 from os.path import join
 import re
@@ -31,6 +32,8 @@ def home():
 @twitter.route('/submit', methods=('GET', 'POST'))
 def submit():
     query = request.form['search_tweet']
+    if(query == ""):
+        return("no keyword here")
     oauth_token = "802218282954747905-aibLqJnV93MWB8ZFEvhpQa5HTjNaNVX"
     oauth_token_secret = "lWnLP0MiJrNanfILvX48SerOXiiUYr9zo8UxnochCcqJz"
     app_key = "pLeOpV3TP1l3SGyNFjGfPUdgM"
@@ -45,7 +48,7 @@ def submit():
     search = twitter.search(q=query,count=100)
 
     tweets = [ tweet['text'] for tweet in search['statuses']]
-    #return(str(tweets))
+    # return(str(tweets))
     ##Changed here
     return (violence_rating(str(tweets)))
     ##Chenge ended here
@@ -89,7 +92,8 @@ def count_words(text, ref_words):
     return count, total_count
 
 def calculate_riot_prob(out_val):
-    f = open('/Users/sathani/Desktop/riot/web_app/app/twitter/my_classifier.pickle', 'rb')
+    print(os.getcwd())
+    f = open(str(os.getcwd()) + '/app/twitter/my_classifier.pickle', 'rb')
     result = pickle.load(f)
     f.close()
     crime_rate = 2.34
