@@ -41,10 +41,8 @@ def home():
 @articles.route('/submit', methods=('GET', 'POST'))
 def submit():
     country = request.form['country']
-<<<<<<< Updated upstream
     issue = int(request.form['issue'])
     print(issue)
-=======
     articles = save_articles(request.form['keyword'])
     v_rating = violence_rating(articles)
     riot_prob = str(calculate_riot_prob(v_rating))
@@ -55,7 +53,6 @@ def submit():
     npart = request.form['search_tweet']
     issue = request.form['search_tweet']
     [crime_rate,target,deaths,npart,violence_rating,issue]
->>>>>>> Stashed changes
     crime_rate = get_cr_based_on_country(country)
     return(str(crime_rate))
 
