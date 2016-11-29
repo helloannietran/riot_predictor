@@ -8,16 +8,20 @@ def violence_rating(tweets):
     negs=0
     poses=0
     total=0
-    with open("info_files/negative_words.txt") as negative_file:
+    cur_path = os.getcwd()
+    # path +='/Data for final presentation/crime_dictionary.txt'
+    neg_path = cur_path + "/app/info_files/negative_words.txt"
+    pos_path = cur_path + "/app/info_files/positive_words.txt"
+    with open(neg_path) as negative_file:
         for l in negative_file:
             negative_words.append(l.strip())
 
-    with open("info_files/positive_words.txt") as positive_file:
+    with open(pos_path) as positive_file:
         for l in positive_file:
             positive_words.append(l.strip())
 
-    negative_count, total_count = count_words(tweets, negative_words)
-    positive_count, total_count = count_words(tweets, positive_words)
+    negative_count, total_count = count_words(str(tweets), negative_words)
+    positive_count, total_count = count_words(str(tweets), positive_words)
     negs += negative_count
     poses += positive_count
     total += total_count
