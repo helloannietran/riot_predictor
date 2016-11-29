@@ -9,7 +9,7 @@ Created on Fri Oct 14 19:57:02 2016
 import urllib
 import numpy as np
 import pandas as pd
-import pylab as pl 
+# import pylab as pl 
 import os
 from urlparse import urlparse
 from bs4 import BeautifulSoup
